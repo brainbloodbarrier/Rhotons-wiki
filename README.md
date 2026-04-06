@@ -24,14 +24,14 @@ Open the project in your agent and say **"set up my wiki"**. That's it.
 
 This framework works with **any AI coding agent** that can read files. The `setup.sh` script automatically configures skill discovery for each one:
 
-| Agent                                                     | Bootstrap File                     | Skills Directory    | Slash Commands                          |
-| --------------------------------------------------------- | ---------------------------------- | ------------------- | --------------------------------------- |
-| **[Claude Code](https://claude.ai/code)**                 | `CLAUDE.md`                        | `.claude/skills/`   | ✅ `/wiki-ingest`, `/wiki-status`, etc. |
-| **[Cursor](https://cursor.com)**                          | `.cursor/rules/obsidian-wiki.mdc`  | `.cursor/skills/`   | ✅ `/wiki-ingest`, `/wiki-status`, etc. |
-| **[Windsurf](https://windsurf.com)**                      | `.windsurf/rules/obsidian-wiki.md` | `.windsurf/skills/` | ✅ via Cascade                          |
-| **[Codex (OpenAI)](https://openai.com/codex)**            | `AGENTS.md`                        | — (uses AGENTS.md)  | —                                       |
-| **[Antigravity (Google)](https://aistudio.google.com)**   | `GEMINI.md`                        | `~/.gemini/antigravity/skills/` | ✅ via skill triggers              |
-| **[GitHub Copilot](https://github.com/features/copilot)** | `.github/copilot-instructions.md`  | —                   | —                                       |
+| Agent                                                     | Bootstrap File                     | Skills Directory                | Slash Commands                          |
+| --------------------------------------------------------- | ---------------------------------- | ------------------------------- | --------------------------------------- |
+| **[Claude Code](https://claude.ai/code)**                 | `CLAUDE.md`                        | `.claude/skills/`               | ✅ `/wiki-ingest`, `/wiki-status`, etc. |
+| **[Cursor](https://cursor.com)**                          | `.cursor/rules/obsidian-wiki.mdc`  | `.cursor/skills/`               | ✅ `/wiki-ingest`, `/wiki-status`, etc. |
+| **[Windsurf](https://windsurf.com)**                      | `.windsurf/rules/obsidian-wiki.md` | `.windsurf/skills/`             | ✅ via Cascade                          |
+| **[Codex (OpenAI)](https://openai.com/codex)**            | `AGENTS.md`                        | `~/.codex/skills/`              | `/wiki...                               |
+| **[Antigravity (Google)](https://aistudio.google.com)**   | `GEMINI.md`                        | `~/.gemini/antigravity/skills/` | `update wiki`                           |
+| **[GitHub Copilot](https://github.com/features/copilot)** | `.github/copilot-instructions.md`  | —                               | —                                       |
 
 > **How it works:** Each agent has its own convention for discovering skills. `setup.sh` symlinks the canonical `.skills/` directory into each agent's expected location, and creates the bootstrap file that tells the agent about the project. You write skills once, every agent can use them.
 
@@ -82,7 +82,10 @@ Open in Windsurf and tell Cascade: "set up my wiki".
 <details>
 <summary><b>Codex (OpenAI)</b></summary>
 
-Codex reads the `AGENTS.md` file at the repo root for project context. Skills are referenced by path in AGENTS.md — no symlinks needed.
+Codex reads the `AGENTS.md` file at the repo root for project context. `setup.sh` installs skills globally to `~/.codex/skills/`, making them available from any project. Either:
+
+- Run `setup.sh` to create symlinks globally, OR
+- Manually symlink `.skills/*` to `~/.codex/skills/`
 
 ```bash
 cd /path/to/obsidian-wiki && codex "set up my wiki"
@@ -195,6 +198,7 @@ obsidian-wiki/
 ├── .agents/skills/   → symlinks to .skills/*  (created by setup.sh)
 │
 ├── ~/.gemini/antigravity/skills/  → global symlinks (created by setup.sh)
+├── ~/.codex/skills/               → global symlinks (created by setup.sh)
 │
 ├── setup.sh                          # One-command agent setup
 ├── .env.example                      # Configuration template
@@ -211,6 +215,7 @@ When you run `bash setup.sh`, two things happen:
 1. It writes a config to `~/.obsidian-wiki/config` with your vault path and the repo location. This is how the skills know where to read and write.
 2. It symlinks `wiki-update` and `wiki-query` into `~/.claude/skills/` so they're available everywhere.
 3. It symlinks all skills into `~/.gemini/antigravity/skills/` for global Gemini/Antigravity access.
+4. It symlinks all skills into `~/.codex/skills/` for global Codex access.
 
 After that, you're in some project, say `~/projects/my-cool-app`, working with Claude. Two commands:
 

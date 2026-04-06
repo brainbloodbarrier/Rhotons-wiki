@@ -12,7 +12,8 @@
 #      - .windsurf/skills/  (Windsurf)
 #      - .agents/skills/    (Antigravity / generic agents)
 #   3b. Symlinks skills globally into ~/.gemini/antigravity/skills/ (Gemini)
-#   3. Prints a summary of what's ready
+#   3c. Symlinks skills globally into ~/.codex/skills/ (Codex)
+#   4. Prints a summary of what's ready
 #
 set -e
 
@@ -129,6 +130,23 @@ for skill in "$SKILLS_DIR"/*/; do
 done
 echo "✅  Installed global skills → ~/.gemini/antigravity/skills/"
 
+# ── Step 3c: Install all skills globally for Codex ───────────
+CODEX_SKILL_DIR="$HOME/.codex/skills"
+mkdir -p "$CODEX_SKILL_DIR"
+
+for skill in "$SKILLS_DIR"/*/; do
+  skill_name="$(basename "$skill")"
+  link_path="$CODEX_SKILL_DIR/$skill_name"
+  if [ -L "$link_path" ]; then
+    rm "$link_path"
+  elif [ -d "$link_path" ]; then
+    echo "⚠️   $link_path is a real directory, skipping symlink"
+    continue
+  fi
+  ln -s "$skill" "$link_path"
+done
+echo "✅  Installed global skills → ~/.codex/skills/"
+
 # ── Step 4: Summary ──────────────────────────────────────────
 SKILL_COUNT=$(ls -d "$SKILLS_DIR"/*/ 2>/dev/null | wc -l | tr -d ' ')
 
@@ -137,7 +155,7 @@ echo "────────────────────────�
 echo " Setup complete!"
 echo ""
 echo " Skills found:    $SKILL_COUNT"
-echo " Agents ready:    Claude Code, Cursor, Windsurf, Antigravity/Gemini"
+echo " Agents ready:    Claude Code, Cursor, Windsurf, Antigravity/Gemini, Codex"
 echo ""
 echo " Bootstrap files:"
 echo "   CLAUDE.md       → Claude Code"
