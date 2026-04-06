@@ -60,7 +60,7 @@ Knowledge often belongs to a specific project. The `projects/` directory mirrors
 $OBSIDIAN_VAULT_PATH/
 ├── projects/
 │   ├── mirrormind/
-│   │   ├── _project.md        ← project overview page
+│   │   ├── mirrormind.md      ← project overview (named after project)
 │   │   ├── concepts/          ← project-scoped category pages
 │   │   ├── skills/
 │   │   └── ...
@@ -78,9 +78,11 @@ $OBSIDIAN_VAULT_PATH/
 
 **When knowledge is general** (a concept like "React Server Components", a person like "Andrej Karpathy", a widely applicable skill), put it in the global category directory.
 
-**Cross-referencing:** Project pages should `[[wikilink]]` to global pages and vice versa. A project's `_project.md` overview page should link to the key concept, skill, and entity pages relevant to that project — whether they live under the project or globally.
+**Cross-referencing:** Project pages should `[[wikilink]]` to global pages and vice versa. A project's overview page should link to the key concept, skill, and entity pages relevant to that project — whether they live under the project or globally.
 
-Each project directory has a `_project.md` overview:
+**Naming rule:** The project overview file must be named `<project-name>.md`, not `_project.md`. Obsidian's graph view uses the filename as the node label — `_project.md` makes every project appear as `_project` in the graph, making it unreadable. So `projects/mirrormind/mirrormind.md`, `projects/prismor/prismor.md`, etc.
+
+Each project directory has an overview page structured like this:
 
 ```markdown
 ---

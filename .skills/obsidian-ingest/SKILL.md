@@ -63,7 +63,7 @@ From the source, identify:
 If the source belongs to a specific project:
 - Place project-specific knowledge under `projects/<project-name>/<category>/`
 - Place general knowledge in global category directories
-- Create or update the project's `_project.md` overview page
+- Create or update the project overview at `projects/<name>/<name>.md` (named after the project — never `_project.md`, as Obsidian uses filenames as graph node labels)
 
 If the source is not project-specific, put everything in global categories.
 

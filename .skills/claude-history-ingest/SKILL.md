@@ -176,7 +176,7 @@ Each Claude project maps to a project directory in the vault. The project direct
 | A tool/service used | `entities/` (global) | `entities/vercel-functions.md` |
 | Patterns across many conversations | `synthesis/` (global) | `synthesis/common-debugging-patterns.md` |
 
-For each project with content, create or update `projects/<name>/_project.md` — the overview page that links to all project-specific and related global pages.
+For each project with content, create or update the project overview page at `projects/<name>/<name>.md` — **named after the project, not `_project.md`**. Obsidian's graph view uses the filename as the node label, so `_project.md` makes every project show up as `_project` in the graph. Naming it `<name>.md` gives each project a distinct, readable node name.
 
 **Important:** Distill the *knowledge*, not the conversation. Don't write "In a conversation on March 15, the user asked about X." Write the knowledge itself, with the conversation as a source attribution.
 
