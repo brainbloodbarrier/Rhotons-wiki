@@ -9,16 +9,14 @@ We took that and built a framework around it. The whole thing is a set of markdo
 ## Quick Start
 
 ```bash
-git clone https://github.com/Ar9av/obsidian-wiki.git
+git clone https://github.com/your-username/obsidian-wiki.git
 cd obsidian-wiki
-bash setup.sh      # ← configures your agent automatically
+bash setup.sh
 ```
 
-Set your vault path in `.env`:
+`setup.sh` asks for your vault path, writes the config to `~/.obsidian-wiki/config`, symlinks skills into all your agents, and installs `wiki-update` globally so you can use it from any project.
 
-```
-OBSIDIAN_VAULT_PATH=/path/to/your/vault
-```
+`OBSIDIAN_VAULT_PATH` is just any directory where you want your wiki documents to live. It can be a new empty folder or an existing Obsidian vault. Obsidian will read from it directly.
 
 Open the project in your agent and say **"set up my wiki"**. That's it.
 
@@ -160,6 +158,7 @@ Everything lives in `.skills/`. Each skill is a markdown file the agent reads wh
 | `cross-linker`          | Auto-discover and insert missing wikilinks        | `/cross-linker`          |
 | `tag-taxonomy`          | Enforce consistent tag vocabulary across pages    | `/tag-taxonomy`          |
 | `llm-wiki`              | The core pattern and architecture reference       | `/llm-wiki`              |
+| `wiki-update`           | Sync current project's knowledge into the vault   | `/wiki-update`           |
 | `skill-creator`         | Create new skills                                 | `/skill-creator`         |
 
 > **Note:** Slash commands (`/skill-name`) work in Claude Code, Cursor, and Windsurf. In other agents, just describe what you want and the agent will find the right skill.
@@ -179,6 +178,7 @@ obsidian-wiki/
 │   ├── obsidian-lint/SKILL.md
 │   ├── cross-linker/SKILL.md
 │   ├── tag-taxonomy/SKILL.md
+│   ├── wiki-update/SKILL.md
 │   ├── llm-wiki/SKILL.md
 │   └── skill-creator/SKILL.md
 │
@@ -199,6 +199,30 @@ obsidian-wiki/
 ├── README.md                         # You are here
 └── SETUP.md                          # Detailed setup guide
 ```
+
+## Using from other projects
+
+The whole point is that your wiki should stay up to date as you work across different codebases. You don't want to come back to the obsidian-wiki repo every time. So `setup.sh` installs a global skill called `wiki-update` that's available from any project.
+
+When you run `bash setup.sh`, two things happen:
+
+1. It writes a config to `~/.obsidian-wiki/config` with your vault path and the repo location. This is how the skill knows where to write.
+2. It symlinks the `wiki-update` skill into `~/.claude/skills/` so it's available everywhere.
+
+After that, you're in some project, say `~/projects/my-cool-app`, working with Claude. You've figured out some architecture, made some decisions, learned some things. You type `/wiki-update`. The agent reads your project, figures out what's worth keeping, and distills it into your Obsidian vault. Architecture decisions, patterns you discovered, key concepts, trade-offs you evaluated. It doesn't copy code or dump file listings. It distills the stuff you'd forget in 3 months.
+
+Next time you run `/wiki-update` from the same project, it checks what changed since last sync (via git log) and only processes the delta. Same as how the other ingest skills work.
+
+```bash
+# You're working on some project
+cd ~/projects/my-cool-app
+claude
+
+# Inside Claude, just say:
+> /wiki-update
+```
+
+The wiki-update skill follows the same Karpathy pattern as everything else. If a concept page already exists in the vault, it merges into it. If the project already has a space in the vault, it updates the existing pages. Everything gets cross-linked with `[[wikilinks]]`, tracked in `.manifest.json`, and logged.
 
 ## Contributing
 

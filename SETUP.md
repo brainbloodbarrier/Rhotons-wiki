@@ -126,6 +126,7 @@ Knowledge that's project-specific goes under `projects/<name>/`. Knowledge that'
 | `wiki-rebuild` | Archive current wiki, rebuild from scratch, or restore from archive |
 | `obsidian-query` | Answer questions from the compiled wiki with citations |
 | `obsidian-lint` | Find orphans, broken links, stale content, contradictions |
+| `wiki-update` | Sync current project's knowledge into the vault (works from any project) |
 | `skill-creator` | Create new skills to extend the framework |
 
 ## How It Works
