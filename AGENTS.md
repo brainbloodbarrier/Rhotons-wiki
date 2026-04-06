@@ -6,7 +6,7 @@ This project is a **skill-based framework** for building and maintaining an Obsi
 
 1. Read `.env` for `OBSIDIAN_VAULT_PATH` — this is where the wiki lives.
 2. Read `.manifest.json` at the vault root to see what's already been ingested.
-3. Skills are in `.skills/` (also symlinked to `.claude/skills/`). Each subfolder has a `SKILL.md`.
+3. Skills are in `.skills/` (symlinked to `.claude/skills/` and `~/.gemini/antigravity/skills/` for global access). Each subfolder has a `SKILL.md`.
 
 ## When to Use Skills
 

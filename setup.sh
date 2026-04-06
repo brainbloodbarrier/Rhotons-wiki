@@ -11,6 +11,7 @@
 #      - .cursor/skills/    (Cursor)
 #      - .windsurf/skills/  (Windsurf)
 #      - .agents/skills/    (Antigravity / generic agents)
+#   3b. Symlinks skills globally into ~/.gemini/antigravity/skills/ (Gemini)
 #   3. Prints a summary of what's ready
 #
 set -e
@@ -110,6 +111,23 @@ for skill_name in "${GLOBAL_SKILLS[@]}"; do
   ln -s "$SKILLS_DIR/$skill_name" "$link_path"
 done
 echo "✅  Installed global skills → ~/.claude/skills/ (wiki-update, wiki-query)"
+
+# ── Step 3b: Install all skills globally for Gemini/Antigravity ──
+GEMINI_SKILL_DIR="$HOME/.gemini/antigravity/skills"
+mkdir -p "$GEMINI_SKILL_DIR"
+
+for skill in "$SKILLS_DIR"/*/; do
+  skill_name="$(basename "$skill")"
+  link_path="$GEMINI_SKILL_DIR/$skill_name"
+  if [ -L "$link_path" ]; then
+    rm "$link_path"
+  elif [ -d "$link_path" ]; then
+    echo "⚠️   $link_path is a real directory, skipping symlink"
+    continue
+  fi
+  ln -s "$skill" "$link_path"
+done
+echo "✅  Installed global skills → ~/.gemini/antigravity/skills/"
 
 # ── Step 4: Summary ──────────────────────────────────────────
 SKILL_COUNT=$(ls -d "$SKILLS_DIR"/*/ 2>/dev/null | wc -l | tr -d ' ')

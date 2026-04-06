@@ -30,7 +30,7 @@ This framework works with **any AI coding agent** that can read files. The `setu
 | **[Cursor](https://cursor.com)**                          | `.cursor/rules/obsidian-wiki.mdc`  | `.cursor/skills/`   | ✅ `/wiki-ingest`, `/wiki-status`, etc. |
 | **[Windsurf](https://windsurf.com)**                      | `.windsurf/rules/obsidian-wiki.md` | `.windsurf/skills/` | ✅ via Cascade                          |
 | **[Codex (OpenAI)](https://openai.com/codex)**            | `AGENTS.md`                        | — (uses AGENTS.md)  | —                                       |
-| **[Antigravity (Google)](https://aistudio.google.com)**   | `GEMINI.md`                        | `.agents/skills/`   | ✅ via skill triggers                   |
+| **[Antigravity (Google)](https://aistudio.google.com)**   | `GEMINI.md`                        | `~/.gemini/antigravity/skills/` | ✅ via skill triggers              |
 | **[GitHub Copilot](https://github.com/features/copilot)** | `.github/copilot-instructions.md`  | —                   | —                                       |
 
 > **How it works:** Each agent has its own convention for discovering skills. `setup.sh` symlinks the canonical `.skills/` directory into each agent's expected location, and creates the bootstrap file that tells the agent about the project. You write skills once, every agent can use them.
@@ -93,10 +93,10 @@ cd /path/to/obsidian-wiki && codex "set up my wiki"
 <details>
 <summary><b>Antigravity / Gemini</b></summary>
 
-Gemini agents read `GEMINI.md` at the repo root and discover skills from `.agents/skills/` or `.skills/`. Either:
+Gemini agents read `GEMINI.md` at the repo root. `setup.sh` installs skills globally to `~/.gemini/antigravity/skills/`, making them available from any project. Either:
 
-- Run `setup.sh` to create symlinks, OR
-- The `.skills/` directory is already compatible
+- Run `setup.sh` to create symlinks globally, OR
+- Manually symlink `.skills/*` to `~/.gemini/antigravity/skills/`
 
 Open in AI Studio and say "set up my wiki".
 
@@ -194,6 +194,8 @@ obsidian-wiki/
 ├── .windsurf/skills/ → symlinks to .skills/*  (created by setup.sh)
 ├── .agents/skills/   → symlinks to .skills/*  (created by setup.sh)
 │
+├── ~/.gemini/antigravity/skills/  → global symlinks (created by setup.sh)
+│
 ├── setup.sh                          # One-command agent setup
 ├── .env.example                      # Configuration template
 ├── README.md                         # You are here
@@ -208,6 +210,7 @@ When you run `bash setup.sh`, two things happen:
 
 1. It writes a config to `~/.obsidian-wiki/config` with your vault path and the repo location. This is how the skills know where to read and write.
 2. It symlinks `wiki-update` and `wiki-query` into `~/.claude/skills/` so they're available everywhere.
+3. It symlinks all skills into `~/.gemini/antigravity/skills/` for global Gemini/Antigravity access.
 
 After that, you're in some project, say `~/projects/my-cool-app`, working with Claude. Two commands:
 
