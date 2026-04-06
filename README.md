@@ -46,7 +46,21 @@ Set your vault path in `.env`:
 OBSIDIAN_VAULT_PATH=/path/to/your/vault
 ```
 
-That's it. Open the project in your coding agent and say "set up my wiki." See [SETUP.md](SETUP.md) for the full details.
+That's it. Open the project in your coding agent and tell it to set up your wiki. Works on Claude Code, Cursor, Windsurf, Codex — any agent that can read files and run shell commands.
+
+With Claude Code, for example:
+
+```bash
+cd /path/to/obsidian-wiki && claude "set up my wiki at /path/to/your/vault"
+```
+
+In my case:
+
+```bash
+cd ~/Documents/projects/obsidian-wiki && claude "set up my wiki"
+```
+
+(With `OBSIDIAN_VAULT_PATH` already set in `.env`, you don't need to repeat the path.) See [SETUP.md](SETUP.md) for the full details.
 
 ## Skills
 
