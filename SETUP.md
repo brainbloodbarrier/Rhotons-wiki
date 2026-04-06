@@ -24,13 +24,13 @@ Open this project in your coding agent and tell it what you want:
 
 | What you say | Skill triggered |
 |---|---|
-| "Set up my wiki" | `obsidian-setup` |
-| "Ingest my documents from ~/research" | `obsidian-ingest` |
+| "Set up my wiki" | `wiki-setup` |
+| "Ingest my documents from ~/research" | `wiki-ingest` |
 | "Import my Claude history" | `claude-history-ingest` |
 | "Process this ChatGPT export" | `data-ingest` |
 | "What's the status of my wiki?" | `wiki-status` |
-| "What do I know about X?" | `obsidian-query` |
-| "Audit my wiki" | `obsidian-lint` |
+| "What do I know about X?" | `wiki-query` |
+| "Audit my wiki" | `wiki-lint` |
 | "Rebuild from scratch" | `wiki-rebuild` |
 
 The agent reads the skills from `.skills/`, reads `.env` for your vault path, and does the work.
@@ -45,7 +45,7 @@ Anything text-based:
 
 | Source | Skill | What it reads |
 |---|---|---|
-| Markdown, PDFs, text files | `obsidian-ingest` | Any document directory |
+| Markdown, PDFs, text files | `wiki-ingest` | Any document directory |
 | Claude Code history | `claude-history-ingest` | `~/.claude/` — conversations, memories, sessions |
 | ChatGPT exports | `data-ingest` | `conversations.json` from ChatGPT export |
 | Slack / Discord logs | `data-ingest` | Channel export JSON files |
@@ -65,7 +65,7 @@ The framework tracks everything it ingests via `.manifest.json` in the vault roo
 
 ```
 "What's the status?"     → wiki-status computes the delta
-"Ingest the new stuff"   → obsidian-ingest processes only the delta (append mode)
+"Ingest the new stuff"   → wiki-ingest processes only the delta (append mode)
 "What's the status now?" → wiki-status confirms everything is up to date
 ```
 
@@ -118,14 +118,14 @@ Knowledge that's project-specific goes under `projects/<name>/`. Knowledge that'
 | Skill | Purpose |
 |---|---|
 | `llm-wiki` | Core pattern — 3-layer architecture, page templates, project org |
-| `obsidian-setup` | Initialize vault structure, create index/log, configure Obsidian |
-| `obsidian-ingest` | Distill source documents into wiki pages (append or full mode) |
+| `wiki-setup` | Initialize vault structure, create index/log, configure Obsidian |
+| `wiki-ingest` | Distill source documents into wiki pages (append or full mode) |
 | `data-ingest` | Ingest any raw text — chat exports, logs, transcripts, anything |
 | `claude-history-ingest` | Mine `~/.claude` conversations and memories into wiki pages |
 | `wiki-status` | Audit: what's ingested, what's pending, delta, recommend action |
 | `wiki-rebuild` | Archive current wiki, rebuild from scratch, or restore from archive |
-| `obsidian-query` | Answer questions from the compiled wiki with citations |
-| `obsidian-lint` | Find orphans, broken links, stale content, contradictions |
+| `wiki-query` | Answer questions from the compiled wiki with citations |
+| `wiki-lint` | Find orphans, broken links, stale content, contradictions |
 | `wiki-update` | Sync current project's knowledge into the vault (works from any project) |
 | `skill-creator` | Create new skills to extend the framework |
 

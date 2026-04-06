@@ -93,24 +93,23 @@ for agent_dir in "${AGENT_DIRS[@]}"; do
   echo "✅  Symlinked skills → $agent_dir/"
 done
 
-# ── Step 3: Install wiki-update as a global skill ────────────
-# This makes /wiki-update available from any project
-GLOBAL_SKILL_DIRS=(
-  "$HOME/.claude/skills"
-)
+# ── Step 3: Install global skills ────────────────────────────
+# These are available from any project, not just this repo
+GLOBAL_SKILLS=("wiki-update" "wiki-query")
+GLOBAL_SKILL_DIR="$HOME/.claude/skills"
+mkdir -p "$GLOBAL_SKILL_DIR"
 
-for gdir in "${GLOBAL_SKILL_DIRS[@]}"; do
-  mkdir -p "$gdir"
-  link_path="$gdir/wiki-update"
+for skill_name in "${GLOBAL_SKILLS[@]}"; do
+  link_path="$GLOBAL_SKILL_DIR/$skill_name"
   if [ -L "$link_path" ]; then
     rm "$link_path"
   elif [ -d "$link_path" ]; then
     echo "⚠️   $link_path is a real directory, skipping symlink"
     continue
   fi
-  ln -s "$SKILLS_DIR/wiki-update" "$link_path"
+  ln -s "$SKILLS_DIR/$skill_name" "$link_path"
 done
-echo "✅  Installed wiki-update globally → ~/.claude/skills/"
+echo "✅  Installed global skills → ~/.claude/skills/ (wiki-update, wiki-query)"
 
 # ── Step 4: Summary ──────────────────────────────────────────
 SKILL_COUNT=$(ls -d "$SKILLS_DIR"/*/ 2>/dev/null | wc -l | tr -d ' ')
@@ -135,6 +134,7 @@ echo "   1. Open this project in your agent"
 echo "   2. Say: \"Set up my wiki\""
 echo ""
 echo " From any other project:"
-echo "   Say /wiki-update to sync knowledge into your vault"
+echo "   /wiki-update    → sync knowledge into your vault"
+echo "   /wiki-query    → ask questions against your wiki"
 echo "───────────────────────────────────────────────────"
 echo ""

@@ -1,5 +1,5 @@
 ---
-name: obsidian-ingest
+name: wiki-ingest
 description: >
   Ingest documents into the Obsidian wiki by distilling their knowledge into interconnected wiki pages.
   Use this skill whenever the user wants to add new sources to their wiki, process a document or directory,

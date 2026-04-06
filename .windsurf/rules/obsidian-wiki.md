@@ -17,13 +17,13 @@ This project is a **skill-based framework** for building and maintaining an Obsi
 
 | User says something like… | Read this skill |
 |---|---|
-| "set up my wiki" / "initialize" | `.skills/obsidian-setup/SKILL.md` |
-| "ingest" / "add this to the wiki" | `.skills/obsidian-ingest/SKILL.md` |
+| "set up my wiki" / "initialize" | `.skills/wiki-setup/SKILL.md` |
+| "ingest" / "add this to the wiki" | `.skills/wiki-ingest/SKILL.md` |
 | "import my Claude history" | `.skills/claude-history-ingest/SKILL.md` |
 | "process this export" / "ingest this data" | `.skills/data-ingest/SKILL.md` |
 | "what's the status" / "show the delta" | `.skills/wiki-status/SKILL.md` |
-| "what do I know about X" / any question | `.skills/obsidian-query/SKILL.md` |
-| "audit" / "lint" / "find broken links" | `.skills/obsidian-lint/SKILL.md` |
+| "what do I know about X" / any question | `.skills/wiki-query/SKILL.md` |
+| "audit" / "lint" / "find broken links" | `.skills/wiki-lint/SKILL.md` |
 | "rebuild" / "start over" / "archive" | `.skills/wiki-rebuild/SKILL.md` |
 | "link my pages" / "cross-reference" | `.skills/cross-linker/SKILL.md` |
 | "fix my tags" / "normalize tags" | `.skills/tag-taxonomy/SKILL.md` |

@@ -218,9 +218,9 @@ Use `wiki-status` to see the delta and get a recommendation. Use `wiki-rebuild` 
 For details on specific operations, see the companion skills:
 - **wiki-status** — Audit what's ingested, compute delta, recommend append vs rebuild
 - **wiki-rebuild** — Archive current wiki, rebuild from scratch, or restore from archive
-- **obsidian-ingest** — Distill source documents into wiki pages
+- **wiki-ingest** — Distill source documents into wiki pages
 - **claude-history-ingest** — Ingest Claude conversation history
 - **data-ingest** — Ingest any raw text data
-- **obsidian-query** — Answer questions against the wiki
-- **obsidian-lint** — Audit and maintain wiki health
-- **obsidian-setup** — Initialize a new vault
+- **wiki-query** — Answer questions against the wiki
+- **wiki-lint** — Audit and maintain wiki health
+- **wiki-setup** — Initialize a new vault

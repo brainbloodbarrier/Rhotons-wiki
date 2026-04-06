@@ -9,7 +9,7 @@ We took that and built a framework around it. The whole thing is a set of markdo
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-username/obsidian-wiki.git
+git clone https://github.com/Ar9av/obsidian-wiki.git
 cd obsidian-wiki
 bash setup.sh
 ```
@@ -24,14 +24,14 @@ Open the project in your agent and say **"set up my wiki"**. That's it.
 
 This framework works with **any AI coding agent** that can read files. The `setup.sh` script automatically configures skill discovery for each one:
 
-| Agent                                                     | Bootstrap File                     | Skills Directory    | Slash Commands                              |
-| --------------------------------------------------------- | ---------------------------------- | ------------------- | ------------------------------------------- |
-| **[Claude Code](https://claude.ai/code)**                 | `CLAUDE.md`                        | `.claude/skills/`   | ✅ `/obsidian-ingest`, `/wiki-status`, etc. |
-| **[Cursor](https://cursor.com)**                          | `.cursor/rules/obsidian-wiki.mdc`  | `.cursor/skills/`   | ✅ `/obsidian-ingest`, `/wiki-status`, etc. |
-| **[Windsurf](https://windsurf.com)**                      | `.windsurf/rules/obsidian-wiki.md` | `.windsurf/skills/` | ✅ via Cascade                              |
-| **[Codex (OpenAI)](https://openai.com/codex)**            | `AGENTS.md`                        | — (uses AGENTS.md)  | —                                           |
-| **[Antigravity (Google)](https://aistudio.google.com)**   | `GEMINI.md`                        | `.agents/skills/`   | ✅ via skill triggers                       |
-| **[GitHub Copilot](https://github.com/features/copilot)** | `.github/copilot-instructions.md`  | —                   | —                                           |
+| Agent                                                     | Bootstrap File                     | Skills Directory    | Slash Commands                          |
+| --------------------------------------------------------- | ---------------------------------- | ------------------- | --------------------------------------- |
+| **[Claude Code](https://claude.ai/code)**                 | `CLAUDE.md`                        | `.claude/skills/`   | ✅ `/wiki-ingest`, `/wiki-status`, etc. |
+| **[Cursor](https://cursor.com)**                          | `.cursor/rules/obsidian-wiki.mdc`  | `.cursor/skills/`   | ✅ `/wiki-ingest`, `/wiki-status`, etc. |
+| **[Windsurf](https://windsurf.com)**                      | `.windsurf/rules/obsidian-wiki.md` | `.windsurf/skills/` | ✅ via Cascade                          |
+| **[Codex (OpenAI)](https://openai.com/codex)**            | `AGENTS.md`                        | — (uses AGENTS.md)  | —                                       |
+| **[Antigravity (Google)](https://aistudio.google.com)**   | `GEMINI.md`                        | `.agents/skills/`   | ✅ via skill triggers                   |
+| **[GitHub Copilot](https://github.com/features/copilot)** | `.github/copilot-instructions.md`  | —                   | —                                       |
 
 > **How it works:** Each agent has its own convention for discovering skills. `setup.sh` symlinks the canonical `.skills/` directory into each agent's expected location, and creates the bootstrap file that tells the agent about the project. You write skills once, every agent can use them.
 
@@ -63,7 +63,7 @@ Skills are auto-discovered from `.cursor/skills/`. The `.cursor/rules/obsidian-w
 - Run `setup.sh` to create symlinks, OR
 - Copy `.skills/*` to `.cursor/skills/`
 
-Open the project in Cursor and type `/obsidian-setup` in the chat.
+Open the project in Cursor and type `/wiki-setup` in the chat.
 
 </details>
 
@@ -147,14 +147,14 @@ Everything lives in `.skills/`. Each skill is a markdown file the agent reads wh
 
 | Skill                   | What it does                                      | Slash Command            |
 | ----------------------- | ------------------------------------------------- | ------------------------ |
-| `obsidian-setup`        | Initialize vault structure                        | `/obsidian-setup`        |
-| `obsidian-ingest`       | Distill documents into wiki pages                 | `/obsidian-ingest`       |
+| `wiki-setup`            | Initialize vault structure                        | `/wiki-setup`            |
+| `wiki-ingest`           | Distill documents into wiki pages                 | `/wiki-ingest`           |
 | `claude-history-ingest` | Mine your `~/.claude` conversations and memories  | `/claude-history-ingest` |
 | `data-ingest`           | Ingest any text — chat exports, logs, transcripts | `/data-ingest`           |
 | `wiki-status`           | Show what's ingested, what's pending, the delta   | `/wiki-status`           |
 | `wiki-rebuild`          | Archive, rebuild from scratch, or restore         | `/wiki-rebuild`          |
-| `obsidian-query`        | Answer questions from the wiki                    | `/obsidian-query`        |
-| `obsidian-lint`         | Find broken links, orphans, contradictions        | `/obsidian-lint`         |
+| `wiki-query`            | Answer questions from the wiki                    | `/wiki-query`            |
+| `wiki-lint`             | Find broken links, orphans, contradictions        | `/wiki-lint`             |
 | `cross-linker`          | Auto-discover and insert missing wikilinks        | `/cross-linker`          |
 | `tag-taxonomy`          | Enforce consistent tag vocabulary across pages    | `/tag-taxonomy`          |
 | `llm-wiki`              | The core pattern and architecture reference       | `/llm-wiki`              |
@@ -168,14 +168,14 @@ Everything lives in `.skills/`. Each skill is a markdown file the agent reads wh
 ```
 obsidian-wiki/
 ├── .skills/                          # ← Canonical skill definitions (source of truth)
-│   ├── obsidian-setup/SKILL.md
-│   ├── obsidian-ingest/SKILL.md
+│   ├── wiki-setup/SKILL.md
+│   ├── wiki-ingest/SKILL.md
 │   ├── claude-history-ingest/SKILL.md
 │   ├── data-ingest/SKILL.md
 │   ├── wiki-status/SKILL.md
 │   ├── wiki-rebuild/SKILL.md
-│   ├── obsidian-query/SKILL.md
-│   ├── obsidian-lint/SKILL.md
+│   ├── wiki-query/SKILL.md
+│   ├── wiki-lint/SKILL.md
 │   ├── cross-linker/SKILL.md
 │   ├── tag-taxonomy/SKILL.md
 │   ├── wiki-update/SKILL.md
@@ -202,27 +202,32 @@ obsidian-wiki/
 
 ## Using from other projects
 
-The whole point is that your wiki should stay up to date as you work across different codebases. You don't want to come back to the obsidian-wiki repo every time. So `setup.sh` installs a global skill called `wiki-update` that's available from any project.
+The whole point is that your wiki should stay up to date as you work across different codebases. You don't want to come back to the obsidian-wiki repo every time. So `setup.sh` installs two global skills that work from any project: `wiki-update` and `wiki-query`.
 
 When you run `bash setup.sh`, two things happen:
 
-1. It writes a config to `~/.obsidian-wiki/config` with your vault path and the repo location. This is how the skill knows where to write.
-2. It symlinks the `wiki-update` skill into `~/.claude/skills/` so it's available everywhere.
+1. It writes a config to `~/.obsidian-wiki/config` with your vault path and the repo location. This is how the skills know where to read and write.
+2. It symlinks `wiki-update` and `wiki-query` into `~/.claude/skills/` so they're available everywhere.
 
-After that, you're in some project, say `~/projects/my-cool-app`, working with Claude. You've figured out some architecture, made some decisions, learned some things. You type `/wiki-update`. The agent reads your project, figures out what's worth keeping, and distills it into your Obsidian vault. Architecture decisions, patterns you discovered, key concepts, trade-offs you evaluated. It doesn't copy code or dump file listings. It distills the stuff you'd forget in 3 months.
-
-Next time you run `/wiki-update` from the same project, it checks what changed since last sync (via git log) and only processes the delta. Same as how the other ingest skills work.
+After that, you're in some project, say `~/projects/my-cool-app`, working with Claude. Two commands:
 
 ```bash
 # You're working on some project
 cd ~/projects/my-cool-app
 claude
 
-# Inside Claude, just say:
+# Write to the wiki: distill what you've learned
 > /wiki-update
+
+# Read from the wiki: pull context about anything you've captured before
+> /wiki-query what do I know about rate limiting?
 ```
 
-The wiki-update skill follows the same Karpathy pattern as everything else. If a concept page already exists in the vault, it merges into it. If the project already has a space in the vault, it updates the existing pages. Everything gets cross-linked with `[[wikilinks]]`, tracked in `.manifest.json`, and logged.
+`/wiki-update` reads your project, figures out what's worth keeping, and distills it into your Obsidian vault. Architecture decisions, patterns you discovered, key concepts, trade-offs you evaluated. It doesn't copy code or dump file listings. It distills the stuff you'd forget in 3 months. Next time you run it from the same project, it checks what changed since last sync (via git log) and only processes the delta.
+
+`/wiki-query` goes the other direction. You're working on something and you want to know what your wiki says about a topic. Maybe you solved a similar problem 2 months ago in a different project and the answer is already in your vault. The agent searches the wiki, reads the relevant pages, and gives you a synthesized answer with citations.
+
+Both skills follow the same Karpathy pattern as everything else. If a concept page already exists in the vault, it merges into it. Everything gets cross-linked with `[[wikilinks]]`, tracked in `.manifest.json`, and logged.
 
 ## Contributing
 

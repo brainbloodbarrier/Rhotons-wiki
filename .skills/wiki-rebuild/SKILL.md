@@ -99,7 +99,7 @@ Tell the user the vault is cleared and ready for a full re-ingest. They can now 
 
 1. `wiki-status` — to see all sources as "new"
 2. `claude-history-ingest` — to reprocess Claude history
-3. `obsidian-ingest` — to reprocess documents
+3. `wiki-ingest` — to reprocess documents
 4. `data-ingest` — to reprocess any other data
 
 Each of these will rebuild the manifest as they go.
@@ -150,7 +150,7 @@ Before restoring, archive the current state (reason: `"pre-restore"`) so nothing
 
 ### Step 5: Report
 
-Tell the user what was restored and suggest running `obsidian-lint` to check for any issues with the restored state.
+Tell the user what was restored and suggest running `wiki-lint` to check for any issues with the restored state.
 
 ## Safety Rules
 

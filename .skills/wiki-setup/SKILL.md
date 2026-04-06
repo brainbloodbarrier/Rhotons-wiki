@@ -1,5 +1,5 @@
 ---
-name: obsidian-setup
+name: wiki-setup
 description: >
   Initialize a new Obsidian wiki vault with the correct structure, special files, and configuration.
   Use this skill when the user wants to set up a new wiki from scratch, initialize the vault structure,
@@ -53,7 +53,7 @@ title: Wiki Index
 
 ## Concepts
 
-*No pages yet. Use `obsidian-ingest` to add your first source.*
+*No pages yet. Use `wiki-ingest` to add your first source.*
 
 ## Entities
 
@@ -121,6 +121,6 @@ Run a quick sanity check:
 Report the results and tell the user they can now:
 1. Open the vault in Obsidian (File → Open Vault → select the directory)
 2. Run `wiki-status` to see what's available to ingest
-3. Run `obsidian-ingest` to add their first sources
+3. Run `wiki-ingest` to add their first sources
 4. Run `claude-history-ingest` to mine their Claude conversations
 5. Run `wiki-status` again anytime to check the delta

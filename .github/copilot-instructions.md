@@ -21,13 +21,13 @@ This project is a **skill-based framework** for building and maintaining an Obsi
 
 | Skill | Folder | Purpose |
 |---|---|---|
-| Setup | `.skills/obsidian-setup/` | Initialize vault structure |
-| Ingest | `.skills/obsidian-ingest/` | Distill documents into wiki pages |
+| Setup | `.skills/wiki-setup/` | Initialize vault structure |
+| Ingest | `.skills/wiki-ingest/` | Distill documents into wiki pages |
 | Claude History | `.skills/claude-history-ingest/` | Mine `~/.claude` conversations |
 | Data Ingest | `.skills/data-ingest/` | Process any text data |
 | Status | `.skills/wiki-status/` | Audit ingestion state and delta |
-| Query | `.skills/obsidian-query/` | Answer questions from wiki |
-| Lint | `.skills/obsidian-lint/` | Find broken links, orphans |
+| Query | `.skills/wiki-query/` | Answer questions from wiki |
+| Lint | `.skills/wiki-lint/` | Find broken links, orphans |
 | Rebuild | `.skills/wiki-rebuild/` | Archive and rebuild |
 | Cross-Linker | `.skills/cross-linker/` | Auto-discover and insert missing wikilinks |
 | Tag Taxonomy | `.skills/tag-taxonomy/` | Enforce consistent tag vocabulary |

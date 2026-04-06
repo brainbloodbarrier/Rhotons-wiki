@@ -1,5 +1,5 @@
 ---
-name: obsidian-lint
+name: wiki-lint
 description: >
   Audit and maintain the health of the Obsidian wiki. Use this skill when the user wants to check their
   wiki for issues, find orphaned pages, detect contradictions, identify stale content, fix broken wikilinks,
@@ -7,7 +7,7 @@ description: >
   "what needs fixing", "audit my notes", or "wiki health check".
 ---
 
-# Obsidian Lint — Wiki Health Audit
+# Wiki Lint — Health Audit
 
 You are performing a health check on an Obsidian wiki. Your goal is to find and fix structural issues that degrade the wiki's value over time.
 

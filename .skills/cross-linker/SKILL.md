@@ -7,7 +7,7 @@ description: >
   to ensure new pages are woven into the existing knowledge graph. Also trigger when the user
   mentions "orphan pages" in the context of wanting to connect them, or says things like
   "my wiki feels disconnected" or "pages aren't linked well". This is a write-heavy skill —
-  it actually modifies pages to add links, unlike obsidian-lint which just reports issues.
+  it actually modifies pages to add links, unlike wiki-lint which just reports issues.
 ---
 
 # Cross-Linker — Automated Wiki Cross-Referencing

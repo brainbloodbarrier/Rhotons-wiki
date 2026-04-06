@@ -84,7 +84,7 @@ Before creating pages:
 
 ## Step 4: Distill into Wiki Pages
 
-Follow the `obsidian-ingest` skill's process for creating/updating pages:
+Follow the `wiki-ingest` skill's process for creating/updating pages:
 
 - Use correct category directories (`concepts/`, `entities/`, `skills/`, etc.)
 - Add YAML frontmatter with title, category, tags, sources

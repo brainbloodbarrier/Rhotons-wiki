@@ -1,20 +1,20 @@
 ---
-name: obsidian-query
+name: wiki-query
 description: >
   Answer questions by searching the compiled Obsidian wiki. Use this skill when the user asks a question
   about their knowledge base, wants to find information across their wiki, asks "what do I know about X",
   "find everything related to Y", or wants synthesized answers with citations from their wiki pages.
-  Also use when the user wants to explore connections between topics in their wiki.
+  Also use when the user wants to explore connections between topics in their wiki. Works from any project.
 ---
 
-# Obsidian Query — Knowledge Retrieval
+# Wiki Query — Knowledge Retrieval
 
 You are answering questions against a compiled Obsidian wiki, not raw source documents. The wiki contains pre-synthesized, cross-referenced knowledge.
 
 ## Before You Start
 
-1. Read `.env` to get `OBSIDIAN_VAULT_PATH`
-2. Read `index.md` to understand the wiki's scope and structure
+1. Read `~/.obsidian-wiki/config` to get `OBSIDIAN_VAULT_PATH` (works from any project). Fall back to `.env` if you're inside the obsidian-wiki repo.
+2. Read `$OBSIDIAN_VAULT_PATH/index.md` to understand the wiki's scope and structure
 
 ## Query Process
 

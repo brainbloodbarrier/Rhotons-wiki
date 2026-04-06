@@ -161,5 +161,5 @@ Tell the user:
 
 - If the manifest doesn't exist, report everything as "new" and recommend a full ingest
 - This skill only reads and reports — it doesn't modify anything
-- The actual ingest work is done by the ingest skills (`obsidian-ingest`, `claude-history-ingest`, `data-ingest`)
+- The actual ingest work is done by the ingest skills (`wiki-ingest`, `claude-history-ingest`, `data-ingest`)
 - Those skills are responsible for updating the manifest after they finish

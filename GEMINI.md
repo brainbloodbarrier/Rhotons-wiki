@@ -12,13 +12,13 @@ This project is a **skill-based framework** for building and maintaining an Obsi
 
 | User says something like… | Read this skill |
 |---|---|
-| "set up my wiki" / "initialize" | `.skills/obsidian-setup/SKILL.md` |
-| "ingest" / "add this to the wiki" / "process these docs" | `.skills/obsidian-ingest/SKILL.md` |
+| "set up my wiki" / "initialize" | `.skills/wiki-setup/SKILL.md` |
+| "ingest" / "add this to the wiki" / "process these docs" | `.skills/wiki-ingest/SKILL.md` |
 | "import my Claude history" / "mine my conversations" | `.skills/claude-history-ingest/SKILL.md` |
 | "process this export" / "ingest this data" / logs, transcripts | `.skills/data-ingest/SKILL.md` |
 | "what's the status" / "what's been ingested" / "show the delta" | `.skills/wiki-status/SKILL.md` |
-| "what do I know about X" / "find info on Y" / any question | `.skills/obsidian-query/SKILL.md` |
-| "audit" / "lint" / "find broken links" / "wiki health" | `.skills/obsidian-lint/SKILL.md` |
+| "what do I know about X" / "find info on Y" / any question | `.skills/wiki-query/SKILL.md` |
+| "audit" / "lint" / "find broken links" / "wiki health" | `.skills/wiki-lint/SKILL.md` |
 | "rebuild" / "start over" / "archive" / "restore" | `.skills/wiki-rebuild/SKILL.md` |
 | "link my pages" / "cross-reference" / "connect my wiki" | `.skills/cross-linker/SKILL.md` |
 | "fix my tags" / "normalize tags" / "tag audit" | `.skills/tag-taxonomy/SKILL.md` |
