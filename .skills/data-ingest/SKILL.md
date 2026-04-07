@@ -33,6 +33,7 @@ Read the file(s) the user points you at. Common formats you'll encounter:
 | **CSV / TSV** | `.csv` / `.tsv`, comma or tab separated | Parse rows, identify columns |
 | **HTML** | `.html`, starts with `<` | Extract text content, ignore markup |
 | **Chat export** | Varies — look for turn-taking patterns (user/assistant, human/ai, timestamps) | Extract the dialogue turns |
+| **Images** | `.png` / `.jpg` / `.jpeg` / `.webp` / `.gif` | *Requires a vision-capable model.* Use the Read tool — it renders images into your context. Screenshots, whiteboards, diagrams all qualify. Models without vision support should skip and report which files were skipped. |
 
 ### Common Chat Export Formats
 
@@ -53,6 +54,20 @@ Read the file(s) the user points you at. Common formats you'll encounter:
 ```
 
 Don't try to handle every format upfront — read the actual data, figure out the structure, and adapt.
+
+### Images and visual sources
+
+When the user dumps a folder of screenshots, whiteboard photos, or diagram exports, treat each image as a source:
+
+- Use the Read tool on the image path — it will render the image into context.
+- **Transcribe** any visible text verbatim (this is the only extracted content from an image).
+- **Describe** structure: for diagrams, list nodes/edges; for screenshots, name the app and what's on screen.
+- **Extract** the concepts the image conveys — what's it *about*? Most of this is `^[inferred]`.
+- **Flag** anything you can't read, can't identify, or are guessing at with `^[ambiguous]`.
+
+Image-derived pages will skew heavily inferred — that's expected and the provenance markers will reflect it. Set `source_type: "image"` in the manifest entry. Skip files with EXIF-only changes (re-saved with no visual diff) — compare via the standard delta logic.
+
+For folders of mixed images (e.g. a screenshot timeline of a debugging session), cluster by visible topic rather than per-file. Twenty screenshots of the same UI bug should produce one wiki page, not twenty.
 
 ## Step 2: Extract Knowledge
 
@@ -100,7 +115,7 @@ Follow the `wiki-ingest` skill's process for creating/updating pages:
   "ingested_at": "TIMESTAMP",
   "size_bytes": FILE_SIZE,
   "modified_at": FILE_MTIME,
-  "source_type": "data",
+  "source_type": "data",  // or "image" for png/jpg/webp/gif sources
   "project": "project-name-or-null",
   "pages_created": ["list/of/pages.md"],
   "pages_updated": ["list/of/pages.md"]
@@ -117,5 +132,5 @@ Follow the `wiki-ingest` skill's process for creating/updating pages:
 - **When in doubt about format, just read it.** The Read tool will show you what you're dealing with.
 - **Large files:** Read in chunks using offset/limit. Don't try to load a 10MB JSON in one go.
 - **Multiple files:** Process them in order, building up wiki pages incrementally.
-- **Binary files:** Skip them. This skill handles text only.
+- **Binary files:** Skip them, *except* images — those are first-class sources via the Read tool's vision support.
 - **Encoding issues:** If you see garbled text, mention it to the user and move on.

@@ -46,8 +46,22 @@ Read the document(s) the user wants to ingest. In append mode, skip files the ma
 - Text (`.txt`) — read directly
 - PDF (`.pdf`) — use the Read tool with page ranges
 - Web clippings — markdown files from Obsidian Web Clipper
+- **Images** (`.png`, `.jpg`, `.jpeg`, `.webp`, `.gif`) — *requires a vision-capable model*. Use the Read tool, which renders the image into your context. Treat screenshots, whiteboard photos, diagrams, and slide captures as first-class sources. If your model doesn't support vision, skip image sources and tell the user which files were skipped so they can re-run with a vision-capable model.
 
 Note the source path — you'll need it for provenance tracking.
+
+### Multimodal branch (images)
+
+When the source is an image, your extraction job is interpretive — you're reading visual content, not text. Walk the image methodically:
+
+1. **Transcribe** any visible text verbatim (UI labels, slide bullets, whiteboard handwriting, code snippets in screenshots). This is the only *extracted* content from an image.
+2. **Describe structure** — for diagrams, list the boxes/nodes and the arrows/edges. For screenshots, name the app or context if recognizable.
+3. **Extract concepts** — what is the image *about*? What ideas, entities, or relationships does it convey? Most of this is `^[inferred]`.
+4. **Note ambiguity** — handwriting you can't read, arrows whose direction is unclear, cropped content. Use `^[ambiguous]` and call it out.
+
+Vision is interpretive by nature, so image-derived pages will skew heavily toward `^[inferred]`. That's expected — the provenance markers exist precisely to surface this. Don't pretend an image's "meaning" was extracted when you really inferred it.
+
+For PDFs that are mostly images (scanned docs, slide decks exported to PDF), use `Read pages: "N"` to pull specific pages and treat each page as an image source.
 
 ### Step 2: Extract Knowledge
 
@@ -117,7 +131,7 @@ After writing pages, check that wikilinks work in both directions. If page A lin
   "ingested_at": "TIMESTAMP",
   "size_bytes": FILE_SIZE,
   "modified_at": FILE_MTIME,
-  "source_type": "document",
+  "source_type": "document",  // or "image" for png/jpg/webp/gif and image-only PDFs
   "project": "project-name-or-null",
   "pages_created": ["list/of/pages.md"],
   "pages_updated": ["list/of/pages.md"]
