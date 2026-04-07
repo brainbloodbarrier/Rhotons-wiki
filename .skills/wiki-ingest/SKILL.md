@@ -63,6 +63,32 @@ Vision is interpretive by nature, so image-derived pages will skew heavily towar
 
 For PDFs that are mostly images (scanned docs, slide decks exported to PDF), use `Read pages: "N"` to pull specific pages and treat each page as an image source.
 
+### Step 1b: QMD Source Discovery (when ingesting into `_raw/` or when `QMD_PAPERS_COLLECTION` is set)
+
+Before extracting knowledge from a document, check whether related papers are already indexed that could enrich the page you're about to write:
+
+```
+mcp__qmd__query:
+  collection: <QMD_PAPERS_COLLECTION>   # e.g. "papers"
+  intent: <what this document is about>
+  searches:
+    - type: vec    # semantic — finds papers on the same topic even with different vocabulary
+      query: <topic or thesis of the source being ingested>
+    - type: lex    # keyword — finds papers citing the same methods, tools, or authors
+      query: <key terms, author names, method names from the source>
+```
+
+Use the returned snippets to:
+1. **Surface related papers** you may not have thought to link — add them as cross-references in the wiki page
+2. **Identify recurring themes** across the corpus — these deserve their own concept pages
+3. **Find contradictions** between this source and indexed papers — flag with `^[ambiguous]`
+4. **Avoid duplicate pages** — if the corpus already covers this concept heavily, merge rather than create
+
+If the QMD results show that 3+ papers touch the same concept, that concept almost certainly warrants a global `concepts/` page.
+
+**Skip this step** if `_raw/` is empty or `QMD_PAPERS_COLLECTION` is not set.
+
+
 ### Step 2: Extract Knowledge
 
 From the source, identify:
