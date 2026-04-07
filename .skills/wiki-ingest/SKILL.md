@@ -113,6 +113,8 @@ For each page in your plan:
 - Add the new source to the `sources` list
 - Resolve any contradictions between old and new information (note them if unresolvable)
 
+**Write a `summary:` frontmatter field** on every new page (1–2 sentences, ≤200 characters) answering "what is this page about?" for a reader who hasn't opened it. When updating an existing page whose meaning has shifted, rewrite the summary to match the new content. This field is what `wiki-query`'s cheap retrieval path reads — a missing or stale summary forces expensive full-page reads.
+
 **Apply provenance markers** per the convention in `llm-wiki` (Provenance Markers section):
 - Inferred claims get a trailing `^[inferred]`
 - Ambiguous/contested claims get a trailing `^[ambiguous]`
@@ -162,6 +164,7 @@ After ingesting, verify:
 - [ ] `log.md` has the ingest entry
 - [ ] Source attribution is present for every new claim
 - [ ] Inferred and ambiguous claims are marked with `^[inferred]` / `^[ambiguous]`; `provenance:` frontmatter block is present on new and updated pages
+- [ ] Every new/updated page has a `summary:` frontmatter field (1–2 sentences, ≤200 chars)
 
 ## Reference
 

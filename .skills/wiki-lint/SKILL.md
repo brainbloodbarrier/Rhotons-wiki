@@ -11,6 +11,8 @@ description: >
 
 You are performing a health check on an Obsidian wiki. Your goal is to find and fix structural issues that degrade the wiki's value over time.
 
+**Before scanning anything:** follow the Retrieval Primitives table in `llm-wiki/SKILL.md`. Prefer frontmatter-scoped greps and section-anchored reads over full-page reads. On a large vault, blindly reading every page to lint it is exactly what this framework is built to avoid.
+
 ## Before You Start
 
 1. Read `.env` to get `OBSIDIAN_VAULT_PATH`
@@ -53,11 +55,23 @@ Find `[[wikilinks]]` that point to pages that don't exist.
 Every page should have: title, category, tags, sources, created, updated.
 
 **How to check:**
-- Read each page and parse frontmatter
+- Grep frontmatter blocks (scope to `^---` at file heads) instead of reading every page in full
 - Flag pages missing required fields
 
 **How to fix:**
 - Add missing fields with reasonable defaults
+
+### 3a. Missing Summary (soft warning)
+
+Every page *should* have a `summary:` frontmatter field — 1–2 sentences, ≤200 chars. This is what cheap retrieval (e.g. `wiki-query`'s index-only mode) reads to avoid opening page bodies.
+
+**How to check:**
+- Grep frontmatter for `^summary:` across the vault
+- Flag pages without it, **but as a soft warning, not an error** — older pages predating this field are fine; the check exists to nudge ingest skills into filling it on new writes.
+- Also flag pages whose summary exceeds 200 chars.
+
+**How to fix:**
+- Re-ingest the page, or manually write a short summary (1–2 sentences of the page's content).
 
 ### 4. Stale Content
 
@@ -128,6 +142,10 @@ Report findings as a structured list:
 ### Index Issues (N found)
 - `concepts/new-page.md` exists on disk but not in index.md
 
+### Missing Summary (N found — soft)
+- `concepts/foo.md` — no `summary:` field
+- `entities/bar.md` — summary exceeds 200 chars
+
 ### Provenance Issues (N found)
 - `concepts/scaling.md` — speculation-heavy: 72% of bullets marked `^[inferred]`
 - `entities/some-tool.md` — drift: frontmatter says inferred=0.10, recomputed=0.45
@@ -137,7 +155,7 @@ Report findings as a structured list:
 
 Append to `log.md`:
 ```
-- [TIMESTAMP] LINT issues_found=N orphans=X broken_links=Y stale=Z contradictions=W prov_issues=P
+- [TIMESTAMP] LINT issues_found=N orphans=X broken_links=Y stale=Z contradictions=W prov_issues=P missing_summary=S
 ```
 
 Offer to fix issues automatically or let the user decide which to address.

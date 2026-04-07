@@ -104,6 +104,7 @@ title: Page Title
 category: concepts
 tags: [tag1, tag2]
 sources: [projects/<project-name>]
+summary: One or two sentences (≤200 chars) describing what this page covers.
 provenance:
   extracted: 0.6
   inferred: 0.35
@@ -119,6 +120,8 @@ updated: TIMESTAMP
 
 Use [[wikilinks]] to connect to other pages.
 ```
+
+**Write a `summary:` frontmatter field** on every new/updated page (1–2 sentences, ≤200 chars). For project sync, a good summary answers "what does this page tell me about the project I wouldn't guess from its title?" This field powers cheap retrieval by `wiki-query`.
 
 **Apply provenance markers** per `llm-wiki` (Provenance Markers section). For project sync specifically:
 

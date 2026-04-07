@@ -157,6 +157,7 @@ category: concepts
 tags: [ml, architecture]
 aliases: [alternate name]
 sources: [papers/attention.pdf]
+summary: One or two sentences, ≤200 chars, so a reader (or another skill) can preview this page without opening it.
 provenance:
   extracted: 0.72
   inferred: 0.25
@@ -219,6 +220,24 @@ provenance:
 ```
 
 These are best-effort numbers written by the ingest skill at create/update time. `wiki-lint` recomputes them and flags drift. The block is optional — pages without it are treated as fully extracted by convention.
+
+## Retrieval Primitives
+
+Reading the vault is the dominant cost of every read-side skill. Use the cheapest primitive that can answer the question and **escalate only when the cheaper one is insufficient**. Any skill that needs content from the vault should follow this table rather than jumping straight to full-page reads.
+
+| Need | Primitive | Relative cost |
+|---|---|---|
+| Does a page exist? What's its title/category/tags? | Read `index.md`; `Grep` frontmatter blocks (scope with a pattern that targets `^---` blocks at file heads) | **Cheapest** |
+| 1–2 sentence preview of a page | Read the `summary:` field in its frontmatter | **Cheap** |
+| A specific claim or section inside a page | `Grep -A <n> -B <n> "<term>" <file>` — returns only the matching lines plus context | **Medium** |
+| Whole-page content | `Read <file>` | **Expensive** — last resort |
+| Relationships across pages | `Grep "\[\[.*?\]\]"` across the vault, or walk wikilinks from a known page | Case-by-case |
+
+**The rule:** escalate only when the cheaper primitive can't answer the question. If you can answer from `summary:` fields alone, don't read page bodies. If a grepped section with `-A 10 -B 2` gives you the claim, don't read the whole page. A 500-line page opened to read 15 lines is 485 lines of wasted tokens.
+
+**Why this matters:** a 20-page vault lets you get away with full-vault scans. A 200-page vault does not. The primitives above are how the skills framework scales to large vaults without a database.
+
+Skills that consume this table: `wiki-query`, `cross-linker`, `wiki-lint`, `wiki-status` (insights mode). Any new skill that reads the vault should cite this section rather than reinvent the pattern.
 
 ## Core Principles
 
