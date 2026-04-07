@@ -104,7 +104,7 @@ title: Page Title
 category: concepts
 tags: [tag1, tag2]
 sources: [projects/<project-name>]
-summary: One or two sentences (≤200 chars) describing what this page covers.
+summary: "One or two sentences (≤200 chars) describing what this page covers."
 provenance:
   extracted: 0.6
   inferred: 0.35
@@ -112,6 +112,10 @@ provenance:
 created: TIMESTAMP
 updated: TIMESTAMP
 ---
+
+summary must always be a double-quoted YAML string.
+Reason: unquoted summaries containing : can break frontmatter parsing in Obsidian/YAML tooling.
+If the summary itself contains ", escape it as \".
 
 # Page Title
 
@@ -121,7 +125,7 @@ updated: TIMESTAMP
 Use [[wikilinks]] to connect to other pages.
 ```
 
-**Write a `summary:` frontmatter field** on every new/updated page (1–2 sentences, ≤200 chars). For project sync, a good summary answers "what does this page tell me about the project I wouldn't guess from its title?" This field powers cheap retrieval by `wiki-query`.
+**Write a `summary:` frontmatter field** on every new/updated page (1–2 sentences, ≤200 chars), always double-quoted. For project sync, a good summary answers "what does this page tell me about the project I wouldn't guess from its title?" This field powers cheap retrieval by `wiki-query`.
 
 **Apply provenance markers** per `llm-wiki` (Provenance Markers section). For project sync specifically:
 
