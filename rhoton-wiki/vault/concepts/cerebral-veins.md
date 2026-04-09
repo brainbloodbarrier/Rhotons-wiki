@@ -49,7 +49,9 @@ The deep venous system drains the deep gray and white matter through channels co
 - The vein of Labbe (inferior anastomotic vein) is critical to preserve during temporal lobe surgery — its sacrifice causes venous infarction
 - The deep venous system (internal cerebral veins, vein of Galen) poses the major obstacle to pineal region approaches
 - Subtemporal approaches require awareness of bridging veins below the posterior temporal lobe
-- Ventricular veins provide larger landmarks than arteries within dilated ventricles (hydrocephalus)
+- Ventricular veins provide larger landmarks than arteries within dilated [[lateral-and-third-ventricles]] (hydrocephalus)
+- The [[pterional-approach]] exposes superficial sylvian veins in the [[sylvian-fissure]]
+- See also [[posterior-fossa-veins]] for the infratentorial venous system
 
 ## Relations
 
