@@ -54,7 +54,7 @@ The cerebellopontine angle is one of the most frequently operated areas in neuro
 - **Meningiomas** — petroclival and CP angle meningiomas
 - **Epidermoids** — commonly found in this cistern
 
-Retrosigmoid approach is the standard corridor to this cistern.
+The [[retrosigmoid-approach]] is the standard corridor to this cistern.
 
 ## Relations
 
