@@ -31,10 +31,14 @@ title: Wiki Index
 - [[anterior-communicating-artery]] — Connects bilateral ACAs, most common aneurysm site
 - [[posterior-cerebral-artery]] — P1-P4 segments, thalamoperforating, choroidal branches
 - [[superior-cerebellar-artery]] — Upper neurovascular complex, CN V relation
+- [[aica]] — Middle neurovascular complex, meatal loop, labyrinthine artery
+- [[pica]] — Lower neurovascular complex, telovelar approach
 
 ### Nerves
 - [[oculomotor-nerve]] — CN III, PCA-SCA sandwich, PCoA aneurysm relation
 - [[trigeminal-nerve]] — CN V, three divisions, neurovascular compression
+- [[facial-nerve]] — CN VII, CP angle surgery, parotid branches
+- [[vestibulocochlear-nerve]] — CN VIII, vestibular schwannoma origin
 - [[optic-chiasm]] — Visual pathway crossing, sellar region landmark
 
 ## References
@@ -43,9 +47,14 @@ title: Wiki Index
 - [[pterional-approach]] — Frontotemporal craniotomy, sylvian fissure access
 - [[retrosigmoid-approach]] — CP angle access, microvascular decompression
 - [[far-lateral-approach]] — Foramen magnum, lower clivus, vertebral artery
+- [[transsphenoidal-approach]] — Endonasal corridor to sellar region
 
 ## Synthesis
 
 - [[circle-of-willis]] — Cerebral arterial circle, variants, aneurysm sites
 - [[sylvian-fissure]] — Most important surgical corridor, MCA and venous contents
 - [[cavernous-sinus-contents]] — Lateral wall nerve order, surgical triangles
+
+---
+
+*29 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
