@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {"id":"title","x":0,"y":-50,"width":450,"height":80,"type":"text","text":"# Anterior Circulation Aneurysms\nICA → bifurcation sites → approach selection"},
+    {"id":"ica","x":0,"y":100,"width":200,"height":60,"type":"file","file":"entities/internal-carotid-artery.md","color":"4"},
+    {"id":"paraclinoid","x":-350,"y":250,"width":220,"height":60,"type":"file","file":"concepts/paraclinoid-ica.md","color":"1"},
+    {"id":"pcoa-an","x":-100,"y":250,"width":250,"height":60,"type":"text","text":"**PCoA Aneurysm**\nMost common → CN III palsy","color":"4"},
+    {"id":"acha-an","x":200,"y":250,"width":250,"height":60,"type":"text","text":"**AChA Aneurysm**\nPreserve AChA at all costs","color":"4"},
+    {"id":"bif-an","x":450,"y":250,"width":250,"height":60,"type":"text","text":"**ICA Bifurcation**\nLenticulostriates behind dome","color":"4"},
+    {"id":"acoa-an","x":-200,"y":400,"width":250,"height":60,"type":"file","file":"entities/anterior-communicating-artery.md","color":"4"},
+    {"id":"mca-an","x":200,"y":400,"width":250,"height":60,"type":"text","text":"**MCA Bifurcation**\nM1 → LSAs at risk","color":"4"},
+    {"id":"pterional","x":0,"y":550,"width":200,"height":60,"type":"file","file":"references/pterional-approach.md","color":"1"},
+    {"id":"oz","x":-300,"y":550,"width":250,"height":60,"type":"file","file":"references/orbitozygomatic-approach.md","color":"1"},
+    {"id":"interhem","x":300,"y":550,"width":250,"height":60,"type":"file","file":"references/interhemispheric-approach.md","color":"5"},
+    {"id":"perforators","x":0,"y":700,"width":250,"height":60,"type":"file","file":"synthesis/perforating-arteries.md","color":"6"},
+    {"id":"aneurysm-syn","x":300,"y":700,"width":250,"height":60,"type":"file","file":"synthesis/aneurysm-surgery.md","color":"6"},
+    {"id":"rule","x":-300,"y":700,"width":300,"height":50,"type":"text","text":"**RULE: Dissect perforators free from neck BEFORE clipping**","color":"4"},
+    {"id":"lsa","x":400,"y":300,"width":220,"height":50,"type":"file","file":"entities/lenticulostriate-arteries.md","color":"6"},
+    {"id":"heubner","x":-350,"y":450,"width":250,"height":50,"type":"file","file":"entities/recurrent-artery-of-heubner.md","color":"6"}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"ica","toNode":"paraclinoid","fromSide":"left","toSide":"top","label":"C4-C6"},
+    {"id":"e2","fromNode":"ica","toNode":"pcoa-an","fromSide":"bottom","toSide":"top","label":"PCoA origin"},
+    {"id":"e3","fromNode":"ica","toNode":"acha-an","fromSide":"right","toSide":"top","label":"AChA origin"},
+    {"id":"e4","fromNode":"ica","toNode":"bif-an","fromSide":"right","toSide":"top","label":"bifurcation"},
+    {"id":"e5","fromNode":"ica","toNode":"acoa-an","fromSide":"bottom","toSide":"top","label":"via A1→ACoA"},
+    {"id":"e6","fromNode":"ica","toNode":"mca-an","fromSide":"right","toSide":"top","label":"via M1 bif"},
+    {"id":"e7","fromNode":"pcoa-an","toNode":"pterional","fromSide":"bottom","toSide":"top","label":"approach"},
+    {"id":"e8","fromNode":"acha-an","toNode":"pterional","fromSide":"bottom","toSide":"top","label":"approach"},
+    {"id":"e9","fromNode":"paraclinoid","toNode":"oz","fromSide":"bottom","toSide":"top","label":"+ clinoidectomy"},
+    {"id":"e10","fromNode":"acoa-an","toNode":"pterional","fromSide":"bottom","toSide":"top","label":"standard"},
+    {"id":"e11","fromNode":"acoa-an","toNode":"interhem","fromSide":"bottom","toSide":"top","label":"high-riding"},
+    {"id":"e12","fromNode":"mca-an","toNode":"pterional","fromSide":"bottom","toSide":"top","label":"approach"},
+    {"id":"e13","fromNode":"bif-an","toNode":"lsa","fromSide":"right","toSide":"left","label":"at risk"},
+    {"id":"e14","fromNode":"acoa-an","toNode":"heubner","fromSide":"left","toSide":"right","label":"at risk"}
+  ]
+}

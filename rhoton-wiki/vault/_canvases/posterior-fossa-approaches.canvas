@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {"id":"title","x":0,"y":-50,"width":450,"height":80,"type":"text","text":"# Posterior Fossa Approach Selection\nTarget → Approach decision tree"},
+    {"id":"target","x":0,"y":100,"width":300,"height":60,"type":"text","text":"**What is the target?**","color":"6"},
+    {"id":"cpa","x":-400,"y":250,"width":200,"height":60,"type":"file","file":"concepts/cerebellopontine-cistern.md","color":"1"},
+    {"id":"4v","x":0,"y":250,"width":200,"height":60,"type":"file","file":"concepts/fourth-ventricle.md","color":"1"},
+    {"id":"fm-target","x":400,"y":250,"width":200,"height":60,"type":"file","file":"concepts/foramen-magnum.md","color":"1"},
+    {"id":"pineal","x":-200,"y":250,"width":200,"height":60,"type":"file","file":"concepts/pineal-region.md","color":"1"},
+    {"id":"clival","x":200,"y":250,"width":200,"height":60,"type":"file","file":"concepts/clivus.md","color":"1"},
+    {"id":"retro","x":-400,"y":450,"width":200,"height":60,"type":"file","file":"references/retrosigmoid-approach.md","color":"4"},
+    {"id":"telo","x":0,"y":450,"width":200,"height":60,"type":"file","file":"references/telovelar-approach.md","color":"4"},
+    {"id":"farlat","x":400,"y":450,"width":200,"height":60,"type":"file","file":"references/far-lateral-approach.md","color":"4"},
+    {"id":"scit","x":-200,"y":450,"width":250,"height":60,"type":"file","file":"references/supracerebellar-infratentorial-approach.md","color":"4"},
+    {"id":"eea","x":200,"y":450,"width":250,"height":60,"type":"file","file":"references/endoscopic-endonasal-approach.md","color":"4"},
+    {"id":"petrosal","x":100,"y":600,"width":250,"height":60,"type":"file","file":"references/combined-petrosal-approach.md","color":"4"},
+    {"id":"mfa","x":-400,"y":600,"width":200,"height":60,"type":"file","file":"references/middle-fossa-approach.md","color":"5"},
+    {"id":"retro-use","x":-400,"y":600,"width":250,"height":50,"type":"text","text":"VS schwannoma, MVD (TN, HFS), CPA meningioma","color":"3"},
+    {"id":"telo-use","x":0,"y":600,"width":250,"height":50,"type":"text","text":"4V ependymoma, medulloblastoma, choroid plexus","color":"3"},
+    {"id":"farlat-use","x":400,"y":600,"width":250,"height":50,"type":"text","text":"FM meningioma, VA aneurysm, CVJ lesions","color":"3"},
+    {"id":"scit-use","x":-200,"y":600,"width":250,"height":50,"type":"text","text":"Pinealoma, tectal glioma, galenic AVM","color":"3"},
+    {"id":"cn57","x":-500,"y":350,"width":200,"height":50,"type":"text","text":"CN V-VIII at risk","color":"6"},
+    {"id":"pica-r","x":100,"y":350,"width":200,"height":50,"type":"text","text":"Follow PICA as guide","color":"5"}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"target","toNode":"cpa","fromSide":"left","toSide":"top","label":"CP angle"},
+    {"id":"e2","fromNode":"target","toNode":"4v","fromSide":"bottom","toSide":"top","label":"4th ventricle"},
+    {"id":"e3","fromNode":"target","toNode":"fm-target","fromSide":"right","toSide":"top","label":"foramen magnum"},
+    {"id":"e4","fromNode":"target","toNode":"pineal","fromSide":"left","toSide":"top","label":"pineal"},
+    {"id":"e5","fromNode":"target","toNode":"clival","fromSide":"right","toSide":"top","label":"clivus"},
+    {"id":"e6","fromNode":"cpa","toNode":"retro","fromSide":"bottom","toSide":"top","label":"→"},
+    {"id":"e7","fromNode":"4v","toNode":"telo","fromSide":"bottom","toSide":"top","label":"→"},
+    {"id":"e8","fromNode":"fm-target","toNode":"farlat","fromSide":"bottom","toSide":"top","label":"→"},
+    {"id":"e9","fromNode":"pineal","toNode":"scit","fromSide":"bottom","toSide":"top","label":"→"},
+    {"id":"e10","fromNode":"clival","toNode":"eea","fromSide":"bottom","toSide":"top","label":"midline"},
+    {"id":"e11","fromNode":"clival","toNode":"petrosal","fromSide":"bottom","toSide":"top","label":"lateral"},
+    {"id":"e12","fromNode":"retro","toNode":"retro-use","fromSide":"bottom","toSide":"top"},
+    {"id":"e13","fromNode":"telo","toNode":"telo-use","fromSide":"bottom","toSide":"top"},
+    {"id":"e14","fromNode":"farlat","toNode":"farlat-use","fromSide":"bottom","toSide":"top"},
+    {"id":"e15","fromNode":"scit","toNode":"scit-use","fromSide":"bottom","toSide":"top"},
+    {"id":"e16","fromNode":"cpa","toNode":"cn57","fromSide":"left","toSide":"right"},
+    {"id":"e17","fromNode":"4v","toNode":"pica-r","fromSide":"right","toSide":"left"}
+  ]
+}

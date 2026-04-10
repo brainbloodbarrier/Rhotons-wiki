@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {"id":"ica-r","x":-300,"y":400,"width":200,"height":60,"type":"file","file":"entities/internal-carotid-artery.md","color":"4"},
+    {"id":"ica-l","x":300,"y":400,"width":200,"height":60,"type":"file","file":"entities/internal-carotid-artery.md","color":"4"},
+    {"id":"aca-r","x":-200,"y":200,"width":180,"height":60,"type":"file","file":"entities/anterior-cerebral-artery.md","color":"1"},
+    {"id":"aca-l","x":200,"y":200,"width":180,"height":60,"type":"file","file":"entities/anterior-cerebral-artery.md","color":"1"},
+    {"id":"acoa","x":0,"y":100,"width":200,"height":60,"type":"file","file":"entities/anterior-communicating-artery.md","color":"6"},
+    {"id":"mca-r","x":-500,"y":250,"width":180,"height":60,"type":"file","file":"entities/middle-cerebral-artery.md","color":"1"},
+    {"id":"mca-l","x":500,"y":250,"width":180,"height":60,"type":"file","file":"entities/middle-cerebral-artery.md","color":"1"},
+    {"id":"pcoa-r","x":-200,"y":500,"width":220,"height":60,"type":"file","file":"entities/posterior-communicating-artery.md","color":"5"},
+    {"id":"pcoa-l","x":200,"y":500,"width":220,"height":60,"type":"file","file":"entities/posterior-communicating-artery.md","color":"5"},
+    {"id":"pca-r","x":-200,"y":650,"width":200,"height":60,"type":"file","file":"entities/posterior-cerebral-artery.md","color":"4"},
+    {"id":"pca-l","x":200,"y":650,"width":200,"height":60,"type":"file","file":"entities/posterior-cerebral-artery.md","color":"4"},
+    {"id":"ba","x":0,"y":800,"width":200,"height":60,"type":"file","file":"entities/basilar-artery.md","color":"4"},
+    {"id":"va","x":0,"y":950,"width":200,"height":60,"type":"file","file":"entities/vertebral-artery.md","color":"4"},
+    {"id":"acha-r","x":-450,"y":450,"width":220,"height":60,"type":"file","file":"entities/anterior-choroidal-artery.md","color":"6"},
+    {"id":"oph-r","x":-450,"y":350,"width":200,"height":60,"type":"file","file":"entities/ophthalmic-artery.md","color":"6"},
+    {"id":"lsa","x":-600,"y":150,"width":220,"height":60,"type":"file","file":"entities/lenticulostriate-arteries.md","color":"3"},
+    {"id":"heubner","x":-350,"y":100,"width":250,"height":60,"type":"file","file":"entities/recurrent-artery-of-heubner.md","color":"3"},
+    {"id":"sca","x":-100,"y":750,"width":220,"height":60,"type":"file","file":"entities/superior-cerebellar-artery.md","color":"5"},
+    {"id":"title","x":-100,"y":-50,"width":400,"height":80,"type":"text","text":"# Circle of Willis\nComplete arterial circle with perforator branches"}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"ica-r","toNode":"aca-r","fromSide":"top","toSide":"bottom","label":"bifurcation"},
+    {"id":"e2","fromNode":"ica-l","toNode":"aca-l","fromSide":"top","toSide":"bottom","label":"bifurcation"},
+    {"id":"e3","fromNode":"ica-r","toNode":"mca-r","fromSide":"top","toSide":"bottom","label":"bifurcation"},
+    {"id":"e4","fromNode":"ica-l","toNode":"mca-l","fromSide":"top","toSide":"bottom","label":"bifurcation"},
+    {"id":"e5","fromNode":"aca-r","toNode":"acoa","fromSide":"right","toSide":"left","label":"A1→ACoA"},
+    {"id":"e6","fromNode":"aca-l","toNode":"acoa","fromSide":"left","toSide":"right","label":"A1→ACoA"},
+    {"id":"e7","fromNode":"ica-r","toNode":"pcoa-r","fromSide":"bottom","toSide":"top","label":"PCoA"},
+    {"id":"e8","fromNode":"ica-l","toNode":"pcoa-l","fromSide":"bottom","toSide":"top","label":"PCoA"},
+    {"id":"e9","fromNode":"pcoa-r","toNode":"pca-r","fromSide":"bottom","toSide":"top","label":"→P1"},
+    {"id":"e10","fromNode":"pcoa-l","toNode":"pca-l","fromSide":"bottom","toSide":"top","label":"→P1"},
+    {"id":"e11","fromNode":"ba","toNode":"pca-r","fromSide":"top","toSide":"bottom","label":"bifurcation"},
+    {"id":"e12","fromNode":"ba","toNode":"pca-l","fromSide":"top","toSide":"bottom","label":"bifurcation"},
+    {"id":"e13","fromNode":"va","toNode":"ba","fromSide":"top","toSide":"bottom","label":"confluence"},
+    {"id":"e14","fromNode":"ica-r","toNode":"acha-r","fromSide":"left","toSide":"right","label":"AChA"},
+    {"id":"e15","fromNode":"ica-r","toNode":"oph-r","fromSide":"left","toSide":"right","label":"ophthalmic"},
+    {"id":"e16","fromNode":"mca-r","toNode":"lsa","fromSide":"top","toSide":"bottom","label":"perforators"},
+    {"id":"e17","fromNode":"aca-r","toNode":"heubner","fromSide":"left","toSide":"right","label":"Heubner"},
+    {"id":"e18","fromNode":"ba","toNode":"sca","fromSide":"left","toSide":"right","label":"SCA"}
+  ]
+}
