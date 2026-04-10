@@ -23,7 +23,7 @@ drains-to:
 
 # Basal Vein of Rosenthal
 
-The basal vein of Rosenthal is one of the principal deep cerebral veins, encircling the [[brainstem]] from the [[anterior-perforated-substance]] to the [[vein-of-galen]] in the quadrigeminal cistern. It is a major conduit of the deep venous system, draining the basal surface of the brain, the medial temporal lobe, and deep hemispheric structures.
+The basal vein of Rosenthal is one of the principal [[deep-venous-system|deep cerebral veins]], encircling the [[brainstem]] from the [[anterior-perforated-substance]] to the [[vein-of-galen]] in the quadrigeminal cistern. It is a major conduit of the deep venous system, draining the basal surface of the brain, the medial [[cerebral-lobes|temporal lobe]], and deep hemispheric structures.
 
 ## Formation
 
@@ -38,24 +38,24 @@ The basal vein forms at the [[anterior-perforated-substance]] by the convergence
 ## Course — Three Segments
 
 ### 1. Anterior (Striate) Segment
-From the anterior perforated substance, the basal vein courses posteriorly beneath the [[optic-chiasm]] and optic tract. It receives the inferior striate veins and hypothalamic veins. The [[oculomotor-nerve]] exits the interpeduncular fossa medially.
+From the anterior perforated substance, the basal vein courses posteriorly beneath the [[optic-chiasm]] and [[optic-tract]]. It receives the inferior striate veins and hypothalamic veins. The [[oculomotor-nerve]] exits the [[interpeduncular-cistern|interpeduncular fossa]] medially.
 
 ### 2. Middle (Peduncular) Segment
 The vein passes along the [[cerebrum|cerebral peduncle]] through the crural cistern, coursing with the [[posterior-cerebral-artery]]. Here it receives:
 
 - **Inferior ventricular vein** — exits the temporal horn through the [[choroid-plexus|choroidal fissure]] and joins at the posterior edge of the peduncle
-- **Anterior hippocampal vein** — drains the sulcus between uncus and parahippocampal gyrus
+- **Anterior hippocampal vein** — drains the sulcus between [[uncus]] and parahippocampal gyrus
 - **Anterior longitudinal hippocampal vein** — courses along the dentate gyrus
 - **Peduncular veins** — drain the cerebral peduncle surface
 - **Uncal vein** — drains the uncus medially
 
 ### 3. Posterior (Ambient/Quadrigeminal) Segment
-The vein continues through the ambient cistern into the quadrigeminal cistern, where it terminates in the [[vein-of-galen]]. Tributaries include:
+The vein continues through the [[ambient-cistern]] into the quadrigeminal cistern, where it terminates in the [[vein-of-galen]]. Tributaries include:
 
 - **Lateral mesencephalic vein** — courses in the lateral mesencephalic sulcus
 - **Lateral anterior pontomesencephalic vein** — connects to pontine venous drainage
 - **Posterior thalamic veins** — drain the posterolateral [[thalamus]]
-- **Lateral atrial vein** — drains the lateral wall of the atrium of the lateral ventricle
+- **Lateral atrial vein** — drains the lateral wall of the atrium of the [[lateral-and-third-ventricles|lateral ventricle]]
 - **Medial temporal veins** — drain the inferomedial temporal surface
 
 ## Drainage Territories
@@ -76,7 +76,7 @@ The vein continues through the ambient cistern into the quadrigeminal cistern, w
 The basal vein courses in close parallel with the [[posterior-cerebral-artery]] through the crural and ambient cisterns. Both structures pass between the [[tentorial-incisura|uncus above and the brainstem below]], making this relationship critical during:
 
 - [[subtemporal-approach]] — temporal lobe elevation risks stretching the basal vein
-- [[posterior-cerebral-artery|PCA]] aneurysm surgery — the vein lies adjacent to the artery
+- [[posterior-cerebral-artery|PCA]] [[aneurysm-surgery]] — the vein lies adjacent to the artery
 - Transtentorial [[herniation-syndromes|herniation]] — compression of the basal vein against the tentorial edge
 
 ## Surgical Significance
@@ -94,7 +94,7 @@ Injury to the basal vein or its major tributaries can produce **venous infarctio
 | [[pterional-approach]] | Anterior segment at anterior perforated substance |
 | [[orbitozygomatic-approach]] | Same anterior exposure as pterional |
 
-### Pineal Region Surgery
+### [[pineal-region]] Surgery
 The terminal basal vein is a key obstacle in the quadrigeminal cistern, where it joins the [[vein-of-galen]]. Both the [[supracerebellar-infratentorial-approach]] and the occipital transtentorial approach must navigate this venous confluence. The basal vein's position defines the lateral boundary of safe dissection in the pineal region.
 
 ## Connections

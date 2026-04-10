@@ -73,7 +73,7 @@ The internal capsule is a compact white matter lamina carrying virtually all cor
 - Subcortical stimulation mapping at 2-5 mA identifies the corticospinal tract
 - The [[sylvian-fissure|transsylvian]] approach keeps the dissection lateral to the capsule
 
-### Aneurysm Surgery
+### [[aneurysm-surgery]]
 - [[middle-cerebral-artery|MCA]] aneurysm clipping must preserve [[lenticulostriate-arteries]] to protect the anterior capsule
 - [[anterior-choroidal-artery]] must be identified and preserved during [[internal-carotid-artery|ICA]] bifurcation and [[posterior-communicating-artery|PCoA]] aneurysm surgery
 - [[anterior-communicating-artery|ACoA]] aneurysm — [[recurrent-artery-of-heubner]] supplies the anterior limb

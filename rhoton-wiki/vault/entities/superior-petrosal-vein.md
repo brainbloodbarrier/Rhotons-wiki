@@ -30,7 +30,7 @@ The superior petrosal vein (vein of Dandy) is the most important bridging vein o
 ### Formation
 Formed by the confluence of tributaries near the [[trigeminal-nerve|trigeminal nerve]] posterior root:
 - **Transverse pontine vein** — from the ventral pons
-- **Vein of the middle cerebellar peduncle** — from the lateral [[cerebellum]] (petrosal surface)
+- **Vein of the [[cerebellar-peduncles|middle cerebellar peduncle]]** — from the lateral [[cerebellum]] (petrosal surface)
 - **Vein of the cerebellopontine fissure** — from the fissure between [[cerebellum]] and pons
 - **Pontotrigeminal vein** — from the region around CN V
 - **Common floccular vein** — from the flocculus near [[facial-nerve|CN VII]]/[[vestibulocochlear-nerve|CN VIII]]

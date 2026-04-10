@@ -20,12 +20,12 @@ parent: "[[cranial-base]]"
 
 # Infratemporal Fossa
 
-The infratemporal fossa is an irregularly shaped deep space below the middle cranial fossa, posterior to the maxilla, and medial to the ramus of the mandible. It is a critical corridor in lateral skull base approaches and contains the pterygoid muscles, mandibular nerve (V3), maxillary artery, and pterygoid venous plexus.
+The infratemporal fossa is an irregularly shaped deep space below the middle cranial fossa, posterior to the maxilla, and medial to the ramus of the mandible. It is a critical corridor in lateral skull base approaches and contains the pterygoid muscles, mandibular nerve (V3), [[maxillary-artery]], and pterygoid venous plexus.
 
 ## Boundaries
 
 - **Superior** — greater wing of the [[sphenoid-bone]] (infratemporal surface) and floor of the middle cranial fossa
-- **Medial** — lateral pterygoid plate ([[sphenoid-bone]]); communicates with the pterygopalatine fossa through the pterygomaxillary fissure
+- **Medial** — lateral pterygoid plate ([[sphenoid-bone]]); communicates with the [[pterygopalatine-fossa]] through the pterygomaxillary fissure
 - **Lateral** — ramus of the mandible and zygomatic arch
 - **Anterior** — posterior surface of the maxilla
 - **Posterior** — opens into the area around the carotid sheath, parapharyngeal space, and [[foramen-magnum]] region
@@ -39,7 +39,7 @@ The infratemporal fossa is an irregularly shaped deep space below the middle cra
 
 ### Vascular
 - **Maxillary artery** — the larger terminal branch of the external carotid; courses through the fossa giving off multiple branches (middle meningeal, inferior alveolar, deep temporal, buccal, sphenopalatine)
-- **Middle meningeal artery** — ascends through the foramen spinosum ([[sphenoid-bone]]) to supply the dura of the middle fossa
+- **[[middle-meningeal-artery]]** — ascends through the foramen spinosum ([[sphenoid-bone]]) to supply the dura of the middle fossa
 - **Pterygoid venous plexus** — extensive venous network around the pterygoid muscles; communicates with the [[cavernous-sinus]] via emissary veins through the foramen ovale and foramen of Vesalius
 
 ### Muscular
@@ -60,7 +60,7 @@ The infratemporal fossa is an irregularly shaped deep space below the middle cra
 ## Surgical Significance
 
 ### Preauricular infratemporal approach
-Provides lateral access to the middle and posterior cranial fossae, [[cavernous-sinus]], petrous [[internal-carotid-artery|ICA]], and jugular foramen. The zygomatic arch is removed and the mandibular condyle reflected to expose the fossa contents.
+Provides lateral access to the middle and posterior cranial fossae, [[cavernous-sinus]], petrous [[internal-carotid-artery|ICA]], and [[jugular-foramen]]. The zygomatic arch is removed and the mandibular condyle reflected to expose the fossa contents.
 
 ### Anterolateral approach to foramen magnum
 The infratemporal fossa opens posteriorly into the area around the carotid sheath and the [[vertebral-artery]] (ascending between C2 and C1 transverse processes). Removing fossa contents exposes the vertebral artery V3 segment laterally.

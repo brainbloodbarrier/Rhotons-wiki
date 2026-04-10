@@ -22,18 +22,18 @@ parent: "[[posterior-circulation]]"
 
 # Posterior Cerebral Artery
 
-The posterior cerebral artery (PCA) arises at the basilar bifurcation, is joined by the [[posterior-communicating-artery]] at the lateral margin of the interpeduncular cistern, and encircles the brainstem through the crural and ambient cisterns to reach the quadrigeminal cistern. It supplies not only the posterior cerebral hemisphere but also sends critical branches to the thalamus, midbrain, choroid plexus, and walls of the lateral and third ventricles.
+The posterior cerebral artery (PCA) arises at the basilar bifurcation, is joined by the [[posterior-communicating-artery]] at the lateral margin of the [[interpeduncular-cistern]], and encircles the [[brainstem]] through the crural and ambient [[basal-cisterns|cisterns]] to reach the quadrigeminal cistern. It supplies not only the posterior cerebral hemisphere but also sends critical branches to the [[thalamus]], midbrain, [[choroid-plexus]], and walls of the [[lateral-and-third-ventricles]].
 
 ## Embryology
 
-Embryologically, the PCA arises as a branch of the [[internal-carotid-artery]], but by birth its most frequent origin is from the basilar artery. A **fetal configuration** — where the PCA arises predominantly from the ICA via the [[posterior-communicating-artery]] (P1 smaller than PCoA) — persists in approximately one-third of hemispheres.
+Embryologically, the PCA arises as a branch of the [[internal-carotid-artery]], but by birth its most frequent origin is from the [[basilar-artery]]. A **fetal configuration** — where the PCA arises predominantly from the ICA via the [[posterior-communicating-artery]] (P1 smaller than PCoA) — persists in approximately one-third of hemispheres.
 
 ## Segments
 
-- **P1 (precommunicating)** — from basilar bifurcation to PCoA junction. Length: 3–14 mm (avg ~7 mm normal, ~9 mm fetal). Gives rise to thalamoperforating arteries, medial posterior choroidal artery, branches to quadrigeminal plate and cerebral peduncle
-- **P2 (ambient)** — from PCoA junction, courses through the crural and ambient cisterns around the cerebral peduncle. Divided into P2A (anterior to lateral geniculate body) and P2P (posterior). Major branches: lateral posterior choroidal, peduncular perforators, inferior temporal arteries
+- **P1 (precommunicating)** — from basilar bifurcation to PCoA junction. Length: 3–14 mm (avg ~7 mm normal, ~9 mm fetal). Gives rise to [[thalamoperforating-arteries]], [[posterior-choroidal-arteries|medial posterior choroidal artery]], branches to quadrigeminal plate and cerebral peduncle
+- **P2 (ambient)** — from PCoA junction, courses through the crural and ambient cisterns around the cerebral peduncle. Divided into P2A (anterior to lateral geniculate body) and P2P (posterior). Major branches: lateral posterior choroidal, peduncular [[perforating-arteries|perforators]], inferior temporal arteries
 - **P3 (quadrigeminal)** — courses through the quadrigeminal cistern. Gives rise to branches to the quadrigeminal plate, splenium, and medial occipital cortex
-- **P4 (calcarine/cortical)** — terminal cortical branches supplying the occipital lobe, including the calcarine artery to the primary visual cortex
+- **P4 (calcarine/cortical)** — terminal cortical branches supplying the [[cerebral-lobes|occipital lobe]], including the calcarine artery to the primary visual cortex
 
 ## Key Branches
 
@@ -42,24 +42,24 @@ Arise from the P1 and enter the brain through the posterior perforated substance
 
 ### Posterior Choroidal Arteries
 - **Medial posterior choroidal (MPChA)** — typically from P1 or proximal P2; encircles brainstem to supply choroid plexus of the third ventricle and lateral ventricle
-- **Lateral posterior choroidal (LPChA)** — from P2; enters temporal horn through choroidal fissure alongside the [[anterior-choroidal-artery]]
+- **Lateral posterior choroidal (LPChA)** — from P2; enters temporal horn through [[choroidal-fissure]] alongside the [[anterior-choroidal-artery]]
 
 ### Cortical Branches
 - Inferior temporal arteries (anterior, middle, posterior)
 - Calcarine artery — supplies primary visual cortex
-- Parieto-occipital artery
+- Parieto-[[occipital-artery]]
 - Splenial branches
 
 ## Basilar Bifurcation
 
 The basilar bifurcation may be located from 1.3 mm below the pontomesencephalic junction to as high as the mamillary bodies. Average separation between bifurcation and mamillary bodies: 8.1 mm (range 0–14 mm). Widening at the bifurcation gives a cobra-like appearance in 16% of cases.
 
-The oculomotor nerve (CN III) passes between the PCA above and the superior cerebellar artery below — a critical landmark during surgery.
+The [[oculomotor-nerve]] (CN III) passes between the PCA above and the [[superior-cerebellar-artery]] below — a critical landmark during surgery.
 
 ## Surgical Relevance
 
 - **Basilar apex aneurysms** are accessed via [[pterional-approach]] through the opticocarotid triangle or via subtemporal routes
-- The P2 segment is at risk during subtemporal approaches to the ambient cistern
+- The P2 segment is at risk during subtemporal approaches to the [[ambient-cistern]]
 - Thalamoperforating arteries must be preserved during surgery — their loss causes devastating thalamic and midbrain infarction
 - The PCA is intimately related to the tentorial edge and CN III in the [[tentorial-incisura]]
 

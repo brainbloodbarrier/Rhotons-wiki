@@ -31,7 +31,7 @@ The posterior petrosectomy encompasses a family of approaches through the mastoi
 ## Variants
 
 ### Retrolabyrinthine
-Mastoid bone removal **behind** the labyrinth (semicircular canals) and **anterior** to the [[dural-venous-sinuses|sigmoid sinus]]. Opens a corridor between the labyrinth and sigmoid sinus to the posterior fossa dura. **Preserves hearing.**
+Mastoid bone removal **behind** the labyrinth (semicircular canals) and **anterior** to the [[dural-venous-sinuses|sigmoid sinus]]. Opens a corridor between the labyrinth and [[sigmoid-sinus]] to the [[posterior-fossa]] dura. **Preserves hearing.**
 
 **Exposure:** Limited — posterior fossa dura behind the IAC. Best for small petroclival lesions, microvascular decompression of [[trigeminal-nerve|CN V]], or endolymphatic sac surgery.
 
@@ -41,16 +41,16 @@ Mastoid removal **through** the labyrinth (semicircular canals removed). **Sacri
 **Exposure:** Excellent — direct access to IAC fundus (Bill's bar / vertical crest), [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]], [[aica]] meatal loop, [[labyrinthine-artery]]. Standard approach for large vestibular schwannomas when hearing is already lost.
 
 ### Transcochlear
-Extension beyond translabyrinthine — the cochlea is drilled and [[facial-nerve|CN VII]] is transposed posteriorly. Provides the widest exposure of the petroclival region, clivus, and ventral [[brainstem]].
+Extension beyond translabyrinthine — the cochlea is drilled and [[facial-nerve|CN VII]] is transposed posteriorly. Provides the widest exposure of the petroclival region, [[clivus]], and ventral [[brainstem]].
 
 **Exposure:** Maximum lateral — [[basilar-artery]], ventral pons, petroclival junction. Reserved for extensive petroclival meningiomas or clival chordomas.
 
 ## Combined Petrosal Approach
 
-Combines [[anterior-petrosectomy]] (Kawase, from above) with posterior petrosectomy (retrolabyrinthine or translabyrinthine, from behind). The tentorium is divided, creating a unified supra-infratentorial presigmoid corridor:
+Combines [[anterior-petrosectomy]] (Kawase, from above) with posterior petrosectomy (retrolabyrinthine or translabyrinthine, from behind). The [[tentorium-cerebelli|tentorium]] is divided, creating a unified supra-infratentorial presigmoid corridor:
 
 **Steps:**
-1. Temporal craniotomy + temporal lobe elevation (middle fossa exposure)
+1. Temporal craniotomy + [[cerebral-lobes|temporal lobe]] elevation (middle fossa exposure)
 2. Kawase triangle drilling (anterior petrosectomy — see [[anterior-petrosectomy]])
 3. Mastoidectomy + retrolabyrinthine or translabyrinthine bone removal
 4. **Tentorial section** — from the petrous ridge toward the [[tentorial-incisura]], preserving the [[trochlear-nerve|CN IV]] at the free edge

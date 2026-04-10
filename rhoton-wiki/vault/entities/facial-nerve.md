@@ -28,10 +28,10 @@ The facial nerve provides motor innervation to the muscles of facial expression,
 
 1. **Brainstem** — motor nucleus in pons; nerve loops around abducens nucleus (facial colliculus in fourth ventricle floor)
 2. **Cisternal segment** — exits pontomedullary junction, courses through [[cerebellopontine-cistern]] alongside CN VIII
-3. **Internal auditory canal (meatal segment)** — travels in the anterosuperior compartment of the canal; the nervus intermedius (sensory/parasympathetic root) joins here
+3. **[[internal-auditory-canal]] (meatal segment)** — travels in the anterosuperior compartment of the canal; the nervus intermedius (sensory/parasympathetic root) joins here
 4. **Labyrinthine segment** — narrowest segment; courses between cochlea and vestibule to the geniculate ganglion
 5. **Tympanic segment** — courses along medial wall of middle ear
-6. **Mastoid segment** — descends through mastoid bone
+6. **Mastoid segment** — descends through [[temporal-bone|mastoid bone]]
 7. **Extracranial** — exits stylomastoid foramen, enters parotid gland, divides into temporal, zygomatic, buccal, marginal mandibular, and cervical branches
 
 ## Relation to Vestibular Schwannoma
@@ -59,5 +59,5 @@ In vestibular schwannomas, CN VII is typically displaced anteriorly and superior
 
 ## References
 
-- Rhoton, Ch.10 — The Posterior Cranial Fossa
+- Rhoton, Ch.10 — The [[posterior-fossa|Posterior Cranial Fossa]]
 - Rhoton, Ch.15 — Cerebellopontine Cistern

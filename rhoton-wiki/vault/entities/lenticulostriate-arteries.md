@@ -23,7 +23,7 @@ parent: "[[middle-cerebral-artery]]"
 
 # Lenticulostriate Arteries
 
-The lenticulostriate arteries are a group of small perforating branches that arise from the [[middle-cerebral-artery|MCA]] (lateral group) and [[anterior-cerebral-artery|ACA]] (medial group), pass through the [[anterior-perforated-substance]], and supply the [[basal-ganglia]] and internal capsule. They are the **most surgically critical perforating arteries** in the anterior circulation — their injury during aneurysm clipping or tumor surgery causes immediate contralateral hemiplegia.
+The lenticulostriate arteries are a group of small perforating branches that arise from the [[middle-cerebral-artery|MCA]] (lateral group) and [[anterior-cerebral-artery|ACA]] (medial group), pass through the [[anterior-perforated-substance]], and supply the [[basal-ganglia]] and [[internal-capsule]]. They are the **most surgically critical perforating arteries** in the anterior circulation — their injury during aneurysm clipping or tumor surgery causes immediate contralateral hemiplegia.
 
 ## Lateral Lenticulostriates
 
@@ -59,7 +59,7 @@ Pass through the medial portion of the [[anterior-perforated-substance]].
 - **Anterior limb of the internal capsule**
 - **Anterior commissure** (partial)
 
-## Recurrent Artery of Heubner
+## [[recurrent-artery-of-heubner]]
 
 The largest named perforator of the anterior circulation. Technically a separate entity, but functionally part of the lenticulostriate group.
 
@@ -73,7 +73,7 @@ Arises from proximal A2 of the [[anterior-cerebral-artery]] (or the A1-A2 juncti
 - **Nucleus accumbens**
 
 ### Surgical significance
-The Heubner artery is the perforator most frequently injured in [[anterior-communicating-artery|ACoA]] aneurysm surgery. It courses parallel and adjacent to A1, making it easy to confuse with a cortical branch or to incorporate into the clip.
+The Heubner artery is the perforator most frequently injured in [[anterior-communicating-artery|ACoA]] [[aneurysm-surgery]]. It courses parallel and adjacent to A1, making it easy to confuse with a cortical branch or to incorporate into the clip.
 
 ## Surgical Significance
 

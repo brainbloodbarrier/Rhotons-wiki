@@ -31,14 +31,14 @@ Cisternal veins ───→ Basal Veins of Rosenthal ──┘
 
 ### [[internal-cerebral-veins]]
 - **Formation**: behind the foramen of Monro (thalamostriate + superior choroidal veins → venous angle)
-- **Course**: velum interpositum in roof of [[lateral-and-third-ventricles|third ventricle]]
-- **Territory**: frontal horn, body, atrium walls; [[thalamus]], [[basal-ganglia|caudate]], septum, fornix
+- **Course**: [[velum-interpositum]] in roof of [[lateral-and-third-ventricles|third ventricle]]
+- **Territory**: frontal horn, body, atrium walls; [[thalamus]], [[basal-ganglia|caudate]], septum, [[fornix]]
 - **Termination**: unite above pineal to form [[vein-of-galen]]
 
 ### [[basal-vein-of-rosenthal]]
 - **Formation**: [[anterior-perforated-substance]] (anterior cerebral + deep sylvian + olfactory veins)
-- **Course**: encircles [[brainstem]] through crural → ambient → quadrigeminal cisterns
-- **Territory**: basal frontal surface, medial temporal lobe, [[hippocampus]], cerebral peduncle, lateral midbrain
+- **Course**: encircles [[brainstem]] through crural → ambient → quadrigeminal [[basal-cisterns|cisterns]]
+- **Territory**: basal frontal surface, medial [[cerebral-lobes|temporal lobe]], [[hippocampus]], cerebral peduncle, lateral midbrain
 - **Termination**: joins [[vein-of-galen]] in quadrigeminal cistern
 
 ### [[vein-of-galen]]
@@ -53,7 +53,7 @@ The ventricular veins arise from the walls of the lateral ventricles and converg
 
 | Group | Route | Drains Into |
 |---|---|---|
-| **Lateral group** | Through thalamic side of choroidal fissure | [[internal-cerebral-veins]], [[basal-vein-of-rosenthal\|basal vein]], [[vein-of-galen]] |
+| **Lateral group** | Through thalamic side of [[choroidal-fissure]] | [[internal-cerebral-veins]], [[basal-vein-of-rosenthal\|basal vein]], [[vein-of-galen]] |
 | **Medial group** | Pierces fornix to enter velum interpositum | [[internal-cerebral-veins]] |
 
 The lateral group drains the lateral wall (caudate), and the medial group drains the medial wall (septum, fornix) and opposite surfaces.

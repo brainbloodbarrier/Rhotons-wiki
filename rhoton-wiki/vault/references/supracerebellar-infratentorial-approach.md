@@ -26,7 +26,7 @@ approach-to:
 
 # Supracerebellar Infratentorial Approach
 
-The supracerebellar infratentorial approach accesses the **posterior incisural space** of the [[tentorial-incisura]] by retracting the cerebellar surface downward from the tentorium. It is the primary corridor to the pineal region, quadrigeminal cistern, and the posterior midbrain (tectum), approaching these structures from below the vein of Galen complex.
+The supracerebellar infratentorial approach accesses the **posterior incisural space** of the [[tentorial-incisura]] by retracting the cerebellar surface downward from the [[tentorium-cerebelli|tentorium]]. It is the primary corridor to the [[pineal-region]], quadrigeminal cistern, and the posterior midbrain (tectum), approaching these structures from below the [[vein-of-galen|vein of Galen complex]].
 
 ## Indications
 
@@ -45,7 +45,7 @@ Retraction directed steeply upward over the **apex of the vermis**. The venous c
 ### Paramedian
 Retraction shifted off the vermis to the **paramedian tentorial surface** lateral to the vermis. This variant:
 - Is not as steeply directed upward as the midline approach
-- Provides access to the lateral part of the quadrigeminal cistern and posterior ambient cistern
+- Provides access to the lateral part of the quadrigeminal cistern and posterior [[ambient-cistern]]
 - Gives greater access to the ipsilateral half of the cerebellomesencephalic fissure
 - Provides easier access to the superior and inferior colliculi with less retraction
 - Can be extended along the lateral cerebellar surface to expose the posterior ambient cistern
@@ -55,10 +55,10 @@ Retraction shifted off the vermis to the **paramedian tentorial surface** latera
 ### Arteries
 - [[posterior-cerebral-artery|PCA]] — exits the ambient cistern into the posterior incisural space
 - [[superior-cerebellar-artery|SCA]] — courses through the cerebellomesencephalic fissure; tentorial branches cross the exposure
-- Medial posterior choroidal artery — courses through the middle and posterior incisural spaces
+- [[posterior-choroidal-arteries|Medial posterior choroidal artery]] — courses through the middle and posterior incisural spaces
 
 ### Veins
-- **Vein of Galen** — the principal venous obstacle; receives the internal cerebral veins, basal veins, and the vein of the cerebellomesencephalic fissure
+- **Vein of Galen** — the principal venous obstacle; receives the [[internal-cerebral-veins]], basal veins, and the vein of the cerebellomesencephalic fissure
 - Internal cerebral veins — join the vein of Galen behind the pineal
 - [[cerebral-veins|Basal veins of Rosenthal]] — course through the ambient cistern to the vein of Galen
 - Superior vermian veins
@@ -69,11 +69,11 @@ Retraction shifted off the vermis to the **paramedian tentorial surface** latera
 - **Pineal gland** — midline, between the superior colliculi
 - **Superior and inferior colliculi** (quadrigeminal plate / tectum)
 - [[trochlear-nerve|CN IV]] — arises below the inferior colliculus; exposed at the dorsal midbrain
-- **Splenium of the corpus callosum** — visible above the vein of Galen
+- **Splenium of the [[corpus-callosum]]** — visible above the vein of Galen
 - Posterior commissure
 
 ### Fissures and cisterns
-- **Quadrigeminal cistern** — the target cistern, between the colliculi and the cerebellum
+- **Quadrigeminal cistern** — the target cistern, between the colliculi and the [[cerebellum]]
 - **Ambient cistern** — posterior portion accessible, especially in the paramedian variant
 - **Cerebellomesencephalic fissure** — deep fissure between midbrain and cerebellum containing SCA branches
 
@@ -89,11 +89,11 @@ Retraction shifted off the vermis to the **paramedian tentorial surface** latera
 | Cerebral peduncle | Limited | Accessible via crural cistern |
 | Tentorial section | Optional (combined approach) | Required (along straight sinus) |
 
-The approaches may be **combined** by dividing the tentorium and transverse sinus (if small and well-collateralized) to create a unified supra- and infratentorial corridor.
+The approaches may be **combined** by dividing the tentorium and [[transverse-sinus]] (if small and well-collateralized) to create a unified supra- and infratentorial corridor.
 
 ## Complications
 
-- **Venous injury** — sacrifice of bridging veins between cerebellar surface and tentorium; damage to the vein of Galen or its tributaries
+- **Venous injury** — sacrifice of [[bridging-veins]] between cerebellar surface and tentorium; damage to the vein of Galen or its tributaries
 - **Cerebellar retraction injury** — particularly if the approach is too steep over the vermis
 - **[[trochlear-nerve|CN IV]] injury** — the nerve arises in the operative field below the inferior colliculus
 - **Air embolism** — sitting position (if used) increases this risk

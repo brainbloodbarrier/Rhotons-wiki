@@ -24,7 +24,7 @@ parent: "[[cerebellum]]"
 
 # Cerebellar Peduncles
 
-The cerebellar peduncles are three paired fiber bundles that connect the [[cerebellum]] to the [[brainstem]]. They carry all afferent and efferent pathways of the cerebellum and serve as critical surgical landmarks for posterior fossa approaches and brainstem safe entry zones.
+The cerebellar peduncles are three paired fiber bundles that connect the [[cerebellum]] to the [[brainstem]]. They carry all afferent and efferent pathways of the cerebellum and serve as critical surgical landmarks for [[posterior-fossa]] approaches and brainstem safe entry zones.
 
 ## Three Peduncles
 
@@ -83,7 +83,7 @@ The peduncles define several safe entry zones into the [[brainstem]]:
 | [[subtemporal-approach]] | Superior peduncle (lateral mesencephalic sulcus) |
 
 ### Tumor Surgery
-Intrinsic brainstem tumors (gliomas) may expand a peduncle, and their resection must respect the fiber tracts within:
+Intrinsic brainstem tumors (gliomas) may expand a peduncle, and their resection must respect the [[white-matter-tracts|fiber tracts]] within:
 - **Superior peduncle injury** → cerebellar ataxia (dentatorubrothalamic outflow interrupted)
 - **Middle peduncle injury** → limb ataxia (corticopontocerebellar pathway)
 - **Inferior peduncle injury** → truncal ataxia, vestibular dysfunction

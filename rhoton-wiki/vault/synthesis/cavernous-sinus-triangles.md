@@ -28,7 +28,7 @@ The surgical triangles of the [[cavernous-sinus]] are defined by the cranial ner
 The triangles are organized from superior to inferior along the lateral wall of the [[cavernous-sinus]]:
 
 ### Clinoidal Triangle (Dolenc Triangle)
-- **Boundaries**: [[optic-nerve]] (medial), [[oculomotor-nerve|CN III]] (inferolateral), dura between optic foramen and [[anterior-clinoid-process]] (anterior)
+- **Boundaries**: [[optic-nerve]] (medial), [[oculomotor-nerve|CN III]] (inferolateral), dura between [[optic-canal|optic foramen]] and [[anterior-clinoid-process]] (anterior)
 - **Contents**: [[anterior-clinoid-process]], clinoid segment of [[internal-carotid-artery]]
 - **Access**: exposed by [[anterior-clinoid-process|clinoidectomy]]; provides access to the clinoid segment of the ICA
 - **Key risk**: [[ophthalmic-artery]] origin, upper/lower dural rings
@@ -53,14 +53,14 @@ The triangles are organized from superior to inferior along the lateral wall of 
 
 ### Anteroinferior (Lateral) Triangle
 - **Boundaries**: [[trigeminal-nerve|V2]] (superior), [[trigeminal-nerve|V3 (mandibular nerve)]] (inferior), line between foramen rotundum and foramen ovale
-- **Contents**: floor of middle fossa lateral to cavernous sinus; greater superficial petrosal nerve
+- **Contents**: floor of middle fossa lateral to cavernous sinus; [[greater-petrosal-nerve|greater superficial petrosal nerve]]
 - **Access**: extradural middle fossa approach to cavernous sinus floor
 - **Key risk**: [[middle-meningeal-artery]] at foramen spinosum
 
 ### Posteromedial (Kawase) Triangle
 - **Boundaries**: greater superficial petrosal nerve (lateral), [[trigeminal-nerve|V3 at foramen ovale]] (anterior), arcuate eminence/petrous ridge (posterior)
-- **Contents**: petrous apex bone covering the [[internal-carotid-artery|petrous ICA]]
-- **Access**: [[anterior-petrosectomy]] (Kawase approach) — drilling this triangle exposes the posterior fossa and lateral [[clivus]]
+- **Contents**: [[petrous-apex]] bone covering the [[internal-carotid-artery|petrous ICA]]
+- **Access**: [[anterior-petrosectomy]] (Kawase approach) — drilling this triangle exposes the [[posterior-fossa]] and lateral [[clivus]]
 - **Key risk**: [[internal-carotid-artery|petrous ICA]], cochlea, [[facial-nerve|geniculate ganglion]]
 
 ### Posterolateral (Glasscock) Triangle

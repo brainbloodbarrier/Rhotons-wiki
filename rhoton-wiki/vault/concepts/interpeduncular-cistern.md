@@ -68,7 +68,7 @@ The interpeduncular cistern (interpeduncular fossa) is the midline CSF space bet
 - They are **behind** the aneurysm and adherent to the neck — the most common cause of morbidity in basilar apex surgery
 - Temporary clipping of the basilar trunk must be brief (<5 min) to avoid bilateral perforator ischemia
 
-### Liliequist Membrane
+### [[meninges|Liliequist Membrane]]
 - The [[liliequist-membrane]] must be opened to access the interpeduncular cistern from the prechiasmatic/prepontine space
 - The membrane has two leaves: diencephalic (between mammillary bodies and dorsum sellae) and mesencephalic
 - Endoscopic third ventriculostomy perforates the floor of the third ventricle into this cistern

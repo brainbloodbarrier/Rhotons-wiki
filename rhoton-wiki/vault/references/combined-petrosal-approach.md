@@ -28,7 +28,7 @@ The combined petrosal approach unites an [[anterior-petrosectomy]] (Kawase) with
 
 ## Rationale
 
-Large petroclival lesions (meningiomas, chordomas, chondrosarcomas) extend across the [[clivus]] from the posterior clinoid process to the jugular tubercle, involving the middle and posterior fossae. No single approach provides adequate exposure of the entire petroclival surface. The combined petrosal approach solves this by:
+Large petroclival lesions (meningiomas, chordomas, chondrosarcomas) extend across the [[clivus]] from the posterior [[anterior-clinoid-process|clinoid process]] to the jugular tubercle, involving the middle and posterior fossae. No single approach provides adequate exposure of the entire petroclival surface. The combined petrosal approach solves this by:
 
 - Removing bone from **both sides** of the petrous ridge
 - Dividing the [[tentorium-cerebelli]] to connect the supra- and infratentorial exposures
@@ -41,7 +41,7 @@ A frontotemporal craniotomy exposes the middle fossa floor and the subtemporal d
 
 ### 2. [[anterior-petrosectomy]] (Kawase)
 - Drill the [[petrous-apex]] at the Kawase triangle (see [[cavernous-sinus-triangles]])
-- Exposes the **lateral [[clivus]]** and posterior fossa dura from above
+- Exposes the **lateral [[clivus]]** and [[posterior-fossa]] dura from above
 - Limits: [[internal-carotid-artery|petrous ICA]] (lateral), cochlea (posterolateral), [[facial-nerve|geniculate ganglion]]
 
 ### 3. [[posterior-petrosectomy]]
@@ -96,7 +96,7 @@ The combined approach provides a panoramic view of:
 - **Large petroclival meningiomas** extending from posterior clinoid to jugular tubercle
 - **Chordomas** of the petroclival region
 - **Chondrosarcomas** at the petroclival synchondrosis
-- **Epidermoids** extending across the tentorial hiatus
+- **Epidermoids** extending across the [[tentorial-incisura|tentorial hiatus]]
 - **Basilar trunk aneurysms** (mid-basilar)
 
 ## Connections

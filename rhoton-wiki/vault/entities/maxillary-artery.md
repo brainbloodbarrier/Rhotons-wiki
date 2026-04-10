@@ -20,7 +20,7 @@ parent: "[[anterior-circulation]]"
 
 # Maxillary Artery
 
-The maxillary artery is the larger terminal branch of the external carotid artery, coursing through the [[infratemporal-fossa]] and [[pterygopalatine-fossa]] to supply the deep face, nasal cavity, palate, dura, and upper teeth. It is the dominant extracranial artery encountered in lateral skull base surgery and the source of the [[middle-meningeal-artery]], [[sphenopalatine-artery]], and the descending palatine artery. In [[endoscopic-endonasal-approach|endoscopic endonasal surgery]], the maxillary artery is a critical landmark and potential source of catastrophic hemorrhage.
+The maxillary artery is the larger terminal branch of the external carotid artery, coursing through the [[infratemporal-fossa]] and [[pterygopalatine-fossa]] to supply the deep face, nasal cavity, palate, dura, and upper teeth. It is the dominant extracranial artery encountered in lateral [[cranial-base|skull base]] surgery and the source of the [[middle-meningeal-artery]], [[sphenopalatine-artery]], and the descending palatine artery. In [[endoscopic-endonasal-approach|endoscopic endonasal surgery]], the maxillary artery is a critical landmark and potential source of catastrophic hemorrhage.
 
 ## Anatomy
 
@@ -69,7 +69,7 @@ The maxillary artery is the larger terminal branch of the external carotid arter
 - The descending palatine artery contributes to the Kiesselbach plexus on the anterior septum (Little's area)
 
 ### EC-IC Bypass
-- The maxillary artery can serve as a **high-flow bypass donor** (superficial temporal artery being insufficient)
+- The maxillary artery can serve as a **high-flow bypass donor** ([[superficial-temporal-artery]] being insufficient)
 - Interposition graft from maxillary artery to [[middle-cerebral-artery|MCA]] for flow replacement after ICA sacrifice
 
 ## Relationships

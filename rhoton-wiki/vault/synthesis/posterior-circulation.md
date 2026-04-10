@@ -20,7 +20,7 @@ summary: >-
 
 # Posterior Circulation
 
-The posterior (vertebrobasilar) circulation supplies the [[brainstem]], [[cerebellum]], thalamus, occipital lobes, and medial temporal lobes. It is formed by the paired [[vertebral-artery|vertebral arteries]] merging into the single [[basilar-artery]], which terminates as the paired [[posterior-cerebral-artery|posterior cerebral arteries]]. The posterior circulation connects to the anterior circulation via the [[posterior-communicating-artery|PCoA]], completing the posterior limb of the [[circle-of-willis]].
+The posterior (vertebrobasilar) circulation supplies the [[brainstem]], [[cerebellum]], [[thalamus]], occipital lobes, and medial temporal lobes. It is formed by the paired [[vertebral-artery|vertebral arteries]] merging into the single [[basilar-artery]], which terminates as the paired [[posterior-cerebral-artery|posterior cerebral arteries]]. The posterior circulation connects to the [[anterior-circulation]] via the [[posterior-communicating-artery|PCoA]], completing the posterior limb of the [[circle-of-willis]].
 
 ## Arterial Hierarchy
 
@@ -28,7 +28,7 @@ The posterior (vertebrobasilar) circulation supplies the [[brainstem]], [[cerebe
 Subclavian arteries
   └── Vertebral arteries (V1–V4)
         ├── Posterior spinal arteries
-        ├── Anterior spinal artery
+        ├── [[anterior-spinal-artery]]
         ├── Posterior meningeal arteries
         ├── PICA (lower neurovascular complex)
         └── Basilar artery (at pontomedullary junction)
@@ -43,16 +43,16 @@ Subclavian arteries
 
 - **V1** (preforaminal) — subclavian origin to C6 transverse foramen
 - **V2** (foraminal) — C6–C2 transverse foramina
-- **V3** (atlantic) — suboccipital triangle, groove on C1 posterior arch
+- **V3** (atlantic) — [[suboccipital-triangle]], groove on C1 posterior arch
 - **V4** (intradural) — dural entry to vertebrobasilar junction
 
 Caliber: 4.4 mm at dural entry → 3.7 mm at termination. The left VA is dominant in most cases. The VA enters the [[posterior-fossa]] through the [[foramen-magnum]].
 
 ## PICA ([[pica]]) — Lower Neurovascular Complex
 
-Largest branch of the [[vertebral-artery]]. Five segments: anterior medullary → lateral medullary → tonsillomedullary → telovelotonsillar → cortical. Supplies the suboccipital cerebellar surface ([[cerebellum]]), choroid plexus of the fourth ventricle, and lateral medulla (perforators).
+Largest branch of the [[vertebral-artery]]. Five segments: anterior medullary → lateral medullary → tonsillomedullary → telovelotonsillar → cortical. Supplies the suboccipital cerebellar surface ([[cerebellum]]), [[choroid-plexus]] of the [[fourth-ventricle]], and lateral medulla (perforators).
 
-**Cranial nerve relations:** Courses among [[lower-cranial-nerves|CN IX–XII]] rootlets at the medulla. The telovelar approach follows the PICA through the cerebellomedullary fissure.
+**Cranial nerve relations:** Courses among [[lower-cranial-nerves|CN IX–XII]] rootlets at the medulla. The [[telovelar-approach]] follows the PICA through the [[cerebellomedullary-fissure]].
 
 ## Basilar Artery ([[basilar-artery]])
 
@@ -62,7 +62,7 @@ Formed at the pontomedullary junction. Length 20–40 mm, diameter 5–6 mm at o
 
 ## AICA ([[aica]]) — Middle Neurovascular Complex
 
-Arises from the lower half of the [[basilar-artery]]. Courses around the pons near [[abducens-nerve|CN VI]], [[facial-nerve|CN VII]], and [[vestibulocochlear-nerve|CN VIII]]. The **meatal loop** enters or approaches the internal auditory canal. Gives rise to the **labyrinthine artery** (inner ear supply).
+Arises from the lower half of the [[basilar-artery]]. Courses around the pons near [[abducens-nerve|CN VI]], [[facial-nerve|CN VII]], and [[vestibulocochlear-nerve|CN VIII]]. The **meatal loop** enters or approaches the [[internal-auditory-canal]]. Gives rise to the **[[labyrinthine-artery]]** (inner ear supply).
 
 Supplies the petrosal cerebellar surface ([[cerebellum]]), middle cerebellar peduncle, and lateral pons.
 
@@ -75,13 +75,13 @@ Supplies the tentorial cerebellar surface ([[cerebellum]]) and is the most commo
 ## PCA ([[posterior-cerebral-artery]]) — Terminal Bifurcation
 
 - **P1** — [[basilar-artery]] apex to [[posterior-communicating-artery|PCoA]] junction (completes [[circle-of-willis]])
-- **P2** — ambient cistern, around the midbrain
+- **P2** — [[ambient-cistern]], around the midbrain
 - **P3** — quadrigeminal cistern
 - **P4** — cortical branches to occipital and medial temporal lobes
 
-Gives rise to thalamoperforating arteries (P1), medial and lateral posterior choroidal arteries (P2), and cortical branches supplying visual cortex.
+Gives rise to [[thalamoperforating-arteries]] (P1), medial and lateral [[posterior-choroidal-arteries]] (P2), and cortical branches supplying visual cortex.
 
-## Perforating Arteries
+## [[perforating-arteries]]
 
 The most surgically critical feature of the posterior circulation — tiny branches invisible on imaging:
 
@@ -89,8 +89,8 @@ The most surgically critical feature of the posterior circulation — tiny branc
 |---|---|---|
 | [[vertebral-artery]] | Medullary perforators | Pyramids, lateral medulla |
 | [[basilar-artery]] | Pontine perforators | Corticospinal tracts, pontine nuclei, tegmentum |
-| [[posterior-cerebral-artery\|PCA]] P1 | Thalamoperforating | Thalamus, posterior limb of internal capsule |
-| [[superior-cerebellar-artery\|SCA]] | Circumflex perforating | Inferior colliculus, superior cerebellar peduncle |
+| [[posterior-cerebral-artery\|PCA]] P1 | Thalamoperforating | Thalamus, posterior limb of [[internal-capsule]] |
+| [[superior-cerebellar-artery\|SCA]] | Circumflex perforating | Inferior colliculus, [[cerebellar-peduncles|superior cerebellar peduncle]] |
 
 **Perforator injury = brainstem infarction.** This is the principal constraint in posterior circulation surgery.
 
@@ -104,7 +104,7 @@ The most surgically critical feature of the posterior circulation — tiny branc
 | [[basilar-artery]] apex aneurysm | [[pterional-approach]] (high), [[subtemporal-approach]] (low) |
 | [[superior-cerebellar-artery\|SCA]] / trigeminal decompression | [[retrosigmoid-approach]], [[subtemporal-approach]] |
 | [[posterior-cerebral-artery\|PCA]] aneurysm | [[subtemporal-approach]], [[pterional-approach]] |
-| Pineal region (SCA territory) | [[supracerebellar-infratentorial-approach]] |
+| [[pineal-region]] (SCA territory) | [[supracerebellar-infratentorial-approach]] |
 | Clival lesions | [[transsphenoidal-approach\|Transclival]], Kawase petrosectomy |
 
 See [[surgical-approaches-overview]] for the complete approach-target matrix.

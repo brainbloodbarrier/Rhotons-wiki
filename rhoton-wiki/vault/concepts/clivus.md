@@ -47,7 +47,7 @@ The spheno-occipital synchondrosis fuses between ages 12–20 and is a common si
 - **Basilar venous plexus** — sits on the clival dura between the layers of the [[meninges]], connecting the [[cavernous-sinus|cavernous sinuses]] and inferior petrosal sinuses
 
 ### Lateral
-- **Petroclival fissure** — junction of the petrous apex of the [[temporal-bone]] with the clivus; the inferior petrosal sinus courses along this fissure
+- **Petroclival fissure** — junction of the [[petrous-apex]] of the [[temporal-bone]] with the clivus; the inferior petrosal sinus courses along this fissure
 - **[[meckels-cave]]** — trigeminal ganglion housing, lateral to the upper clivus
 - **Petrous apex** — interposed between the greater sphenoid wing and the clival part of the occipital bone
 
@@ -58,7 +58,7 @@ The spheno-occipital synchondrosis fuses between ages 12–20 and is a common si
 | Approach | Target | Key Features |
 |---|---|---|
 | [[transsphenoidal-approach]] (extended endonasal) | Upper and middle clivus | Through [[paranasal-sinuses\|sphenoid sinus]]; direct midline access |
-| Transoral/transpalatal | Lower clivus, craniocervical junction | Pharyngeal route; limited lateral access |
+| Transoral/transpalatal | Lower clivus, [[craniocervical-junction]] | Pharyngeal route; limited lateral access |
 | Transmaxillary | Middle and lower clivus | Maxillary antrostomy with clivus exposure |
 
 ### Lateral Approaches
@@ -89,7 +89,7 @@ The clivus is one of the thickest bones of the skull base. The thickest bone is 
 - **Chondrosarcomas** — arise from the petroclival synchondrosis cartilage
 
 ### Vascular Relations
-The [[basilar-artery]] and its perforating branches lie directly on the clival dura. Drilling through the clivus during endonasal approaches risks injury to the basilar artery, and the basilar venous plexus causes significant bleeding during clival bone removal.
+The [[basilar-artery]] and its [[perforating-arteries|perforating branches]] lie directly on the clival dura. Drilling through the clivus during endonasal approaches risks injury to the basilar artery, and the basilar venous plexus causes significant bleeding during clival bone removal.
 
 ## Connections
 

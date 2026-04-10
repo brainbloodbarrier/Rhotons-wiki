@@ -25,7 +25,7 @@ approach-to:
 
 # Transsphenoidal Approach
 
-The transsphenoidal approach is the most common route for pituitary surgery, accessing the [[sellar-region]] from below through the nasal cavity and sphenoid sinus without brain retraction.
+The transsphenoidal approach is the most common route for pituitary surgery, accessing the [[sellar-region]] from below through the nasal cavity and [[paranasal-sinuses|sphenoid sinus]] without brain retraction.
 
 ## Routes
 
@@ -37,9 +37,9 @@ The transsphenoidal approach is the most common route for pituitary surgery, acc
 ## Anatomy Along the Corridor
 
 1. **Nasal cavity** — septum (vomer + perpendicular plate of ethmoid), conchae laterally
-2. **Sphenoethmoidal recess** — location of sphenoid ostia
+2. **Sphenoethmoidal recess** — location of [[sphenoid-bone|sphenoid]] ostia
 3. **Sphenoid sinus** — directly below the sella; variable pneumatization (conchal, presellar, sellar)
-4. **Sellar floor** — thin bone (often dehiscent) separating sinus from pituitary gland
+4. **Sellar floor** — thin bone (often dehiscent) separating sinus from [[pituitary-gland]]
 5. **Diaphragma sellae** — dural fold above the gland with opening for the infundibulum
 
 ## Key Relations at Depth
@@ -64,7 +64,7 @@ The transsphenoidal approach is the most common route for pituitary surgery, acc
 - [[optic-nerve|CN II]] and [[optic-chiasm]] form the superior boundary
 - [[cavernous-sinus]] lateral to the sella — contains [[oculomotor-nerve|CN III]], [[trochlear-nerve|CN IV]], [[abducens-nerve|CN VI]]
 - [[anterior-communicating-artery]] and [[anterior-cerebral-artery]] above the chiasm
-- Extended variant reaches clivus ([[basilar-artery]], [[brainstem]], [[foramen-magnum]])
+- Extended variant reaches [[clivus]] ([[basilar-artery]], [[brainstem]], [[foramen-magnum]])
 - See [[surgical-approaches-overview]] and [[cranial-nerves-overview]]
 - [[basal-cisterns]] (suprasellar/chiasmatic cistern) entered in suprasellar extension
 

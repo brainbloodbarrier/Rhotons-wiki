@@ -22,11 +22,11 @@ summary: >-
 
 # Circle of Willis
 
-The circle of Willis (circulus arteriosus cerebri) is the principal arterial anastomosis at the base of the brain, connecting the anterior and posterior cerebral circulations. It encircles the optic chiasm, infundibulum, and interpeduncular fossa.
+The circle of Willis (circulus arteriosus cerebri) is the principal arterial anastomosis at the base of the brain, connecting the anterior and posterior cerebral circulations. It encircles the [[optic-chiasm]], infundibulum, and [[interpeduncular-cistern|interpeduncular fossa]].
 
 ## Components
 
-### Anterior Circulation
+### [[anterior-circulation]]
 - **[[internal-carotid-artery]]** (bilateral) — C4 supraclinoid segments form the lateral walls
 - **[[anterior-cerebral-artery]]** — A1 segments connect the ICA to the ACoA
 - **[[anterior-communicating-artery]]** — completes the anterior circle, connecting bilateral A1 segments
@@ -62,11 +62,11 @@ The circle of Willis and its branches are the most common locations for intracra
 
 ## Surgical Exposure
 
-The anterior circle is exposed via the [[pterional-approach]], working through the [[sylvian-fissure]] and opticocarotid triangle. The posterior circle (basilar apex) is accessed through the same approach by deepening the exposure between the ICA and optic tract, or via subtemporal routes.
+The anterior circle is exposed via the [[pterional-approach]], working through the [[sylvian-fissure]] and opticocarotid triangle. The posterior circle (basilar apex) is accessed through the same approach by deepening the exposure between the ICA and [[optic-tract]], or via subtemporal routes.
 
 Key landmarks:
-- **Opticocarotid triangle** — between ICA, A1, and optic nerve; provides access to PCoA and basilar apex
-- **Lamina terminalis** — thin membrane posterior to the ACoA; can be opened for CSF drainage during aneurysm surgery
+- **Opticocarotid triangle** — between ICA, A1, and [[optic-nerve]]; provides access to PCoA and basilar apex
+- **[[lamina-terminalis]]** — thin membrane posterior to the ACoA; can be opened for CSF drainage during [[aneurysm-surgery]]
 
 ## Related Pages
 

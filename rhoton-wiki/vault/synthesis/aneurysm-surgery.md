@@ -52,10 +52,10 @@ The most dangerous aspect of aneurysm surgery is injury to perforating arteries,
 |---|---|---|
 | ACoA | [[recurrent-artery-of-heubner]], hypothalamic perforators via [[lamina-terminalis]] | Caudate infarction, memory loss |
 | PCoA | Premamillary (anterior thalamoperforating) artery | Thalamic infarction |
-| MCA bifurcation | [[lenticulostriate-arteries]] (lateral group) | Basal ganglia infarction, hemiplegia |
-| Ophthalmic | [[superior-hypophyseal-artery]], [[optic-nerve]] supply | Pituitary dysfunction, visual loss |
+| MCA bifurcation | [[lenticulostriate-arteries]] (lateral group) | [[basal-ganglia]] infarction, hemiplegia |
+| Ophthalmic | [[superior-hypophyseal-artery]], [[optic-nerve]] supply | [[pituitary-gland|Pituitary]] dysfunction, visual loss |
 | Basilar apex | [[thalamoperforating-arteries]] (posterior perforated substance) | Bilateral thalamic infarction, coma |
-| SCA | Brainstem perforators from SCA | Cerebellar/brainstem infarction |
+| SCA | [[brainstem]] perforators from SCA | Cerebellar/brainstem infarction |
 | PICA | Medullary perforators | Lower brainstem infarction |
 
 ## Cranial Nerve Relationships
@@ -64,7 +64,7 @@ The most dangerous aspect of aneurysm surgery is injury to perforating arteries,
 |---|---|---|
 | PCoA | [[oculomotor-nerve\|CN III]] | Aneurysm compresses CN III at PCA-SCA interval (classic "pupil-involving third nerve palsy") |
 | Basilar apex | [[oculomotor-nerve\|CN III]] | Between PCA and SCA |
-| SCA | [[trochlear-nerve\|CN IV]], [[trigeminal-nerve\|CN V]] | SCA-CN V relationship |
+| SCA | [[trochlear-nerve\|CN IV]], [[trigeminal-nerve\|CN V]] | SCA-[[trigeminal-nerve|CN V]] relationship |
 | AICA | [[facial-nerve\|CN VII]], [[vestibulocochlear-nerve\|CN VIII]] | Meatal loop at IAC |
 | PICA | [[lower-cranial-nerves\|CN IX-XII]] | Rootlets at brainstem exit |
 | Ophthalmic | [[optic-nerve\|CN II]] | Aneurysm projects under optic nerve |
@@ -85,7 +85,7 @@ The most dangerous aspect of aneurysm surgery is injury to perforating arteries,
 ### Temporary Clipping
 Temporary occlusion of the parent artery softens the aneurysm for definitive clipping. Tolerance depends on collateral circulation via the [[circle-of-willis]].
 
-## Approach Selection Principles
+## [[surgical-approaches-overview|Approach Selection]] Principles
 
 | Factor | Consideration |
 |---|---|

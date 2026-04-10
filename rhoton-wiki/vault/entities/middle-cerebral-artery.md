@@ -25,7 +25,7 @@ The middle cerebral artery (MCA) is the largest and most complex of the cerebral
 
 ## Origin and Course
 
-The MCA originates at the medial end of the [[sylvian-fissure]], lateral to the [[optic-chiasm]], below the anterior perforated substance. It courses laterally below the anterior perforated substance, parallel to and approximately 1 cm posterior to the sphenoid ridge. As it passes beneath the anterior perforated substance, it gives off lenticulostriate perforating arteries. It divides within the [[sylvian-fissure]] and turns sharply posterosuperiorly at the **genu** to reach the insular surface.
+The MCA originates at the medial end of the [[sylvian-fissure]], lateral to the [[optic-chiasm]], below the [[anterior-perforated-substance]]. It courses laterally below the anterior perforated substance, parallel to and approximately 1 cm posterior to the [[sphenoid-bone|sphenoid]] ridge. As it passes beneath the anterior perforated substance, it gives off lenticulostriate [[perforating-arteries]]. It divides within the [[sylvian-fissure]] and turns sharply posterosuperiorly at the **genu** to reach the insular surface.
 
 ## Segments
 
@@ -41,7 +41,7 @@ The main trunk divides in one of three patterns:
 - **Trifurcation** (12%) — superior, middle, and inferior trunks
 - **Multiple branches** (10%) — four or more trunks
 
-## Lenticulostriate Arteries
+## [[lenticulostriate-arteries]]
 
 The perforating branches of the MCA are the **lenticulostriate arteries** — averaging 10 per hemisphere (range 1–21). They enter the anterior perforated substance and are divided into three groups:
 
@@ -49,13 +49,13 @@ The perforating branches of the MCA are the **lenticulostriate arteries** — av
 - **Intermediate group** — present in >90%; distinctive for having a major artery that arborizes into up to 30 branches before entering the anterior perforated substance
 - **Lateral group** — most constant; largest caliber of the three groups
 
-These arteries supply the basal ganglia, internal capsule, and adjacent structures. They are critical "arteries of stroke" that cannot be sacrificed.
+These arteries supply the basal ganglia, [[internal-capsule]], and adjacent structures. They are critical "arteries of stroke" that cannot be sacrificed.
 
 ## Surgical Relevance
 
 MCA branches are exposed in most supratentorial operations. Key considerations:
 - The [[sylvian-fissure]] is the primary corridor for accessing MCA pathology
-- Lenticulostriate arteries must be preserved during aneurysm surgery at the MCA bifurcation
+- Lenticulostriate arteries must be preserved during [[aneurysm-surgery]] at the MCA bifurcation
 - The [[pterional-approach]] is the standard approach for MCA aneurysms
 - Microsurgical bypass to the MCA is used to restore blood flow in occlusive disease
 
@@ -63,7 +63,7 @@ MCA branches are exposed in most supratentorial operations. Key considerations:
 
 - Arises from [[internal-carotid-artery]] bifurcation (lateral to [[anterior-cerebral-artery]])
 - Courses within the [[sylvian-fissure]]
-- Lenticulostriate branches supply basal ganglia and internal capsule
+- Lenticulostriate branches supply [[basal-ganglia|basal ganglia and internal capsule]]
 - Terminal branches supply lateral frontal, parietal, temporal, and occipital cortex
 
 ## References

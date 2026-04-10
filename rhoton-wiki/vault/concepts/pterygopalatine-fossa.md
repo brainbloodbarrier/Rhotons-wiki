@@ -21,7 +21,7 @@ parent: "[[cranial-base]]"
 
 # Pterygopalatine Fossa
 
-The pterygopalatine fossa (PPF) is a small, inverted pyramidal space deep to the maxilla that functions as a neurovascular crossroads between the [[orbit]], nasal cavity, [[infratemporal-fossa]], [[cranial-base|middle cranial fossa]], and oral cavity. It contains the terminal branches of the maxillary artery, the maxillary nerve (V2) and its branches, and the pterygopalatine ganglion — the largest parasympathetic relay outside the cranial cavity.
+The pterygopalatine fossa (PPF) is a small, inverted pyramidal space deep to the maxilla that functions as a neurovascular crossroads between the [[orbit]], nasal cavity, [[infratemporal-fossa]], [[cranial-base|middle cranial fossa]], and oral cavity. It contains the terminal branches of the [[maxillary-artery]], the maxillary nerve (V2) and its branches, and the pterygopalatine ganglion — the largest parasympathetic relay outside the cranial cavity.
 
 ## Boundaries
 
@@ -52,12 +52,12 @@ The pterygopalatine fossa (PPF) is a small, inverted pyramidal space deep to the
   - **Zygomatic nerve** — enters the [[orbit]] via inferior orbital fissure
   - **Superior alveolar nerves** — to the upper teeth
   - **Communicating rami** — to the pterygopalatine ganglion
-- **Pterygopalatine ganglion** — parasympathetic relay; receives preganglionic fibers from the facial nerve ([[facial-nerve|CN VII]]) via the greater petrosal nerve → Vidian nerve; postganglionic fibers reach the lacrimal gland (via zygomatic → lacrimal nerve), nasal glands, and palatal glands
+- **Pterygopalatine ganglion** — parasympathetic relay; receives preganglionic fibers from the facial nerve ([[facial-nerve|CN VII]]) via the [[greater-petrosal-nerve]] → Vidian nerve; postganglionic fibers reach the lacrimal gland (via zygomatic → lacrimal nerve), nasal glands, and palatal glands
 - **Vidian nerve** — enters through the Vidian (pterygoid) canal; composed of the greater petrosal nerve (parasympathetic from [[facial-nerve|CN VII]]) and the deep petrosal nerve (sympathetic from the [[internal-carotid-artery|ICA]] plexus)
 
 ### Vascular
 - **Maxillary artery** (terminal part) — enters from the [[infratemporal-fossa]] through the pterygomaxillary fissure; gives rise to:
-  - **Sphenopalatine artery** — principal supply to the nasal cavity; the most common source of posterior epistaxis
+  - **[[sphenopalatine-artery]]** — principal supply to the nasal cavity; the most common source of posterior epistaxis
   - **Descending palatine artery** — to the hard and soft palate
   - **Infraorbital artery** — courses through the orbital floor
   - **Pharyngeal artery** — to the nasopharynx and eustachian tube
@@ -74,7 +74,7 @@ The PPF is accessed endoscopically through the sphenopalatine foramen (transpter
 ### Juvenile nasopharyngeal angiofibroma
 These hypervascular tumors arise in the PPF from the region of the sphenopalatine foramen. The maxillary artery is the principal feeder. Resection requires preoperative embolization and careful dissection around V2 and the Vidian canal.
 
-### Extended transsphenoidal approaches
+### [[endoscopic-endonasal-approach|Extended transsphenoidal]] approaches
 The PPF is the lateral extension corridor in expanded endonasal surgery ([[transsphenoidal-approach]]). The Vidian canal is a landmark for the petrous ICA — the ICA is just posterolateral to the canal's posterior opening.
 
 ### Trigeminal nerve access
@@ -97,4 +97,4 @@ V2 can be followed from the PPF through foramen rotundum back to [[meckels-cave]
 
 - Rhoton, Ch.6 — The Anterior and Middle Cranial Base (PPF anatomy, communications)
 - Rhoton, Ch.7 — The Orbit (inferior orbital fissure, infraorbital nerve)
-- Rhoton, Ch.8 — The Sellar Region (extended endonasal corridors, Vidian canal landmark)
+- Rhoton, Ch.8 — The [[sellar-region]] (extended endonasal corridors, Vidian canal landmark)

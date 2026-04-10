@@ -25,16 +25,16 @@ The corpus callosum is the largest white matter commissure in the brain, connect
 ## Parts (anterior to posterior)
 
 ### Rostrum
-The thin, recurved portion that projects posteroinferiorly from the genu to blend with the lamina terminalis and anterior commissure. Located above the [[optic-chiasm]].
+The thin, recurved portion that projects posteroinferiorly from the genu to blend with the [[lamina-terminalis]] and anterior commissure. Located above the [[optic-chiasm]].
 
 ### Genu
 The anterior curved portion. The [[anterior-cerebral-artery|ACA]] (A3 precallosal segment) curves around the genu. The forceps minor (frontal) fibers radiate anteriorly from the genu.
 
 ### Body
-The central portion forming the roof of the lateral ventricle body. The **pericallosal artery** courses in the callosal sulcus on the superior surface. The fornix is attached to the undersurface of the body via the septum pellucidum.
+The central portion forming the roof of the lateral ventricle body. The **pericallosal artery** courses in the callosal sulcus on the superior surface. The [[fornix]] is attached to the undersurface of the body via the septum pellucidum.
 
 ### Splenium
-The thick, rounded posterior end. The forceps major (occipital) fibers radiate posteriorly. The internal cerebral veins and vein of Galen pass beneath the splenium. Related to the posterior incisural space of the [[tentorial-incisura]] and the pineal region.
+The thick, rounded posterior end. The forceps major (occipital) fibers radiate posteriorly. The [[internal-cerebral-veins]] and [[vein-of-galen]] pass beneath the splenium. Related to the posterior incisural space of the [[tentorial-incisura]] and the [[pineal-region]].
 
 ## Vascular Relations
 
@@ -72,7 +72,7 @@ The callosum is the key landmark for entering the ventricle during transcortical
 - [[posterior-cerebral-artery]] (splenial branch) supplies the splenium — see [[posterior-circulation]]
 - [[cerebral-veins]] (internal cerebral veins, vein of Galen) course beneath the splenium
 - Separated from the cingulate gyrus by the callosal sulcus
-- Fornix attached to undersurface — pathway from hippocampus ([[cerebrum]]) to mamillary bodies
+- Fornix attached to undersurface — pathway from [[hippocampus]] ([[cerebrum]]) to mamillary bodies
 - Septum pellucidum spans between callosum and fornix, separating the lateral ventricles
 - Genu related to [[optic-chiasm]] and lamina terminalis anteriorly
 - Splenium related to [[tentorial-incisura]] (posterior incisural space) and pineal
@@ -81,6 +81,6 @@ The callosum is the key landmark for entering the ventricle during transcortical
 
 ## References
 
-- Rhoton, Ch.1 — The Cerebrum (callosal anatomy, white matter tracts)
+- Rhoton, Ch.1 — The Cerebrum (callosal anatomy, [[white-matter-tracts]])
 - Rhoton, Ch.2 — The Supratentorial Arteries (pericallosal and callosomarginal arteries)
 - Rhoton, Ch.5 — The Lateral and Third Ventricles (transcallosal approach, callosal-ventricular relations)

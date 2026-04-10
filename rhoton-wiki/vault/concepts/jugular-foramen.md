@@ -84,7 +84,7 @@ Below the jugular foramen, in the infrapetrosal space:
 |---|---|---|
 | [[far-lateral-approach]] | Posterior/inferior foramen | Condylar drilling extends exposure |
 | [[retrosigmoid-approach]] | Intracranial surface | CN IX-XI visible in CPA cistern |
-| Infratemporal fossa approach (Fisch) | Lateral/inferior foramen | Transposes facial nerve, exposes jugular bulb |
+| [[infratemporal-fossa]] approach (Fisch) | Lateral/inferior foramen | Transposes [[facial-nerve]], exposes jugular bulb |
 | Transcondylar approach | Medial foramen | Occipital condyle drilling |
 
 ## Clinical Significance
@@ -98,7 +98,7 @@ Below the jugular foramen, in the infrapetrosal space:
 Combined palsies of CN IX, X, and XI (Vernet syndrome) produce dysphagia, hoarseness, loss of gag reflex, and trapezius/sternocleidomastoid weakness. Extension to CN XII (Collet-Sicard syndrome) adds tongue deviation.
 
 ### Jugular Bulb Variants
-High-riding jugular bulb — a common anatomical variant where the bulb extends above the floor of the internal auditory canal, relevant during [[middle-fossa-approach]] and [[posterior-petrosectomy]].
+High-riding jugular bulb — a common anatomical variant where the bulb extends above the floor of the [[internal-auditory-canal]], relevant during [[middle-fossa-approach]] and [[posterior-petrosectomy]].
 
 ## Connections
 

@@ -27,18 +27,18 @@ The sphenoid bone is the most complex bone of the [[cranial-base]], articulating
 ## Components
 
 ### Body
-The central mass of the sphenoid. Contains the **sphenoid sinus** — the key corridor for the [[transsphenoidal-approach]]. The superior surface forms the **sella turcica** (Turkish saddle), housing the [[pituitary-gland]]:
+The central mass of the sphenoid. Contains the **[[paranasal-sinuses|sphenoid sinus]]** — the key corridor for the [[transsphenoidal-approach]]. The superior surface forms the **sella turcica** (Turkish saddle), housing the [[pituitary-gland]]:
 - **Tuberculum sellae** — anterior wall of the sella
 - **Pituitary fossa** — the concavity housing the gland
 - **Dorsum sellae** — posterior wall, topped by the posterior clinoid processes
-- **Clivus** — the posterior slope descending toward the [[foramen-magnum]] (shared with occipital bone)
+- **[[clivus]]** — the posterior slope descending toward the [[foramen-magnum]] (shared with occipital bone)
 
 The body also forms the **planum sphenoidale** (anterior to the tuberculum), beneath which the [[optic-chiasm]] and [[optic-nerve|optic nerves]] cross.
 
 ### Lesser wings
 Thin triangular plates projecting laterally from the upper body:
-- **Anterior clinoid processes** — the medial tips; attachment of the tentorium cerebelli free edge; overlie the [[cavernous-sinus]] roof
-- **Optic canal** — between the body and the lesser wing root (bounded by the optic strut); transmits [[optic-nerve]] and [[ophthalmic-artery]]
+- **Anterior clinoid processes** — the medial tips; attachment of the [[tentorium-cerebelli]] free edge; overlie the [[cavernous-sinus]] roof
+- **[[optic-canal]]** — between the body and the lesser wing root (bounded by the optic strut); transmits [[optic-nerve]] and [[ophthalmic-artery]]
 - Separate the anterior from the middle cranial fossa
 - The **superior orbital fissure** lies between the lesser and greater wings
 
@@ -46,7 +46,7 @@ Thin triangular plates projecting laterally from the upper body:
 Thick, laterally projecting plates forming the middle cranial fossa floor and the posterior [[orbit]] wall:
 - **Foramen rotundum** — transmits V2 (maxillary nerve) of the [[trigeminal-nerve]]
 - **Foramen ovale** — transmits V3 (mandibular nerve) of the [[trigeminal-nerve]]
-- **Foramen spinosum** — transmits the middle meningeal artery
+- **Foramen spinosum** — transmits the [[middle-meningeal-artery]]
 - The greater wing's orbital surface forms the lateral wall of the [[orbit]]
 
 ### Pterygoid processes
@@ -70,12 +70,12 @@ The sinus septum is often deviated and may insert on the [[internal-carotid-arte
 The sphenoid sinus is the primary corridor. Landmarks: sphenoid ostia → sinus cavity → sellar floor → [[pituitary-gland]]. The carotid and optic prominences define the safe limits of bone removal.
 
 ### Pterional approach ([[pterional-approach]])
-The sphenoid ridge (junction of lesser and greater wings) is the bone removed during craniotomy. The anterior clinoid process is drilled for additional exposure (anterior clinoidectomy). The [[sylvian-fissure]] overlies the greater wing.
+The sphenoid ridge (junction of lesser and greater wings) is the bone removed during craniotomy. The [[anterior-clinoid-process]] is drilled for additional exposure (anterior clinoidectomy). The [[sylvian-fissure]] overlies the greater wing.
 
-### Middle fossa approach
-The greater wing floor is elevated to expose the middle cranial fossa contents: [[trigeminal-nerve|trigeminal ganglion]] in Meckel's cave, petrous [[internal-carotid-artery|ICA]], and greater petrosal nerve.
+### [[middle-fossa-approach]]
+The greater wing floor is elevated to expose the middle cranial fossa contents: [[trigeminal-nerve|trigeminal ganglion]] in [[meckels-cave|Meckel's cave]], petrous [[internal-carotid-artery|ICA]], and [[greater-petrosal-nerve]].
 
-### Orbitozygomatic approach
+### [[orbitozygomatic-approach]]
 Extended [[pterional-approach]] removing the supraorbital rim and zygomatic arch — provides lower angle of exposure to the [[basilar-artery]] apex through the anterior incisural space.
 
 ## Foramina Map

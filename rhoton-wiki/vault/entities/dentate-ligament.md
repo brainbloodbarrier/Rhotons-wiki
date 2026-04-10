@@ -31,7 +31,7 @@ The dentate ligament is a white fibrous sheet attached to the spinal cord medial
 
 ## Relations at the Foramen Magnum
 
-The dentate ligament divides the subarachnoid space into anterior and posterior compartments at the craniocervical junction:
+The dentate ligament divides the subarachnoid space into anterior and posterior compartments at the [[craniocervical-junction]]:
 
 | Anterior to dentate | Posterior to dentate |
 |---|---|

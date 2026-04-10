@@ -20,7 +20,7 @@ parent: "[[posterior-fossa]]"
 
 # Cerebellum
 
-The cerebellum occupies the [[posterior-fossa]] below the tentorium cerebelli. It consists of two hemispheres connected by the vermis and is attached to the [[brainstem]] by three paired cerebellar peduncles. It has three surfaces (tentorial, petrosal, suboccipital) separated by two major fissures, and is supplied by three paired arteries — each defining one of the three neurovascular complexes of the posterior fossa.
+The cerebellum occupies the [[posterior-fossa]] below the [[tentorium-cerebelli]]. It consists of two hemispheres connected by the vermis and is attached to the [[brainstem]] by three paired cerebellar peduncles. It has three surfaces (tentorial, petrosal, suboccipital) separated by two major fissures, and is supplied by three paired arteries — each defining one of the three neurovascular complexes of the posterior fossa.
 
 ## Surfaces
 
@@ -28,18 +28,18 @@ The cerebellum occupies the [[posterior-fossa]] below the tentorium cerebelli. I
 Faces the tentorium cerebelli and slopes downward from the apex of the vermis. Supplied by the [[superior-cerebellar-artery|SCA]]. The apex lies just behind the cerebellomesencephalic fissure. Exposed via the [[supracerebellar-infratentorial-approach]].
 
 ### Petrosal surface
-Faces the petrous temporal bone and the [[cerebellopontine-cistern]]. Supplied by the [[aica|AICA]]. The flocculus projects from this surface into the cerebellopontine angle near [[facial-nerve|CN VII]] and [[vestibulocochlear-nerve|CN VIII]]. Exposed via the [[retrosigmoid-approach]].
+Faces the [[temporal-bone|petrous temporal bone]] and the [[cerebellopontine-cistern]]. Supplied by the [[aica|AICA]]. The flocculus projects from this surface into the cerebellopontine angle near [[facial-nerve|CN VII]] and [[vestibulocochlear-nerve|CN VIII]]. Exposed via the [[retrosigmoid-approach]].
 
 ### Suboccipital surface
-Faces the occipital bone posteriorly. Supplied by the [[pica|PICA]]. The tonsils and the inferior vermis form the most posterior and inferior parts. The tonsils sit above the [[foramen-magnum]] and are the structures involved in **tonsillar herniation** (Chiari malformation). Exposed via midline suboccipital craniectomy and the [[far-lateral-approach]].
+Faces the occipital bone posteriorly. Supplied by the [[pica|PICA]]. The tonsils and the inferior vermis form the most posterior and inferior parts. The tonsils sit above the [[foramen-magnum]] and are the structures involved in **[[herniation-syndromes|tonsillar herniation]]** (Chiari malformation). Exposed via midline suboccipital craniectomy and the [[far-lateral-approach]].
 
 ## Fissures
 
 ### Cerebellomesencephalic fissure
-Between the cerebellum and the midbrain ([[brainstem]]). Contains the [[superior-cerebellar-artery|SCA]] branches and precerebellar arteries passing to the dentate nucleus. The superior cerebellar peduncle forms its anterior wall. This fissure lies in the posterior incisural space of the [[tentorial-incisura]].
+Between the cerebellum and the midbrain ([[brainstem]]). Contains the [[superior-cerebellar-artery|SCA]] branches and precerebellar arteries passing to the dentate nucleus. The [[cerebellar-peduncles|superior cerebellar peduncle]] forms its anterior wall. This fissure lies in the posterior incisural space of the [[tentorial-incisura]].
 
-### Cerebellomedullary fissure
-Between the cerebellum and the medulla. Contains the [[pica|PICA]] (telovelotonsillar segment), the tela choroidea, and the inferior medullary velum. The **telovelar approach** opens this fissure to access the fourth ventricle floor without splitting the vermis.
+### [[cerebellomedullary-fissure]]
+Between the cerebellum and the medulla. Contains the [[pica|PICA]] (telovelotonsillar segment), the tela choroidea, and the inferior medullary velum. The **[[telovelar-approach]]** opens this fissure to access the [[fourth-ventricle]] floor without splitting the vermis.
 
 ### Cerebellopontine fissure
 Between the cerebellum and the pons. Contains [[aica|AICA]] branches coursing along the middle cerebellar peduncle. Related to the lateral recess and foramen of Luschka.

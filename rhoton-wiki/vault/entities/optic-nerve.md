@@ -22,15 +22,15 @@ parent: "[[cranial-nerves-overview]]"
 
 # Optic Nerve
 
-The optic nerve (CN II) is a white matter tract of the central nervous system (technically a CNS extension, not a true peripheral nerve) carrying visual afferents from the retina to the [[optic-chiasm]]. It is ensheathed by meninges and subarachnoid CSF, making it susceptible to raised intracranial pressure (papilledema).
+The optic nerve (CN II) is a white matter tract of the central nervous system (technically a CNS extension, not a true peripheral nerve) carrying visual afferents from the retina to the [[optic-chiasm]]. It is ensheathed by [[meninges]] and subarachnoid CSF, making it susceptible to raised intracranial pressure (papilledema).
 
 ## Course
 
 ### Intraorbital segment
-Courses through the [[orbit]] from the globe to the optic canal. Length ~25 mm — deliberately redundant to allow eye movements. Surrounded by the annular tendon (annulus of Zinn) at the orbital apex. The ophthalmic artery crosses over (90%) or under (10%) the nerve in the orbit.
+Courses through the [[orbit]] from the globe to the [[optic-canal]]. Length ~25 mm — deliberately redundant to allow eye movements. Surrounded by the annular tendon (annulus of Zinn) at the orbital apex. The [[ophthalmic-artery]] crosses over (90%) or under (10%) the nerve in the orbit.
 
 ### Intracanalicular segment
-Traverses the optic canal in the lesser wing of the sphenoid. Length ~10 mm. The ophthalmic artery courses inferolateral to the nerve in the canal. The canal roof is formed by the anterior clinoid process — surgical landmark for anterior clinoidectomy.
+Traverses the optic canal in the lesser wing of the sphenoid. Length ~10 mm. The ophthalmic artery courses inferolateral to the nerve in the canal. The canal roof is formed by the [[anterior-clinoid-process]] — surgical landmark for anterior clinoidectomy.
 
 ### Intracranial (cisternal) segment
 Emerges from the optic canal into the suprasellar cistern ([[basal-cisterns]]). Length 10–16 mm. Converges with the contralateral nerve at the [[optic-chiasm]] above the [[sellar-region|pituitary gland]] and diaphragma sellae. The [[internal-carotid-artery|ICA]] (supraclinoid C4 segment) lies lateral to the intracranial optic nerve.
@@ -42,14 +42,14 @@ Emerges from the optic canal into the suprasellar cistern ([[basal-cisterns]]). 
 - **[[anterior-cerebral-artery]]** — the A1 segment crosses above the optic nerve/chiasm
 - **[[anterior-communicating-artery]]** — lies above the chiasm; ACoA aneurysms may compress the visual pathway
 - **[[posterior-communicating-artery]]** — courses posterior and lateral to the nerve
-- **Superior hypophyseal arteries** — supply the optic nerve, chiasm, and infundibulum
+- **[[superior-hypophyseal-artery|Superior hypophyseal arteries]]** — supply the optic nerve, chiasm, and infundibulum
 
 ### Neural
 - **[[optic-chiasm]]** — the nerve terminates at the chiasm; nasal fibers decussate, temporal fibers remain ipsilateral
 - **[[oculomotor-nerve|CN III]]** — passes below the optic nerve/tract on its way to the [[cavernous-sinus]]
 
 ### Bony
-- **Optic canal** — in the lesser sphenoid wing; bounded by the optic strut (separating it from the superior orbital fissure)
+- **Optic canal** — in the [[sphenoid-bone|lesser sphenoid wing]]; bounded by the optic strut (separating it from the superior orbital fissure)
 - **Anterior clinoid process** — forms the canal roof; removed during anterior clinoidectomy for optic nerve decompression
 - **Planum sphenoidale** — the bone above the optic canal, between the two optic canals
 
@@ -80,7 +80,7 @@ The anterior variant provides access to the suprasellar region where the optic n
 - Courses through the [[orbit]] and optic canal to the [[optic-chiasm]]
 - Lateral to [[internal-carotid-artery]] (supraclinoid segment)
 - Below [[anterior-cerebral-artery]] A1 and [[anterior-communicating-artery]]
-- Above the [[sellar-region]] (pituitary gland)
+- Above the [[sellar-region]] ([[pituitary-gland]])
 - Related to [[cavernous-sinus]] (anterior clinoid process)
 - Part of the visual pathway — see [[cranial-nerves-overview]]
 - Exposed by [[pterional-approach]], [[transsphenoidal-approach]], [[interhemispheric-approach]]

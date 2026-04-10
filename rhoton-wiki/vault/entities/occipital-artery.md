@@ -43,7 +43,7 @@ After piercing the fascia between the sternocleidomastoid and trapezius near the
 | Branch | Supply |
 |---|---|
 | **Muscular branches** | Posterior cervical muscles (splenius, semispinalis, obliques, rectus) |
-| **Meningeal branches** | Posterior fossa dura via [[jugular-foramen]] and mastoid foramen |
+| **Meningeal branches** | [[posterior-fossa]] dura via [[jugular-foramen]] and mastoid foramen |
 | **Descending branch** | Deep cervical muscles; anastomoses with deep cervical artery (vertebral system) |
 | **Scalp branches** | Posterior scalp |
 
@@ -59,10 +59,10 @@ The occipital artery is encountered early during the [[far-lateral-approach]] as
 In the [[suboccipital-triangle]], the occipital artery courses superficial to the triangle boundaries (superior oblique, inferior oblique, rectus capitis posterior major). The [[vertebral-artery]] courses in the depths of the triangle — the occipital artery is a superficial landmark on the way to the deeper vertebral artery.
 
 ### EC-IC Bypass
-The occipital artery can serve as a **donor vessel** for extracranial-intracranial (EC-IC) bypass to the [[posterior-cerebral-artery|PCA]] or [[pica|PICA]], particularly in cases of vertebrobasilar insufficiency or complex posterior circulation aneurysms requiring flow replacement.
+The occipital artery can serve as a **donor vessel** for extracranial-intracranial (EC-IC) bypass to the [[posterior-cerebral-artery|PCA]] or [[pica|PICA]], particularly in cases of vertebrobasilar insufficiency or complex [[posterior-circulation]] aneurysms requiring flow replacement.
 
 ### Dural Arteriovenous Fistulae
-Meningeal branches of the occipital artery are common feeders in dAVFs of the transverse-sigmoid sinus region. The artery may be used for transarterial embolization access.
+Meningeal branches of the occipital artery are common feeders in dAVFs of the transverse-[[sigmoid-sinus]] region. The artery may be used for transarterial embolization access.
 
 ## Anastomoses
 

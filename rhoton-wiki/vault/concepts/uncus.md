@@ -48,7 +48,7 @@ The uncus is the hook-shaped medial projection of the [[cerebral-lobes|temporal 
 
 ### Medial
 - **Crural cistern** — lies between the uncus and the [[brainstem|cerebral peduncle]]
-- [[posterior-cerebral-artery|PCA]] P2 segment — courses in the crural and ambient cisterns along the uncal surface
+- [[posterior-cerebral-artery|PCA]] P2 segment — courses in the crural and ambient [[basal-cisterns|cisterns]] along the uncal surface
 - [[basal-vein-of-rosenthal]] — passes along the medial uncal surface posteriorly
 
 ### Lateral

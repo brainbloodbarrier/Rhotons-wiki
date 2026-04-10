@@ -44,7 +44,7 @@ At the posterior end of the tract, it expands into the olfactory trigone and div
 
 ## Vascular Supply
 
-- **Anterior ethmoidal artery** ([[ophthalmic-artery]]) — supplies the olfactory mucosa and cribriform plate region
+- **[[ethmoidal-arteries|Anterior ethmoidal artery]]** ([[ophthalmic-artery]]) — supplies the olfactory mucosa and cribriform plate region
 - **Olfactory artery** — a small branch from the [[anterior-cerebral-artery|ACA]] A2 segment; supplies the olfactory bulb and tract
 - **Frontopolar artery** — from the [[anterior-cerebral-artery|ACA]]; supplies the adjacent gyrus rectus
 
@@ -60,10 +60,10 @@ Arise from the dura over the cribriform plate and planum sphenoidale ([[sphenoid
 CSF leaks through the cribriform plate (traumatic or spontaneous) are the most common anterior skull base CSF rhinorrhea. The anterior ethmoidal artery ([[ophthalmic-artery]]) is the landmark for the cribriform plate level during endoscopic repair.
 
 ### Esthesioneuroblastoma (olfactory neuroblastoma)
-Malignant tumor arising from the olfactory neuroepithelium. Extends through the cribriform plate into the anterior cranial fossa. Requires combined craniofacial resection or endoscopic endonasal approach.
+Malignant tumor arising from the olfactory neuroepithelium. Extends through the cribriform plate into the anterior cranial fossa. Requires combined craniofacial resection or [[endoscopic-endonasal-approach]].
 
 ### Interhemispheric approach ([[interhemispheric-approach]])
-The anterior variant accesses the midline structures below the frontal lobes. The olfactory tracts may be encountered at the depth of the exposure, near the [[anterior-communicating-artery|ACoA]] and lamina terminalis. CN I is the cranial nerve most at risk in the anterior [[interhemispheric-approach]].
+The anterior variant accesses the midline structures below the frontal lobes. The olfactory tracts may be encountered at the depth of the exposure, near the [[anterior-communicating-artery|ACoA]] and [[lamina-terminalis]]. CN I is the cranial nerve most at risk in the anterior [[interhemispheric-approach]].
 
 ### Frontal lobe retraction
 Subfrontal approaches to the [[sellar-region]], [[optic-chiasm]], and [[anterior-communicating-artery|ACoA]] require elevating the frontal lobe off the anterior fossa floor. The olfactory tract may be avulsed from the bulb during retraction → unilateral anosmia.

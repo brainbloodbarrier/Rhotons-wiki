@@ -20,17 +20,17 @@ parent: "[[posterior-fossa]]"
 
 # Fourth Ventricle
 
-The fourth ventricle is a broad, tent-shaped midline cavity situated between the [[brainstem]] (pons and medulla) anteriorly and the [[cerebellum]] posteriorly. It is the CSF conduit between the third ventricle (via the cerebral aqueduct) and the subarachnoid space (via the foramina of Magendie and Luschka).
+The fourth ventricle is a broad, tent-shaped midline cavity situated between the [[brainstem]] (pons and medulla) anteriorly and the [[cerebellum]] posteriorly. It is the CSF conduit between the third ventricle (via the [[cerebral-aqueduct]]) and the subarachnoid space (via the foramina of Magendie and Luschka).
 
 ## Boundaries
 
 ### Floor (rhomboid fossa)
-The dorsal surface of the pons (upper half) and medulla (lower half). Contains the motor and sensory nuclei of cranial nerves V–XII. The **facial colliculus** — a rounded elevation produced by CN VII fibers looping over the CN VI nucleus — is a critical landmark on the floor.
+The dorsal surface of the pons (upper half) and medulla (lower half). Contains the motor and sensory nuclei of cranial nerves V–XII. The **facial colliculus** — a rounded elevation produced by CN VII fibers looping over the [[abducens-nerve|CN VI]] nucleus — is a critical landmark on the floor.
 
 ### Roof
 Composed of two parts:
-- **Superior half** — the superior medullary velum (thin white sheet between the superior cerebellar peduncles) and the lingula of the vermis
-- **Inferior half** — the inferior medullary velum, tela choroidea (a double layer of pia-arachnoid), and the nodule of the vermis. The choroid plexus attaches to the tela choroidea
+- **Superior half** — the superior medullary velum (thin white sheet between the superior [[cerebellar-peduncles]]) and the lingula of the vermis
+- **Inferior half** — the inferior medullary velum, tela choroidea (a double layer of pia-arachnoid), and the nodule of the vermis. The [[choroid-plexus]] attaches to the tela choroidea
 
 ### Lateral walls
 Formed by the three cerebellar peduncles (superior, middle, inferior) converging toward the ventricular cavity.
@@ -55,8 +55,8 @@ The choroid plexus is supplied by the [[pica|PICA]] (inferior choroidal branches
 
 ## Surgical Approaches
 
-### Telovelar approach
-The primary microsurgical corridor. Opens the cerebellomedullary fissure between the cerebellar tonsil and the inferior medullary velum/tela choroidea, following the [[pica|PICA]] (telovelotonsillar segment). Provides access to the ventricular floor **without splitting the vermis**. The approach opens the tela choroidea and inferior medullary velum — the inferior half of the roof.
+### [[telovelar-approach]]
+The primary microsurgical corridor. Opens the [[cerebellomedullary-fissure]] between the cerebellar tonsil and the inferior medullary velum/tela choroidea, following the [[pica|PICA]] (telovelotonsillar segment). Provides access to the ventricular floor **without splitting the vermis**. The approach opens the tela choroidea and inferior medullary velum — the inferior half of the roof.
 
 ### Midline suboccipital (transvermian)
 Direct splitting of the inferior vermis. Largely replaced by the telovelar approach due to cerebellar mutism risk.
@@ -73,7 +73,7 @@ Via the [[retrosigmoid-approach]] — provides access to tumors extending into t
 
 ## Relations
 
-- Floor formed by the dorsal [[brainstem]] (CN V–XII nuclei)
+- Floor formed by the dorsal [[brainstem]] ([[trigeminal-nerve|CN V]]–XII nuclei)
 - Roof formed by the [[cerebellum]] (velum, tela, nodule)
 - [[pica|PICA]] intimately related — courses through the cerebellomedullary fissure along the roof
 - [[aica|AICA]] related via lateral recess and choroid plexus

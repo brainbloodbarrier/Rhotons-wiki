@@ -23,7 +23,7 @@ parent: "[[ophthalmic-artery]]"
 
 # Ethmoidal Arteries
 
-The anterior and posterior ethmoidal arteries are branches of the [[ophthalmic-artery]] that pass through the ethmoidal canals from the [[orbit]] to the floor of the anterior cranial fossa at the cribriform plate. They are critical surgical landmarks for the anterior skull base and the most important arteries encountered during endonasal and subfrontal approaches to the cribriform region.
+The anterior and posterior ethmoidal arteries are branches of the [[ophthalmic-artery]] that pass through the ethmoidal canals from the [[orbit]] to the floor of the anterior cranial fossa at the cribriform plate. They are critical surgical landmarks for the anterior [[cranial-base|skull base]] and the most important arteries encountered during endonasal and subfrontal approaches to the cribriform region.
 
 ## Origin and Course
 
@@ -39,7 +39,7 @@ Both arteries arise from the [[ophthalmic-artery]] beneath the [[extraocular-mus
 ### Posterior Ethmoidal Artery (PEA)
 - Usually **smaller** than the AEA
 - Passes through the **posterior ethmoidal canal** with the posterior ethmoidal nerve
-- Crosses near the **posterior edge** of the cribriform plate, a few millimeters anterior to the orbital end of the optic canal
+- Crosses near the **posterior edge** of the cribriform plate, a few millimeters anterior to the orbital end of the [[optic-canal]]
 - Supplies the posterior ethmoidal air cells and dura of the anterior fossa
 
 ## Surgical Landmark Function

@@ -21,9 +21,9 @@ drains-to:
   - "[[vein-of-galen]]"
 ---
 
-# Internal Cerebral Veins
+# Internal [[cerebral-veins]]
 
-The internal cerebral veins are paired deep venous channels that course through the velum interpositum in the roof of the [[lateral-and-third-ventricles|third ventricle]], collecting drainage from the ventricular walls, [[thalamus]], [[basal-ganglia]], and deep white matter before joining to form the [[vein-of-galen]].
+The internal cerebral veins are paired deep venous channels that course through the [[velum-interpositum]] in the roof of the [[lateral-and-third-ventricles|third ventricle]], collecting drainage from the ventricular walls, [[thalamus]], [[basal-ganglia]], and deep white matter before joining to form the [[vein-of-galen]].
 
 ## Formation and the Venous Angle
 
@@ -37,7 +37,7 @@ The junction of the thalamostriate vein and the internal cerebral vein forms the
 ## Course
 
 ### Velum Interpositum
-The internal cerebral veins course posteriorly through the **velum interpositum** — a potential space in the roof of the third ventricle between the fornix above and the thalami below. This space:
+The internal cerebral veins course posteriorly through the **velum interpositum** — a potential space in the roof of the third ventricle between the [[fornix]] above and the thalami below. This space:
 
 - Is widest posteriorly (from lower margin of splenium to upper margin of pineal)
 - Tapers to a narrow apex just behind the foramen of Monro
@@ -69,7 +69,7 @@ The paired internal cerebral veins exit the velum interpositum above the pineal 
 
 ### Posterior Tributaries
 - **Posterior pericallosal veins** — drain the posterior [[corpus-callosum]] and cingulate gyrus
-- **Internal occipital veins** — drain the medial occipital lobe
+- **Internal occipital veins** — drain the medial [[cerebral-lobes|occipital lobe]]
 - **Anterior calcarine veins** — drain into the posterior end of the ICV near the vein of Galen
 
 ## Drainage Territories
@@ -78,7 +78,7 @@ The paired internal cerebral veins exit the velum interpositum above the pineal 
 |---|---|
 | Caudate nucleus | Anterior caudate, thalamostriate veins |
 | Thalamus | Thalamostriate, thalamocaudate, posterior thalamic veins |
-| Internal capsule | Deep tributaries to thalamostriate |
+| [[internal-capsule]] | Deep tributaries to thalamostriate |
 | Septum pellucidum | Anterior and posterior septal veins |
 | Fornix | Septal veins piercing the fornix |
 | [[corpus-callosum]] | Posterior pericallosal veins |
@@ -91,9 +91,9 @@ The paired internal cerebral veins exit the velum interpositum above the pineal 
 The [[interhemispheric-approach|transcallosal approach]] exposes the internal cerebral veins in the roof of the third ventricle after opening the velum interpositum. The tela choroidea between the fornix and the ICV must be opened carefully to access third ventricle tumors.
 
 ### Transchoroidal Approach
-Opening the choroidal fissure between the fornix and thalamus exposes the velum interpositum containing the ICV and [[posterior-choroidal-arteries|medial posterior choroidal arteries]]. The ICV limits the superior extent of this exposure.
+Opening the [[choroidal-fissure]] between the fornix and thalamus exposes the velum interpositum containing the ICV and [[posterior-choroidal-arteries|medial posterior choroidal arteries]]. The ICV limits the superior extent of this exposure.
 
-### Pineal Region
+### [[pineal-region]]
 The terminal portions of the internal cerebral veins converge above the pineal to form the [[vein-of-galen]]. Both the [[supracerebellar-infratentorial-approach]] and occipital transtentorial approaches must respect this confluence. The [[basal-vein-of-rosenthal|basal veins]] join laterally.
 
 ### Venous Infarction Risk

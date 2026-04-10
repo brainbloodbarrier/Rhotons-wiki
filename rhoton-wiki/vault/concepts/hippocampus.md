@@ -22,7 +22,7 @@ parent: "[[cerebrum]]"
 
 # Hippocampus
 
-The hippocampus is a curved cortical structure in the medial temporal lobe that forms the floor of the temporal horn of the [[lateral-and-third-ventricles|lateral ventricle]]. It is the anatomical substrate of memory formation and the most common target for epilepsy surgery (amygdalohippocampectomy). Its intimate relations to the [[anterior-choroidal-artery]], [[posterior-cerebral-artery]], and the [[tentorial-incisura]] make it one of the most surgically important deep brain structures.
+The hippocampus is a curved cortical structure in the medial [[cerebral-lobes|temporal lobe]] that forms the floor of the temporal horn of the [[lateral-and-third-ventricles|lateral ventricle]]. It is the anatomical substrate of memory formation and the most common target for epilepsy surgery (amygdalohippocampectomy). Its intimate relations to the [[anterior-choroidal-artery]], [[posterior-cerebral-artery]], and the [[tentorial-incisura]] make it one of the most surgically important deep brain structures.
 
 ## Components
 
@@ -43,11 +43,11 @@ The cortical surface visible on the medial temporal lobe inferior surface. Its a
 ### Arterial
 - **[[anterior-choroidal-artery]]** — supplies the hippocampal head (via the inferior choroidal point where it enters the temporal horn through the choroidal fissure), uncus, and adjacent structures
 - **[[posterior-cerebral-artery|PCA]]** hippocampal arteries — arise from P2A; the anterior hippocampal artery is the largest branch supplying the hippocampal body
-- **Posterior choroidal arteries** — from the P2 segment; supply the choroid plexus in the temporal horn adjacent to the hippocampus
+- **[[posterior-choroidal-arteries]]** — from the P2 segment; supply the [[choroid-plexus]] in the temporal horn adjacent to the hippocampus
 
 ### Venous
 - **Inferior ventricular vein** — courses along the temporal horn floor
-- **Hippocampal veins** — drain to the [[cerebral-veins|basal vein of Rosenthal]] in the ambient cistern
+- **Hippocampal veins** — drain to the [[cerebral-veins|basal vein of Rosenthal]] in the [[ambient-cistern]]
 
 ## Choroidal Fissure
 
@@ -75,7 +75,7 @@ Elevation of the temporal lobe exposes the parahippocampal gyrus and uncus at th
 - [[anterior-choroidal-artery]] enters the temporal horn at the inferior choroidal point
 - [[posterior-cerebral-artery|PCA]] hippocampal branches supply the body — see [[posterior-circulation]]
 - [[thalamus]] separated by the choroidal fissure
-- Uncus related to the [[tentorial-incisura]] (uncal herniation compresses [[oculomotor-nerve|CN III]])
+- Uncus related to the [[tentorial-incisura]] ([[herniation-syndromes|uncal herniation]] compresses [[oculomotor-nerve|CN III]])
 - [[fornix]] is the efferent pathway (fimbria → crus → body → columns → mamillary bodies)
 - [[choroidal-fissure]] — fimbria forms the hippocampal lip; [[anterior-choroidal-artery]] enters at inferior choroidal point
 - [[uncus]] — anterior segment (amygdala) and posterior segment (hippocampal head)

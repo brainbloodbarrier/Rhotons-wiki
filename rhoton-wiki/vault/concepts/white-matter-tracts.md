@@ -34,7 +34,7 @@ Connect cortical areas within the same hemisphere:
 | **Arcuate fasciculus** | Broca's → Wernicke's area | Language production-comprehension connection | Dominant hemisphere glioma surgery |
 | **Inferior fronto-occipital fasciculus (IFOF)** | Frontal → occipital (deep to [[insula]]) | Semantic processing, visual naming | Insular glioma — deepest association tract |
 | **Uncinate fasciculus** | Anterior temporal → orbitofrontal | Memory, emotion | Anterior temporal lobectomy |
-| **Inferior longitudinal fasciculus (ILF)** | Occipital → temporal | Visual recognition | Temporal lobe epilepsy surgery |
+| **Inferior longitudinal fasciculus (ILF)** | Occipital → temporal | Visual recognition | [[cerebral-lobes|Temporal lobe]] epilepsy surgery |
 | **Cingulum** | Cingulate gyrus (circumferential) | Emotion, memory (Papez circuit) | [[interhemispheric-approach]], callosotomy |
 
 ### Commissural fibers (interhemispheric)
@@ -43,7 +43,7 @@ Connect homologous areas between hemispheres:
 | Tract | Location | Function |
 |---|---|---|
 | **[[corpus-callosum]]** | Above [[lateral-and-third-ventricles\|lateral ventricles]] | Interhemispheric transfer (largest commissure) |
-| **Anterior commissure** | Lamina terminalis, below [[anterior-communicating-artery\|ACoA]] | Temporal lobe interconnection |
+| **Anterior commissure** | [[lamina-terminalis]], below [[anterior-communicating-artery\|ACoA]] | Temporal lobe interconnection |
 | **Hippocampal commissure** | Below [[corpus-callosum]] splenium | [[hippocampus\|Hippocampal]] interconnection |
 
 ### Projection fibers (cortex → subcortical)
@@ -51,10 +51,10 @@ Connect the cortex to the [[thalamus]], [[brainstem]], and spinal cord:
 
 | Tract | Course | Function |
 |---|---|---|
-| **Corticospinal tract** | Motor cortex → internal capsule posterior limb → cerebral peduncle → pyramid → spinal cord | Voluntary movement |
+| **Corticospinal tract** | Motor cortex → [[internal-capsule]] posterior limb → cerebral peduncle → pyramid → spinal cord | Voluntary movement |
 | **Corticobulbar tract** | Motor cortex → internal capsule genu → [[brainstem]] CN motor nuclei | Face/tongue movement |
 | **Thalamocortical radiations** | [[thalamus]] → internal capsule → cortex | Sensory relay, consciousness |
-| **Optic radiation (Meyer's loop)** | Lateral geniculate → temporal loop → calcarine cortex | Vision (lower visual field) |
+| **[[optic-radiation]] (Meyer's loop)** | Lateral geniculate → temporal loop → calcarine cortex | Vision (lower visual field) |
 | **Auditory radiation** | Medial geniculate → Heschl's gyrus | Hearing |
 
 All projection fibers converge at the **internal capsule** ([[basal-ganglia]]), which is the most dangerous territory for surgical injury.
@@ -79,7 +79,7 @@ Subcortical stimulation during awake craniotomy identifies the corticospinal tra
 ### Safe entry corridors
 Tumor surgery approaches the lesion through sulci or natural cleavage planes to minimize white matter disruption:
 - **Transsylvian** ([[pterional-approach]]) — follows the [[sylvian-fissure]] to the [[insula]]
-- **Interhemispheric** ([[interhemispheric-approach]]) — between hemispheres along the falx
+- **Interhemispheric** ([[interhemispheric-approach]]) — between hemispheres along the [[falx-cerebri|falx]]
 - **Transcortical** — through a gyrus toward the ventricle or deep lesion
 - **Transcallosal** — through the [[corpus-callosum]] to the ventricles
 
@@ -95,7 +95,7 @@ Diffusion tensor imaging reconstructs white matter tracts preoperatively, allowi
 - [[middle-cerebral-artery]] (lenticulostriates) supply the internal capsule — see [[perforating-arteries]]
 - [[anterior-choroidal-artery]] supplies the posterior internal capsule and optic radiation
 - [[insula]] lies superficial to the IFOF and extreme/external capsules
-- [[hippocampus]] connected via fornix (projection) and hippocampal commissure
+- [[hippocampus]] connected via [[fornix]] (projection) and hippocampal commissure
 - Meyer's loop (optic radiation) at risk in anterior temporal lobectomy
 - See [[surgical-approaches-overview]] for approach selection based on tract preservation
 

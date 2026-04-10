@@ -26,34 +26,34 @@ The skull base contains numerous foramina through which cranial nerves, arteries
 
 | Foramen | Bone | Contents | Related page |
 |---|---|---|---|
-| **Cribriform plate foramina** | Ethmoid | CN I (olfactory nerve filaments) | [[cranial-base]] |
+| **Cribriform plate foramina** | Ethmoid | [[olfactory-nerve|CN I]] (olfactory nerve filaments) | [[cranial-base]] |
 | **Anterior ethmoidal foramen** | Frontoethmoidal suture | Anterior ethmoidal artery ([[ophthalmic-artery]]), anterior ethmoidal nerve | [[paranasal-sinuses]] |
-| **Posterior ethmoidal foramen** | Frontoethmoidal suture | Posterior ethmoidal artery ([[ophthalmic-artery]]), posterior ethmoidal nerve | [[paranasal-sinuses]] |
+| **Posterior ethmoidal foramen** | Frontoethmoidal suture | [[ethmoidal-arteries|Posterior ethmoidal artery]] ([[ophthalmic-artery]]), posterior ethmoidal nerve | [[paranasal-sinuses]] |
 | **Foramen cecum** | Frontal/ethmoid junction | Emissary vein (nasal → superior sagittal sinus) | [[dural-venous-sinuses]] |
 
 ## Middle Cranial Fossa
 
 | Foramen | Bone | Contents | Related page |
 |---|---|---|---|
-| **Optic canal** | [[sphenoid-bone]] (lesser wing) | [[optic-nerve\|CN II]], [[ophthalmic-artery]] | [[optic-nerve]], [[orbit]] |
+| **[[optic-canal]]** | [[sphenoid-bone]] (lesser wing) | [[optic-nerve\|CN II]], [[ophthalmic-artery]] | [[optic-nerve]], [[orbit]] |
 | **Superior orbital fissure** | Between [[sphenoid-bone]] wings | [[oculomotor-nerve\|CN III]], [[trochlear-nerve\|CN IV]], [[trigeminal-nerve\|V1]], [[abducens-nerve\|CN VI]], superior ophthalmic vein | [[cavernous-sinus]], [[orbit]] |
 | **Foramen rotundum** | [[sphenoid-bone]] (greater wing) | [[trigeminal-nerve\|V2]] (maxillary nerve) | [[sphenoid-bone]], [[meckels-cave]] |
 | **Foramen ovale** | [[sphenoid-bone]] (greater wing) | [[trigeminal-nerve\|V3]] (mandibular nerve), accessory meningeal artery, emissary vein | [[infratemporal-fossa]], [[meckels-cave]] |
-| **Foramen spinosum** | [[sphenoid-bone]] (greater wing) | Middle meningeal artery, meningeal branch of V3 | [[infratemporal-fossa]] |
+| **Foramen spinosum** | [[sphenoid-bone]] (greater wing) | [[middle-meningeal-artery]], meningeal branch of V3 | [[infratemporal-fossa]] |
 | **Foramen lacerum** | Sphenopetrosal junction | [[internal-carotid-artery\|ICA]] (passes over, not through), Vidian nerve, meningeal branches | [[sphenoid-bone]], [[temporal-bone]] |
-| **Hiatus of the greater petrosal nerve** | [[temporal-bone]] (petrous) | Greater petrosal nerve (from [[facial-nerve\|CN VII]]) | [[anterior-petrosectomy]], [[facial-nerve]] |
+| **Hiatus of the [[greater-petrosal-nerve]]** | [[temporal-bone]] (petrous) | Greater petrosal nerve (from [[facial-nerve\|CN VII]]) | [[anterior-petrosectomy]], [[facial-nerve]] |
 | **Hiatus of the lesser petrosal nerve** | [[temporal-bone]] (petrous) | Lesser petrosal nerve (from CN IX via tympanic plexus) | [[temporal-bone]] |
 
-## Posterior Cranial Fossa
+## [[posterior-fossa|Posterior Cranial Fossa]]
 
 | Foramen | Bone | Contents | Related page |
 |---|---|---|---|
-| **Internal acoustic meatus** | [[temporal-bone]] (petrous) | [[facial-nerve\|CN VII]], [[vestibulocochlear-nerve\|CN VIII]], labyrinthine artery ([[aica]]), nervus intermedius | [[temporal-bone]] |
-| **Jugular foramen — petrous part** | Temporal/occipital | [[lower-cranial-nerves\|CN IX]], inferior petrosal sinus | [[lower-cranial-nerves]] |
+| **[[internal-auditory-canal|Internal acoustic meatus]]** | [[temporal-bone]] (petrous) | [[facial-nerve\|CN VII]], [[vestibulocochlear-nerve\|CN VIII]], [[labyrinthine-artery]] ([[aica]]), nervus intermedius | [[temporal-bone]] |
+| **[[jugular-foramen]] — petrous part** | Temporal/occipital | [[lower-cranial-nerves\|CN IX]], inferior petrosal sinus | [[lower-cranial-nerves]] |
 | **Jugular foramen — intrajugular part** | Temporal/occipital | [[lower-cranial-nerves\|CN X, XI]] | [[lower-cranial-nerves]] |
-| **Jugular foramen — sigmoid part** | Temporal/occipital | Sigmoid sinus → internal jugular vein ([[dural-venous-sinuses]]) | [[dural-venous-sinuses]] |
+| **Jugular foramen — sigmoid part** | Temporal/occipital | [[sigmoid-sinus]] → internal jugular vein ([[dural-venous-sinuses]]) | [[dural-venous-sinuses]] |
 | **Hypoglossal canal** | Occipital (condylar part) | [[lower-cranial-nerves\|CN XII]] | [[foramen-magnum]] |
-| **[[foramen-magnum]]** | Occipital | Medulla ([[brainstem]]), [[vertebral-artery\|vertebral arteries]], [[lower-cranial-nerves\|CN XI]] (spinal part), meninges | [[foramen-magnum]] |
+| **[[foramen-magnum]]** | Occipital | Medulla ([[brainstem]]), [[vertebral-artery\|vertebral arteries]], [[lower-cranial-nerves\|CN XI]] (spinal part), [[meninges]] | [[foramen-magnum]] |
 | **Posterior condylar canal** | Occipital (behind condyle) | Emissary vein (vertebral plexus → sigmoid sinus) | [[foramen-magnum]] |
 | **Mastoid foramen** | [[temporal-bone]] (mastoid) | Emissary vein (sigmoid sinus → occipital vein) | [[temporal-bone]] |
 
@@ -61,7 +61,7 @@ The skull base contains numerous foramina through which cranial nerves, arteries
 
 | Foramen | Location | Contents | Related page |
 |---|---|---|---|
-| **Dorello's canal** | Petrous apex → [[cavernous-sinus]] | [[abducens-nerve\|CN VI]] (below petrosphenoid ligament) | [[abducens-nerve]] |
+| **Dorello's canal** | [[petrous-apex]] → [[cavernous-sinus]] | [[abducens-nerve\|CN VI]] (below petrosphenoid ligament) | [[abducens-nerve]] |
 | **Porus trigeminus** | Petrous apex | [[trigeminal-nerve\|CN V]] posterior root (enters [[meckels-cave]]) | [[meckels-cave]] |
 | **Oculomotor trigone** | Tentorial roof | [[oculomotor-nerve\|CN III]] (enters [[cavernous-sinus]] roof) | [[tentorial-incisura]] |
 | **Stylomastoid foramen** | [[temporal-bone]] | [[facial-nerve\|CN VII]] (extracranial exit) | [[facial-nerve]] |

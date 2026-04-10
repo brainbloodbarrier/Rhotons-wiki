@@ -51,7 +51,7 @@ The velum interpositum is a triangular cistern (tela choroidea of the third vent
 - **Direct thalamic veins** — small tributaries from the [[thalamus]] superior surface
 
 ### Arteries
-- **[[posterior-choroidal-arteries|Medial posterior choroidal arteries (MPChA)]]** — course from the ambient cistern through the velum interpositum to supply the [[choroid-plexus]] of the third ventricle and thalamic roof
+- **[[posterior-choroidal-arteries|Medial posterior choroidal arteries (MPChA)]]** — course from the [[ambient-cistern]] through the velum interpositum to supply the [[choroid-plexus]] of the third ventricle and thalamic roof
 - **[[posterior-choroidal-arteries|Lateral posterior choroidal arteries (LPChA)]]** — course through the [[choroidal-fissure]] at the lateral margin
 
 ## Surgical Significance

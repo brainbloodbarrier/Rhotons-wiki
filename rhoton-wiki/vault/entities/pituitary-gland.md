@@ -22,7 +22,7 @@ parent: "[[sellar-region]]"
 
 # Pituitary Gland
 
-The pituitary gland (hypophysis) is located below the center of the brain in the center of the [[cranial-base]], within the sella turcica of the [[sellar-region|sphenoid bone]]. It is the master endocrine gland, connected to the hypothalamus via the infundibulum (pituitary stalk). Its deep position — surrounded by critical neurovascular structures — makes surgical access challenging and historically drove the development of the [[transsphenoidal-approach]].
+The pituitary gland (hypophysis) is located below the center of the brain in the center of the [[cranial-base]], within the sella turcica of the [[sellar-region|sphenoid bone]]. It is the master endocrine gland, connected to the [[hypothalamus]] via the infundibulum (pituitary stalk). Its deep position — surrounded by critical neurovascular structures — makes surgical access challenging and historically drove the development of the [[transsphenoidal-approach]].
 
 ## Anatomy
 
@@ -49,8 +49,8 @@ Connects the hypothalamus to the gland through the opening in the diaphragma sel
 - **[[oculomotor-nerve|CN III]], [[trochlear-nerve|CN IV]], [[trigeminal-nerve|V1]], [[abducens-nerve|CN VI]]** — in the [[cavernous-sinus]] lateral wall
 
 ### Inferior
-- **Sellar floor** — thin bone (often dehiscent) separating the gland from the sphenoid sinus
-- **Sphenoid sinus** — the surgical corridor of the [[transsphenoidal-approach]]
+- **Sellar floor** — thin bone (often dehiscent) separating the gland from the [[paranasal-sinuses|sphenoid sinus]]
+- **[[sphenoid-bone|Sphenoid]] sinus** — the surgical corridor of the [[transsphenoidal-approach]]
 
 ### Posterior
 - **Dorsum sellae** — posterior bony wall of the sella
@@ -59,7 +59,7 @@ Connects the hypothalamus to the gland through the opening in the diaphragma sel
 ## Vascular Supply
 
 ### Arterial
-- **Superior hypophyseal arteries** — arise from the medial side of the supraclinoid [[internal-carotid-artery|ICA]]; supply the stalk, [[optic-chiasm]], and anterior lobe via the portal system
+- **[[superior-hypophyseal-artery|Superior hypophyseal arteries]]** — arise from the medial side of the supraclinoid [[internal-carotid-artery|ICA]]; supply the stalk, [[optic-chiasm]], and anterior lobe via the portal system
 - **Inferior hypophyseal arteries** — arise from the meningohypophyseal trunk of the intracavernous ICA (C3 segment in the [[cavernous-sinus]]); supply the posterior lobe and capsule
 - **Capsular arteries** — from the [[ophthalmic-artery|ophthalmic]] and superior hypophyseal systems
 

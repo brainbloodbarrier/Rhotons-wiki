@@ -22,7 +22,7 @@ parent: "[[posterior-cerebral-artery]]"
 
 # Thalamoperforating Arteries
 
-The thalamoperforating arteries are small perforating branches arising primarily from the P1 segment of the [[posterior-cerebral-artery]] and the basilar bifurcation that ascend through the posterior perforated substance to supply the [[thalamus]], subthalamus, and upper [[brainstem|midbrain]]. They are among the most critical perforating arteries in neurosurgery, as their injury during basilar apex aneurysm surgery can produce devastating thalamic infarction.
+The thalamoperforating arteries are small perforating branches arising primarily from the P1 segment of the [[posterior-cerebral-artery]] and the basilar bifurcation that ascend through the posterior perforated substance to supply the [[thalamus]], subthalamus, and upper [[brainstem|midbrain]]. They are among the most critical perforating arteries in neurosurgery, as their injury during basilar apex [[aneurysm-surgery]] can produce devastating thalamic infarction.
 
 ## Origin
 
@@ -34,11 +34,11 @@ The majority of thalamoperforating arteries arise from the **P1 (precommunicatin
 - **Basilar tip origin** — perforators arising directly from the apex of the [[basilar-artery]]
 
 ### From PCoA
-The [[posterior-communicating-artery]] gives rise to the **premamillary artery** (anterior thalamoperforating), which supplies the anterior and ventrolateral thalamus and hypothalamus.
+The [[posterior-communicating-artery]] gives rise to the **premamillary artery** (anterior thalamoperforating), which supplies the anterior and ventrolateral thalamus and [[hypothalamus]].
 
 ## Course
 
-The thalamoperforating arteries ascend from the P1/basilar apex through the **posterior perforated substance** (interpeduncular fossa floor) to penetrate the [[thalamus]] from below. They pass between the cerebral peduncles in the interpeduncular cistern.
+The thalamoperforating arteries ascend from the P1/basilar apex through the **posterior perforated substance** (interpeduncular fossa floor) to penetrate the [[thalamus]] from below. They pass between the cerebral peduncles in the [[interpeduncular-cistern]].
 
 ## Supply Territories
 
@@ -47,8 +47,8 @@ The thalamoperforating arteries ascend from the P1/basilar apex through the **po
 | **Paramedian thalamus** (medial nuclei) | Coma, memory loss, behavioral changes |
 | **Subthalamus** | Hemiballismus (subthalamic nucleus) |
 | **Posterior hypothalamus** | Autonomic dysfunction |
-| **Rostral midbrain** (tegmentum) | CN III palsy, vertical gaze palsy |
-| **Posterior limb of internal capsule** (partial) | Hemiparesis |
+| **Rostral midbrain** (tegmentum) | [[oculomotor-nerve|CN III]] palsy, vertical gaze palsy |
+| **Posterior limb of [[internal-capsule]]** (partial) | Hemiparesis |
 
 ### Artery of Percheron
 This variant — a single trunk from one P1 supplying both medial thalami — is present in ~4–12% of individuals. Its occlusion produces the characteristic **bilateral paramedian thalamic syndrome**: bilateral thalamic infarction with coma, amnesia, and vertical gaze palsy.

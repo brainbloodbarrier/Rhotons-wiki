@@ -22,7 +22,7 @@ parent: "[[cranial-base]]"
 
 # Meckel's Cave
 
-Meckel's cave (cavum trigeminale) is a dural and arachnoidal recess that houses the trigeminal (gasserian) ganglion and the posterior root of the [[trigeminal-nerve|CN V]]. Located at the apex of the petrous part of the [[temporal-bone]], it creates a communication between the posterior fossa subarachnoid space and the middle cranial fossa. It is a critical surgical landmark in approaches to the [[cavernous-sinus]], petroclival region, and trigeminal neuralgia.
+Meckel's cave (cavum trigeminale) is a dural and arachnoidal recess that houses the trigeminal (gasserian) ganglion and the posterior root of the [[trigeminal-nerve|CN V]]. Located at the apex of the petrous part of the [[temporal-bone]], it creates a communication between the [[posterior-fossa]] subarachnoid space and the middle cranial fossa. It is a critical surgical landmark in approaches to the [[cavernous-sinus]], petroclival region, and trigeminal neuralgia.
 
 ## Anatomy
 
@@ -30,7 +30,7 @@ Meckel's cave (cavum trigeminale) is a dural and arachnoidal recess that houses 
 - **Superior** — the [[dural-venous-sinuses|superior petrosal sinus]] passes above the posterior trigeminal root, forming the upper margin of the cave ostium
 - **Medial** — the posterior wall of the [[cavernous-sinus]]; the cave communicates with the cavernous sinus venous channels
 - **Lateral** — the dura of the middle cranial fossa floor ([[temporal-bone]] anterior petrous surface)
-- **Inferior** — the petrous apex bone
+- **Inferior** — the [[petrous-apex]] bone
 - **Posterior (ostium)** — opens into the [[cerebellopontine-cistern]] (posterior fossa subarachnoid space)
 
 ### Contents
@@ -57,10 +57,10 @@ From the ganglion, the three divisions diverge:
 May arise within Meckel's cave, the posterior root, or any division. Dumbbell-shaped tumors extend from the posterior fossa through Meckel's cave into the middle fossa. Require combined approaches or extended [[subtemporal-approach]] with petrosectomy.
 
 ### Cavernous sinus surgery
-Meckel's cave is exposed by retracting or dividing the [[trigeminal-nerve|trigeminal nerve]] posteriorly. The posteromedial (Kawase) triangle of the middle fossa is bounded by the trigeminal nerve and the greater petrosal nerve — drilling here exposes the lateral clivus and the cave.
+Meckel's cave is exposed by retracting or dividing the [[trigeminal-nerve|trigeminal nerve]] posteriorly. The posteromedial (Kawase) triangle of the middle fossa is bounded by the trigeminal nerve and the [[greater-petrosal-nerve]] — drilling here exposes the lateral [[clivus]] and the cave.
 
-### Middle fossa approach
-The trigeminal impression on the petrous apex is the landmark for Meckel's cave from above. The [[subtemporal-approach]] with temporal lobe elevation exposes the middle fossa floor over the cave.
+### [[middle-fossa-approach]]
+The trigeminal impression on the petrous apex is the landmark for Meckel's cave from above. The [[subtemporal-approach]] with [[cerebral-lobes|temporal lobe]] elevation exposes the middle fossa floor over the cave.
 
 ## Paraclival Triangles
 
@@ -84,5 +84,5 @@ Two triangles on the posterior clival/petrous surface relate to Meckel's cave:
 ## References
 
 - Rhoton, Ch.9 — The Cavernous Sinus (Meckel's cave, paraclival triangles, trigeminal relation)
-- Rhoton, Ch.14 — Tentorial Incisura (middle incisural space, trigeminal nerve course)
+- Rhoton, Ch.14 — [[tentorial-incisura]] (middle incisural space, trigeminal nerve course)
 - Rhoton, Ch.15 — Cerebellopontine Cistern (posterior root, porus trigeminus)

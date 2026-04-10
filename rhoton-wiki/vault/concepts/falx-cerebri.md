@@ -19,7 +19,7 @@ summary: >-
 
 # Falx Cerebri
 
-The falx cerebri is a large sickle-shaped dural fold that descends vertically in the midline longitudinal fissure between the two cerebral hemispheres. It extends from the crista galli anteriorly to the internal occipital protuberance posteriorly, where it merges with the [[tentorium-cerebelli]].
+The falx cerebri is a large sickle-shaped dural fold that descends vertically in the midline longitudinal fissure between the two [[cerebrum|cerebral hemispheres]]. It extends from the crista galli anteriorly to the internal occipital protuberance posteriorly, where it merges with the [[tentorium-cerebelli]].
 
 ## Anatomy
 

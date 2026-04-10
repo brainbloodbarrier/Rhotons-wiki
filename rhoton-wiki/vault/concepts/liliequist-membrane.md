@@ -20,7 +20,7 @@ summary: >-
 
 # Liliequist Membrane
 
-The Liliequist membrane is an arachnoid sheet spanning the interpeduncular cistern between the dorsum sellae and the anterior surface of the [[brainstem|midbrain]]. It separates the chiasmatic/carotid cisterns (above) from the interpeduncular cistern (below) and is a critical surgical landmark during approaches to the basilar apex, [[sellar-region]], and [[lamina-terminalis]].
+The Liliequist membrane is an arachnoid sheet spanning the [[interpeduncular-cistern]] between the dorsum sellae and the anterior surface of the [[brainstem|midbrain]]. It separates the chiasmatic/carotid cisterns (above) from the interpeduncular cistern (below) and is a critical surgical landmark during approaches to the basilar apex, [[sellar-region]], and [[lamina-terminalis]].
 
 ## Anatomy
 
@@ -33,7 +33,7 @@ The membrane is classically described as having two leaves:
 | **Mesencephalic (posterior) leaf** | From mamillary bodies to anterior midbrain surface (cerebral peduncles) | Interpeduncular cistern from prepontine cistern |
 
 ### Variations
-The membrane varies from a robust, nearly impermeable sheet to a fenestrated, incomplete web. Its thickness and completeness affect CSF circulation between the suprasellar and posterior fossa cisterns.
+The membrane varies from a robust, nearly impermeable sheet to a fenestrated, incomplete web. Its thickness and completeness affect CSF circulation between the suprasellar and [[posterior-fossa]] cisterns.
 
 ## Cisternal Relationships
 
@@ -78,7 +78,7 @@ During [[pterional-approach]] or [[orbitozygomatic-approach]] for basilar apex a
 5. The [[thalamoperforating-arteries]] are visualized behind the membrane
 
 ### Endoscopic Third Ventriculostomy
-During ETV via the [[lamina-terminalis]] or tuber cinereum, the Liliequist membrane below the third ventricle floor must be fenestrated to establish communication between the ventricular system and the prepontine cistern.
+During ETV via the [[lamina-terminalis]] or tuber cinereum, the Liliequist membrane below the third ventricle floor must be fenestrated to establish communication between the [[lateral-and-third-ventricles|ventricular system]] and the prepontine cistern.
 
 ### Transsphenoidal/Endonasal Surgery
 In extended [[transsphenoidal-approach]] and [[endoscopic-endonasal-approach]], the membrane is encountered when working posterior to the sellar region toward the interpeduncular cistern. Its identification confirms entry into the correct cisternal plane.

@@ -23,17 +23,17 @@ This page synthesizes the surgical approaches described in Rhoton's work, organi
 
 ## Approach-to-Target Matrix
 
-### Anterior Circulation and Supratentorial Midline
+### [[anterior-circulation]] and Supratentorial Midline
 
 | Target | Primary Approach | Alternative |
 |---|---|---|
 | [[anterior-communicating-artery\|ACoA]] aneurysm | [[pterional-approach]] | [[interhemispheric-approach\|Anterior interhemispheric]] |
 | Distal [[anterior-cerebral-artery\|ACA]] aneurysm | [[interhemispheric-approach]] | — |
 | [[middle-cerebral-artery\|MCA]] aneurysm | [[pterional-approach]] (sylvian fissure) | — |
-| [[internal-carotid-artery\|ICA]]-PCoA aneurysm | [[pterional-approach]] | — |
-| [[sellar-region]] (pituitary) | [[transsphenoidal-approach]] | Transcranial (pterional) |
+| [[internal-carotid-artery\|ICA]]-[[posterior-communicating-artery|PCoA]] aneurysm | [[pterional-approach]] | — |
+| [[sellar-region]] ([[pituitary-gland|pituitary]]) | [[transsphenoidal-approach]] | Transcranial (pterional) |
 | [[optic-chiasm]] lesion | [[pterional-approach]] | [[transsphenoidal-approach]] |
-| Third ventricle tumor | [[interhemispheric-approach\|Transcallosal]] | Transcortical-transventricular |
+| [[lateral-and-third-ventricles|Third ventricle]] tumor | [[interhemispheric-approach\|Transcallosal]] | Transcortical-transventricular |
 | [[cavernous-sinus]] lesion | Frontotemporal + extradural | [[subtemporal-approach]] + Kawase |
 
 ### Basilar Apex and Tentorial Incisura
@@ -43,11 +43,11 @@ This page synthesizes the surgical approaches described in Rhoton's work, organi
 | [[basilar-artery]] apex aneurysm | [[pterional-approach]] (high bifurcation) | [[subtemporal-approach]] (low bifurcation) |
 | [[posterior-cerebral-artery\|PCA]] aneurysm | [[subtemporal-approach]] | [[pterional-approach]] |
 | [[superior-cerebellar-artery\|SCA]] aneurysm | [[subtemporal-approach]] | [[pterional-approach]] |
-| Pineal region tumor | [[supracerebellar-infratentorial-approach]] | Occipital transtentorial |
+| [[pineal-region]] tumor | [[supracerebellar-infratentorial-approach]] | Occipital transtentorial |
 | [[tentorial-incisura]] meningioma | [[subtemporal-approach]] + tentorial section | Combined supra-infratentorial |
 | [[trigeminal-nerve\|CN V]] decompression | [[retrosigmoid-approach]] | [[subtemporal-approach]] |
 
-### Posterior Fossa
+### [[posterior-fossa]]
 
 | Target | Primary Approach | Alternative |
 |---|---|---|
@@ -55,11 +55,11 @@ This page synthesizes the surgical approaches described in Rhoton's work, organi
 | [[cerebellopontine-cistern\|CPA]] meningioma | [[retrosigmoid-approach]] | — |
 | [[aica\|AICA]] aneurysm | [[retrosigmoid-approach]] | — |
 | [[pica\|PICA]] aneurysm | [[far-lateral-approach]] | Midline suboccipital |
-| Fourth ventricle tumor | Telovelar (suboccipital) | — |
+| [[fourth-ventricle]] tumor | Telovelar (suboccipital) | — |
 | [[brainstem]] cavernoma (dorsal) | [[supracerebellar-infratentorial-approach]] | Midline suboccipital |
 | [[brainstem]] cavernoma (ventrolateral) | [[far-lateral-approach]] | [[retrosigmoid-approach]] |
 
-### Foramen Magnum and Craniocervical Junction
+### Foramen Magnum and [[craniocervical-junction]]
 
 | Target | Primary Approach | Alternative |
 |---|---|---|
@@ -84,14 +84,14 @@ All approaches follow subarachnoid cisterns ([[basal-cisterns]]). Opening cister
 - **Prepontine cistern** → [[transsphenoidal-approach|transclival]]
 
 ### 3. Vascular and neural constraints
-- **Bridging veins** — the vein of Labbé limits [[subtemporal-approach]]; parasagittal veins limit [[interhemispheric-approach]]
+- **[[bridging-veins]]** — the vein of Labbé limits [[subtemporal-approach]]; parasagittal veins limit [[interhemispheric-approach]]
 - **Cranial nerves** — [[trochlear-nerve|CN IV]] is most vulnerable in the [[subtemporal-approach]]; [[abducens-nerve|CN VI]] in Kawase; [[lower-cranial-nerves|CN IX-XII]] in the [[far-lateral-approach]]
-- **Perforators** — [[basilar-artery]] pontine perforators constrain basilar apex surgery; [[anterior-communicating-artery|ACoA]] perforators constrain anterior approaches
+- **[[perforating-arteries|Perforators]]** — [[basilar-artery]] pontine perforators constrain basilar apex surgery; [[anterior-communicating-artery|ACoA]] perforators constrain anterior approaches
 
 ### 4. Skull base modifications
 Cranial base resection (orbitozygomatic, petrosectomy, condylectomy) provides lower angles of exposure that reduce brain retraction:
 - **Orbitozygomatic** — extends [[pterional-approach]] inferiorly for basilar apex
-- **Anterior petrosectomy (Kawase)** — extends [[subtemporal-approach]] to the clivus and [[abducens-nerve|CN VI]]
+- **Anterior petrosectomy (Kawase)** — extends [[subtemporal-approach]] to the [[clivus]] and [[abducens-nerve|CN VI]]
 - **Condylectomy** — extends [[far-lateral-approach]] for ventral [[foramen-magnum]] access
 
 ## Relations

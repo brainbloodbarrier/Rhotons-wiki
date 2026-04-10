@@ -34,28 +34,28 @@ The pterional (frontotemporal) approach is the most versatile and frequently use
 - [[internal-carotid-artery]] aneurysms (PCoA, bifurcation, ophthalmic)
 - [[middle-cerebral-artery]] bifurcation aneurysms
 - Basilar apex aneurysms (extended pterional)
-- Sphenoid ridge meningiomas
-- Suprasellar tumors (craniopharyngiomas, pituitary adenomas with lateral extension)
-- Temporal lobe lesions
+- [[sphenoid-bone|Sphenoid]] ridge meningiomas
+- Suprasellar tumors (craniopharyngiomas, [[pituitary-gland|pituitary]] adenomas with lateral extension)
+- [[cerebral-lobes|Temporal lobe]] lesions
 
 ## Key Steps
 
 1. **Skin incision** — behind the hairline from the zygomatic arch to the midline
-2. **Temporalis dissection** — subperiosteal, preserving the frontal branch of CN VII (crosses zygoma ~1.5 cm anterior to the ear)
+2. **Temporalis dissection** — subperiosteal, preserving the frontal branch of [[facial-nerve|CN VII]] (crosses zygoma ~1.5 cm anterior to the ear)
 3. **Craniotomy** — frontotemporal bone flap centered on the pterion
 4. **Sphenoid ridge drill-down** — high-speed drill removes lateral sphenoid ridge for flat trajectory
 5. **Dural opening** — curved based on the sphenoid ridge
-6. **Sylvian fissure split** — microsurgical opening of the [[sylvian-fissure]] to expose basal cisterns
+6. **Sylvian fissure split** — microsurgical opening of the [[sylvian-fissure]] to expose [[basal-cisterns]]
 
 ## Structures Exposed
 
 Through the [[sylvian-fissure]] and opticocarotid triangle:
 
 ### Opticocarotid Triangle
-The window between the [[internal-carotid-artery]], [[anterior-cerebral-artery]] (A1), and optic nerve — provides access to:
+The window between the [[internal-carotid-artery]], [[anterior-cerebral-artery]] (A1), and [[optic-nerve]] — provides access to:
 - [[posterior-communicating-artery]]
 - Basilar apex (deep exposure)
-- Interpeduncular cistern
+- [[interpeduncular-cistern]]
 
 ### Basal Cisterns
 - [[internal-carotid-artery]] and bifurcation
@@ -65,14 +65,14 @@ The window between the [[internal-carotid-artery]], [[anterior-cerebral-artery]]
 - [[posterior-communicating-artery]]
 - [[anterior-choroidal-artery]]
 - [[optic-chiasm]] and optic nerves
-- Oculomotor nerve (CN III)
-- Upper basilar artery and [[posterior-cerebral-artery]] (P1)
+- [[oculomotor-nerve]] (CN III)
+- Upper [[basilar-artery]] and [[posterior-cerebral-artery]] (P1)
 
 ## Extensions
 
 - **Orbitozygomatic** — additional removal of orbital rim and zygomatic arch; increases inferior-to-superior trajectory for basilar apex
-- **Anterior clinoidectomy** — removal of anterior clinoid process; exposes ophthalmic segment of ICA and [[cavernous-sinus]] roof
-- **Pretemporal** — temporal pole retraction; increases subtemporal access to ambient cistern
+- **Anterior clinoidectomy** — removal of [[anterior-clinoid-process]]; exposes ophthalmic segment of ICA and [[cavernous-sinus]] roof
+- **Pretemporal** — temporal pole retraction; increases subtemporal access to [[ambient-cistern]]
 
 ## Relations
 

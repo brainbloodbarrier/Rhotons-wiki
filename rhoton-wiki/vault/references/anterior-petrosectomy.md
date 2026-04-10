@@ -26,7 +26,7 @@ approach-to:
 
 # Anterior Petrosectomy (Kawase Approach)
 
-The anterior petrosectomy extends the [[subtemporal-approach]] by drilling the petrous apex of the [[temporal-bone]] — the **Kawase triangle** — to expose the lateral clivus, prepontine cistern, [[basilar-artery]], and [[abducens-nerve|CN VI]]. It bridges the middle and posterior cranial fossae without a posterior fossa craniotomy.
+The anterior petrosectomy extends the [[subtemporal-approach]] by drilling the [[petrous-apex]] of the [[temporal-bone]] — the **Kawase triangle** — to expose the lateral clivus, prepontine cistern, [[basilar-artery]], and [[abducens-nerve|CN VI]]. It bridges the middle and posterior cranial fossae without a [[posterior-fossa]] craniotomy.
 
 ## Indications
 
@@ -41,7 +41,7 @@ The anterior petrosectomy extends the [[subtemporal-approach]] by drilling the p
 
 The Kawase triangle defines the safe zone for petrous apex drilling on the middle fossa floor:
 
-- **Anterolateral margin** — greater petrosal nerve (from the geniculate ganglion of [[facial-nerve|CN VII]])
+- **Anterolateral margin** — [[greater-petrosal-nerve]] (from the geniculate ganglion of [[facial-nerve|CN VII]])
 - **Medial margin** — lateral edge of the [[trigeminal-nerve|trigeminal nerve]] (posterior root entering [[meckels-cave]])
 - **Posterior margin** — line connecting the hiatus of the greater petrosal nerve (hiatus fallopii) to the dural ostium of [[meckels-cave]]
 - **Deep landmark** — the petrous [[internal-carotid-artery|ICA]] crosses the anterior apex of the triangle
@@ -54,16 +54,16 @@ The Kawase triangle defines the safe zone for petrous apex drilling on the middl
 
 ## Technique
 
-1. [[subtemporal-approach]] craniotomy — temporal lobe elevation from middle fossa floor
+1. [[subtemporal-approach]] craniotomy — [[cerebral-lobes|temporal lobe]] elevation from middle fossa floor
 2. Identify the **greater petrosal nerve** coursing toward the hiatus fallopii
 3. Identify the **arcuate eminence** (superior semicircular canal landmark)
 4. Identify the **[[trigeminal-nerve|trigeminal nerve]]** entering [[meckels-cave]]
 5. Drill the Kawase triangle bone between these landmarks — remove petrous apex **medial to the cochlea and behind the petrous ICA**
 6. Open the posterior fossa dura → exposes the prepontine cistern, [[basilar-artery]], and [[abducens-nerve|CN VI]]
-7. Optionally section the tentorium for additional exposure
+7. Optionally section the [[tentorium-cerebelli|tentorium]] for additional exposure
 
 ### Angular relationship
-The long axis of the internal acoustic meatus is ~61° behind the greater petrosal nerve and ~37° medial to the arcuate eminence — these angles guide safe drilling toward the IAC fundus.
+The long axis of the [[internal-auditory-canal|internal acoustic meatus]] is ~61° behind the greater petrosal nerve and ~37° medial to the arcuate eminence — these angles guide safe drilling toward the IAC fundus.
 
 ## Exposed Structures
 
@@ -71,7 +71,7 @@ The long axis of the internal acoustic meatus is ~61° behind the greater petros
 - **Prepontine cistern** ([[basal-cisterns]]) — the [[basilar-artery]] on the ventral pons
 - **[[abducens-nerve|CN VI]]** — ascending on the clivus, entering Dorello's canal
 - **[[aica|AICA]]** — arising from the lower [[basilar-artery]]
-- **Lateral clivus** — the clival bone surface
+- **Lateral clivus** — the [[clivus|clival bone]] surface
 - **[[trigeminal-nerve|CN V]]** posterior root — above the drilling zone
 
 ### With tentorial section
@@ -115,5 +115,5 @@ Adds the [[orbitozygomatic-approach]] for additional anterior and inferior angul
 
 ## References
 
-- Rhoton, Ch.9 — The Cavernous Sinus (Kawase triangle, middle fossa triangles)
+- Rhoton, Ch.9 — The [[cavernous-sinus]] (Kawase triangle, middle fossa triangles)
 - Rhoton, Ch.14 — Tentorial Incisura; The Temporal Bone (petrous anatomy, drilling landmarks, combined approaches)

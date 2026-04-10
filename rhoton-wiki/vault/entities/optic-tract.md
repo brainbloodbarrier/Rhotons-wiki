@@ -19,15 +19,15 @@ parent: "[[cranial-nerves-overview]]"
 
 # Optic Tract
 
-The optic tract is the post-chiasmatic continuation of the visual pathway, extending from the posterolateral angle of the [[optic-chiasm]] to the lateral geniculate body of the [[thalamus]]. It courses around the cerebral peduncle of the [[brainstem|midbrain]], forming a key landmark at the junction of the suprasellar and ambient cisterns.
+The optic tract is the post-chiasmatic continuation of the visual pathway, extending from the posterolateral angle of the [[optic-chiasm]] to the lateral geniculate body of the [[thalamus]]. It courses around the cerebral peduncle of the [[brainstem|midbrain]], forming a key landmark at the junction of the suprasellar and ambient [[basal-cisterns|cisterns]].
 
 ## Course
 
 | Segment | Location | Relations |
 |---|---|---|
 | **Origin** | Posterolateral angle of [[optic-chiasm]] | Just lateral to the [[pituitary-gland\|pituitary stalk]] |
-| **Suprasellar** | Courses posterolaterally above the [[posterior-communicating-artery]] and [[anterior-choroidal-artery]] | Floor of the third ventricle laterally |
-| **Peduncular** | Wraps around the cerebral peduncle of [[brainstem\|midbrain]] | Lateral to the [[hypothalamus]], medial to the uncus |
+| **Suprasellar** | Courses posterolaterally above the [[posterior-communicating-artery]] and [[anterior-choroidal-artery]] | Floor of the [[lateral-and-third-ventricles|third ventricle]] laterally |
+| **Peduncular** | Wraps around the cerebral peduncle of [[brainstem\|midbrain]] | Lateral to the [[hypothalamus]], medial to the [[uncus]] |
 | **Termination** | Lateral geniculate body of [[thalamus]] | Optic radiations emerge to course to the visual cortex |
 
 ## Visual Pathway Position
@@ -51,7 +51,7 @@ A lesion of one optic tract produces **contralateral homonymous hemianopia** (lo
 - **[[basal-vein-of-rosenthal]]** — courses alongside the optic tract through the crural cistern
 
 ### Adjacent Structures
-- **Uncus** — the medial temporal lobe lies lateral to the tract; in [[herniation-syndromes|uncal herniation]], the uncus compresses the tract against the peduncle
+- **Uncus** — the medial [[cerebral-lobes|temporal lobe]] lies lateral to the tract; in [[herniation-syndromes|uncal herniation]], the uncus compresses the tract against the peduncle
 - **Cerebral peduncle** — the tract wraps around its lateral surface
 - **[[hypothalamus]]** — the optic tract forms the lateral boundary of the hypothalamus
 
@@ -61,10 +61,10 @@ A lesion of one optic tract produces **contralateral homonymous hemianopia** (lo
 The optic tract is a visible landmark during:
 - **[[pterional-approach]]** — identifies the carotid-chiasmatic corridor; the tract is followed posterolaterally toward the peduncle
 - **[[orbitozygomatic-approach]]** — enhanced view of the tract behind the chiasm
-- **[[subtemporal-approach]]** — the tract is visible at the upper edge of the tentorial incisura
+- **[[subtemporal-approach]]** — the tract is visible at the upper edge of the [[tentorial-incisura]]
 
 ### AChA Origin
-The [[anterior-choroidal-artery]] arises from the ICA just medial to the optic tract origin. This relationship is critical during ICA aneurysm surgery — the AChA must be preserved, and the optic tract identifies its location.
+The [[anterior-choroidal-artery]] arises from the ICA just medial to the optic tract origin. This relationship is critical during ICA [[aneurysm-surgery]] — the AChA must be preserved, and the optic tract identifies its location.
 
 ### Uncal Herniation
 During transtentorial [[herniation-syndromes|herniation]], the optic tract is compressed between the herniating uncus and the cerebral peduncle, contributing to contralateral homonymous hemianopia (Kernohan's notch phenomenon may also produce ipsilateral motor deficits).

@@ -49,7 +49,7 @@ Passes between the [[vertebral-artery]] and the groove on the posterior arch of 
 ### Posterior meningeal artery
 Arises from the V3 segment near the dural entry. Ascends to supply the dura on the posterior aspect of the [[foramen-magnum]] and [[posterior-fossa]].
 
-### Posterior spinal artery
+### [[posterior-spinal-artery]]
 May arise from V3 (extradural) or V4 (intradural). Enters the dura with the [[vertebral-artery]] and C1 nerve through a common dural funnel.
 
 ## Overlying Muscles (superficial to deep)

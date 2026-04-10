@@ -21,7 +21,7 @@ summary: >-
 parent: "[[cerebrum]]"
 ---
 
-# Basal Ganglia and Internal Capsule
+# Basal Ganglia and [[internal-capsule]]
 
 The basal ganglia are a group of subcortical nuclei deep within the [[cerebrum]], surrounded by the [[lateral-and-third-ventricles|lateral ventricles]] laterally and the [[thalamus]] medially. The internal capsule is the white matter corridor that separates the basal ganglia from the thalamus, carrying all corticospinal, thalamocortical, and corticopontine fibers. Together they are the most critical deep brain territory for neurovascular surgery — the lenticulostriate artery territory.
 
@@ -49,20 +49,20 @@ The internal capsule is a V-shaped white matter band (in axial section) with an 
 
 | Part | Location | Major tracts | Vascular supply |
 |---|---|---|---|
-| Anterior limb | Between caudate head and lentiform | Frontopontine, anterior thalamic radiation | Recurrent artery of Heubner, medial lenticulostriates |
+| Anterior limb | Between caudate head and lentiform | Frontopontine, anterior thalamic radiation | [[recurrent-artery-of-heubner]], medial lenticulostriates |
 | Genu | At the apex of the V | Corticobulbar fibers (face, tongue) | Lateral lenticulostriates |
 | Posterior limb | Between lentiform and [[thalamus]] | Corticospinal (arm, leg), sensory radiation | Lateral lenticulostriates, [[anterior-choroidal-artery]] |
-| Retrolenticular | Behind lentiform | Optic radiation (Meyer's loop), posterior thalamic radiation | [[anterior-choroidal-artery]], [[posterior-cerebral-artery\|PCA]] branches |
+| Retrolenticular | Behind lentiform | [[optic-radiation]] (Meyer's loop), posterior thalamic radiation | [[anterior-choroidal-artery]], [[posterior-cerebral-artery\|PCA]] branches |
 | Sublenticular | Below lentiform | Auditory radiation, temporal corticopontine | [[anterior-choroidal-artery]] |
 
-## Vascular Supply — Lenticulostriate Arteries
+## Vascular Supply — [[lenticulostriate-arteries]]
 
-The lenticulostriate arteries are the most surgically critical perforators in the anterior circulation:
+The lenticulostriate arteries are the most surgically critical [[perforating-arteries|perforators]] in the anterior circulation:
 
 ### Lateral lenticulostriates
-Arise from the M1 segment of the [[middle-cerebral-artery]] (typically 6–12 arteries). Pass superiorly through the anterior perforated substance at the limen of the [[insula]]. Supply the putamen, globus pallidus, body of the caudate, and the genu and posterior limb of the internal capsule.
+Arise from the M1 segment of the [[middle-cerebral-artery]] (typically 6–12 arteries). Pass superiorly through the [[anterior-perforated-substance]] at the limen of the [[insula]]. Supply the putamen, globus pallidus, body of the caudate, and the genu and posterior limb of the internal capsule.
 
-**Injury = contralateral hemiplegia.** These perforators are the principal constraint during MCA aneurysm surgery and insular tumor resection.
+**Injury = contralateral hemiplegia.** These perforators are the principal constraint during MCA [[aneurysm-surgery]] and insular tumor resection.
 
 ### Medial lenticulostriates
 Arise from the A1 segment of the [[anterior-cerebral-artery]]. Supply the anterior limb of the internal capsule and caudate head.
@@ -71,7 +71,7 @@ Arise from the A1 segment of the [[anterior-cerebral-artery]]. Supply the anteri
 The largest named perforator of the anterior circulation. Arises from proximal A2 of the [[anterior-cerebral-artery]] (or A1-A2 junction). Courses back along A1 to enter the anterior perforated substance. Supplies the caudate head, anterior internal capsule, and anterior putamen. At risk during [[anterior-communicating-artery]] aneurysm surgery.
 
 ### Anterior choroidal artery ([[anterior-choroidal-artery]])
-Supplies the posterior limb of the internal capsule (partial), optic tract, lateral geniculate body, and hippocampal formation. Its occlusion causes contralateral hemiplegia, hemianesthesia, and hemianopia.
+Supplies the posterior limb of the internal capsule (partial), [[optic-tract]], lateral geniculate body, and hippocampal formation. Its occlusion causes contralateral hemiplegia, hemianesthesia, and hemianopia.
 
 ## Surgical Significance
 
@@ -101,12 +101,12 @@ Resection of [[insula|insular tumors]] requires navigating between the MCA branc
 - [[anterior-choroidal-artery]] supplies the posterior internal capsule
 - Internal capsule separates basal ganglia from [[thalamus]]
 - [[hippocampus]] adjacent in the temporal horn
-- Anterior perforated substance at the skull base between [[optic-chiasm]] and [[sylvian-fissure]]
+- Anterior perforated substance at the [[cranial-base|skull base]] between [[optic-chiasm]] and [[sylvian-fissure]]
 - Accessed via [[pterional-approach]] (transsylvian), transcortical
 - See [[cranial-nerves-overview]] — corticobulbar fibers traverse the internal capsule genu
 
 ## References
 
-- Rhoton, Ch.1 — The Cerebrum (basal ganglia anatomy, internal capsule, fiber dissection)
+- Rhoton, Ch.1 — The Cerebrum (basal ganglia anatomy, internal capsule, [[white-matter-tracts|fiber dissection]])
 - Rhoton, Ch.2 — The Supratentorial Arteries (lenticulostriate arteries, Heubner, AChA)
 - Rhoton, Ch.5 — The Lateral and Third Ventricles (caudate-ventricular relations)

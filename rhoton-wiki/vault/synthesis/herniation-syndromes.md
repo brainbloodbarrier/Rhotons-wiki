@@ -23,7 +23,7 @@ summary: >-
 
 # Herniation Syndromes
 
-Brain herniation occurs when a mass lesion or diffuse swelling forces brain tissue through rigid dural or bony openings. Understanding herniation anatomy requires knowledge of the [[tentorial-incisura]], [[foramen-magnum]], falx cerebri, and the neurovascular structures compressed at each site. Rhoton's anatomical descriptions of these openings directly inform the clinical recognition and surgical treatment of herniation.
+Brain herniation occurs when a mass lesion or diffuse swelling forces brain tissue through rigid dural or bony openings. Understanding herniation anatomy requires knowledge of the [[tentorial-incisura]], [[foramen-magnum]], [[falx-cerebri]], and the neurovascular structures compressed at each site. Rhoton's anatomical descriptions of these openings directly inform the clinical recognition and surgical treatment of herniation.
 
 ## Types
 
@@ -34,7 +34,7 @@ The most common and clinically important herniation. The medial uncus of the tem
 **Compressed structures (sequential):**
 1. **[[oculomotor-nerve|CN III]]** — compressed between the uncus and the tentorial edge or [[posterior-cerebral-artery|PCA]] → ipsilateral fixed dilated pupil (earliest sign, parasympathetics on the outer surface compressed first)
 2. **Cerebral peduncle** ([[brainstem]]) — ipsilateral compression → contralateral hemiparesis (Kernohan's notch = contralateral peduncle compressed against opposite tentorial edge → ipsilateral hemiparesis, a false localizing sign)
-3. **[[posterior-cerebral-artery|PCA]]** — compressed against the tentorial edge → occipital lobe infarction (contralateral homonymous hemianopia)
+3. **[[posterior-cerebral-artery|PCA]]** — compressed against the tentorial edge → [[cerebral-lobes|occipital lobe]] infarction (contralateral homonymous hemianopia)
 4. **Midbrain** — progressive compression → loss of consciousness, decerebrate posturing
 5. **Posterior communicating and anterior choroidal arteries** — stretched → additional ischemia
 
@@ -75,12 +75,12 @@ The cingulate gyrus herniates under the falx cerebri, crossing the midline.
 
 ### 5. Ascending (Upward) Herniation
 
-The [[cerebellum]] (superior vermis and hemisphere) herniates upward through the [[tentorial-incisura]] from a posterior fossa mass.
+The [[cerebellum]] (superior vermis and hemisphere) herniates upward through the [[tentorial-incisura]] from a [[posterior-fossa]] mass.
 
 **Compressed structures:**
 - **[[superior-cerebellar-artery|SCA]]** — compressed against the tentorial edge → superior cerebellar infarction
 - **[[posterior-cerebral-artery|PCA]]** — compressed
-- **Cerebral aqueduct** — compressed by upward displacement of the vermis → acute obstructive hydrocephalus
+- **[[cerebral-aqueduct]]** — compressed by upward displacement of the vermis → acute obstructive hydrocephalus
 - **[[vein-of-galen]]** complex — may be compressed → deep venous congestion
 - **[[trochlear-nerve|CN IV]]** — may be stretched at the tentorial edge
 

@@ -25,7 +25,7 @@ The labyrinthine artery (internal auditory artery) is a small end-artery that su
 
 ## Origin
 
-- **From [[aica|AICA]]** (~85%) — arises from the lateral pontine or meatal segment, usually near the porus of the internal acoustic meatus ([[temporal-bone]])
+- **From [[aica|AICA]]** (~85%) — arises from the lateral pontine or meatal segment, usually near the porus of the [[internal-auditory-canal|internal acoustic meatus]] ([[temporal-bone]])
 - **From [[basilar-artery]]** (~15%) — arises directly as a separate branch
 - **Rarely** from [[pica|PICA]] or [[superior-cerebellar-artery|SCA]]
 - Diameter: 0.1–0.2 mm — one of the smallest named intracranial arteries

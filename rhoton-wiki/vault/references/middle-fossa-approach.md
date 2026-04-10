@@ -25,7 +25,7 @@ approach-to:
 
 # Middle Fossa Approach
 
-The middle fossa approach elevates the temporal lobe from the floor of the middle cranial fossa to access the internal acoustic canal (IAC), petrous apex, and the superior surface of the [[temporal-bone|petrous bone]] from above. It is the only approach that provides direct access to the IAC fundus while preserving both hearing and facial nerve function.
+The middle fossa approach elevates the [[cerebral-lobes|temporal lobe]] from the floor of the middle cranial fossa to access the internal acoustic canal (IAC), [[petrous-apex]], and the superior surface of the [[temporal-bone|petrous bone]] from above. It is the only approach that provides direct access to the IAC fundus while preserving both hearing and facial nerve function.
 
 ## Indications
 
@@ -45,11 +45,11 @@ The middle fossa approach elevates the temporal lobe from the floor of the middl
 
 ### Key landmarks on the middle fossa floor
 - **Arcuate eminence** — overlies the superior semicircular canal; guides orientation
-- **Greater petrosal nerve** — courses anterolateral from the geniculate ganglion toward the foramen lacerum; exits through the hiatus fallopii
+- **[[greater-petrosal-nerve]]** — courses anterolateral from the geniculate ganglion toward the foramen lacerum; exits through the hiatus fallopii
 - **Tegmen tympani** — thin bone roofing the middle ear and mastoid antrum
 - **Petrous [[internal-carotid-artery|ICA]]** — the carotid canal creates a prominence anterolateral in the floor
 - **[[trigeminal-nerve|V3]]** at foramen ovale — anterolateral landmark
-- **Middle meningeal artery** at foramen spinosum — anterolateral landmark
+- **[[middle-meningeal-artery]]** at foramen spinosum — anterolateral landmark
 
 ### IAC unroofing
 The IAC is located using angular relationships:
@@ -79,7 +79,7 @@ Drilling proceeds medially to laterally, following the superior petrosal surface
 | Hearing preservation | Yes | Yes | No (sacrifices labyrinth) |
 | Facial nerve at fundus | Directly visualized | Requires drilling | Directly visualized |
 | Best tumor size | ≤1.5 cm intracanalicular | Any size | Large tumors, no hearing |
-| Posterior fossa entry | No | Yes | Yes |
+| [[posterior-fossa]] entry | No | Yes | Yes |
 | Temporal lobe retraction | Yes | No | No |
 | Approach angle to IAC | Superior | Posterior | Lateral |
 
@@ -101,12 +101,12 @@ Drilling proceeds medially to laterally, following the superior petrosal surface
 - [[trigeminal-nerve|CN V]] and [[meckels-cave]] medially
 - Greater petrosal nerve → connects to [[facial-nerve|CN VII]] geniculate ganglion
 - Complementary to [[retrosigmoid-approach]] (posterior) and translabyrinthine (lateral)
-- [[anterior-petrosectomy]] (Kawase) extends this approach medially to the clivus
+- [[anterior-petrosectomy]] (Kawase) extends this approach medially to the [[clivus]]
 - See [[skull-base-foramina]] for middle fossa foraminal landmarks
 - See [[surgical-approaches-overview]] and [[cranial-nerves-overview]]
 
 ## References
 
-- Rhoton, Ch.6 — The Anterior and Middle Cranial Base (middle fossa floor anatomy)
-- Rhoton, Ch.9 — The Cavernous Sinus (middle fossa triangles, greater petrosal nerve)
+- Rhoton, Ch.6 — The [[cranial-base|Anterior and Middle Cranial Base]] (middle fossa floor anatomy)
+- Rhoton, Ch.9 — The [[cavernous-sinus]] (middle fossa triangles, greater petrosal nerve)
 - Rhoton, Ch.14 — The Temporal Bone (IAC anatomy, drilling landmarks, angular relationships)

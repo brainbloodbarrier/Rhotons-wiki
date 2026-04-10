@@ -34,7 +34,7 @@ The vestibulocochlear nerve transmits auditory (cochlear) and vestibular (balanc
 ## Course
 
 1. **Inner ear** — peripheral receptors in cochlea and vestibular labyrinth
-2. **Internal auditory canal** — cochlear nerve anteroinferior, vestibular nerves posterosuperior and posteroinferior; [[facial-nerve]] is anterosuperior
+2. **[[internal-auditory-canal]]** — cochlear nerve anteroinferior, vestibular nerves posterosuperior and posteroinferior; [[facial-nerve]] is anterosuperior
 3. **Cisternal segment** — exits canal into [[cerebellopontine-cistern]], courses to brainstem at pontomedullary junction
 4. **Brainstem entry** — cochlear and vestibular nuclei in lateral pontomedullary region
 
@@ -45,7 +45,7 @@ Vestibular schwannomas (acoustic neuromas) arise from Schwann cells of the infer
 ## Vascular Relations
 
 - [[aica]] meatal loop courses near CN VIII in the internal auditory canal
-- Labyrinthine artery (usually from AICA) supplies the cochlea — its sacrifice causes deafness
+- [[labyrinthine-artery]] (usually from AICA) supplies the cochlea — its sacrifice causes deafness
 - The flocculus projects behind CN VII/VIII in the [[cerebellopontine-cistern]]
 
 ## Relations
@@ -60,5 +60,5 @@ Vestibular schwannomas (acoustic neuromas) arise from Schwann cells of the infer
 
 ## References
 
-- Rhoton, Ch.10 — The Posterior Cranial Fossa
+- Rhoton, Ch.10 — The [[posterior-fossa|Posterior Cranial Fossa]]
 - Rhoton, Ch.15 — Cerebellopontine Cistern

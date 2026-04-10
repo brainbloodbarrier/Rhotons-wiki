@@ -21,11 +21,11 @@ parent: "[[posterior-cerebral-artery]]"
 
 # Thalamogeniculate Arteries
 
-The thalamogeniculate arteries are a group of small perforating branches arising from the P2 (ambient) segment of the [[posterior-cerebral-artery]] that ascend to supply the lateral [[thalamus]], geniculate bodies, and posterior limb of the internal capsule. They complement the [[thalamoperforating-arteries]] (from P1) that supply the medial thalamus.
+The thalamogeniculate arteries are a group of small perforating branches arising from the P2 (ambient) segment of the [[posterior-cerebral-artery]] that ascend to supply the lateral [[thalamus]], geniculate bodies, and posterior limb of the [[internal-capsule]]. They complement the [[thalamoperforating-arteries]] (from P1) that supply the medial thalamus.
 
 ## Origin and Course
 
-- **Origin**: P2 segment of the [[posterior-cerebral-artery]] as it courses through the ambient cistern
+- **Origin**: P2 segment of the [[posterior-cerebral-artery]] as it courses through the [[ambient-cistern]]
 - **Number**: typically 6–10 small branches
 - **Course**: ascend from the P2 to penetrate the inferior surface of the thalamus in the region of the lateral and medial geniculate bodies
 - **Entry zone**: inferolateral thalamic surface, between the geniculate bodies and the cerebral peduncle
@@ -42,7 +42,7 @@ The thalamogeniculate arteries are a group of small perforating branches arising
 
 ## Relationship to P2 Segment
 
-The thalamogeniculate arteries arise from the **P2 segment** as it courses through the crural and ambient cisterns alongside the [[basal-vein-of-rosenthal]] and the [[optic-tract]]:
+The thalamogeniculate arteries arise from the **P2 segment** as it courses through the crural and ambient [[basal-cisterns|cisterns]] alongside the [[basal-vein-of-rosenthal]] and the [[optic-tract]]:
 
 - The P2 is divided into **P2A (crural)** and **P2P (ambient)** subsegments
 - Most thalamogeniculate arteries arise from the **P2P** (ambient segment)
@@ -56,7 +56,7 @@ The thalamogeniculate arteries arise from the **P2 segment** as it courses throu
 | **Territory** | Medial/paramedian thalamus, midbrain | Lateral thalamus, geniculate bodies |
 | **Entry** | Posterior perforated substance | Inferolateral thalamic surface |
 | **Key variant** | Artery of Percheron | None described |
-| **Main risk** | Basilar apex aneurysm surgery | Ambient cistern surgery, temporal lobe tumors |
+| **Main risk** | Basilar apex [[aneurysm-surgery]] | Ambient cistern surgery, [[cerebral-lobes|temporal lobe]] tumors |
 
 Together, these two groups provide the complete arterial supply to the [[thalamus]].
 
@@ -70,7 +70,7 @@ The thalamogeniculate arteries are at risk during surgery in the ambient cistern
 - **[[posterior-cerebral-artery|PCA]] aneurysm surgery** — P2 aneurysms require meticulous perforator preservation
 
 ### Temporal Lobe Surgery
-During temporal lobectomy or amygdalohippocampectomy, the P2 and its thalamogeniculate branches course in the ambient cistern medial to the parahippocampal gyrus. Excessive medial dissection risks perforator injury.
+During temporal lobectomy or amygdalohippocampectomy, the P2 and its thalamogeniculate branches course in the ambient cistern medial to the [[hippocampus|parahippocampal gyrus]]. Excessive medial dissection risks perforator injury.
 
 ### Thalamic Hemorrhage
 Hypertensive hemorrhage in the lateral thalamus (thalamogeniculate territory) is one of the most common deep intracerebral hemorrhage patterns, often extending into the [[lateral-and-third-ventricles|lateral ventricle]].
