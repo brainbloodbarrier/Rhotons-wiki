@@ -57,6 +57,11 @@ title: Wiki Index
 - [[cerebellomedullary-fissure]] — Telovelar gateway, PICA guide, fourth ventricle access
 - [[hypothalamus]] — Third ventricle floor, perforator supply, craniopharyngioma
 - [[cerebellar-peduncles]] — Three fiber bundles, safe entry zones, fourth ventricle walls
+- [[optic-radiation]] — Meyer's loop, geniculocalcarine tract, visual field mapping
+- [[fornix]] — Hippocampal efferent arc, foramen of Monro landmark, memory circuit
+- [[internal-capsule]] — Projection fiber lamina, lenticulostriate territory, AChA syndrome
+- [[choroidal-fissure]] — Fornix-thalamus cleft, transchoroidal corridor, AChA entry point
+- [[uncus]] — Mesial temporal hook, uncal herniation, amygdala/hippocampal head
 
 ## Entities
 
@@ -153,4 +158,4 @@ title: Wiki Index
 
 ---
 
-*124 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*129 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*

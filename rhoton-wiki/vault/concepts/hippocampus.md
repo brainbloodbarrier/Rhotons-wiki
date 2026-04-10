@@ -73,8 +73,12 @@ Elevation of the temporal lobe exposes the parahippocampal gyrus and uncus at th
 - [[posterior-cerebral-artery|PCA]] hippocampal branches supply the body — see [[posterior-circulation]]
 - [[thalamus]] separated by the choroidal fissure
 - Uncus related to the [[tentorial-incisura]] (uncal herniation compresses [[oculomotor-nerve|CN III]])
-- Fornix is the efferent pathway (fimbria → crus → body → columns → mamillary bodies)
-- Related to [[corpus-callosum]] (splenium) posteriorly via the crus of the fornix
+- [[fornix]] is the efferent pathway (fimbria → crus → body → columns → mamillary bodies)
+- [[choroidal-fissure]] — fimbria forms the hippocampal lip; [[anterior-choroidal-artery]] enters at inferior choroidal point
+- [[uncus]] — anterior segment (amygdala) and posterior segment (hippocampal head)
+- [[optic-radiation]] (Meyer's loop) courses over the temporal horn roof lateral to hippocampus
+- [[internal-capsule]] — retrolenticular fibers lateral to temporal horn
+- Related to [[corpus-callosum]] (splenium) posteriorly via the crus of the [[fornix]]
 - Adjacent to the [[cerebrum]] (parahippocampal and fusiform gyri)
 - Accessed via [[pterional-approach]] (transsylvian), [[subtemporal-approach]], transcortical
 - See [[anterior-circulation]] (AChA) and [[posterior-circulation]] (PCA hippocampal branches)

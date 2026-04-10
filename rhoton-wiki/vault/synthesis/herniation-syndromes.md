@@ -124,7 +124,9 @@ Herniation causes both **compression** and **stretching** of arteries:
 - [[perforating-arteries]] — stretched, causing Duret hemorrhages
 - [[vertebral-artery]] and [[pica]] — compressed in tonsillar herniation
 - [[cerebellum]] (tonsils) — the herniating structure in tonsillar herniation
-- [[hippocampus]] (uncus, parahippocampal gyrus) — the herniating structure in uncal herniation
+- [[uncus]] — the herniating structure in uncal herniation; contains [[hippocampus|amygdala]] and hippocampal head
+- [[choroidal-fissure]] — stretched during transtentorial herniation
+- [[internal-capsule]] — cerebral peduncle (capsular continuation) compressed in Kernohan's notch
 - [[corpus-callosum]] — compressed in subfalcine herniation
 - [[vein-of-galen]] — at risk in ascending herniation
 
