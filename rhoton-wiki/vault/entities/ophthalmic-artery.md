@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   First ICA branch, orbital supply, ethmoidal arteries
+parent: "[[internal-carotid-artery]]"
 ---
 
 # Ophthalmic Artery

@@ -17,6 +17,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Largest ACA perforator, ACoA surgery risk
+parent: "[[anterior-cerebral-artery]]"
 ---
 
 # Recurrent Artery of Heubner

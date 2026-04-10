@@ -16,6 +16,7 @@ summary: >-
 aliases:
   - "fornix cerebri"
   - "hippocampal fornix"
+parent: "[[cerebrum]]"
 ---
 
 # Fornix

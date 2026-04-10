@@ -24,6 +24,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   CN IX-XII, jugular foramen, foramen magnum
+parent: "[[cranial-nerves-overview]]"
 ---
 
 # Lower Cranial Nerves (CN IX–XII)

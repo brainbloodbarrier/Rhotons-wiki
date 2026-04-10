@@ -15,6 +15,7 @@ summary: >-
   ECA terminal, infratemporal/pterygopalatine course, endonasal landmark
 aliases:
   - "internal maxillary artery"
+parent: "[[anterior-circulation]]"
 ---
 
 # Maxillary Artery

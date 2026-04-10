@@ -16,6 +16,7 @@ summary: >-
 aliases:
   - "interpeduncular fossa"
   - "cisterna interpeduncularis"
+parent: "[[basal-cisterns]]"
 ---
 
 # Interpeduncular Cistern

@@ -16,6 +16,9 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Deep venous conduit, PCA parallel, pineal region obstacle
+parent: "[[deep-venous-system]]"
+drains-to:
+  - "[[vein-of-galen]]"
 ---
 
 # Basal Vein of Rosenthal

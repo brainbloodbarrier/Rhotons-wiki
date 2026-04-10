@@ -15,6 +15,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Osseous walls, annular tendon, optic canal
+parent: "[[cranial-base]]"
 ---
 
 # Orbit

@@ -17,6 +17,9 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Deep venous confluence, ICVs, basal vein, pineal obstacle
+parent: "[[deep-venous-system]]"
+drains-to:
+  - "[[dural-venous-sinuses]]"
 ---
 
 # Vein of Galen Complex

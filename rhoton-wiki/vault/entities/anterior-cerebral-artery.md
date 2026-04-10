@@ -16,6 +16,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   A1-A5 segments, ACoA complex, recurrent artery of Heubner
+parent: "[[anterior-circulation]]"
 ---
 
 # Anterior Cerebral Artery

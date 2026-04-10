@@ -15,6 +15,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Telovelar gateway, PICA guide, fourth ventricle access
+parent: "[[posterior-fossa]]"
 ---
 
 # Cerebellomedullary Fissure

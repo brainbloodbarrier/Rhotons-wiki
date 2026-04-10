@@ -16,6 +16,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   CN V, three divisions, neurovascular compression
+parent: "[[cranial-nerves-overview]]"
 ---
 
 # Trigeminal Nerve (CN V)

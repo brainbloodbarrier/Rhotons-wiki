@@ -16,6 +16,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Cisternal course, choroidal fissure entry, supply territory
+parent: "[[anterior-circulation]]"
 ---
 
 # Anterior Choroidal Artery

@@ -15,6 +15,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Three surfaces, fissures, peduncles, neurovascular complexes
+parent: "[[posterior-fossa]]"
 ---
 
 # Cerebellum

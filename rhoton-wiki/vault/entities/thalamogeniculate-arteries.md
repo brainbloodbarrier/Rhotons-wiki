@@ -16,6 +16,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   P2 perforators, lateral thalamus supply, ambient cistern
+parent: "[[posterior-cerebral-artery]]"
 ---
 
 # Thalamogeniculate Arteries

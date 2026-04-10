@@ -18,6 +18,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Petrous pyramid, IAC, mastoid, jugular foramen
+parent: "[[cranial-base]]"
 ---
 
 # Temporal Bone

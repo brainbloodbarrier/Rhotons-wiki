@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   CN IV, dorsal origin, tentorial edge course, thinnest CN
+parent: "[[cranial-nerves-overview]]"
 ---
 
 # Trochlear Nerve

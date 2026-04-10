@@ -16,6 +16,7 @@ summary: >-
 aliases:
   - "geniculocalcarine tract"
   - "radiatio optica"
+parent: "[[cerebrum]]"
 ---
 
 # Optic Radiation

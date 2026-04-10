@@ -16,6 +16,7 @@ summary: >-
 aliases:
   - "perimesencephalic cistern"
   - "cisterna ambiens"
+parent: "[[basal-cisterns]]"
 ---
 
 # Ambient Cistern

@@ -16,6 +16,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   V3 vertebral artery landmark, far-lateral roadmap
+parent: "[[craniocervical-junction]]"
 ---
 
 # Suboccipital Triangle

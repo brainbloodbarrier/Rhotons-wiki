@@ -16,6 +16,7 @@ summary: >-
 aliases:
   - "uncinate gyrus"
   - "temporal uncus"
+parent: "[[cerebrum]]"
 ---
 
 # Uncus

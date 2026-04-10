@@ -16,6 +16,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   V2/maxillary artery hub, 8 communications
+parent: "[[cranial-base]]"
 ---
 
 # Pterygopalatine Fossa

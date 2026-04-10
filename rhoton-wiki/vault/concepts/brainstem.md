@@ -16,6 +16,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Midbrain, pons, medulla; neurovascular complexes, safe entry zones
+parent: "[[posterior-fossa]]"
 ---
 
 # Brainstem

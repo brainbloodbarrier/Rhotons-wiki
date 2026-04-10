@@ -17,6 +17,11 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Frontotemporal craniotomy, sylvian fissure access
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[sylvian-fissure]]"
+  - "[[anterior-circulation]]"
+  - "[[cavernous-sinus]]"
 ---
 
 # Pterional Approach

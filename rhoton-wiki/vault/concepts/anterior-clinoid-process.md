@@ -16,6 +16,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Clinoidectomy, dural rings, optic strut, paraclinoid ICA
+parent: "[[sphenoid-bone]]"
 ---
 
 # Anterior Clinoid Process

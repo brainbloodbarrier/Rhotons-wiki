@@ -15,6 +15,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   CSF production, choroidal fissure, dual arterial supply
+parent: "[[lateral-and-third-ventricles]]"
 ---
 
 # Choroid Plexus

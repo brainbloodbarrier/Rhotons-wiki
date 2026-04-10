@@ -17,6 +17,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Pituitary portal supply, chiasm perforators
+parent: "[[internal-carotid-artery]]"
 ---
 
 # Superior Hypophyseal Artery

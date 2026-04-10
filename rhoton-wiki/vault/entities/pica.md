@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Lower neurovascular complex, telovelar approach
+parent: "[[posterior-circulation]]"
 ---
 
 # Posterior Inferior Cerebellar Artery

@@ -17,6 +17,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Bill's bar, fundus quadrants, schwannoma staging
+parent: "[[temporal-bone]]"
 ---
 
 # Internal Auditory Canal

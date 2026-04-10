@@ -16,6 +16,7 @@ summary: >-
 aliases:
   - "choroid fissure"
   - "fissura choroidea"
+parent: "[[lateral-and-third-ventricles]]"
 ---
 
 # Choroidal Fissure

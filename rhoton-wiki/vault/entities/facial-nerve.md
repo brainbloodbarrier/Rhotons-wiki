@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   CN VII, CP angle surgery, parotid branches
+parent: "[[cranial-nerves-overview]]"
 ---
 
 # Facial Nerve (CN VII)

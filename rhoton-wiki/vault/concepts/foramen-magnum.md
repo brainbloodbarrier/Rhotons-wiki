@@ -16,6 +16,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Craniocervical junction, occipital bone, CVJ ligaments
+parent: "[[cranial-base]]"
 ---
 
 # Foramen Magnum

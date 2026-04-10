@@ -16,6 +16,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Pituitary fossa, transsphenoidal and transcranial approaches
+parent: "[[cranial-base]]"
 ---
 
 # Sellar Region

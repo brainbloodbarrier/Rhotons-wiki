@@ -16,6 +16,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   AICA branch, sole cochlear supply, deafness risk
+parent: "[[aica]]"
 ---
 
 # Labyrinthine Artery

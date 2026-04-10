@@ -15,6 +15,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Rhomboid fossa, choroid plexus, telovelar approach
+parent: "[[posterior-fossa]]"
 ---
 
 # Fourth Ventricle

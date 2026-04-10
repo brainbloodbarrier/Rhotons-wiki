@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Middle neurovascular complex, meatal loop, labyrinthine artery
+parent: "[[posterior-circulation]]"
 ---
 
 # Anterior Inferior Cerebellar Artery

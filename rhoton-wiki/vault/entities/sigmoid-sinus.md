@@ -15,6 +15,9 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   S-shaped course, asterion landmark, craniotomy boundary
+parent: "[[dural-venous-sinuses]]"
+drains-to:
+  - "[[jugular-foramen]]"
 ---
 
 # Sigmoid Sinus

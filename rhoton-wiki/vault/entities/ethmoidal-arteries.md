@@ -18,6 +18,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   AEA/PEA, cribriform landmarks, anterior skull base supply
+parent: "[[ophthalmic-artery]]"
 ---
 
 # Ethmoidal Arteries

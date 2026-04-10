@@ -16,6 +16,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Visual pathway crossing, sellar region landmark
+parent: "[[cranial-nerves-overview]]"
 ---
 
 # Optic Chiasm

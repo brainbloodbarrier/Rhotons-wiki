@@ -18,6 +18,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   MCA/ACA perforators, basal ganglia supply, end-arteries
+parent: "[[middle-cerebral-artery]]"
 ---
 
 # Lenticulostriate Arteries

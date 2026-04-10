@@ -18,6 +18,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Lenticulostriate territory, internal capsule, DBS targets
+parent: "[[cerebrum]]"
 ---
 
 # Basal Ganglia and Internal Capsule

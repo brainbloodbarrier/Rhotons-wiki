@@ -15,6 +15,10 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   CP angle access, microvascular decompression
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[cerebellopontine-cistern]]"
+  - "[[trigeminal-nerve]]"
 ---
 
 # Retrosigmoid Approach

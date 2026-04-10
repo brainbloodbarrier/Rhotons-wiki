@@ -17,6 +17,11 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Expanded endonasal, modular skull base corridors
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[sellar-region]]"
+  - "[[clivus]]"
+  - "[[paranasal-sinuses]]"
 ---
 
 # Endoscopic Endonasal Approach

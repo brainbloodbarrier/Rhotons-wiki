@@ -17,6 +17,10 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Foramen magnum, lower clivus, vertebral artery
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[foramen-magnum]]"
+  - "[[vertebral-artery]]"
 ---
 
 # Far Lateral Approach

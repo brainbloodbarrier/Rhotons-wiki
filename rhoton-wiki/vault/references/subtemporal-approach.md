@@ -16,6 +16,10 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Middle incisural space, basilar apex, tentorial division
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[ambient-cistern]]"
+  - "[[tentorial-incisura]]"
 ---
 
 # Subtemporal Approach

@@ -18,6 +18,10 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Kawase triangle, lateral clivus exposure
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[petrous-apex]]"
+  - "[[clivus]]"
 ---
 
 # Anterior Petrosectomy (Kawase Approach)

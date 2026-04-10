@@ -18,6 +18,10 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Retrolabyrinthine, translabyrinthine, transcochlear, combined petrosal
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[temporal-bone]]"
+  - "[[cerebellopontine-cistern]]"
 ---
 
 # Posterior Petrosectomy
