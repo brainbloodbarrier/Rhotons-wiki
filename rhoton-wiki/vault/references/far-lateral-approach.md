@@ -55,13 +55,16 @@ The far lateral approach provides access to the ventrolateral brainstem, lower c
 
 ## Relations
 
-- Provides ventrolateral access to [[posterior-fossa]] at foramen magnum
-- Vertebral artery is the critical vascular structure
-- CN IX-XII cross the surgical corridor
+- Provides ventrolateral access to [[posterior-fossa]] at [[foramen-magnum]]
+- [[vertebral-artery]] (V3-V4) is the critical vascular structure
+- [[lower-cranial-nerves|CN IX-XII]] cross the surgical corridor
+- [[pica]] origin and course near the surgical field
+- Vertebrobasilar junction exposes lower [[basilar-artery]]
 - Related to the [[tentorial-incisura]] (posterior incisural space) superiorly
-- PICA courses near the surgical field
+- Suboccipital triangle landmarks guide [[vertebral-artery]] V3 identification
+- Complementary to [[retrosigmoid-approach]] (lateral) and [[subtemporal-approach]] (superior)
 
 ## References
 
 - Rhoton, Ch.10 — The Posterior Cranial Fossa
-- Rhoton, Ch.14 — Tentorial Incisura
+- Rhoton, Ch.14 — Tentorial Incisura (The Foramen Magnum)

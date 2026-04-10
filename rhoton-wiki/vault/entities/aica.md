@@ -49,10 +49,12 @@ The anterior inferior cerebellar artery (AICA) arises from the basilar artery an
 
 ## Relations
 
-- Arises from basilar artery in [[posterior-fossa]]
-- Courses through [[cerebellopontine-cistern]] near CN VI, VII, VIII
+- Arises from [[basilar-artery]] in [[posterior-fossa]]
+- Courses through [[cerebellopontine-cistern]] near [[abducens-nerve|CN VI]], [[facial-nerve|VII]], [[vestibulocochlear-nerve|VIII]]
 - Meatal loop near internal auditory canal
 - Part of middle neurovascular complex alongside [[superior-cerebellar-artery]] (upper) and [[pica]] (lower)
+- Related to [[lower-cranial-nerves|CN IX-XI]] at the cerebellomedullary cistern
+- Exposed via [[retrosigmoid-approach]] and [[subtemporal-approach]] (with tentorial section)
 
 ## References
 

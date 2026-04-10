@@ -41,6 +41,13 @@ The oculomotor nerve controls most extraocular muscles (superior, medial, inferi
 - **Uncal herniation** — uncus compresses CN III against the tentorial edge → ipsilateral fixed dilated pupil (earliest sign of transtentorial herniation)
 - **[[cavernous-sinus]] pathology** — tumors, thrombosis, fistulas → CN III palsy with other cranial nerve deficits
 
+## Relations
+
+- Passes between [[posterior-cerebral-artery]] (above) and [[superior-cerebellar-artery]] (below) at the [[basilar-artery]] apex
+- Adjacent to [[trochlear-nerve|CN IV]] and [[abducens-nerve|CN VI]] in the [[cavernous-sinus]]
+- Exposed by [[pterional-approach]], [[subtemporal-approach]], [[supracerebellar-infratentorial-approach]]
+- Courses through [[basal-cisterns]] (interpeduncular cistern)
+
 ## References
 
 - Rhoton, Ch.2 — The Supratentorial Arteries, Figs. 2.1, 2.3

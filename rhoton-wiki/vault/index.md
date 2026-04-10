@@ -19,6 +19,8 @@ title: Wiki Index
 - [[posterior-fossa-veins]] — Superior, anterior, and posterior drainage groups
 - [[tentorial-incisura]] — Incisural spaces, transtentorial herniation
 - [[cerebellopontine-cistern]] — CP angle anatomy, CN V-VIII, AICA
+- [[basal-cisterns]] — 12 named cisterns, surgical access routes
+- [[foramen-magnum]] — Craniocervical junction, occipital bone, CVJ ligaments
 
 ## Entities
 
@@ -33,12 +35,17 @@ title: Wiki Index
 - [[superior-cerebellar-artery]] — Upper neurovascular complex, CN V relation
 - [[aica]] — Middle neurovascular complex, meatal loop, labyrinthine artery
 - [[pica]] — Lower neurovascular complex, telovelar approach
+- [[vertebral-artery]] — V1-V4 segments, vertebrobasilar system, foramen magnum
+- [[basilar-artery]] — Pontine trunk, SCA/AICA/PCA branches, perforators
 
 ### Nerves
 - [[oculomotor-nerve]] — CN III, PCA-SCA sandwich, PCoA aneurysm relation
+- [[trochlear-nerve]] — CN IV, dorsal origin, tentorial edge course, thinnest CN
 - [[trigeminal-nerve]] — CN V, three divisions, neurovascular compression
+- [[abducens-nerve]] — CN VI, longest subarachnoid course, Dorello's canal
 - [[facial-nerve]] — CN VII, CP angle surgery, parotid branches
 - [[vestibulocochlear-nerve]] — CN VIII, vestibular schwannoma origin
+- [[lower-cranial-nerves]] — CN IX-XII, jugular foramen, foramen magnum
 - [[optic-chiasm]] — Visual pathway crossing, sellar region landmark
 
 ## References
@@ -48,6 +55,8 @@ title: Wiki Index
 - [[retrosigmoid-approach]] — CP angle access, microvascular decompression
 - [[far-lateral-approach]] — Foramen magnum, lower clivus, vertebral artery
 - [[transsphenoidal-approach]] — Endonasal corridor to sellar region
+- [[subtemporal-approach]] — Middle incisural space, basilar apex, tentorial division
+- [[supracerebellar-infratentorial-approach]] — Pineal region, quadrigeminal cistern
 
 ## Synthesis
 
@@ -57,4 +66,4 @@ title: Wiki Index
 
 ---
 
-*29 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*44 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
