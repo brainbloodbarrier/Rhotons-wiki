@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Trigeminal ganglion housing, paraclival triangles
+parent: "[[cranial-base]]"
 ---
 
 # Meckel's Cave

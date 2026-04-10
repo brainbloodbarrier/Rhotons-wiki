@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Medial temporal lobe, choroidal fissure, epilepsy surgery
+parent: "[[cerebrum]]"
 ---
 
 # Hippocampus

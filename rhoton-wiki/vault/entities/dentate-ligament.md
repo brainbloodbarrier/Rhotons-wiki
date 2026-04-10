@@ -15,6 +15,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Foramen magnum landmark, anterior/posterior compartment division
+parent: "[[foramen-magnum]]"
 ---
 
 # Dentate Ligament

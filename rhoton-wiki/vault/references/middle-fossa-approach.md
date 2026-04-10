@@ -17,6 +17,10 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   IAC from above, hearing preservation
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[internal-auditory-canal]]"
+  - "[[temporal-bone]]"
 ---
 
 # Middle Fossa Approach

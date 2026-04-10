@@ -17,6 +17,10 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Endonasal corridor to sellar region
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[sellar-region]]"
+  - "[[pituitary-gland]]"
 ---
 
 # Transsphenoidal Approach

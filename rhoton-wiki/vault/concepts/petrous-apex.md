@@ -15,6 +15,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Kawase triangle, petroclival junction, Gradenigo syndrome
+parent: "[[temporal-bone]]"
 ---
 
 # Petrous Apex

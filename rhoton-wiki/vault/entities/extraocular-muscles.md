@@ -17,6 +17,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Rectus/oblique muscles, annulus of Zinn, CN palsies
+parent: "[[orbit]]"
 ---
 
 # Extraocular Muscles

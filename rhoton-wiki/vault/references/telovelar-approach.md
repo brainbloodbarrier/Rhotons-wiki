@@ -16,6 +16,10 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Fourth ventricle via cerebellomedullary fissure
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[fourth-ventricle]]"
+  - "[[cerebellomedullary-fissure]]"
 ---
 
 # Telovelar Approach

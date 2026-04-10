@@ -16,6 +16,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   VA branch, dorsal column supply, dentate ligament relation
+parent: "[[vertebral-artery]]"
 ---
 
 # Posterior Spinal Artery

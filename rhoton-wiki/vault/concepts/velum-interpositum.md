@@ -15,6 +15,7 @@ summary: >-
   Tela choroidea cistern, ICV corridor, pineal access
 aliases:
   - "tela choroidea of third ventricle"
+parent: "[[lateral-and-third-ventricles]]"
 ---
 
 # Velum Interpositum

@@ -15,6 +15,9 @@ summary: >-
   Torcular-sigmoid conduit, Labbé drainage, craniotomy boundary
 aliases:
   - "sinus transversus"
+parent: "[[dural-venous-sinuses]]"
+drains-to:
+  - "[[sigmoid-sinus]]"
 ---
 
 # Transverse Sinus

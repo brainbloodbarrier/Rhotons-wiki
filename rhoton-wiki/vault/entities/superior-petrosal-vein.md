@@ -16,6 +16,9 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Vein of Dandy, retrosigmoid obstacle, petrosal drainage
+parent: "[[posterior-fossa-veins]]"
+drains-to:
+  - "[[transverse-sinus]]"
 ---
 
 # Superior Petrosal Vein

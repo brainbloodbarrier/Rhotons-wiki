@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   P1-P4 segments, thalamoperforating, choroidal branches
+parent: "[[posterior-circulation]]"
 ---
 
 # Posterior Cerebral Artery

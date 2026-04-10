@@ -17,6 +17,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   GSPN, geniculate landmark, Kawase triangle boundary
+parent: "[[facial-nerve]]"
 ---
 
 # Greater Superficial Petrosal Nerve

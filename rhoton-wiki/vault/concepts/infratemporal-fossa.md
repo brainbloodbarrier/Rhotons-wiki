@@ -15,6 +15,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   V3 territory, maxillary artery, pterygoid plexus
+parent: "[[cranial-base]]"
 ---
 
 # Infratemporal Fossa

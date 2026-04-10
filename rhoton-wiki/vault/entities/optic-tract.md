@@ -14,6 +14,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Post-chiasmatic pathway, AChA landmark, uncal herniation
+parent: "[[cranial-nerves-overview]]"
 ---
 
 # Optic Tract

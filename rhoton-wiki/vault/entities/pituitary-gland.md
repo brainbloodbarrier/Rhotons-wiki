@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Adenohypophysis/neurohypophysis, hypophyseal arteries
+parent: "[[sellar-region]]"
 ---
 
 # Pituitary Gland

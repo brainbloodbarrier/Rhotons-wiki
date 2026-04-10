@@ -16,6 +16,7 @@ summary: >-
 aliases:
   - "STA"
   - "arteria temporalis superficialis"
+parent: "[[anterior-circulation]]"
 ---
 
 # Superficial Temporal Artery

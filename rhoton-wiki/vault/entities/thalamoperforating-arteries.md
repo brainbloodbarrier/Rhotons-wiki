@@ -17,6 +17,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   P1 perforators, Percheron variant, basilar apex risk
+parent: "[[posterior-cerebral-artery]]"
 ---
 
 # Thalamoperforating Arteries

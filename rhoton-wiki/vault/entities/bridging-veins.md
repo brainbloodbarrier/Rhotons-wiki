@@ -15,6 +15,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Four drainage groups, Labbé/Trolard, craniotomy risks
+parent: "[[cerebral-veins]]"
 ---
 
 # Bridging Veins

@@ -15,6 +15,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Central skull base axis, petroclival region, chordomas
+parent: "[[cranial-base]]"
 ---
 
 # Clivus

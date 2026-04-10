@@ -15,6 +15,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Pars nervosa/vascularis, CN IX-XI transit, glomus tumors
+parent: "[[cranial-base]]"
 ---
 
 # Jugular Foramen

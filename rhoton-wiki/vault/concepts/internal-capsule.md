@@ -15,6 +15,7 @@ summary: >-
   Projection fiber lamina, lenticulostriate territory, AChA syndrome
 aliases:
   - "capsula interna"
+parent: "[[cerebrum]]"
 ---
 
 # Internal Capsule

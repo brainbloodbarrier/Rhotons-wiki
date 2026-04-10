@@ -16,6 +16,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Foramen spinosum, epidural hematoma, dural supply
+parent: "[[maxillary-artery]]"
 ---
 
 # Middle Meningeal Artery

@@ -16,6 +16,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   CN III, PCA-SCA sandwich, PCoA aneurysm relation
+parent: "[[cranial-nerves-overview]]"
 ---
 
 # Oculomotor Nerve (CN III)

@@ -16,6 +16,10 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Extended pterional, low-angle basilar access
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[basilar-artery]]"
+  - "[[interpeduncular-cistern]]"
 ---
 
 # Orbitozygomatic Approach

@@ -18,6 +18,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Connects bilateral ACAs, most common aneurysm site
+parent: "[[anterior-circulation]]"
 ---
 
 # Anterior Communicating Artery

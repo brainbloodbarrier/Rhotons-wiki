@@ -16,6 +16,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   VA branch, anterior cord supply, spinal artery syndrome
+parent: "[[vertebral-artery]]"
 ---
 
 # Anterior Spinal Artery

@@ -16,6 +16,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Nasoseptal flap pedicle, posterior epistaxis
+parent: "[[maxillary-artery]]"
 ---
 
 # Sphenopalatine Artery

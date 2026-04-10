@@ -18,6 +18,10 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Pineal region, quadrigeminal cistern
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[pineal-region]]"
+  - "[[cerebellum]]"
 ---
 
 # Supracerebellar Infratentorial Approach

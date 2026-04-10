@@ -16,6 +16,7 @@ summary: >-
 aliases:
   - "paraclinoid internal carotid"
   - "clinoid segment ICA"
+parent: "[[internal-carotid-artery]]"
 ---
 
 # Paraclinoid Internal Carotid Artery

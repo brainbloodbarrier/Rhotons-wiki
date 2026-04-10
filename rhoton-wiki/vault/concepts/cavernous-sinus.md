@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Dural envelope with ICA and cranial nerves III-VI
+parent: "[[skull-base-foramina]]"
 ---
 
 # Cavernous Sinus

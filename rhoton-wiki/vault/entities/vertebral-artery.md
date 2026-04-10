@@ -18,6 +18,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   V1-V4 segments, vertebrobasilar system, foramen magnum
+parent: "[[posterior-circulation]]"
 ---
 
 # Vertebral Artery

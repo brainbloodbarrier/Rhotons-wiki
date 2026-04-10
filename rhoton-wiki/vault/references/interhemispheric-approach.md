@@ -17,6 +17,11 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Midline corridor, ACoA/ACA, transcallosal
+parent: "[[surgical-approaches-overview]]"
+approach-to:
+  - "[[anterior-cerebral-artery]]"
+  - "[[corpus-callosum]]"
+  - "[[lateral-and-third-ventricles]]"
 ---
 
 # Interhemispheric Approach

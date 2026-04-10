@@ -16,6 +16,9 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Velum interpositum, venous angle, thalamostriate drainage
+parent: "[[deep-venous-system]]"
+drains-to:
+  - "[[vein-of-galen]]"
 ---
 
 # Internal Cerebral Veins

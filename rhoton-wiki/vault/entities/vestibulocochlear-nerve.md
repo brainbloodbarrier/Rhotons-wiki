@@ -18,6 +18,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   CN VIII, vestibular schwannoma origin
+parent: "[[cranial-nerves-overview]]"
 ---
 
 # Vestibulocochlear Nerve (CN VIII)

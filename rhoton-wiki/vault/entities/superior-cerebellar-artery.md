@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Upper neurovascular complex, CN V relation
+parent: "[[posterior-circulation]]"
 ---
 
 # Superior Cerebellar Artery

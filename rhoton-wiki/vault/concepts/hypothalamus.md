@@ -13,6 +13,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Third ventricle floor, perforator supply, craniopharyngioma
+parent: "[[cerebrum]]"
 ---
 
 # Hypothalamus

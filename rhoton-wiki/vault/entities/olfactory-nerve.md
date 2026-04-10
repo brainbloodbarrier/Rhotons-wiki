@@ -18,6 +18,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   CN I, cribriform plate, olfactory groove meningioma
+parent: "[[cranial-nerves-overview]]"
 ---
 
 # Olfactory Nerve and Tract

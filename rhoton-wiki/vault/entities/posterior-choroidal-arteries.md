@@ -19,6 +19,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   PCA branches, pineal/choroid plexus supply
+parent: "[[posterior-cerebral-artery]]"
 ---
 
 # Posterior Choroidal Arteries

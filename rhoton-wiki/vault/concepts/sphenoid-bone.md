@@ -17,6 +17,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Sella turcica, wings, foramina, sphenoid sinus
+parent: "[[cranial-base]]"
 ---
 
 # Sphenoid Bone

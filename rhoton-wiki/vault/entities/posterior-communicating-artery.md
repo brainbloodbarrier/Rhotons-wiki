@@ -18,6 +18,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Lateral boundary of circle of Willis, premamillary artery
+parent: "[[circle-of-willis]]"
 ---
 
 # Posterior Communicating Artery

@@ -16,6 +16,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   C1-C4 segments, prebifurcation branches
+parent: "[[anterior-circulation]]"
 ---
 
 # Internal Carotid Artery

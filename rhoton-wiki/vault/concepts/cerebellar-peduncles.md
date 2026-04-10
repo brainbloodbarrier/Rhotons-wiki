@@ -19,6 +19,7 @@ created: 2026-04-10
 updated: 2026-04-10
 summary: >-
   Three fiber bundles, safe entry zones, fourth ventricle walls
+parent: "[[cerebellum]]"
 ---
 
 # Cerebellar Peduncles
