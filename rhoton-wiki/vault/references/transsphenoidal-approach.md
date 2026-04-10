@@ -51,6 +51,17 @@ The transsphenoidal approach is the most common route for pituitary surgery, acc
 - CSF leaks and encephaloceles
 - Extended: clival chordomas, tuberculum sellae meningiomas, suprasellar lesions
 
+## Relations
+
+- Accesses the [[sellar-region]] through the sphenoid sinus
+- [[internal-carotid-artery]] at risk laterally — see [[anterior-circulation]]
+- [[optic-nerve|CN II]] and [[optic-chiasm]] form the superior boundary
+- [[cavernous-sinus]] lateral to the sella — contains [[oculomotor-nerve|CN III]], [[trochlear-nerve|CN IV]], [[abducens-nerve|CN VI]]
+- [[anterior-communicating-artery]] and [[anterior-cerebral-artery]] above the chiasm
+- Extended variant reaches clivus ([[basilar-artery]], [[brainstem]], [[foramen-magnum]])
+- See [[surgical-approaches-overview]] and [[cranial-nerves-overview]]
+- [[basal-cisterns]] (suprasellar/chiasmatic cistern) entered in suprasellar extension
+
 ## References
 
 - Rhoton, Ch.8 — The Sellar Region, Figs. 8.1–8.3
