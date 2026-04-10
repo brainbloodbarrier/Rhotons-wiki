@@ -1,6 +1,8 @@
 ---
 title: Tag Taxonomy
 category: meta
+tags:
+  - meta
 ---
 
 # Tag Taxonomy — Controlled Vocabulary
