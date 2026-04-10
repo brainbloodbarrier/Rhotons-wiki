@@ -23,6 +23,7 @@ title: Wiki Index
 - [[foramen-magnum]] — Craniocervical junction, occipital bone, CVJ ligaments
 - [[brainstem]] — Midbrain, pons, medulla; neurovascular complexes, safe entry zones
 - [[dural-venous-sinuses]] — Sagittal, transverse, sigmoid, petrosal, confluence
+- [[cerebellum]] — Three surfaces, fissures, peduncles, neurovascular complexes
 
 ## Entities
 
@@ -67,7 +68,9 @@ title: Wiki Index
 - [[sylvian-fissure]] — Most important surgical corridor, MCA and venous contents
 - [[cavernous-sinus-contents]] — Lateral wall nerve order, surgical triangles
 - [[surgical-approaches-overview]] — Approach-target matrix, selection principles
+- [[cranial-nerves-overview]] — CN I-XII map, cisternal course, compression syndromes
+- [[posterior-circulation]] — Vertebrobasilar hierarchy, perforators, territories
 
 ---
 
-*48 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*51 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*

@@ -62,17 +62,20 @@ The incisura is the critical bottleneck in transtentorial herniation:
 
 The incisural spaces provide natural corridors for surgical approaches:
 - Anterior incisural space → [[pterional-approach]], subfrontal approach
-- Middle incisural space → subtemporal approach to ambient cistern
-- Posterior incisural space → supracerebellar-infratentorial approach to pineal region
+- Middle incisural space → [[subtemporal-approach]] to ambient cistern
+- Posterior incisural space → [[supracerebellar-infratentorial-approach]] to pineal region
 - The tentorial edge can be divided surgically to widen access (e.g., during basilar apex aneurysm surgery)
 
 ## Relations
 
-- Gateway between supratentorial ([[cerebrum]]) and infratentorial ([[posterior-fossa]]) compartments
-- Contains segments of [[posterior-cerebral-artery]], [[anterior-choroidal-artery]]
-- Cranial nerves III and IV course through the incisural spaces
+- Gateway between supratentorial ([[cerebrum]]) and infratentorial ([[posterior-fossa]], [[cerebellum]]) compartments
+- The [[brainstem]] (midbrain) fills the incisura
+- Contains segments of [[posterior-cerebral-artery]], [[superior-cerebellar-artery]], [[anterior-choroidal-artery]]
+- [[oculomotor-nerve|CN III]] and [[trochlear-nerve|CN IV]] course through the incisural spaces — see [[cranial-nerves-overview]]
+- [[basilar-artery]] apex and [[posterior-circulation]] bifurcation visible in the anterior incisural space
 - [[cavernous-sinus]] is anterior and lateral to the incisura
 - [[cerebral-veins]] (deep system: vein of Galen) drain through the posterior incisural space
+- See [[surgical-approaches-overview]] for approach selection by incisural space
 
 ## References
 
