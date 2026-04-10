@@ -73,7 +73,9 @@ The ventral intermediate nucleus (Vim) of the thalamus is the target for DBS in 
 - [[anterior-choroidal-artery]] supplies lateral geniculate body — see [[anterior-circulation]]
 - [[posterior-communicating-artery]] gives thalamotuberal branches
 - [[basilar-artery]] apex perforators overlap with thalamoperforating territory
-- Choroidal fissure separates thalamus from fornix — surgical corridor
+- [[choroidal-fissure]] separates thalamus from [[fornix]] — transchoroidal surgical corridor
+- [[internal-capsule]] — posterior limb lies lateral to thalamus, supplied by thalamogeniculate arteries
+- [[optic-radiation]] — retrolenticular capsule carries geniculocalcarine fibers from LGN
 - Pulvinar related to the [[tentorial-incisura]] (posterior incisural space)
 - [[optic-chiasm]] → optic tract → lateral geniculate body (thalamic relay for vision)
 - Accessible via [[interhemispheric-approach]], [[subtemporal-approach]], [[supracerebellar-infratentorial-approach]]
