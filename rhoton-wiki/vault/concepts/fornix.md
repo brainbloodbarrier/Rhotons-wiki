@@ -46,7 +46,7 @@ The fornix is the principal efferent pathway of the [[hippocampus]], arching ben
 ## Relationships
 
 ### Superior
-- [[corpus-callosum]] — the fornix is suspended from the undersurface of the callosal body by the septum pellucidum
+- [[corpus-callosum]] — the fornix is suspended from the undersurface of the callosal body by the [[septum-pellucidum]]
 
 ### Inferior
 - [[thalamus]] — the body of the fornix lies above the thalamic surface, separated by the velum interpositum

@@ -70,6 +70,9 @@ title: Wiki Index
 - [[quadrigeminal-cistern]] — Posterior incisural space, vein of Galen, pineal tumors
 - [[chiasmatic-cistern]] — Suprasellar CSF space, optic chiasm, ACoA complex
 - [[crural-cistern]] — Anterior incisural space, CN III crossing, AChA course
+- [[vidian-canal]] — Pterygoid canal, Vidian nerve/artery, transpterygoid ICA guide
+- [[corona-radiata]] — Projection fiber fan converging to internal capsule, watershed zone
+- [[septum-pellucidum]] — Midline ventricular membrane, transcallosal landmark
 
 ## Entities
 
@@ -103,6 +106,7 @@ title: Wiki Index
 - [[maxillary-artery]] — ECA terminal, infratemporal/pterygopalatine course, endonasal landmark
 - [[superficial-temporal-artery]] — STA-MCA bypass donor, pterional landmark, CN VII relation
 - [[external-carotid-artery]] — 8 branches, scalp/face/dural supply, bypass donors
+- [[ascending-pharyngeal-artery]] — Smallest ECA branch, posterior fossa dural supply, paraganglioma feeder
 
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
@@ -173,4 +177,4 @@ title: Wiki Index
 
 ---
 
-*145 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*151 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*

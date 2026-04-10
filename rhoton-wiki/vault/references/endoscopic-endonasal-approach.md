@@ -32,7 +32,7 @@ The endoscopic endonasal approach (EEA) is an expanded variant of the [[transsph
 
 The approach follows the midline nasal pathway:
 
-1. **Nasal cavity** → between the septum and turbinates
+1. **Nasal cavity** → between the [[septum-pellucidum|septum]] and turbinates
 2. **Sphenoid sinus** → the key pneumatized space behind the posterior septum
 3. **Skull base target** → sellar, parasellar, clival, or anterior fossa dura
 
@@ -75,7 +75,7 @@ The EEA is described as a series of modular extensions from the central sellar c
 ### Transpterygoid
 - **Target**: [[pterygopalatine-fossa]], [[infratemporal-fossa]], [[meckels-cave]], [[petrous-apex]]
 - **Key risk**: V2, [[internal-carotid-artery|ICA petrous segment]], vidian nerve
-- **Landmarks**: pterygoid canal (vidian canal), foramen rotundum
+- **Landmarks**: [[vidian-canal|pterygoid canal]] (vidian canal), foramen rotundum
 
 ### Transodontoid
 - **Target**: craniocervical junction, [[foramen-magnum]] (ventral)

@@ -34,7 +34,7 @@ The external carotid artery (ECA) is the lateral terminal branch of the common c
 5. **Posterior auricular artery** — supplies scalp behind ear and mastoid
 
 ### Medial Branch
-6. **Ascending pharyngeal artery** — smallest named branch; supplies pharynx, [[meninges|dura]] of [[posterior-fossa]], and [[lower-cranial-nerves|CN IX-XII]] at [[jugular-foramen]]
+6. **[[ascending-pharyngeal-artery]]** — smallest named branch; supplies pharynx, [[meninges|dura]] of [[posterior-fossa]], and [[lower-cranial-nerves|CN IX-XII]] at [[jugular-foramen]]
 
 ### Terminal Branches
 7. **[[maxillary-artery]]** — larger terminal branch; courses through [[infratemporal-fossa]] and [[pterygopalatine-fossa]]; gives [[middle-meningeal-artery]], [[sphenopalatine-artery]]

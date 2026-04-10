@@ -35,7 +35,7 @@ The Vidian canal (pterygoid canal) is a bony channel through the base of the [[s
 
 ### Relationship to ICA
 - The Vidian canal points directly to the **horizontal petrous ICA**
-- The canal floor lies 1-2 mm above the [[internal-carotid-artery|ICA]] in the petrous bone
+- The canal floor lies 1-2 mm above the [[internal-carotid-artery|ICA]] in the [[temporal-bone|petrous bone]]
 - Following the Vidian canal posteriorly is the **safest method** to identify the petrous ICA during [[endoscopic-endonasal-approach|endoscopic]] transpterygoid approaches
 
 ## Surgical Significance

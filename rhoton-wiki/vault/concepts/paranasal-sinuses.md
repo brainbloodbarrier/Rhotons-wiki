@@ -41,7 +41,7 @@ The most neurosurgically important sinus — the gateway to the [[sellar-region]
 - **Opticocarotid recess** — the depression between the carotid and optic prominences; lateral limit of safe bone removal
 - **Planum sphenoidale** — the flat bone above the sinus, between the optic canals; floor of the anterior cranial fossa
 - **[[clivus]]** — the posterior slope below the sellar floor, toward the [[foramen-magnum]]
-- **Sinus septum** — often deviated; may insert on the ICA prominence (critical to identify preoperatively)
+- **Sinus [[septum-pellucidum|septum]]** — often deviated; may insert on the ICA prominence (critical to identify preoperatively)
 
 ### Ostia
 The paired sphenoid ostia open into the sphenoethmoidal recesses of the nasal cavity, located above and behind the superior turbinate.

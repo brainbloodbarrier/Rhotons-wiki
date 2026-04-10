@@ -68,7 +68,7 @@ The pterygopalatine fossa (PPF) is a small, inverted pyramidal space deep to the
 The PPF is accessed endoscopically through the sphenopalatine foramen (transpterygoid approach) or by removing the posterior maxillary wall. This corridor provides:
 - Access to the [[infratemporal-fossa]] laterally
 - Access to the [[cranial-base|middle cranial fossa]] via V2/foramen rotundum
-- Access to the petrous [[internal-carotid-artery|ICA]] via the Vidian canal
+- Access to the petrous [[internal-carotid-artery|ICA]] via the [[vidian-canal]]
 - Control of the sphenopalatine artery for epistaxis
 
 ### Juvenile nasopharyngeal angiofibroma

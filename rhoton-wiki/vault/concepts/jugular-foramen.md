@@ -38,9 +38,9 @@ The jugular foramen lies at the petro-occipital fissure, between the occipital a
 The jugular foramen is traditionally divided into two or three compartments:
 
 ### Pars Nervosa (Anteromedial)
-- **[[lower-cranial-nerves|Glossopharyngeal nerve (CN IX)]]** — separated from CN X/XI by a fibrous or bony septum (jugular spine)
+- **[[lower-cranial-nerves|Glossopharyngeal nerve (CN IX)]]** — separated from CN X/XI by a fibrous or bony [[septum-pellucidum|septum]] (jugular spine)
 - **Inferior petrosal sinus** — enters the jugular bulb
-- **Meningeal branch of ascending pharyngeal artery**
+- **Meningeal branch of [[ascending-pharyngeal-artery]]**
 
 ### Pars Vascularis (Posterolateral)
 - **Jugular bulb** — the dilated superior end of the internal jugular vein

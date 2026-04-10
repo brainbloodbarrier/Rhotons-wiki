@@ -62,7 +62,7 @@ The interval between the ethmoidal arteries defines the extent of the ethmoidal 
 | Ethmoidal sinuses (anterior cells) | AEA |
 | Ethmoidal sinuses (posterior cells) | PEA |
 | Frontal sinus infundibulum | AEA |
-| Anterior nasal cavity and septum | AEA |
+| Anterior nasal cavity and [[septum-pellucidum|septum]] | AEA |
 | Skin over cartilaginous nose | AEA terminal branches |
 
 ## Surgical Significance

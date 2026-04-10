@@ -32,7 +32,7 @@ All are end-arteries. [[anterior-choroidal-artery|AChA]] occlusion → AChA synd
 
 ---
 
-### Q3: List the cisterns traversed during a pterional approach to the basilar apex
+### Q3: List the [[basal-cisterns|cisterns]] traversed during a pterional approach to the basilar apex
 
 **Answer:** The [[pterional-approach]] traverses cisterns in sequence:
 1. **[[sylvian-fissure|Sylvian cistern]]** — opened first; releases CSF; [[middle-cerebral-artery|MCA]] M1-M2 exposed
@@ -94,7 +94,7 @@ Alternative pathway: thalamic surface veins → [[basal-vein-of-rosenthal]] dire
 
 ---
 
-### Q9: Describe uncal herniation step by step
+### Q9: Describe [[herniation-syndromes|uncal herniation]] step by step
 
 **Answer:** Expanding supratentorial mass → [[uncus]] displaces medially through the [[tentorial-incisura]]:
 1. **[[oculomotor-nerve|CN III]] compression** → ipsilateral fixed dilated pupil (parasympathetics on nerve surface compressed first)

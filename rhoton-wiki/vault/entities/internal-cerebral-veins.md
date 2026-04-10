@@ -50,7 +50,7 @@ The paired internal cerebral veins exit the velum interpositum above the pineal 
 ## Tributaries
 
 ### From the Frontal Horn
-- **Anterior septal veins** — cross the septum pellucidum toward the foramen of Monro
+- **Anterior septal veins** — cross the [[septum-pellucidum]] toward the foramen of Monro
 - **Anterior caudate veins** — course on the caudate head, terminate near the foramen of Monro in the thalamostriate or directly in the ICV
 
 ### From the Body

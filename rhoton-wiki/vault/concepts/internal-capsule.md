@@ -43,7 +43,7 @@ The internal capsule is a compact white matter lamina carrying virtually all cor
    - Supplied by [[anterior-choroidal-artery]]
 
 ### Three-Dimensional Course
-- Fibers converge from the corona radiata superiorly into the compact capsule
+- Fibers converge from the [[corona-radiata]] superiorly into the compact capsule
 - Below the capsule, fibers enter the [[brainstem|cerebral peduncle]] of the midbrain
 - The capsule forms an inverted V (or chevron) on axial imaging
 

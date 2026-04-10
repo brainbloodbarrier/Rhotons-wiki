@@ -31,7 +31,7 @@ The thin, recurved portion that projects posteroinferiorly from the genu to blen
 The anterior curved portion. The [[anterior-cerebral-artery|ACA]] (A3 precallosal segment) curves around the genu. The forceps minor (frontal) fibers radiate anteriorly from the genu.
 
 ### Body
-The central portion forming the roof of the lateral ventricle body. The **pericallosal artery** courses in the callosal sulcus on the superior surface. The [[fornix]] is attached to the undersurface of the body via the septum pellucidum.
+The central portion forming the roof of the lateral ventricle body. The **pericallosal artery** courses in the callosal sulcus on the superior surface. The [[fornix]] is attached to the undersurface of the body via the [[septum-pellucidum]].
 
 ### Splenium
 The thick, rounded posterior end. The forceps major (occipital) fibers radiate posteriorly. The [[internal-cerebral-veins]] and [[vein-of-galen]] pass beneath the splenium. Related to the posterior incisural space of the [[tentorial-incisura]] and the [[pineal-region]].
