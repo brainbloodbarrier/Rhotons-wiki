@@ -51,6 +51,8 @@ title: Wiki Index
 - [[falx-cerebri]] — Dural fold, sagittal sinuses, subfalcine herniation
 - [[petrous-apex]] — Kawase triangle, petroclival junction, Gradenigo syndrome
 - [[cerebral-aqueduct]] — Midbrain channel, aqueductal stenosis, tectal plate
+- [[internal-auditory-canal]] — Bill's bar, fundus quadrants, schwannoma staging
+- [[optic-canal]] — Optic strut, sphenoid sinus relation, nerve decompression
 
 ## Entities
 
@@ -78,6 +80,7 @@ title: Wiki Index
 - [[occipital-artery]] — ECA branch, far-lateral landmark, EC-IC bypass donor
 - [[superior-hypophyseal-artery]] — Pituitary portal supply, chiasm perforators
 - [[ethmoidal-arteries]] — AEA/PEA, cribriform landmarks, anterior skull base supply
+- [[thalamoperforating-arteries]] — P1 perforators, Percheron variant, basilar apex risk
 
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
@@ -119,6 +122,7 @@ title: Wiki Index
 - [[middle-fossa-approach]] — IAC from above, hearing preservation
 - [[posterior-petrosectomy]] — Retrolabyrinthine, translabyrinthine, transcochlear, combined petrosal
 - [[endoscopic-endonasal-approach]] — Expanded endonasal, modular skull base corridors
+- [[combined-petrosal-approach]] — Kawase + posterior petrosectomy, full petroclival exposure
 
 ## Synthesis
 
@@ -135,7 +139,8 @@ title: Wiki Index
 - [[herniation-syndromes]] — Uncal, central, tonsillar, subfalcine, ascending
 - [[deep-venous-system]] — ICV/basal/galenic architecture, surgical obstacle map
 - [[cavernous-sinus-triangles]] — 7 surgical windows, Parkinson/Kawase/Glasscock
+- [[aneurysm-surgery]] — Site-approach-perforator map, CN relationships, clipping
 
 ---
 
-*111 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*114 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
