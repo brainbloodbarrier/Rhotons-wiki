@@ -24,12 +24,12 @@ The petrous apex is the medial tip of the petrous pyramid of the [[temporal-bone
 
 ## Osseous Anatomy
 
-The petrous apex forms the medial terminus of the petrous ridge (dividing middle from posterior fossa). Key relationships:
+The petrous apex forms the medial terminus of the petrous ridge (dividing middle from [[posterior-fossa]]). Key relationships:
 
 | Surface | Faces | Contents/Relations |
 |---|---|---|
-| **Anterior (middle fossa floor)** | Middle cranial fossa | [[meckels-cave|Meckel's cave]] (trigeminal impression), greater superficial petrosal nerve groove, [[internal-carotid-artery|petrous ICA]] in carotid canal |
-| **Posterior (posterior fossa)** | Posterior fossa | Internal auditory canal (IAC), [[abducens-nerve|CN VI]] coursing toward Dorello's canal |
+| **Anterior (middle fossa floor)** | Middle cranial fossa | [[meckels-cave|Meckel's cave]] (trigeminal impression), [[greater-petrosal-nerve|greater superficial petrosal nerve]] groove, [[internal-carotid-artery|petrous ICA]] in carotid canal |
+| **Posterior (posterior fossa)** | Posterior fossa | [[internal-auditory-canal]] (IAC), [[abducens-nerve|CN VI]] coursing toward Dorello's canal |
 | **Superior (petrous ridge)** | Junction of middle/posterior fossa | [[dural-venous-sinuses|Superior petrosal sinus]], [[tentorium-cerebelli]] attachment |
 | **Inferior** | Exocranial infrapetrosal space | [[jugular-foramen]], carotid canal opening |
 | **Medial tip** | Petroclival fissure | Inferior petrosal sinus, petroclival synchondrosis |
@@ -67,7 +67,7 @@ See [[cavernous-sinus-triangles]] for the full triangle system.
 | [[anterior-petrosectomy]] (Kawase) | Direct drilling of the Kawase triangle; best lateral clival exposure |
 | [[middle-fossa-approach]] | IAC unroofing from above; petrous apex accessed laterally |
 | [[posterior-petrosectomy]] | Approaches from behind; retro/translabyrinthine access |
-| [[endoscopic-endonasal-approach]] (transpterygoid) | Medial access to petrous apex via pterygopalatine fossa |
+| [[endoscopic-endonasal-approach]] (transpterygoid) | Medial access to petrous apex via [[pterygopalatine-fossa]] |
 | [[subtemporal-approach]] | Extradural approach to the petrous apex floor |
 
 ## Clinical Significance

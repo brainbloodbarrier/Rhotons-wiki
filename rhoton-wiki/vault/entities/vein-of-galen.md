@@ -24,16 +24,16 @@ drains-to:
 
 # Vein of Galen Complex
 
-The great cerebral vein of Galen is the central venous confluence of the deep brain, formed by the union of the paired internal cerebral veins behind the splenium of the [[corpus-callosum]] and pineal gland. It is the principal venous obstacle in pineal region surgery and the main tributary of the straight sinus ([[dural-venous-sinuses]]).
+The great cerebral vein of Galen is the central venous confluence of the deep brain, formed by the union of the paired [[internal-cerebral-veins]] behind the splenium of the [[corpus-callosum]] and pineal gland. It is the principal venous obstacle in [[pineal-region]] surgery and the main tributary of the straight sinus ([[dural-venous-sinuses]]).
 
 ## Formation
 
 The vein of Galen (length ~10 mm) is formed by the junction of:
-- **Internal cerebral veins** (paired) — course in the roof of the third ventricle ([[lateral-and-third-ventricles]]) between the fornix and [[thalamus]]
-- **Basal veins of Rosenthal** (paired) — course around the [[brainstem]] through the ambient cistern ([[basal-cisterns]])
+- **Internal cerebral veins** (paired) — course in the roof of the third ventricle ([[lateral-and-third-ventricles]]) between the [[fornix]] and [[thalamus]]
+- **Basal veins of Rosenthal** (paired) — course around the [[brainstem]] through the [[ambient-cistern]] ([[basal-cisterns]])
 
 Additional tributaries that join at or near the venous confluence:
-- **Internal occipital veins** — from the medial occipital lobe
+- **Internal occipital veins** — from the medial [[cerebral-lobes|occipital lobe]]
 - **Posterior pericallosal veins** — from the [[corpus-callosum]] splenium
 - **Precentral cerebellar vein** — from the cerebellomesencephalic fissure ([[cerebellum]])
 - **Superior vermian veins** — from the superior vermis
@@ -44,13 +44,13 @@ Additional tributaries that join at or near the venous confluence:
 Each internal cerebral vein is formed at the foramen of Monro by the junction of:
 - **Thalamostriate vein** (terminal vein) — courses in the groove between the [[thalamus]] and caudate nucleus
 - **Septal vein** — courses along the septum pellucidum
-- **Choroidal veins** — from the choroid plexus of the [[lateral-and-third-ventricles|lateral ventricle]]
+- **Choroidal veins** — from the [[choroid-plexus]] of the [[lateral-and-third-ventricles|lateral ventricle]]
 
-The internal cerebral veins course posteriorly in the velum interpositum (tela choroidea of the third ventricle), between the fornix above and the [[thalamus]] below.
+The internal cerebral veins course posteriorly in the [[velum-interpositum]] (tela choroidea of the third ventricle), between the fornix above and the [[thalamus]] below.
 
-## Basal Vein of Rosenthal
+## [[basal-vein-of-rosenthal]]
 
-Formed near the anterior perforated substance by the junction of:
+Formed near the [[anterior-perforated-substance]] by the junction of:
 - **Anterior cerebral veins** — from the [[anterior-cerebral-artery|ACA]] territory
 - **Deep middle cerebral (insular) veins** — from the [[insula]] and [[sylvian-fissure]]
 - **Inferior striate veins** — from the [[basal-ganglia]]
@@ -59,7 +59,7 @@ The basal vein courses posteriorly around the [[brainstem]] through the crural a
 
 ## Drainage
 
-The vein of Galen drains into the **straight sinus** ([[dural-venous-sinuses]]) at the junction of the falx cerebri and tentorium cerebelli. The straight sinus continues to the confluence of sinuses (torcular Herophili).
+The vein of Galen drains into the **straight sinus** ([[dural-venous-sinuses]]) at the junction of the [[falx-cerebri]] and [[tentorium-cerebelli]]. The straight sinus continues to the confluence of sinuses (torcular Herophili).
 
 ## Surgical Significance
 
@@ -96,6 +96,6 @@ Thrombosis of the internal cerebral veins or vein of Galen causes bilateral thal
 
 ## References
 
-- Rhoton, Ch.4 — The Cerebral Veins (internal cerebral veins, basal vein, deep venous system)
+- Rhoton, Ch.4 — The Cerebral Veins (internal cerebral veins, basal vein, [[deep-venous-system]])
 - Rhoton, Ch.5 — The Lateral and Third Ventricles (velum interpositum, transchoroidal approach)
 - Rhoton, Ch.14 — Tentorial Incisura (posterior incisural space, pineal region venous anatomy)

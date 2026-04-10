@@ -22,14 +22,14 @@ parent: "[[posterior-circulation]]"
 
 # Anterior Inferior Cerebellar Artery
 
-The anterior inferior cerebellar artery (AICA) arises from the basilar artery and belongs to the **middle neurovascular complex** of the [[posterior-fossa]], associated with the pons, middle cerebellar peduncle, cerebellopontine fissure, petrosal surface, and cranial nerves VI–VIII.
+The anterior inferior cerebellar artery (AICA) arises from the basilar artery and belongs to the **middle neurovascular complex** of the [[posterior-fossa]], associated with the pons, [[cerebellar-peduncles|middle cerebellar peduncle]], cerebellopontine fissure, petrosal surface, and cranial nerves VI–VIII.
 
 ## Course
 
 1. Arises from basilar artery (usually lower third)
 2. Courses laterally toward the [[cerebellopontine-cistern]]
 3. Bifurcates into rostral and caudal trunks within the CP cistern
-4. Commonly loops into or near the internal auditory canal (meatal loop) — intimately related to CN VII and VIII
+4. Commonly loops into or near the [[internal-auditory-canal]] (meatal loop) — intimately related to CN VII and VIII
 5. Distributes to the petrosal cerebellar surface
 
 ## Key Branch
@@ -40,8 +40,8 @@ The anterior inferior cerebellar artery (AICA) arises from the basilar artery an
 
 - Petrosal cerebellar surface
 - Middle cerebellar peduncle
-- Lateral pons (via perforating branches)
-- Inner ear (via labyrinthine artery)
+- Lateral pons (via [[perforating-arteries|perforating branches]])
+- Inner ear (via [[labyrinthine-artery]])
 
 ## Surgical Relevance
 

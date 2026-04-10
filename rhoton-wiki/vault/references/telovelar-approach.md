@@ -24,7 +24,7 @@ approach-to:
 
 # Telovelar Approach
 
-The telovelar approach accesses the [[fourth-ventricle]] through the cerebellomedullary fissure by opening the tela choroidea and inferior medullary velum — the inferior half of the ventricular roof — without splitting the vermis of the [[cerebellum]]. It follows the [[pica|PICA]] (telovelotonsillar segment) as the natural surgical guide into the fissure.
+The telovelar approach accesses the [[fourth-ventricle]] through the [[cerebellomedullary-fissure]] by opening the tela choroidea and inferior medullary velum — the inferior half of the ventricular roof — without splitting the vermis of the [[cerebellum]]. It follows the [[pica|PICA]] (telovelotonsillar segment) as the natural surgical guide into the fissure.
 
 ## Principle
 
@@ -64,7 +64,7 @@ The PICA's telovelotonsillar segment is the roadmap:
 ## Exposed Structures
 
 ### Ventricular floor
-- **Facial colliculus** — prominence where CN VII loops around [[abducens-nerve|CN VI]] nucleus (DO NOT resect)
+- **Facial colliculus** — prominence where [[facial-nerve|CN VII]] loops around [[abducens-nerve|CN VI]] nucleus (DO NOT resect)
 - **Hypoglossal triangle** — [[lower-cranial-nerves|CN XII]] nucleus
 - **Vagal triangle** — [[lower-cranial-nerves|CN X]] nucleus
 - **Stria medullaris** — the transverse fiber bundle dividing the floor into pontine (upper) and medullary (lower) halves
@@ -112,4 +112,4 @@ The PICA's telovelotonsillar segment is the roadmap:
 ## References
 
 - Rhoton, Ch.11 — Fourth Ventricle and Cerebellar-Brainstem Fissures (tela choroidea, velum, fissure anatomy)
-- Rhoton, Ch.12 — The Superior Cerebellar Artery (PICA telovelotonsillar segment, choroidal branches)
+- Rhoton, Ch.12 — The [[superior-cerebellar-artery]] (PICA telovelotonsillar segment, choroidal branches)

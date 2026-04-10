@@ -29,18 +29,18 @@ parent: "[[cranial-nerves-overview]]"
 
 # Lower Cranial Nerves (CN IX–XII)
 
-The lower cranial nerves — glossopharyngeal (IX), vagus (X), accessory (XI), and hypoglossal (XII) — arise from the medulla and are intimately related to the [[vertebral-artery]], [[pica]], [[posterior-fossa]], and the jugular foramen/foramen magnum complex. They are the principal neural structures at risk in surgery of the craniocervical junction and [[cerebellopontine-cistern|cerebellopontine angle]].
+The lower cranial nerves — glossopharyngeal (IX), vagus (X), accessory (XI), and hypoglossal (XII) — arise from the medulla and are intimately related to the [[vertebral-artery]], [[pica]], [[posterior-fossa]], and the [[jugular-foramen]]/[[foramen-magnum]] complex. They are the principal neural structures at risk in surgery of the [[craniocervical-junction]] and [[cerebellopontine-cistern|cerebellopontine angle]].
 
 ## CN IX — Glossopharyngeal Nerve
 
 ### Origin and course
-Arises from the posterolateral medulla, dorsal to the inferior olive, in the **cerebellomedullary cistern**. The rootlets emerge in a linear series between the olive and the inferior cerebellar peduncle, rostral to the vagus rootlets.
+Arises from the posterolateral medulla, dorsal to the inferior olive, in the **cerebellomedullary cistern**. The rootlets emerge in a linear series between the olive and the [[cerebellar-peduncles|inferior cerebellar peduncle]], rostral to the vagus rootlets.
 
 ### Jugular foramen
 Passes through the **petrous part** (anteromedial compartment) of the jugular foramen, separated from CN X and XI by a dural septum and the intrajugular processes. Contains the superior and inferior (petrosal) ganglia within the foramen.
 
 ### Relations
-- The choroid plexus projecting from the foramen of Luschka sits on the posterior surface of CN IX and X
+- The [[choroid-plexus]] projecting from the foramen of Luschka sits on the posterior surface of CN IX and X
 - The [[pica]] enters the cerebellomedullary cistern by passing between the rootlets of CN IX, X, and XI
 - The lateral pontomedullary membrane separates the cerebellomedullary from the [[cerebellopontine-cistern|cerebellopontine cistern]] at the level of CN IX
 
@@ -59,7 +59,7 @@ Passes through the **intrajugular part** of the jugular foramen along the intraj
 ### Relations
 - The cranial part of the accessory nerve (rostral medullary rootlets) arises from the vagal nuclei and functionally represents inferior vagal rootlets
 - Once inside the jugular foramen, the upper medullary rootlets of CN XI join either the vagus or accessory nerve
-- The vagus continues through the carotid sheath (with internal jugular vein and internal carotid artery)
+- The vagus continues through the carotid sheath (with internal jugular vein and [[internal-carotid-artery]])
 
 ### Clinical
 - Vagal schwannomas present at the jugular foramen
@@ -73,7 +73,7 @@ The most complex of the lower cranial nerves, with dual origin:
 
 **Cranial part** — 3–6 small rootlets emerge from the lower medulla. The most rostral medullary rootlets are functionally inferior vagal rootlets (arise from vagal nuclei). The lower medullary rootlets join the spinal portion.
 
-**Spinal part** — rootlets arise from the cervical spinal cord (C1–C7, most commonly C4–C6), situated midway between the ventral and dorsal rootlets. These unite to form a trunk (~1 mm diameter) that ascends through the foramen magnum between the dentate ligament and dorsal spinal roots, entering the [[posterior-fossa]] **behind** the [[vertebral-artery]].
+**Spinal part** — rootlets arise from the cervical spinal cord (C1–C7, most commonly C4–C6), situated midway between the ventral and dorsal rootlets. These unite to form a trunk (~1 mm diameter) that ascends through the foramen magnum between the [[dentate-ligament]] and dorsal spinal roots, entering the [[posterior-fossa]] **behind** the [[vertebral-artery]].
 
 ### Foramen magnum transit
 CN XI is the **only cranial nerve that traverses the foramen magnum**. The spinal trunk ascends from the cervical canal, passes behind both the [[pica]] and the [[vertebral-artery]], and courses anterior to the dentate ligament at upper levels but posterior to it at lower levels.
@@ -124,7 +124,7 @@ The primary corridor exposing all four lower cranial nerves. CN XI is identified
 Exposes CN IX–XI at the lateral cerebellomedullary cistern. Used for microvascular decompression of CN IX (glossopharyngeal neuralgia) and tumor resection.
 
 ### Jugular foramen surgery
-The jugular foramen is bordered posteriorly by the jugular process of the occipital bone and anteriorly by the jugular fossa of the petrous temporal bone. It is divided by the intrajugular processes into the petrous part (CN IX, inferior petrosal sinus), the intrajugular part (CN X, XI), and the sigmoid part (sigmoid sinus → internal jugular vein).
+The jugular foramen is bordered posteriorly by the jugular process of the occipital bone and anteriorly by the jugular fossa of the [[temporal-bone|petrous temporal bone]]. It is divided by the intrajugular processes into the petrous part (CN IX, inferior petrosal sinus), the intrajugular part (CN X, XI), and the sigmoid part ([[sigmoid-sinus]] → internal jugular vein).
 
 ### Foramen magnum tumors
 Meningiomas and schwannomas at the foramen magnum involve all four lower cranial nerves. The [[pica]] and [[vertebral-artery]] are inseparable from the nerve complex and must be preserved during dissection.
@@ -140,7 +140,7 @@ Meningiomas and schwannomas at the foramen magnum involve all four lower cranial
 - Exposed by [[far-lateral-approach]], [[retrosigmoid-approach]]
 - Related to [[cranial-base]] (occipital condyle, jugular tubercle)
 - The [[aica]] may course near CN IX–XI at the cerebellopontine angle
-- [[basilar-artery]] perforators supply the medullary nuclei of these nerves
+- [[basilar-artery]] [[perforating-arteries|perforators]] supply the medullary nuclei of these nerves
 
 ## References
 

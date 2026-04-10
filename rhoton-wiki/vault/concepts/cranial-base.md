@@ -26,15 +26,15 @@ The cranial base has an endocranial surface facing the brain and an exocranial s
 The endocranial surface is divided into three fossae:
 
 ### Anterior Cranial Fossa
-- **Bones** — ethmoid (cribriform plate, crista galli), sphenoid (planum sphenoidale, lesser wing), frontal (orbital plate)
+- **Bones** — ethmoid (cribriform plate, crista galli), [[sphenoid-bone|sphenoid]] (planum sphenoidale, lesser wing), frontal (orbital plate)
 - **Contains** — frontal lobes, olfactory bulbs and tracts
-- **Key foramina** — cribriform plate (CN I olfactory filaments), anterior/posterior ethmoidal foramina
+- **Key foramina** — cribriform plate ([[olfactory-nerve|CN I]] olfactory filaments), anterior/posterior ethmoidal foramina
 - **Border with middle fossa** — sphenoid ridge + chiasmatic sulcus
 
 ### Middle Cranial Fossa
-- **Bones** — greater wing of sphenoid, temporal bone (squamous and petrous portions)
-- **Contains** — temporal lobes, [[cavernous-sinus]], pituitary gland in sella turcica
-- **Key foramina** — superior orbital fissure (CN III, IV, V1, VI), foramen rotundum (V2), foramen ovale (V3), foramen spinosum (middle meningeal artery), optic canal
+- **Bones** — greater wing of sphenoid, [[temporal-bone]] (squamous and petrous portions)
+- **Contains** — temporal lobes, [[cavernous-sinus]], [[pituitary-gland]] in sella turcica
+- **Key foramina** — superior orbital fissure ([[oculomotor-nerve|CN III]], IV, V1, VI), foramen rotundum (V2), foramen ovale (V3), foramen spinosum ([[middle-meningeal-artery]]), [[optic-canal]]
 - **Border with posterior fossa** — petrous ridges + dorsum sellae
 
 ### Posterior Cranial Fossa
@@ -43,15 +43,15 @@ See [[posterior-fossa]]
 ## Exocranial Relations
 
 The exocranial surface connects to:
-- **Nasal cavity and paranasal sinuses** — below the anterior base
+- **Nasal cavity and [[paranasal-sinuses]]** — below the anterior base
 - **[[orbit]]** — lateral to the anterior base
-- **Infratemporal fossa** — below the middle base; contains pterygoid muscles, V3 branches, maxillary artery
-- **Pterygopalatine fossa** — deep to infratemporal fossa; crossroads connecting orbit, nasal cavity, middle fossa, and pharynx
+- **[[infratemporal-fossa]]** — below the middle base; contains pterygoid muscles, V3 branches, [[maxillary-artery]]
+- **[[pterygopalatine-fossa]]** — deep to infratemporal fossa; crossroads connecting orbit, nasal cavity, middle fossa, and pharynx
 
 ## Surgical Significance
 
 - Anterior skull base approaches for olfactory groove and planum meningiomas, esthesioneuroblastomas
-- Middle fossa approaches for trigeminal schwannomas, petrous apex lesions, superior semicircular canal dehiscence
+- Middle fossa approaches for trigeminal schwannomas, [[petrous-apex]] lesions, superior semicircular canal dehiscence
 - Extended endonasal approaches traverse the anterior base from below for sellar and suprasellar lesions
 - Knowledge of foraminal anatomy is critical for preserving cranial nerves during skull base surgery
 

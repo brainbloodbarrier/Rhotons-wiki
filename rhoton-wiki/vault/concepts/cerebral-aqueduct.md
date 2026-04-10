@@ -59,7 +59,7 @@ The periaqueductal gray matter surrounding the aqueduct contains:
 The midbrain tegmentum anterior to the aqueduct contains:
 - Red nucleus
 - Medial longitudinal fasciculus
-- Decussation of the superior cerebellar peduncle
+- Decussation of the [[cerebellar-peduncles|superior cerebellar peduncle]]
 
 ## Clinical Significance
 

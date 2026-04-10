@@ -44,10 +44,10 @@ Every neurosurgical approach reaches its target through one or more subarachnoid
 ### Callosal Cistern
 - **Approaches:** [[interhemispheric-approach]]
 - **Key structures:** [[anterior-cerebral-artery|ACA]] A2-A5, [[corpus-callosum]], pericallosal arteries, [[bridging-veins|bridging veins]]
-- **Targets:** [[anterior-cerebral-artery|ACA]] aneurysms, [[corpus-callosum|callosal tumors]], lateral ventricle (transcallosal)
+- **Targets:** [[anterior-cerebral-artery|ACA]] aneurysms, [[corpus-callosum|callosal tumors]], [[lateral-and-third-ventricles|lateral ventricle]] (transcallosal)
 - **Dissection principle:** Stay in the interhemispheric fissure; identify both pericallosal arteries before callosotomy
 
-### Velum Interpositum
+### [[velum-interpositum]]
 - **Approaches:** [[interhemispheric-approach]] transchoroidal, transcallosal
 - **Key structures:** [[internal-cerebral-veins]], [[posterior-choroidal-arteries|MPChA]], [[fornix]], [[choroidal-fissure]]
 - **Targets:** [[pineal-region]] tumors, posterior third ventricle, colloid cysts
@@ -61,7 +61,7 @@ Every neurosurgical approach reaches its target through one or more subarachnoid
 - **Targets:** [[basilar-artery]] apex aneurysms, peduncular lesions, [[uncus|uncal tumors]]
 - **Dissection principle:** Follow the ICA → PCoA → P1 to reach the basilar apex
 
-### Ambient Cistern (Middle Incisural Space)
+### [[ambient-cistern]] (Middle Incisural Space)
 - **Approaches:** [[subtemporal-approach]], [[supracerebellar-infratentorial-approach]]
 - **Key structures:** [[posterior-cerebral-artery|PCA]] P2, [[basal-vein-of-rosenthal]], [[trochlear-nerve|CN IV]], [[thalamogeniculate-arteries]], [[superior-cerebellar-artery|SCA]]
 - **Targets:** P2 aneurysms, tentorial meningiomas, [[thalamus|lateral thalamic lesions]]
@@ -71,7 +71,7 @@ Every neurosurgical approach reaches its target through one or more subarachnoid
 - **Approaches:** [[supracerebellar-infratentorial-approach]], occipital transtentorial
 - **Key structures:** [[vein-of-galen]], [[internal-cerebral-veins]], [[pineal-region|pineal gland]], [[posterior-cerebral-artery|PCA]] P3
 - **Targets:** [[pineal-region]] tumors, tectal gliomas, [[vein-of-galen|galenic malformations]]
-- **Dissection principle:** Gravity-dependent position (sitting/prone); cerebellum falls from tentorium
+- **Dissection principle:** Gravity-dependent position (sitting/prone); [[cerebellum]] falls from tentorium
 
 ## Infratentorial Cisterns
 

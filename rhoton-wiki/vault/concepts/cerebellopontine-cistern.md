@@ -23,12 +23,12 @@ parent: "[[posterior-fossa]]"
 
 # Cerebellopontine Cistern
 
-The cerebellopontine cistern lies between the anterolateral surface of the pons and cerebellum and the arachnoid membrane resting on the posterior petrous bone. It is one of the most surgically important cisterns, containing CN V through VIII and the AICA.
+The cerebellopontine cistern lies between the anterolateral surface of the pons and cerebellum and the [[meninges|arachnoid membrane]] resting on the posterior [[temporal-bone|petrous bone]]. It is one of the most surgically important cisterns, containing CN V through VIII and the AICA.
 
 ## Boundaries
 
-- **Superior** — separated from ambient cistern by the lateral pontomesencephalic membrane (spans between PCA and SCA, attached at midbrain-pons junction)
-- **Inferior** — separated from cerebellomedullary cistern by the lateral pontomedullary membrane (crosses between CN VIII and CN IX)
+- **Superior** — separated from [[ambient-cistern]] by the lateral pontomesencephalic membrane (spans between PCA and SCA, attached at midbrain-pons junction)
+- **Inferior** — separated from cerebellomedullary cistern by the lateral pontomedullary membrane (crosses between CN VIII and [[lower-cranial-nerves|CN IX]])
 - **Medial** — separated from prepontine cistern by the anterior pontine membrane
 - **Lateral** — cerebellar surface wrapping around pons (cerebellopontine fissure)
 
@@ -37,13 +37,13 @@ The cerebellopontine cistern lies between the anterolateral surface of the pons 
 - **Trigeminal nerve (CN V)** — arises from midpons, courses through superolateral portion of cistern
 - **Abducens nerve (CN VI)** — arises at pontomedullary sulcus, ascends lateral to anterior pontine membrane
 - **Facial nerve (CN VII)** — arises in inferior part of cistern, just above lateral pontomedullary membrane
-- **Vestibulocochlear nerve (CN VIII)** — accompanies CN VII; arachnoid extends into internal auditory canal surrounding both nerves
+- **Vestibulocochlear nerve (CN VIII)** — accompanies CN VII; arachnoid extends into [[internal-auditory-canal]] surrounding both nerves
 - **Flocculus** — projects into the cistern behind CN VII/VIII
 
 ## Vascular Contents
 
 ### Arterial
-- **[[superior-cerebellar-artery]]** — enters by passing through junction of anterior pontine membrane and CN III; courses below CN IV, above CN V
+- **[[superior-cerebellar-artery]]** — enters by passing through junction of anterior pontine membrane and [[oculomotor-nerve|CN III]]; courses below [[trochlear-nerve|CN IV]], above CN V
 - **AICA (anterior inferior cerebellar artery)** — enters lower cistern through/below anterior pontine membrane; commonly bifurcates into rostral and caudal trunks within the cistern; supplies petrosal cerebellar surface and CN VII/VIII region
 
 ### Venous
@@ -53,7 +53,7 @@ The cerebellopontine cistern lies between the anterolateral surface of the pons 
 
 The cerebellopontine angle is one of the most frequently operated areas in neurosurgery:
 - **Vestibular schwannomas (acoustic neuromas)** — arise on CN VIII within or near the internal auditory canal
-- **Microvascular decompression** — for trigeminal neuralgia (SCA compressing CN V) and hemifacial spasm (AICA/PICA compressing CN VII)
+- **Microvascular decompression** — for trigeminal neuralgia (SCA compressing CN V) and hemifacial spasm (AICA/[[pica]] compressing CN VII)
 - **Meningiomas** — petroclival and CP angle meningiomas
 - **Epidermoids** — commonly found in this cistern
 

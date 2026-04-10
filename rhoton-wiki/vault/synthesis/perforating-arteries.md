@@ -35,12 +35,12 @@ Perforators arise from the parent vessel, travel a short distance along the brai
 
 | Perforator | Parent vessel | Territory | Clinical deficit if lost |
 |---|---|---|---|
-| **Lateral lenticulostriates** (6–12) | [[middle-cerebral-artery\|MCA]] M1 | Putamen, globus pallidus, posterior internal capsule | Contralateral hemiplegia |
+| **Lateral lenticulostriates** (6–12) | [[middle-cerebral-artery\|MCA]] M1 | Putamen, globus pallidus, posterior [[internal-capsule]] | Contralateral hemiplegia |
 | **Medial lenticulostriates** | [[anterior-cerebral-artery\|ACA]] A1 | Anterior internal capsule, caudate head | Contralateral weakness (arm > leg) |
-| **Recurrent artery of Heubner** | [[anterior-cerebral-artery\|ACA]] proximal A2 | Caudate head, anterior internal capsule, anterior putamen | Contralateral face/arm weakness |
-| **ACoA perforators** | [[anterior-communicating-artery\|ACoA]] | Hypothalamus, fornix columns, anterior commissure | Memory deficit, personality change |
+| **[[recurrent-artery-of-heubner]]** | [[anterior-cerebral-artery\|ACA]] proximal A2 | Caudate head, anterior internal capsule, anterior putamen | Contralateral face/arm weakness |
+| **[[anterior-communicating-artery|ACoA]] perforators** | [[anterior-communicating-artery\|ACoA]] | [[hypothalamus]], [[fornix]] columns, anterior commissure | Memory deficit, personality change |
 | **Premamillary (thalamotuberal)** | [[posterior-communicating-artery\|PCoA]] | Anterior thalamus, hypothalamus, mamillary bodies | Memory deficit, thalamic syndrome |
-| **AChA perforators** | [[anterior-choroidal-artery]] | Posterior internal capsule, optic tract, LGN, hippocampus | Hemiplegia + hemianopia + hemianesthesia (AChA syndrome) |
+| **AChA perforators** | [[anterior-choroidal-artery]] | Posterior internal capsule, [[optic-tract]], LGN, hippocampus | Hemiplegia + hemianopia + hemianesthesia (AChA syndrome) |
 | **Superior hypophyseal** | [[internal-carotid-artery\|ICA]] C4 | [[optic-nerve]], [[optic-chiasm]], [[pituitary-gland\|pituitary]] stalk | Visual loss, endocrine dysfunction |
 
 ### Posterior Circulation ([[posterior-circulation]])
@@ -49,22 +49,22 @@ Perforators arise from the parent vessel, travel a short distance along the brai
 |---|---|---|---|
 | **Thalamoperforating** (4–12) | [[posterior-cerebral-artery\|PCA]] P1 | Posterior thalamus, midbrain, posterior perforated substance | Contralateral sensory loss, altered consciousness |
 | **Thalamogeniculate** | [[posterior-cerebral-artery\|PCA]] P2 | Thalamus, lateral/medial geniculate bodies | Sensory loss, visual/auditory processing deficits |
-| **Peduncular perforating** | [[posterior-cerebral-artery\|PCA]] P2 | Cerebral peduncle, midbrain tegmentum | Weber syndrome (CN III + contralateral hemiplegia) |
+| **Peduncular perforating** | [[posterior-cerebral-artery\|PCA]] P2 | Cerebral peduncle, midbrain tegmentum | Weber syndrome ([[oculomotor-nerve|CN III]] + contralateral hemiplegia) |
 | **Pontine perforators** (median, paramedian, circumferential) | [[basilar-artery]] | Corticospinal tracts, pontine nuclei, tegmentum | Locked-in syndrome, cranial nerve palsies |
-| **Circumflex perforating** | [[superior-cerebellar-artery\|SCA]] | Inferior colliculus, superior cerebellar peduncle | Ataxia, hearing processing deficits |
+| **Circumflex perforating** | [[superior-cerebellar-artery\|SCA]] | Inferior colliculus, [[cerebellar-peduncles|superior cerebellar peduncle]] | Ataxia, hearing processing deficits |
 | **Medullary perforators** | [[vertebral-artery]] | Pyramids, lateral medulla | Lateral medullary syndrome (Wallenberg) |
-| **PICA perforators** | [[pica\|PICA]] | Lateral medulla, inferior cerebellar peduncle | Wallenberg syndrome components |
-| **AICA perforators** | [[aica\|AICA]] | Lateral pons, middle cerebellar peduncle | Lateral pontine syndrome |
+| **[[pica]] perforators** | [[pica\|PICA]] | Lateral medulla, inferior cerebellar peduncle | Wallenberg syndrome components |
+| **[[aica]] perforators** | [[aica\|AICA]] | Lateral pons, middle cerebellar peduncle | Lateral pontine syndrome |
 
 ## Perforator Zones
 
 The perforators enter the brain through defined zones on the brain surface:
 
-### Anterior perforated substance
-Located between the [[optic-chiasm]] and the [[sylvian-fissure]] (limen of the [[insula]]). The lenticulostriate arteries and Heubner artery enter here to supply the [[basal-ganglia]] and internal capsule.
+### [[anterior-perforated-substance]]
+Located between the [[optic-chiasm]] and the [[sylvian-fissure]] (limen of the [[insula]]). The [[lenticulostriate-arteries]] and Heubner artery enter here to supply the [[basal-ganglia]] and internal capsule.
 
-### Posterior perforated substance (interpeduncular fossa)
-Located between the cerebral peduncles of the [[brainstem]]. The thalamoperforating arteries from PCA P1 and upper [[basilar-artery]] enter here to supply the [[thalamus]] and midbrain.
+### Posterior perforated substance ([[interpeduncular-cistern|interpeduncular fossa]])
+Located between the cerebral peduncles of the [[brainstem]]. The [[thalamoperforating-arteries]] from PCA P1 and upper [[basilar-artery]] enter here to supply the [[thalamus]] and midbrain.
 
 ### Ventral brainstem surface
 Pontine perforators from the [[basilar-artery]] enter along the entire ventral pons. Medullary perforators from the [[vertebral-artery]] enter the pyramids and lateral medulla.
@@ -86,7 +86,7 @@ Pontine perforators from the [[basilar-artery]] enter along the entire ventral p
 | [[pterional-approach]] (MCA aneurysm) | Lenticulostriates from M1 |
 | [[pterional-approach]] (basilar apex) | Thalamoperforating from P1, pontine from basilar |
 | [[subtemporal-approach]] (PCA/SCA) | Thalamoperforating, peduncular |
-| [[far-lateral-approach]] (VA/PICA) | Medullary perforators, anterior spinal artery |
+| [[far-lateral-approach]] (VA/PICA) | Medullary perforators, [[anterior-spinal-artery]] |
 | [[interhemispheric-approach]] (ACoA) | ACoA perforators, Heubner |
 | [[retrosigmoid-approach]] (AICA) | AICA perforators to lateral pons |
 
@@ -96,12 +96,12 @@ Pontine perforators from the [[basilar-artery]] enter along the entire ventral p
 - Supply [[basal-ganglia]], [[thalamus]], [[brainstem]], hypothalamus, [[hippocampus]]
 - Enter through anterior perforated substance ([[insula]] limen) and posterior perforated substance
 - [[circle-of-willis]] perforators are the most surgically important
-- Related to [[pituitary-gland]] (superior hypophyseal arteries)
+- Related to [[pituitary-gland]] ([[superior-hypophyseal-artery|superior hypophyseal arteries]])
 - See [[cranial-nerves-overview]] — CN nuclei in [[brainstem]] supplied by pontine/medullary perforators
 - See [[surgical-approaches-overview]] for approach-specific risks
 
 ## References
 
-- Rhoton, Ch.2 — The Supratentorial Arteries (lenticulostriates, Heubner, ACoA/PCoA perforators)
-- Rhoton, Ch.3 — The Posterior Cerebral Artery (thalamoperforating, thalamogeniculate, peduncular)
-- Rhoton, Ch.12 — The Superior Cerebellar Artery (basilar perforators, circumflex perforating)
+- Rhoton, Ch.2 — The Supratentorial Arteries (lenticulostriates, Heubner, ACoA/[[posterior-communicating-artery|PCoA]] perforators)
+- Rhoton, Ch.3 — The [[posterior-cerebral-artery]] (thalamoperforating, thalamogeniculate, peduncular)
+- Rhoton, Ch.12 — The [[superior-cerebellar-artery]] (basilar perforators, circumflex perforating)

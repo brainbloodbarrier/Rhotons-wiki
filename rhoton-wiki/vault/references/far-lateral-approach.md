@@ -25,7 +25,7 @@ approach-to:
 
 # Far Lateral Approach
 
-The far lateral approach provides access to the ventrolateral brainstem, lower clivus, and foramen magnum region by extending a standard suboccipital craniotomy laterally with partial condylar resection. It avoids the need for significant brainstem retraction.
+The far lateral approach provides access to the ventrolateral [[brainstem]], lower [[clivus]], and foramen magnum region by extending a standard suboccipital craniotomy laterally with partial condylar resection. It avoids the need for significant brainstem retraction.
 
 ## Indications
 
@@ -33,7 +33,7 @@ The far lateral approach provides access to the ventrolateral brainstem, lower c
 - Lower clival lesions
 - Vertebral artery aneurysms (intradural segment)
 - Lower brainstem cavernous malformations
-- Craniocervical junction pathology
+- [[craniocervical-junction]] pathology
 
 ## Key Structures Exposed
 
@@ -67,7 +67,7 @@ The far lateral approach provides access to the ventrolateral brainstem, lower c
 - [[pica]] origin and course near the surgical field
 - Vertebrobasilar junction exposes lower [[basilar-artery]]
 - Related to the [[tentorial-incisura]] (posterior incisural space) superiorly
-- Suboccipital triangle landmarks guide [[vertebral-artery]] V3 identification
+- [[suboccipital-triangle]] landmarks guide [[vertebral-artery]] V3 identification
 - Complementary to [[retrosigmoid-approach]] (lateral) and [[subtemporal-approach]] (superior)
 
 ## References

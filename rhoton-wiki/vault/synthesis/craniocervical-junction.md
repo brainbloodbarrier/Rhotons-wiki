@@ -21,7 +21,7 @@ summary: >-
 
 # Craniocervical Junction
 
-The craniocervical junction (CVJ) is the transitional zone between the skull base and the upper cervical spine, encompassing the [[foramen-magnum]], the atlas (C1), and the axis (C2). It houses the cervicomedullary junction of the [[brainstem|medulla-spinal cord transition]], the [[vertebral-artery]] V3-V4 segments, and the upper cervical nerve roots.
+The craniocervical junction (CVJ) is the transitional zone between the [[cranial-base|skull base]] and the upper cervical spine, encompassing the [[foramen-magnum]], the atlas (C1), and the axis (C2). It houses the cervicomedullary junction of the [[brainstem|medulla-spinal cord transition]], the [[vertebral-artery]] V3-V4 segments, and the upper cervical nerve roots.
 
 ## Osseous Framework
 
@@ -70,7 +70,7 @@ The cervicomedullary junction is the transition from medulla to spinal cord, occ
 
 | Approach | Access | Indication |
 |---|---|---|
-| [[far-lateral-approach]] | Posterolateral | Ventral foramen magnum lesions, VA-PICA aneurysms |
+| [[far-lateral-approach]] | Posterolateral | Ventral foramen magnum lesions, VA-[[pica]] aneurysms |
 | Transcondylar | Extension of far-lateral | Greater ventral exposure; partial condylectomy |
 | Posterior midline (suboccipital) | Posterior | Foramen magnum meningiomas (dorsal), Chiari malformation |
 | Transoral/transpalatal | Ventral | Odontoid pannus, ventral compression, [[clivus|lower clival]] lesions |
@@ -79,7 +79,7 @@ The cervicomedullary junction is the transition from medulla to spinal cord, occ
 ## Clinical Significance
 
 ### Chiari Malformation
-Cerebellar tonsillar herniation through the [[foramen-magnum]] into the cervical canal, compressing the cervicomedullary junction and obstructing CSF flow at the foramen of Magendie.
+Cerebellar [[herniation-syndromes|tonsillar herniation]] through the [[foramen-magnum]] into the cervical canal, compressing the cervicomedullary junction and obstructing CSF flow at the foramen of Magendie.
 
 ### Basilar Invagination
 Upward migration of the odontoid process into the foramen magnum, compressing the ventral brainstem. Requires ventral decompression (transoral or endonasal) ± posterior fusion.

@@ -21,7 +21,7 @@ parent: "[[maxillary-artery]]"
 
 # Sphenopalatine Artery
 
-The sphenopalatine artery is the terminal branch of the maxillary artery (third segment), exiting the [[pterygopalatine-fossa]] through the sphenopalatine foramen to supply the posterior nasal cavity, nasal septum, and lateral nasal wall. It is the principal arterial supply to the nasoseptal flap used in skull base reconstruction and the most common source of severe posterior epistaxis.
+The sphenopalatine artery is the terminal branch of the [[maxillary-artery]] (third segment), exiting the [[pterygopalatine-fossa]] through the sphenopalatine foramen to supply the posterior nasal cavity, nasal septum, and lateral nasal wall. It is the principal arterial supply to the nasoseptal flap used in [[cranial-base|skull base]] reconstruction and the most common source of severe posterior epistaxis.
 
 ## Course
 

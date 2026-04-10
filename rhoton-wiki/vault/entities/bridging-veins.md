@@ -39,8 +39,8 @@ The superficial [[cerebral-veins]] collect into four groups of bridging veins ba
 - **Less commonly**: drains into sphenobasal or sphenopetrosal sinuses
 
 ### 3. Tentorial Group
-- **Drains into**: tentorial sinuses, transverse sinus, [[dural-venous-sinuses|superior petrosal sinus]]
-- **Territory**: lateral surface of temporal lobe; basal surface of temporal and occipital lobes
+- **Drains into**: tentorial sinuses, [[transverse-sinus]], [[dural-venous-sinuses|superior petrosal sinus]]
+- **Territory**: lateral surface of [[cerebral-lobes|temporal lobe]]; basal surface of temporal and occipital lobes
 - **Includes**: temporobasal veins, occipitobasal veins, and descending veins including the **vein of Labbé**
 - **Key feature**: these veins converge on the preoccipital notch
 
@@ -81,7 +81,7 @@ The number and distribution of bridging veins vary considerably between patients
 | [[pterional-approach]] | Sphenoidal group (superficial sylvian veins) |
 | [[subtemporal-approach]] | Tentorial group, vein of Labbé |
 | [[middle-fossa-approach]] | Vein of Labbé, temporal bridging veins |
-| [[supracerebellar-infratentorial-approach]] | Tentorial group (cerebellar bridging veins to tentorium) |
+| [[supracerebellar-infratentorial-approach]] | Tentorial group (cerebellar bridging veins to [[tentorium-cerebelli|tentorium]]) |
 | Parasagittal craniotomy | Superior sagittal group; central and postcentral veins |
 
 ### Venous Infarction

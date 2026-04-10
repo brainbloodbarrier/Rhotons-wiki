@@ -21,7 +21,7 @@ parent: "[[cranial-base]]"
 
 # Sellar Region
 
-The pituitary gland and sella turcica are located below the center of the brain in the center of the cranial base. Access is limited superiorly by the optic nerves, chiasm, and [[circle-of-willis]], laterally by the [[cavernous-sinus]] and [[internal-carotid-artery]], and posteriorly by the brainstem and basilar artery.
+The [[pituitary-gland]] and sella turcica are located below the center of the brain in the center of the [[cranial-base]]. Access is limited superiorly by the optic nerves, chiasm, and [[circle-of-willis]], laterally by the [[cavernous-sinus]] and [[internal-carotid-artery]], and posteriorly by the [[brainstem]] and [[basilar-artery]].
 
 ## Boundaries
 
@@ -29,18 +29,18 @@ The pituitary gland and sella turcica are located below the center of the brain 
 - **Lateral** — [[cavernous-sinus]] (bilateral), [[internal-carotid-artery]]
 - **Posterior** — dorsum sellae, posterior clinoid processes, basilar artery, brainstem
 - **Anterior** — planum sphenoidale, tuberculum sellae
-- **Inferior** — sphenoid sinus
+- **Inferior** — [[paranasal-sinuses|sphenoid sinus]]
 
 ## Key Structures
 
 ### Pituitary Gland
-Sits within the sella turcica, covered superiorly by the diaphragma sellae (a dural fold with an opening for the pituitary stalk/infundibulum). The gland receives arterial supply from the superior hypophyseal arteries (from [[internal-carotid-artery]] ophthalmic segment) and inferior hypophyseal arteries (from the meningohypophyseal trunk of the intracavernous ICA).
+Sits within the sella turcica, covered superiorly by the diaphragma sellae (a dural fold with an opening for the pituitary stalk/infundibulum). The gland receives arterial supply from the [[superior-hypophyseal-artery|superior hypophyseal arteries]] (from [[internal-carotid-artery]] ophthalmic segment) and inferior hypophyseal arteries (from the meningohypophyseal trunk of the intracavernous ICA).
 
-### Sphenoid Sinus
+### [[sphenoid-bone|Sphenoid]] Sinus
 Located directly below the sella; provides the primary transsphenoidal surgical corridor. The sinus is separated from the sella by a thin bony floor (sometimes dehiscent). The sphenoid ostia open into the sphenoethmoidal recesses of the nasal cavity.
 
 ### Suprasellar Cistern
-Contains the [[optic-chiasm]], infundibulum, [[anterior-cerebral-artery]] (A1), [[anterior-communicating-artery]], superior hypophyseal arteries, and the lamina terminalis.
+Contains the [[optic-chiasm]], infundibulum, [[anterior-cerebral-artery]] (A1), [[anterior-communicating-artery]], superior hypophyseal arteries, and the [[lamina-terminalis]].
 
 ## Surgical Approaches
 

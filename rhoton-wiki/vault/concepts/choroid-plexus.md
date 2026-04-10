@@ -20,19 +20,19 @@ parent: "[[lateral-and-third-ventricles]]"
 
 # Choroid Plexus
 
-The choroid plexus is a vascularized neuroepithelial tissue that produces cerebrospinal fluid (CSF) within the ventricular system. It is present in all four ventricles, attached along specific fissures and foramina. The choroid plexus and its arterial supply are critical surgical landmarks — they define the choroidal fissure, mark ventricular boundaries, and guide approaches to deep brain structures.
+The choroid plexus is a vascularized neuroepithelial tissue that produces cerebrospinal fluid (CSF) within the ventricular system. It is present in all four ventricles, attached along specific fissures and foramina. The choroid plexus and its arterial supply are critical surgical landmarks — they define the [[choroidal-fissure]], mark ventricular boundaries, and guide approaches to deep brain structures.
 
 ## Distribution
 
 ### Lateral ventricles ([[lateral-and-third-ventricles]])
-The largest choroid plexus mass. Attached along the **choroidal fissure** (the cleft between the fornix and [[thalamus]]) throughout the C-shape of the ventricle:
+The largest choroid plexus mass. Attached along the **choroidal fissure** (the cleft between the [[fornix]] and [[thalamus]]) throughout the C-shape of the ventricle:
 - **Body** — in the floor of the body, between the fornix and thalamus
 - **Atrium (glomus)** — the largest tuft; fills the atrium and is a common site of choroid plexus papillomas in children
 - **Temporal horn** — extends along the roof, medial to the [[hippocampus]]
 - **Frontal horn** — absent (no choroidal fissure in the frontal horn)
 
 ### Third ventricle
-A thin strip attached to the tela choroidea (double layer of pia) in the roof of the third ventricle, between the internal cerebral veins ([[vein-of-galen]]).
+A thin strip attached to the tela choroidea (double layer of pia) in the roof of the third ventricle, between the [[internal-cerebral-veins]] ([[vein-of-galen]]).
 
 ### Fourth ventricle ([[fourth-ventricle]])
 T-shaped:
@@ -53,8 +53,8 @@ The choroid plexus has a dual anterior-posterior supply:
 ### Anterior choroidal artery ([[anterior-choroidal-artery]])
 Enters the temporal horn through the choroidal fissure at the **inferior choroidal point** — the most important landmark for identifying the temporal horn during surgery. Supplies the choroid plexus of the temporal horn and atrium.
 
-### Posterior choroidal arteries
-- **Medial (MPChA)** — from PCA P2A; courses through the ambient cistern, around the [[brainstem]], to reach the roof of the third ventricle and the pineal region
+### [[posterior-choroidal-arteries]]
+- **Medial (MPChA)** — from PCA P2A; courses through the [[ambient-cistern]], around the [[brainstem]], to reach the roof of the third ventricle and the [[pineal-region]]
 - **Lateral (LPChA)** — from PCA P2P; courses around the pulvinar of the [[thalamus]] through the choroidal fissure to supply the atrium and temporal horn plexus
 
 ## Choroidal Fissure
@@ -91,7 +91,7 @@ The choroid plexus protruding from the foramen of Luschka into the [[cerebellopo
 - [[anterior-choroidal-artery]] enters at the inferior choroidal point — see [[anterior-circulation]]
 - Posterior choroidal arteries from [[posterior-cerebral-artery|PCA]] — see [[posterior-circulation]]
 - [[pica]] and [[aica]] supply fourth ventricle plexus — see [[posterior-circulation]]
-- [[vein-of-galen]] (internal cerebral veins) in the third ventricle roof above the plexus
+- [[vein-of-galen]] (internal [[cerebral-veins]]) in the third ventricle roof above the plexus
 - [[hippocampus]] adjacent in the temporal horn
 - [[cerebellopontine-cistern]] — fourth ventricle plexus protrudes through foramen of Luschka
 - [[lower-cranial-nerves|CN IX, X]] posterior to the fourth ventricle plexus
@@ -101,4 +101,4 @@ The choroid plexus protruding from the foramen of Luschka into the [[cerebellopo
 
 - Rhoton, Ch.5 — The Lateral and Third Ventricles (choroidal fissure, choroidal points, transchoroidal approach)
 - Rhoton, Ch.11 — Fourth Ventricle (fourth ventricle choroid plexus, tela choroidea)
-- Rhoton, Ch.12 — The Superior Cerebellar Artery (PICA/AICA choroidal branches)
+- Rhoton, Ch.12 — The [[superior-cerebellar-artery]] (PICA/AICA choroidal branches)

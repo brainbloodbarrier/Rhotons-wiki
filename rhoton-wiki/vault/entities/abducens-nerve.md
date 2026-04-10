@@ -27,11 +27,11 @@ The abducens nerve (CN VI) has the **longest intracranial subarachnoid course** 
 
 ## Origin and Cisternal Course
 
-CN VI emerges from the pontomedullary junction at the anterior surface of the brainstem, between the clivus and the belly of the pons. It ascends through the **prepontine cistern** ([[basal-cisterns]]), where it is closely related to the [[basilar-artery]] and the anterior pontine segment of the [[aica]]. The proximal AICA trunk lies in contact with either the dorsal or ventral aspect of the abducens nerve.
+CN VI emerges from the pontomedullary junction at the anterior surface of the [[brainstem]], between the [[clivus]] and the belly of the pons. It ascends through the **prepontine cistern** ([[basal-cisterns]]), where it is closely related to the [[basilar-artery]] and the anterior pontine segment of the [[aica]]. The proximal AICA trunk lies in contact with either the dorsal or ventral aspect of the abducens nerve.
 
 ## Dorello's Canal
 
-The nerve pierces the dura forming the lower part of the posterior wall of the [[cavernous-sinus]] at the upper border of the petrous apex. It enters **Dorello's canal**, a dural cave where it passes below the **petrosphenoid ligament** (Gruber's ligament), which extends from the lower lateral edge of the dorsum sellae to the petrous apex. This fixed point makes CN VI vulnerable to stretching from raised intracranial pressure or caudal displacement of the brainstem — the classic mechanism of **false localizing CN VI palsy**.
+The nerve pierces the dura forming the lower part of the posterior wall of the [[cavernous-sinus]] at the upper border of the [[petrous-apex]]. It enters **Dorello's canal**, a dural cave where it passes below the **petrosphenoid ligament** (Gruber's ligament), which extends from the lower lateral edge of the dorsum sellae to the petrous apex. This fixed point makes CN VI vulnerable to stretching from raised intracranial pressure or caudal displacement of the brainstem — the classic mechanism of **false localizing CN VI palsy**.
 
 ## Intracavernous Course
 
@@ -56,7 +56,7 @@ CN VI passes through the superior orbital fissure within the annulus of Zinn (te
 CN VI defines the boundaries of several important surgical triangles in the [[cavernous-sinus]] and paraclival region:
 
 - **Infratrochlear triangle (Parkinson's triangle)** — CN VI is at the lower boundary; exposes the posterior carotid bend and meningohypophyseal trunk
-- **Inferomedial paraclival triangle** — bounded by the dural entrances of CN IV (above), CN VI (laterally), and the posterior clinoid process (medially); the dura forms the posterior wall of the cavernous sinus
+- **Inferomedial paraclival triangle** — bounded by the dural entrances of [[trochlear-nerve|CN IV]] (above), CN VI (laterally), and the posterior [[anterior-clinoid-process|clinoid process]] (medially); the dura forms the posterior wall of the cavernous sinus
 - **Inferolateral paraclival triangle** — CN VI entry at the lower margin; the trigeminal porus is at center
 
 ## Surgical Significance
@@ -64,11 +64,11 @@ CN VI defines the boundaries of several important surgical triangles in the [[ca
 ### Cavernous sinus surgery
 CN VI is the most vulnerable nerve in cavernous sinus approaches. Its free intracavernous position (not protected by the lateral wall) means it is encountered early when opening the sinus medially.
 
-### Anterior petrosectomy (Kawase approach)
-Drilling the petrous apex medial to the cochlea and between the trigeminal nerve and internal acoustic meatus exposes the clivus. Opening the posterior fossa dura reveals the prepontine cistern, [[basilar-artery]], and CN VI. Care is required to prevent damage to the nerve as it passes through Dorello's canal.
+### Anterior petrosectomy ([[anterior-petrosectomy|Kawase approach]])
+Drilling the petrous apex medial to the cochlea and between the trigeminal nerve and [[internal-auditory-canal|internal acoustic meatus]] exposes the clivus. Opening the [[posterior-fossa]] dura reveals the prepontine cistern, [[basilar-artery]], and CN VI. Care is required to prevent damage to the nerve as it passes through Dorello's canal.
 
 ### Posterior fossa approaches
-In the [[retrosigmoid-approach]], CN VI and the AICA are visible in the lower margin of the exposure at the cerebellopontine angle.
+In the [[retrosigmoid-approach]], CN VI and the AICA are visible in the lower margin of the exposure at the [[cerebellopontine-cistern|cerebellopontine angle]].
 
 ### Clival tumors
 Clival chordomas and meningiomas compress CN VI early due to its long cisternal course along the clivus. The nerve is exposed during transclival ([[transsphenoidal-approach|endonasal]]) and [[far-lateral-approach|far-lateral]] approaches.
@@ -90,4 +90,4 @@ CN VI palsy is a classic **false localizing sign** of raised intracranial pressu
 ## References
 
 - Rhoton, Ch.9 — The Cavernous Sinus (intracavernous course, triangles, neural relationships)
-- Rhoton, Ch.14 — Tentorial Incisura; The Foramen Magnum (cisternal course, approach-related anatomy)
+- Rhoton, Ch.14 — [[tentorial-incisura]]; The [[foramen-magnum]] (cisternal course, approach-related anatomy)

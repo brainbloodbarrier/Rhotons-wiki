@@ -27,19 +27,19 @@ The posterior fossa veins drain the cerebellum, brainstem, and fourth ventricle.
 
 ### Superior (Galenic) Group
 - Drains the tentorial cerebellar surface and upper brainstem
-- Veins course superiorly to reach the vein of Galen, straight sinus, or tentorial sinuses
+- Veins course superiorly to reach the [[vein-of-galen]], straight sinus, or tentorial sinuses
 - **Superior vermian vein** — major collector along the superior vermis
 - **Precentral cerebellar vein** — courses in the cerebellomesencephalic fissure near the [[superior-cerebellar-artery]]
 
 ### Anterior (Petrosal) Group
 - Drains the petrosal cerebellar surface, lateral brainstem, and CN V–VIII region
-- **Superior petrosal veins** — converge near the trigeminal nerve; drain into superior petrosal sinus
+- **Superior petrosal veins** — converge near the [[trigeminal-nerve]]; drain into superior petrosal sinus
 - Critical landmark in [[cerebellopontine-cistern]] surgery — must be preserved or carefully divided
 
 ### Posterior (Tentorial/Suboccipital) Group
 - Drains the suboccipital cerebellar surface
 - **Inferior vermian veins** — course along inferior vermis
-- Drain into transverse sinus, torcular Herophili, or tentorial sinuses
+- Drain into [[transverse-sinus]], torcular Herophili, or tentorial sinuses
 
 ## Brainstem Veins
 
@@ -52,9 +52,9 @@ These veins are typically small but critical — their injury during surgery can
 
 ## Surgical Significance
 
-- The **superior petrosal vein** (vein of Dandy) is the most important surgical landmark — it crosses the operative corridor in retrosigmoid approaches and may need to be divided for access to CN V
-- Bridging veins to the tentorium and transverse sinus are at risk during posterior fossa approaches
-- The precentral cerebellar vein is at risk during supracerebellar-infratentorial approaches to the pineal region
+- The **[[superior-petrosal-vein]]** (vein of Dandy) is the most important surgical landmark — it crosses the operative corridor in retrosigmoid approaches and may need to be divided for access to CN V
+- [[bridging-veins]] to the [[tentorium-cerebelli|tentorium]] and transverse sinus are at risk during posterior fossa approaches
+- The precentral cerebellar vein is at risk during supracerebellar-infratentorial approaches to the [[pineal-region]]
 - Unlike supratentorial [[cerebral-veins]], posterior fossa veins have fewer anastomoses — sacrifice is less well tolerated
 
 ## Relations

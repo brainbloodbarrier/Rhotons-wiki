@@ -25,15 +25,15 @@ Twelve paired cranial nerves emerge from the brain and [[brainstem]], traverse t
 
 | CN | Name | Origin | Exit foramen | Key arterial relation | Page |
 |---|---|---|---|---|---|
-| I | Olfactory | Olfactory epithelium | Cribriform plate | Anterior ethmoidal artery | — |
-| II | Optic | Retinal ganglion cells | Optic canal | [[internal-carotid-artery\|ICA]], ophthalmic artery | [[optic-chiasm]] |
+| I | Olfactory | Olfactory epithelium | Cribriform plate | [[ethmoidal-arteries|Anterior ethmoidal artery]] | — |
+| II | Optic | Retinal ganglion cells | [[optic-canal]] | [[internal-carotid-artery\|ICA]], [[ophthalmic-artery]] | [[optic-chiasm]] |
 | III | Oculomotor | Ventral midbrain | Superior orbital fissure | [[posterior-cerebral-artery\|PCA]]/[[superior-cerebellar-artery\|SCA]] sandwich, [[posterior-communicating-artery\|PCoA]] | [[oculomotor-nerve]] |
 | IV | Trochlear | Dorsal midbrain | Superior orbital fissure | [[superior-cerebellar-artery\|SCA]] branches | [[trochlear-nerve]] |
 | V | Trigeminal | Lateral pons | SOF (V1), foramen rotundum (V2), foramen ovale (V3) | [[superior-cerebellar-artery\|SCA]] (above), [[aica\|AICA]] (below) | [[trigeminal-nerve]] |
 | VI | Abducens | Pontomedullary junction | Superior orbital fissure | [[basilar-artery]], [[aica\|AICA]] | [[abducens-nerve]] |
 | VII | Facial | Pontomedullary junction | Stylomastoid foramen | [[aica\|AICA]] meatal loop | [[facial-nerve]] |
-| VIII | Vestibulocochlear | Pontomedullary junction | Internal acoustic meatus | [[aica\|AICA]] labyrinthine artery | [[vestibulocochlear-nerve]] |
-| IX | Glossopharyngeal | Postolivary medulla | Jugular foramen | [[pica\|PICA]] | [[lower-cranial-nerves]] |
+| VIII | Vestibulocochlear | Pontomedullary junction | [[internal-auditory-canal|Internal acoustic meatus]] | [[aica\|AICA]] [[labyrinthine-artery]] | [[vestibulocochlear-nerve]] |
+| IX | Glossopharyngeal | Postolivary medulla | [[jugular-foramen]] | [[pica\|PICA]] | [[lower-cranial-nerves]] |
 | X | Vagus | Postolivary medulla | Jugular foramen | [[pica\|PICA]] | [[lower-cranial-nerves]] |
 | XI | Accessory | Medulla + cervical cord | Jugular foramen (+ [[foramen-magnum]]) | [[vertebral-artery]] | [[lower-cranial-nerves]] |
 | XII | Hypoglossal | Preolivary medulla | Hypoglossal canal | [[vertebral-artery]] | [[lower-cranial-nerves]] |
@@ -48,7 +48,7 @@ Cranial nerves emerge from the [[brainstem]] in a predictable pattern:
 
 ### Pons
 - **CN V** — lateral mid-pons → between [[superior-cerebellar-artery|SCA]] above and [[aica|AICA]] below
-- **CN VI** — ventral pontomedullary junction → longest subarachnoid course along clivus
+- **CN VI** — ventral pontomedullary junction → longest subarachnoid course along [[clivus]]
 - **CN VII + VIII** — lateral pontomedullary junction → intimately related to [[aica|AICA]] meatal loop
 
 ### Medulla
@@ -60,8 +60,8 @@ Cranial nerves emerge from the [[brainstem]] in a predictable pattern:
 
 Each cranial nerve traverses specific [[basal-cisterns]]:
 
-- **Interpeduncular cistern** — CN III origin
-- **Ambient cistern** — CN III, IV course with [[posterior-cerebral-artery|PCA]] and [[superior-cerebellar-artery|SCA]]
+- **[[interpeduncular-cistern]]** — CN III origin
+- **[[ambient-cistern]]** — CN III, IV course with [[posterior-cerebral-artery|PCA]] and [[superior-cerebellar-artery|SCA]]
 - **Prepontine cistern** — CN VI ascending on clivus with [[basilar-artery]]
 - **[[cerebellopontine-cistern]]** — CN V, VII, VIII with [[aica|AICA]]
 - **Cerebellomedullary cistern** — CN IX, X, XI with [[pica|PICA]]
@@ -75,7 +75,7 @@ Four cranial nerves traverse the [[cavernous-sinus]]:
 
 See [[cavernous-sinus-contents]] for detailed surgical triangles.
 
-## Neurovascular Compression Syndromes
+## [[neurovascular-compression-syndromes]]
 
 | Syndrome | Nerve | Offending vessel | Treatment approach |
 |---|---|---|---|

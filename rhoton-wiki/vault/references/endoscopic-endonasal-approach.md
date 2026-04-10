@@ -26,7 +26,7 @@ approach-to:
 
 # Endoscopic Endonasal Approach
 
-The endoscopic endonasal approach (EEA) is an expanded variant of the [[transsphenoidal-approach]] that uses the nasal cavity and [[paranasal-sinuses]] as a natural corridor to access the ventral skull base from the cribriform plate to the craniocervical junction. It avoids brain retraction entirely by working through the pneumatized skull base.
+The endoscopic endonasal approach (EEA) is an expanded variant of the [[transsphenoidal-approach]] that uses the nasal cavity and [[paranasal-sinuses]] as a natural corridor to access the ventral [[cranial-base|skull base]] from the cribriform plate to the [[craniocervical-junction]]. It avoids brain retraction entirely by working through the pneumatized skull base.
 
 ## Anatomical Corridor
 
@@ -69,11 +69,11 @@ The EEA is described as a series of modular extensions from the central sellar c
 
 ### Transcribriform
 - **Target**: anterior cranial fossa, olfactory groove, cribriform plate
-- **Key risk**: [[olfactory-nerve|olfactory nerves]], anterior ethmoidal arteries
+- **Key risk**: [[olfactory-nerve|olfactory nerves]], anterior [[ethmoidal-arteries]]
 - **Removes**: cribriform plate, crista galli
 
 ### Transpterygoid
-- **Target**: [[pterygopalatine-fossa]], [[infratemporal-fossa]], [[meckels-cave]], petrous apex
+- **Target**: [[pterygopalatine-fossa]], [[infratemporal-fossa]], [[meckels-cave]], [[petrous-apex]]
 - **Key risk**: V2, [[internal-carotid-artery|ICA petrous segment]], vidian nerve
 - **Landmarks**: pterygoid canal (vidian canal), foramen rotundum
 
@@ -96,7 +96,7 @@ Exposure lateral to the ICA requires specific training and carries significantly
 
 Ventral skull base defects require multilayer reconstruction to prevent CSF leak:
 
-- **Nasoseptal flap** (Hadad-Bassagasteguy) — vascularized pedicled flap based on the posterior septal artery (branch of sphenopalatine artery)
+- **Nasoseptal flap** (Hadad-Bassagasteguy) — vascularized pedicled flap based on the posterior septal artery (branch of [[sphenopalatine-artery]])
 - **Fascia lata/fat grafts** — for smaller defects
 - **Buttress materials** — rigid support for large defects
 

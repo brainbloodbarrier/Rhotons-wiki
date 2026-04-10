@@ -76,7 +76,7 @@ The ambient cistern occupies the **middle incisural space** — the lateral comp
 - The ambient cistern is obliterated as the temporal lobe fills the middle incisural space
 
 ### Key Surgical Risks
-- [[posterior-cerebral-artery|PCA]] P2 branches — thalamogeniculate and posterior choroidal perforators cannot be sacrificed
+- [[posterior-cerebral-artery|PCA]] P2 branches — thalamogeniculate and posterior choroidal [[perforating-arteries|perforators]] cannot be sacrificed
 - [[basal-vein-of-rosenthal]] — sacrifice causes deep venous congestion; must be preserved
 - [[trochlear-nerve|CN IV]] — thin and fragile; vulnerable during tentorial division
 

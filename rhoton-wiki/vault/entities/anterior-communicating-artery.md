@@ -33,13 +33,13 @@ A normal ACA-ACoA complex connects A1 segments of nearly equal size, allowing cr
 
 ## Perforating Branches
 
-The ACoA gives rise to small but critical perforating arteries that supply:
-- Anterior hypothalamus
-- Lamina terminalis
+The ACoA gives rise to small but critical [[perforating-arteries]] that supply:
+- Anterior [[hypothalamus]]
+- [[lamina-terminalis]]
 - Anterior commissure
-- Columns of the fornix
+- Columns of the [[fornix]]
 
-These perforators are at high risk during ACoA aneurysm surgery and their injury can cause memory deficits and hypothalamic dysfunction.
+These perforators are at high risk during ACoA [[aneurysm-surgery]] and their injury can cause memory deficits and hypothalamic dysfunction.
 
 ## Variants
 
@@ -50,8 +50,8 @@ These perforators are at high risk during ACoA aneurysm surgery and their injury
 ## Surgical Relevance
 
 - **Most common aneurysm site** in many series — ACoA aneurysms represent 25–30% of all intracranial aneurysms
-- Exposed during [[pterional-approach]] through the opticocarotid triangle between the [[internal-carotid-artery]], A1, and optic nerve
-- The **recurrent artery of Heubner** often arises near the ACoA junction, passing laterally above the A1
+- Exposed during [[pterional-approach]] through the opticocarotid triangle between the [[internal-carotid-artery]], A1, and [[optic-nerve]]
+- The **[[recurrent-artery-of-heubner]]** often arises near the ACoA junction, passing laterally above the A1
 - Perforator preservation is critical — injury causes memory and personality deficits
 
 ## Relations

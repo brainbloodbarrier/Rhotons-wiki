@@ -23,7 +23,7 @@ parent: "[[posterior-circulation]]"
 
 # Vertebral Artery
 
-The vertebral artery is the first and largest branch of the subclavian artery and the principal arterial supply to the [[posterior-fossa]]. The paired vertebral arteries ascend through the cervical transverse foramina, traverse the [[cranial-base]] at the foramen magnum, and merge at the pontomedullary junction to form the basilar artery. Together they constitute the **vertebrobasilar system**, which supplies the brainstem, cerebellum, and occipital lobes.
+The vertebral artery is the first and largest branch of the subclavian artery and the principal arterial supply to the [[posterior-fossa]]. The paired vertebral arteries ascend through the cervical transverse foramina, traverse the [[cranial-base]] at the [[foramen-magnum]], and merge at the pontomedullary junction to form the [[basilar-artery]]. Together they constitute the **[[posterior-circulation|vertebrobasilar system]]**, which supplies the [[brainstem]], [[cerebellum]], and occipital lobes.
 
 ## Segments
 
@@ -36,7 +36,7 @@ Extends from the subclavian artery origin to the C6 transverse foramen (occasion
 Ascends through the transverse foramina from C6 to C2, accompanied by a venous plexus and sympathetic fibers. This segment is relatively fixed within the bony canal.
 
 ### V3 — Extraspinal (atlantic / suboccipital)
-Emerges from the C2 transverse foramen, curves posteriorly behind the C1 lateral mass, and courses medially in the sulcus arteriosus on the superior surface of the posterior arch of the atlas. This segment passes through the **suboccipital triangle** (bounded by rectus capitis posterior major, superior oblique, and inferior oblique muscles). The groove on the atlas may be partly or fully converted into a bony foramen. The V3 segment then penetrates the posterior atlanto-occipital membrane and dura to enter the posterior fossa.
+Emerges from the C2 transverse foramen, curves posteriorly behind the C1 lateral mass, and courses medially in the sulcus arteriosus on the superior surface of the posterior arch of the atlas. This segment passes through the **[[suboccipital-triangle]]** (bounded by rectus capitis posterior major, superior oblique, and inferior [[extraocular-muscles|oblique muscles]]). The groove on the atlas may be partly or fully converted into a bony foramen. The V3 segment then penetrates the posterior atlanto-occipital membrane and dura to enter the posterior fossa.
 
 ### V4 — Intradural (intracranial)
 Extends from dural penetration to the vertebrobasilar junction. The artery enters the dura lateral to the cervicomedullary junction, courses superior, anterior, and medially along the anterior surface of the medulla to join its contralateral counterpart at approximately the pontomedullary junction, forming the basilar artery.
@@ -48,28 +48,28 @@ Extends from dural penetration to the vertebrobasilar junction. The artery enter
 ### Posterior inferior cerebellar artery ([[pica]])
 The largest branch; arises from the V4 segment 0–35 mm below the vertebrobasilar junction (average 16.9 mm). Origin site ranges from below the foramen magnum to the vertebrobasilar junction (average 8.6 mm above the foramen magnum). The PICA is the defining artery of the **lower neurovascular complex**. In rare cases, the vertebral artery terminates in a PICA without contributing to the basilar artery.
 
-### Posterior spinal artery
-Arises at or near the dural penetration site. Descends along the posterolateral aspect of the spinal cord and medulla between the dentate ligament and the [[posterior-fossa-veins|accessory nerve]].
+### [[posterior-spinal-artery]]
+Arises at or near the dural penetration site. Descends along the posterolateral aspect of the spinal cord and medulla between the [[dentate-ligament]] and the [[posterior-fossa-veins|accessory nerve]].
 
-### Anterior spinal artery
+### [[anterior-spinal-artery]]
 Arises from the distal V4 segment near the vertebrobasilar junction. The paired anterior spinal arteries unite in the midline to form a single trunk descending in the anterior median fissure of the spinal cord. The anterior spinal artery origin is often asymmetric — predominantly from one vertebral artery.
 
 ### Posterior meningeal artery
 Arises from the V3 segment near the dural entry, ascends to supply the dura on the posterior aspect of the foramen magnum and [[posterior-fossa]].
 
-### Perforating branches
+### [[perforating-arteries|Perforating branches]]
 Small medullary perforators enter the pyramids and lateral medulla along the intradural course.
 
 ## Anatomical Relations at the Foramen Magnum
 
-The V4 segment has critical relations at the craniocervical junction:
+The V4 segment has critical relations at the [[craniocervical-junction]]:
 
 - **Dentate ligament** — the most rostral attachment passes between the vertebral artery anteriorly and the spinal accessory nerve posteriorly; often incorporated into the dural cuff around the artery
 - **C1 nerve** — penetrates the dura with the vertebral artery and courses along its posteroinferior surface
 - **[[oculomotor-nerve|CN XI (accessory nerve)]]** — ascends posterior to both the PICA and vertebral artery through the foramen magnum; its spinal rootlets arise from C1–C7 and ascend behind the dentate ligament
-- **CN XII (hypoglossal nerve)** — rootlets pass behind the vertebral artery to enter the hypoglossal canal above the occipital condyle
-- **CN IX, X** — the [[trigeminal-nerve|glossopharyngeal]], vagus, and accessory nerves pass through the jugular foramen, located lateral and slightly superior to the anterior foramen magnum
-- **Cerebellar tonsils** — sit above the posterior edge of the foramen magnum; tonsillar herniation compresses the vertebral artery and [[pica]]
+- **CN XII ([[lower-cranial-nerves|hypoglossal nerve]])** — rootlets pass behind the vertebral artery to enter the hypoglossal canal above the occipital condyle
+- **CN IX, X** — the [[trigeminal-nerve|glossopharyngeal]], vagus, and accessory nerves pass through the [[jugular-foramen]], located lateral and slightly superior to the anterior foramen magnum
+- **Cerebellar tonsils** — sit above the posterior edge of the foramen magnum; [[herniation-syndromes|tonsillar herniation]] compresses the vertebral artery and [[pica]]
 
 ## Surgical Significance
 
@@ -80,7 +80,7 @@ The primary corridor for vertebral artery pathology at the foramen magnum. The V
 Posterior suboccipital craniectomy with upper cervical laminectomy exposes the vertebral arteries as they cross the upper surface of the atlas. Key landmarks include the posterior meningeal arteries arising from the V3 segment.
 
 ### Anterior (transoral/endonasal) approaches
-Removal of the anterior arch of C1 and clivus exposes the vertebral and basilar arteries anteriorly. The [[transsphenoidal-approach|anterior approaches]] provide access to ventral foramen magnum lesions.
+Removal of the anterior arch of C1 and [[clivus]] exposes the vertebral and basilar arteries anteriorly. The [[transsphenoidal-approach|anterior approaches]] provide access to ventral foramen magnum lesions.
 
 ### Clinical correlates
 - **Vertebral artery dissection** — may cause lateral medullary syndrome (Wallenberg) via [[pica]] territory ischemia

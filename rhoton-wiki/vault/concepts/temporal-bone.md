@@ -28,16 +28,16 @@ The temporal bone is one of the most anatomically complex cranial bones, contrib
 ## Parts
 
 ### Squamous part
-Thin, flat plate forming the lateral skull wall. The zygomatic process projects anteriorly to form the zygomatic arch. The middle meningeal artery grooves its internal surface. Related to the [[pterional-approach]] and orbitozygomatic craniotomy.
+Thin, flat plate forming the lateral skull wall. The zygomatic process projects anteriorly to form the zygomatic arch. The [[middle-meningeal-artery]] grooves its internal surface. Related to the [[pterional-approach]] and [[orbitozygomatic-approach|orbitozygomatic craniotomy]].
 
 ### Petrous part
 The dense, pyramid-shaped core of the temporal bone, oriented anteromedially. Its long axis points toward the [[sellar-region|dorsum sellae]]:
-- **Anterior (middle fossa) surface** — forms the posterior part of the middle cranial fossa floor; contains the arcuate eminence (over the superior semicircular canal), tegmen tympani (roof of the middle ear and mastoid antrum), and the hiatus for the greater petrosal nerve
-- **Posterior (posterior fossa) surface** — faces the [[cerebellopontine-cistern]]; contains the **internal acoustic meatus** (IAM/IAC) transmitting [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]], the labyrinthine artery, and the nervus intermedius
-- **Inferior surface** — contains the carotid canal (entry of the [[internal-carotid-artery|ICA]] into the skull), jugular fossa (roof of the jugular foramen), and stylomastoid foramen ([[facial-nerve|CN VII]] exit)
+- **Anterior (middle fossa) surface** — forms the posterior part of the middle cranial fossa floor; contains the arcuate eminence (over the superior semicircular canal), tegmen tympani (roof of the middle ear and mastoid antrum), and the hiatus for the [[greater-petrosal-nerve]]
+- **Posterior ([[posterior-fossa]]) surface** — faces the [[cerebellopontine-cistern]]; contains the **[[internal-auditory-canal|internal acoustic meatus]]** (IAM/IAC) transmitting [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]], the [[labyrinthine-artery]], and the nervus intermedius
+- **Inferior surface** — contains the carotid canal (entry of the [[internal-carotid-artery|ICA]] into the skull), jugular fossa (roof of the [[jugular-foramen]]), and stylomastoid foramen ([[facial-nerve|CN VII]] exit)
 
 ### Mastoid part
-The posterior portion containing the mastoid air cells. The **sigmoid sinus** ([[dural-venous-sinuses]]) grooves its inner surface. The [[retrosigmoid-approach]] craniotomy is placed behind the sigmoid sinus and below the transverse sinus on the mastoid bone.
+The posterior portion containing the mastoid air cells. The **[[sigmoid-sinus]]** ([[dural-venous-sinuses]]) grooves its inner surface. The [[retrosigmoid-approach]] craniotomy is placed behind the sigmoid sinus and below the [[transverse-sinus]] on the mastoid bone.
 
 ### Tympanic part
 The small plate forming the anterior and inferior walls of the external auditory canal.
@@ -52,9 +52,9 @@ The IAM is a canal ~10 mm long in the posterior petrous surface, transmitting:
 
 The **transverse crest** (crista falciformis) divides the fundus into superior and inferior halves. The **vertical crest** (Bill's bar) separates the facial nerve from the superior vestibular nerve — the critical surgical landmark in vestibular schwannoma surgery.
 
-## Petrous Apex
+## [[petrous-apex]]
 
-The anteromedial tip of the petrous pyramid, between the [[cavernous-sinus]] and the posterior fossa. The [[abducens-nerve|CN VI]] crosses it to enter Dorello's canal. The [[trigeminal-nerve|trigeminal nerve]] posterior root enters Meckel's cave above the petrous apex. The superior petrosal sinus ([[dural-venous-sinuses]]) runs along the petrous ridge.
+The anteromedial tip of the petrous pyramid, between the [[cavernous-sinus]] and the posterior fossa. The [[abducens-nerve|CN VI]] crosses it to enter Dorello's canal. The [[trigeminal-nerve|trigeminal nerve]] posterior root enters [[meckels-cave|Meckel's cave]] above the petrous apex. The superior petrosal sinus ([[dural-venous-sinuses]]) runs along the petrous ridge.
 
 ## Jugular Foramen
 
@@ -72,12 +72,12 @@ Craniotomy behind the sigmoid sinus on the mastoid portion. Accesses the [[cereb
 Through the mastoid air cells and labyrinth (sacrifices hearing). Provides direct access to the IAC and [[facial-nerve|CN VII]]/[[vestibulocochlear-nerve|CN VIII]]. Used for large vestibular schwannomas when hearing is already lost.
 
 ### Middle fossa
-Elevation of the temporal lobe from the petrous anterior surface. Accesses the IAC from above without entering the posterior fossa. Used for small intracanalicular vestibular schwannomas with serviceable hearing.
+Elevation of the [[cerebral-lobes|temporal lobe]] from the petrous anterior surface. Accesses the IAC from above without entering the posterior fossa. Used for small intracanalicular vestibular schwannomas with serviceable hearing.
 
 ### Anterior petrosectomy (Kawase)
-Extension of the [[subtemporal-approach]]. Drilling the petrous apex between the [[trigeminal-nerve]] and IAC exposes the lateral clivus, prepontine cistern, [[basilar-artery]], and [[abducens-nerve|CN VI]].
+Extension of the [[subtemporal-approach]]. Drilling the petrous apex between the [[trigeminal-nerve]] and IAC exposes the lateral [[clivus]], prepontine cistern, [[basilar-artery]], and [[abducens-nerve|CN VI]].
 
-### Posterior petrosectomy (retrolabyrinthine/presigmoid)
+### [[posterior-petrosectomy]] (retrolabyrinthine/presigmoid)
 Removal of mastoid bone behind the labyrinth and anterior to the sigmoid sinus. Accesses the cerebellopontine angle and petroclival region while preserving hearing.
 
 ## Relations
@@ -100,5 +100,5 @@ Removal of mastoid bone behind the labyrinth and anterior to the sigmoid sinus. 
 
 - Rhoton, Ch.6 — The Anterior and Middle Cranial Base
 - Rhoton, Ch.9 — The Cavernous Sinus (petrous apex, Meckel's cave)
-- Rhoton, Ch.14 — Tentorial Incisura; The Temporal Bone (detailed petrous anatomy, approaches)
+- Rhoton, Ch.14 — [[tentorial-incisura]]; The Temporal Bone (detailed petrous anatomy, approaches)
 - Rhoton, Ch.15 — Cerebellopontine Cistern (IAC, facial/vestibulocochlear relations)

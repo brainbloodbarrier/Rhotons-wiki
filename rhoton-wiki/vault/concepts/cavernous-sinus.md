@@ -22,15 +22,15 @@ parent: "[[skull-base-foramina]]"
 
 # Cavernous Sinus
 
-The paired cavernous sinuses are located on each side of the sella, pituitary gland, and sphenoid sinus. Each sinus is a dural envelope surrounding a venous space through which the [[internal-carotid-artery]] (C3 segment) courses. It extends from the superior orbital fissure anteriorly to the area lateral to the dorsum sellae posteriorly.
+The paired cavernous sinuses are located on each side of the sella, [[pituitary-gland]], and [[paranasal-sinuses|sphenoid sinus]]. Each sinus is a dural envelope surrounding a venous space through which the [[internal-carotid-artery]] (C3 segment) courses. It extends from the superior orbital fissure anteriorly to the area lateral to the dorsum sellae posteriorly.
 
 ## Walls
 
 The sinus has a boat-like shape (narrow at the superior orbital fissure, broader posteriorly) and is triangular in cross-section:
 
-- **Roof** — formed by dura lining the inferior anterior clinoid process anteriorly and the **oculomotor triangle** (between anterior/posterior clinoid processes and petrous apex) through which CN III penetrates
-- **Lateral wall** — faces the temporal lobe; contains CN III (oculomotor), CN IV (trochlear), and CN V1 (ophthalmic division of trigeminal)
-- **Medial wall** — faces the sella, pituitary gland, and sphenoid bone; shared with the sellar dura
+- **Roof** — formed by dura lining the inferior [[anterior-clinoid-process]] anteriorly and the **oculomotor triangle** (between anterior/posterior clinoid processes and [[petrous-apex]]) through which CN III penetrates
+- **Lateral wall** — faces the [[cerebral-lobes|temporal lobe]]; contains CN III (oculomotor), CN IV (trochlear), and CN V1 (ophthalmic division of trigeminal)
+- **Medial wall** — faces the sella, pituitary gland, and [[sphenoid-bone]]; shared with the sellar dura
 - **Posterior wall** — shared with the basilar sinus; site of convergence of cavernous, basilar, superior and inferior petrosal sinuses
 
 ## Contents
@@ -49,8 +49,8 @@ The sinus has a boat-like shape (narrow at the superior orbital fissure, broader
 ### Venous connections
 The cavernous sinus receives veins from and communicates with:
 - [[cerebrum]] (via superficial sylvian veins → sphenoparietal sinus)
-- Orbit (superior and inferior ophthalmic veins)
-- Basilar sinus (crosses behind the clivus, connecting bilateral cavernous sinuses)
+- [[orbit]] (superior and inferior ophthalmic veins)
+- Basilar sinus (crosses behind the [[clivus]], connecting bilateral cavernous sinuses)
 - Superior and inferior petrosal sinuses
 - Intercavernous sinuses (anterior and posterior, connecting bilateral sinuses)
 - Face, nasopharynx, middle ear

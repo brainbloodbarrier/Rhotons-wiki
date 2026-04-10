@@ -21,19 +21,19 @@ parent: "[[cranial-nerves-overview]]"
 
 # Trigeminal Nerve (CN V)
 
-The trigeminal nerve is the largest cranial nerve and provides sensory innervation to the face and motor innervation to the muscles of mastication. It arises from the midpons and courses through the [[cerebellopontine-cistern]] before entering Meckel's cave.
+The trigeminal nerve is the largest cranial nerve and provides sensory innervation to the face and motor innervation to the muscles of mastication. It arises from the midpons and courses through the [[cerebellopontine-cistern]] before entering [[meckels-cave|Meckel's cave]].
 
 ## Divisions
 
-- **V1 (ophthalmic)** — courses in the lateral wall of the [[cavernous-sinus]] (below CN IV); enters [[orbit]] through superior orbital fissure
-- **V2 (maxillary)** — exits through foramen rotundum into the pterygopalatine fossa; supplies midface
-- **V3 (mandibular)** — exits through foramen ovale into the infratemporal fossa; supplies lower face + muscles of mastication (only division with motor fibers)
+- **V1 (ophthalmic)** — courses in the lateral wall of the [[cavernous-sinus]] (below [[trochlear-nerve|CN IV]]); enters [[orbit]] through superior orbital fissure
+- **V2 (maxillary)** — exits through foramen rotundum into the [[pterygopalatine-fossa]]; supplies midface
+- **V3 (mandibular)** — exits through foramen ovale into the [[infratemporal-fossa]]; supplies lower face + muscles of mastication (only division with motor fibers)
 
 ## Course
 
-1. **Brainstem origin** — arises from midpons with large sensory and smaller motor roots
-2. **Cisternal segment** — courses through the superolateral [[cerebellopontine-cistern]], below the [[superior-cerebellar-artery]] and above AICA
-3. **Meckel's cave** — the trigeminal (gasserian) ganglion sits in this dural pouch lateral to the [[cavernous-sinus]], overlying the petrous apex
+1. **[[brainstem]] origin** — arises from midpons with large sensory and smaller motor roots
+2. **Cisternal segment** — courses through the superolateral [[cerebellopontine-cistern]], below the [[superior-cerebellar-artery]] and above [[aica]]
+3. **Meckel's cave** — the trigeminal (gasserian) ganglion sits in this dural pouch lateral to the [[cavernous-sinus]], overlying the [[petrous-apex]]
 4. **Divisions** — V1, V2, V3 diverge from the ganglion
 
 ## Neurovascular Compression

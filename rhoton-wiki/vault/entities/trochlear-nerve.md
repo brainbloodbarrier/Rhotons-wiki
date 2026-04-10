@@ -22,7 +22,7 @@ parent: "[[cranial-nerves-overview]]"
 
 # Trochlear Nerve
 
-The trochlear nerve (CN IV) is the **only cranial nerve that emerges from the dorsal brainstem** and the **thinnest cranial nerve**. It has the longest course within the [[tentorial-incisura]] of any nerve and is the cranial nerve most intimately related to the tentorial free edge. It innervates the superior oblique muscle (depresses, intorts, and abducts the eye).
+The trochlear nerve (CN IV) is the **only cranial nerve that emerges from the dorsal [[brainstem]]** and the **thinnest cranial nerve**. It has the longest course within the [[tentorial-incisura]] of any nerve and is the cranial nerve most intimately related to the tentorial free edge. It innervates the superior oblique muscle (depresses, intorts, and abducts the eye).
 
 ## Origin
 
@@ -32,7 +32,7 @@ CN IV arises below the inferior colliculus on the dorsal surface of the midbrain
 
 The trochlear nerve has the most extensive incisural course of any cranial nerve, traversing all three incisural spaces:
 
-1. **Posterior incisural space** — emerges below the inferior colliculus in the quadrigeminal cistern, between the [[superior-cerebellar-artery|SCA]] branches and the cerebellum
+1. **Posterior incisural space** — emerges below the inferior colliculus in the quadrigeminal cistern, between the [[superior-cerebellar-artery|SCA]] branches and the [[cerebellum]]
 2. **Middle incisural space** — passes forward between the [[posterior-cerebral-artery|PCA]] (above) and [[superior-cerebellar-artery|SCA]] (below), with SCA branches coursing alongside it around the brainstem. Its initial course is medial to the free edge, in the space between the tectum and cerebellum
 3. **Anterior incisural space** — reaches the lower margin of the free edge at the posterior edge of the cerebral peduncle, then pierces the free edge in the posterior part of the **oculomotor trigone**
 
@@ -54,13 +54,13 @@ CN IV passes through the superior orbital fissure **outside** the annulus of Zin
 CN IV is the cranial nerve most frequently injured during operations in the middle incisural space. Its extreme thinness and friability make it vulnerable to:
 - **Tentorial division** — the nerve can be injured when dividing the free edge
 - **Gentle retraction** — even minimal retraction on the tentorial leaves can rupture the nerve
-- **Subtemporal approaches** — care is required when opening the tentorium to avoid stretching CN IV in its course along the free edge
+- **Subtemporal approaches** — care is required when opening the [[tentorium-cerebelli|tentorium]] to avoid stretching CN IV in its course along the free edge
 
-### Infratentorial supracerebellar approach
-The trochlear nerve is exposed in the posterior incisural space during approaches to the pineal region and quadrigeminal cistern. It emerges below the inferior colliculus, where the internal cerebral veins, basal veins, and vein of Galen converge.
+### [[supracerebellar-infratentorial-approach|Infratentorial supracerebellar approach]]
+The trochlear nerve is exposed in the posterior incisural space during approaches to the [[pineal-region]] and quadrigeminal cistern. It emerges below the inferior colliculus, where the [[internal-cerebral-veins]], basal veins, and [[vein-of-galen]] converge.
 
-### Subtemporal approach
-Elevating the temporal lobe exposes CN IV in the middle incisural space as it courses between the PCA and SCA. The nerve defines the plane between the [[posterior-cerebral-artery|PCA]] above and the [[superior-cerebellar-artery|SCA]] below the [[oculomotor-nerve|CN III]].
+### [[subtemporal-approach]]
+Elevating the [[cerebral-lobes|temporal lobe]] exposes CN IV in the middle incisural space as it courses between the PCA and SCA. The nerve defines the plane between the [[posterior-cerebral-artery|PCA]] above and the [[superior-cerebellar-artery|SCA]] below the [[oculomotor-nerve|CN III]].
 
 ### Anterior petrosectomy
 CN IV enters the anterior edge of the tentorium and is at risk when sectioning the tentorium medial to where it enters the free edge.

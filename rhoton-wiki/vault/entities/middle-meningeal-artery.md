@@ -26,7 +26,7 @@ The middle meningeal artery (MMA) is the largest meningeal artery, supplying the
 ## Origin and Course
 
 ### Extracranial
-Arises from the first part of the maxillary artery (terminal branch of the external carotid) in the [[infratemporal-fossa]]. Ascends between the sphenomandibular ligament and lateral pterygoid muscle to reach the foramen spinosum.
+Arises from the first part of the [[maxillary-artery]] (terminal branch of the external carotid) in the [[infratemporal-fossa]]. Ascends between the sphenomandibular ligament and lateral pterygoid muscle to reach the foramen spinosum.
 
 ### Intracranial
 1. Enters through the **foramen spinosum** ([[sphenoid-bone]] greater wing)
@@ -37,14 +37,14 @@ Arises from the first part of the maxillary artery (terminal branch of the exter
 ### Branches
 - **Anterior (frontal) branch** — larger; courses toward the vertex along the coronal suture region; the branch most commonly torn in pterional fractures → epidural hematoma
 - **Posterior (parietal) branch** — courses posterosuperiorly
-- **Petrosal branch** — enters the hiatus of the greater petrosal nerve to supply the geniculate ganglion region of [[facial-nerve|CN VII]] (anastomosis with the stylomastoid branch of the posterior auricular artery)
+- **Petrosal branch** — enters the hiatus of the [[greater-petrosal-nerve]] to supply the geniculate ganglion region of [[facial-nerve|CN VII]] (anastomosis with the stylomastoid branch of the posterior auricular artery)
 - **Superior tympanic artery** — to the middle ear
 - **Orbital branch** — enters the [[orbit]] through the superior orbital fissure (anastomosis with [[ophthalmic-artery]] recurrent meningeal branch)
 
 ## Surgical Significance
 
 ### Epidural hematoma
-Rupture of the MMA (usually the anterior branch) from a temporal bone fracture at the pterion is the classic cause of epidural hematoma. The lucid interval (temporary improvement before deterioration) occurs as the arterial hemorrhage progressively compresses the temporal lobe → uncal [[herniation-syndromes|herniation]].
+Rupture of the MMA (usually the anterior branch) from a temporal bone fracture at the pterion is the classic cause of epidural hematoma. The lucid interval (temporary improvement before deterioration) occurs as the arterial hemorrhage progressively compresses the [[cerebral-lobes|temporal lobe]] → uncal [[herniation-syndromes|herniation]].
 
 ### Pterional approach ([[pterional-approach]])
 The MMA is encountered during frontotemporal craniotomy — it may need to be coagulated and divided where it crosses the surgical exposure. The artery grooves the bone at the pterion region.

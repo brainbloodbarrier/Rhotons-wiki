@@ -35,7 +35,7 @@ The cistern of the lamina terminalis is the subarachnoid space anterior to the l
 - **[[anterior-cerebral-artery]] (A2 segments)** — ascend in front of the lamina terminalis, one typically lying in the concavity of the other
 - **[[anterior-communicating-artery]]** — located at or just above the level of the lamina
 - **[[recurrent-artery-of-heubner]]** — passes upward between the A2 and the lamina toward the [[anterior-perforated-substance]]
-- **Perforating arteries** — small branches from the ACA and ACoA enter the brain through the lamina terminalis region, supplying the anterior diencephalon and hypothalamus
+- **[[perforating-arteries]]** — small branches from the ACA and ACoA enter the brain through the lamina terminalis region, supplying the anterior diencephalon and [[hypothalamus]]
 
 ## Relationship to the ACA
 
@@ -51,7 +51,7 @@ Small perforating arteries arising from the [[anterior-communicating-artery|ACoA
 - **Suprachiasmatic area**
 - **Dorsal [[optic-chiasm]]**
 
-These perforators are at risk during ACoA aneurysm surgery and during opening of the lamina terminalis.
+These perforators are at risk during ACoA [[aneurysm-surgery]] and during opening of the lamina terminalis.
 
 ## Surgical Significance
 

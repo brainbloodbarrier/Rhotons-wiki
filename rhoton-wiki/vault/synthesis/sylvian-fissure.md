@@ -21,13 +21,13 @@ summary: >-
 
 # Sylvian Fissure
 
-The sylvian fissure (lateral sulcus) is the most prominent fissure of the cerebral surface and the most frequently used surgical corridor in supratentorial neurosurgery. It separates the frontal and parietal lobes above from the temporal lobe below, and conceals the insula deep within.
+The sylvian fissure (lateral sulcus) is the most prominent fissure of the cerebral surface and the most frequently used surgical corridor in supratentorial neurosurgery. It separates the frontal and parietal lobes above from the [[cerebral-lobes|temporal lobe]] below, and conceals the [[insula]] deep within.
 
 ## Compartments
 
 The sylvian fissure is divided into two major compartments:
 
-- **Sphenoidal compartment** — the anterior, horizontally oriented portion where the [[middle-cerebral-artery]] M1 segment courses laterally below the anterior perforated substance
+- **Sphenoidal compartment** — the anterior, horizontally oriented portion where the [[middle-cerebral-artery]] M1 segment courses laterally below the [[anterior-perforated-substance]]
 - **Operculoinsular compartment** — the posterior portion where the MCA branches course over the insula and around the opercula; site of the MCA genu (90-degree turn)
 
 ## Contents
@@ -45,22 +45,22 @@ The sylvian fissure contains:
 
 ### Neural
 - **Insula** — hidden cortex deep to the fissure, covered by frontal, parietal, and temporal opercula
-- **Basal ganglia** and internal capsule lie deep to the insula
+- **[[basal-ganglia]]** and [[internal-capsule]] lie deep to the insula
 
 ## Surgical Significance
 
 The transsylvian approach is one of the most versatile corridors in neurosurgery. Structures accessible via the sylvian fissure include:
 
 - Insula and basal ganglia
-- Uncus and medial temporal structures
+- [[uncus]] and medial temporal structures
 - [[internal-carotid-artery]] and [[circle-of-willis]]
 - [[anterior-cerebral-artery]] (A1), [[middle-cerebral-artery]] (all segments)
 - [[posterior-communicating-artery]], [[anterior-choroidal-artery]]
-- Oculomotor nerve
+- [[oculomotor-nerve]]
 - Chiasmatic, interpeduncular, carotid, and crural cisterns
-- Upper basilar artery
+- Upper [[basilar-artery]]
 
-The major obstacles in working through the fissure are the MCA trunks and their perforating branches coursing through the basal cisterns.
+The major obstacles in working through the fissure are the MCA trunks and their [[perforating-arteries|perforating branches]] coursing through the [[basal-cisterns]].
 
 ## Relations
 

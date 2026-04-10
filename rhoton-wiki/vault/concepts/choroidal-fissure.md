@@ -21,7 +21,7 @@ parent: "[[lateral-and-third-ventricles]]"
 
 # Choroidal Fissure
 
-The choroidal fissure is the cleft between the [[fornix]] (hippocampal lip) and the [[thalamus]] (thalamic lip) through which the [[choroid-plexus]] invaginates into the [[lateral-and-third-ventricles|lateral ventricle]]. It extends as a C-shaped arc from the [[lateral-and-third-ventricles|foramen of Monro]] to the [[lateral-and-third-ventricles|inferior choroidal point]] at the temporal horn tip. Opening this natural cleavage plane — the **transchoroidal approach** — provides wide access to the third ventricle, ambient cistern, and medial temporal structures while preserving the [[fornix]] and [[internal-capsule]].
+The choroidal fissure is the cleft between the [[fornix]] (hippocampal lip) and the [[thalamus]] (thalamic lip) through which the [[choroid-plexus]] invaginates into the [[lateral-and-third-ventricles|lateral ventricle]]. It extends as a C-shaped arc from the [[lateral-and-third-ventricles|foramen of Monro]] to the [[lateral-and-third-ventricles|inferior choroidal point]] at the temporal horn tip. Opening this natural cleavage plane — the **transchoroidal approach** — provides wide access to the third ventricle, [[ambient-cistern]], and medial temporal structures while preserving the [[fornix]] and [[internal-capsule]].
 
 ## Anatomy
 
@@ -44,7 +44,7 @@ The fissure follows the C-shaped curve of the [[lateral-and-third-ventricles|lat
 ### Arteries
 - [[anterior-choroidal-artery]] — enters at the inferior choroidal point, supplies temporal horn [[choroid-plexus]]
 - [[posterior-choroidal-arteries|Lateral posterior choroidal artery]] — enters at atrium, supplies atrial/body [[choroid-plexus]]
-- [[posterior-choroidal-arteries|Medial posterior choroidal artery]] — courses in the velum interpositum above the body segment
+- [[posterior-choroidal-arteries|Medial posterior choroidal artery]] — courses in the [[velum-interpositum]] above the body segment
 
 ### Veins
 - [[internal-cerebral-veins]] — course in the velum interpositum (body segment)

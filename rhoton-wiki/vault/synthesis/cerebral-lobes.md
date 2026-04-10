@@ -32,7 +32,7 @@ The largest lobe, anterior to the central sulcus and superior to the [[sylvian-f
 - **Precentral gyrus** — primary motor cortex (homunculus: leg medially, face laterally)
 - **Superior, middle, inferior frontal gyri** — premotor and prefrontal areas
 - **Inferior frontal gyrus (pars opercularis + triangularis)** — **Broca's area** (dominant hemisphere) for speech production
-- **Gyrus rectus** — medial orbital surface; related to olfactory tract and [[anterior-cerebral-artery|ACA]] A1
+- **Gyrus rectus** — medial orbital surface; related to [[olfactory-nerve|olfactory tract]] and [[anterior-cerebral-artery|ACA]] A1
 
 ### Vascular supply
 - **Lateral surface** — [[middle-cerebral-artery|MCA]] (frontal branches: orbitofrontal, prefrontal, precentral) — see [[anterior-circulation]]
@@ -54,7 +54,7 @@ Below the [[sylvian-fissure]], anterior to the occipital lobe, lateral to the [[
 - **Middle temporal gyrus** — association cortex; common site for cortical incision in temporal lobectomy
 - **Inferior temporal gyrus** — visual association
 - **Fusiform gyrus** — inferior surface; face recognition
-- **Parahippocampal gyrus and uncus** — medial surface; [[hippocampus]] lies deep to it
+- **Parahippocampal gyrus and [[uncus]]** — medial surface; [[hippocampus]] lies deep to it
 
 ### Vascular supply
 - **Lateral surface** — [[middle-cerebral-artery|MCA]] (temporal branches: anterior, middle, posterior temporal)
@@ -84,7 +84,7 @@ Between the central sulcus (anterior), parieto-occipital sulcus (posterior), and
 ### Surgical relevance
 - Parietal cortex incision for transcortical approach to the [[lateral-and-third-ventricles|atrium]] of the lateral ventricle
 - Superior parietal lobule approach preferred for atrial lesions (avoids angular gyrus → alexia)
-- Bridging veins to the [[dural-venous-sinuses|superior sagittal sinus]] constrain parasagittal approaches
+- [[bridging-veins]] to the [[dural-venous-sinuses|superior sagittal sinus]] constrain parasagittal approaches
 
 ## Occipital Lobe
 
@@ -100,7 +100,7 @@ The most posterior lobe, behind the parieto-occipital sulcus.
 - **Lateral surface** — [[middle-cerebral-artery|MCA]] (angular artery) + PCA overlap
 
 ### Surgical relevance
-- Occipital transtentorial approach retracts the occipital lobe medially for pineal region access (alternative to [[supracerebellar-infratentorial-approach]])
+- Occipital transtentorial approach retracts the occipital lobe medially for [[pineal-region]] access (alternative to [[supracerebellar-infratentorial-approach]])
 - Calcarine artery injury causes contralateral homonymous hemianopia
 - The occipital pole overlies the [[dural-venous-sinuses|confluence of sinuses]]
 

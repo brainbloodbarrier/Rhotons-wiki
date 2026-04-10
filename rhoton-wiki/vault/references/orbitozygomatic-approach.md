@@ -24,7 +24,7 @@ approach-to:
 
 # Orbitozygomatic Approach
 
-The orbitozygomatic approach is an extension of the [[pterional-approach]] that removes the supraorbital rim and zygomatic arch (one-piece or two-piece osteotomy), providing a lower and wider angle of access to the skull base. It reduces brain retraction by increasing the surgical trajectory angle, particularly for deep midline targets like the [[basilar-artery]] apex and upper clivus.
+The orbitozygomatic approach is an extension of the [[pterional-approach]] that removes the supraorbital rim and zygomatic arch (one-piece or two-piece osteotomy), providing a lower and wider angle of access to the skull base. It reduces brain retraction by increasing the surgical trajectory angle, particularly for deep midline targets like the [[basilar-artery]] apex and upper [[clivus]].
 
 ## Indications
 
@@ -49,17 +49,17 @@ The frontotemporal craniotomy, supraorbital bar, and zygomatic arch are removed 
 - **Supraorbital rim** — the bar of bone between the frontal and orbital roofs; its removal allows downward tilting of the surgical view
 - **Lateral orbital wall** — the greater wing of the [[sphenoid-bone]] forming the posterior orbit
 - **Zygomatic arch** — its removal allows the temporalis muscle to fall inferiorly, widening the corridor
-- **Anterior clinoid process** — optional additional drilling for paraclinoid lesions
+- **[[anterior-clinoid-process]]** — optional additional drilling for paraclinoid lesions
 
 ## Advantage: Angle of Attack
 
-The key benefit is geometric — removing the orbital rim and zygomatic arch opens a **steeper upward angle** toward the basilar apex and interpeduncular cistern:
+The key benefit is geometric — removing the orbital rim and zygomatic arch opens a **steeper upward angle** toward the basilar apex and [[interpeduncular-cistern]]:
 
 | Approach | Angle to basilar apex | Brain retraction |
 |---|---|---|
 | Standard [[pterional-approach]] | ~15–20° | Moderate frontal/temporal |
 | Orbitozygomatic | ~30–40° | Minimal (bone removal replaces retraction) |
-| [[subtemporal-approach]] | Direct lateral | Temporal lobe elevation |
+| [[subtemporal-approach]] | Direct lateral | [[cerebral-lobes|Temporal lobe]] elevation |
 
 ## Exposed Structures
 
@@ -102,5 +102,5 @@ The key benefit is geometric — removing the orbital rim and zygomatic arch ope
 
 ## References
 
-- Rhoton, Ch.6 — The Anterior and Middle Cranial Base (orbital and zygomatic anatomy)
+- Rhoton, Ch.6 — The [[cranial-base|Anterior and Middle Cranial Base]] (orbital and zygomatic anatomy)
 - Rhoton, Ch.14 — Tentorial Incisura (anterior incisural space, cranial base resection approaches)

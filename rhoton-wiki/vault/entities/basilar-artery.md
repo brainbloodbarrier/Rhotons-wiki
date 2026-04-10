@@ -22,14 +22,14 @@ parent: "[[posterior-circulation]]"
 
 # Basilar Artery
 
-The basilar artery is formed by the union of the paired [[vertebral-artery|vertebral arteries]] at the pontomedullary junction and ascends along the ventral surface of the pons to bifurcate at the pontomesencephalic junction into the paired [[posterior-cerebral-artery|posterior cerebral arteries]]. It is the central trunk of the vertebrobasilar system and the principal supply to the pons, cerebellum, and upper brainstem.
+The basilar artery is formed by the union of the paired [[vertebral-artery|vertebral arteries]] at the pontomedullary junction and ascends along the ventral surface of the pons to bifurcate at the pontomesencephalic junction into the paired [[posterior-cerebral-artery|posterior cerebral arteries]]. It is the central trunk of the [[posterior-circulation|vertebrobasilar system]] and the principal supply to the pons, [[cerebellum]], and upper [[brainstem]].
 
 ## Morphology
 
 - **Length:** 20–40 mm (average 30 mm)
 - **Diameter at origin:** 3–8 mm (average 5–6 mm)
 - **Diameter at apex:** 3–7 mm (average 4–5 mm)
-- Usually straight or with slight lateral deviation; may deviate as far as the origin of the abducens nerve or the facial-vestibulocochlear nerve complex
+- Usually straight or with slight lateral deviation; may deviate as far as the origin of the [[abducens-nerve]] or the facial-vestibulocochlear nerve complex
 
 ## Bifurcation
 
@@ -37,7 +37,7 @@ The basilar bifurcation into the posterior cerebral arteries is a critical surgi
 
 - **Normal position** — at the pontomesencephalic junction (most common, 72% of cases)
 - **High bifurcation** — anterior to the mesencephalon; the [[superior-cerebellar-artery|SCA]] origin sits above the tentorial edge; often associated with fetal origin of the [[posterior-cerebral-artery|PCA]]
-- **Low bifurcation** — anterior to the pons; the SCA origin is below the tentorium
+- **Low bifurcation** — anterior to the pons; the SCA origin is below the [[tentorium-cerebelli|tentorium]]
 
 The origins of the right and left SCAs and PCAs frequently take a **cruciate configuration** at the basilar apex, with the four limbs crossing.
 
@@ -49,7 +49,7 @@ Arises from the basilar apex just below the PCA origin. Passes below the [[oculo
 ### Anterior inferior cerebellar artery ([[aica]])
 Arises from the lower half of the basilar artery (most commonly as a single trunk, 72%; duplicate 26%; triplicate 2%). Courses around the pons near the abducens, [[facial-nerve|facial]], and [[vestibulocochlear-nerve|vestibulocochlear]] nerves. Supplies the petrosal cerebellar surface and the **middle neurovascular complex**.
 
-### Pontine perforating arteries
+### Pontine [[perforating-arteries]]
 Multiple small branches enter the ventral pons throughout the basilar course. Supply the corticospinal tracts, pontine nuclei, medial lemniscus, and tegmental structures. Injury to these perforators during surgery produces devastating brainstem infarction.
 
 ### Posterior cerebral artery ([[posterior-cerebral-artery]])
@@ -58,7 +58,7 @@ Terminal bifurcation. The P1 segment extends from the basilar apex to the juncti
 ## Anatomical Relations
 
 ### Anterior surface
-The basilar artery rests on the **basilar sulcus** of the clivus ([[cranial-base]]). The [[sellar-region|pituitary gland]] is located above and anterior to the basilar apex.
+The basilar artery rests on the **basilar sulcus** of the [[clivus]] ([[cranial-base]]). The [[sellar-region|pituitary gland]] is located above and anterior to the basilar apex.
 
 ### Lateral relations
 - **CN VI (abducens)** — the proximal [[aica]] segment lies in contact with the abducens rootlets; the basilar artery may deviate laterally to the nerve origin
@@ -67,7 +67,7 @@ The basilar artery rests on the **basilar sulcus** of the clivus ([[cranial-base
 - **CN III** — the [[oculomotor-nerve]] passes between the SCA and PCA at the basilar apex
 
 ### Posterior relations
-The ventral surface of the pons and the pontomedullary junction. The fourth ventricle lies dorsal to the pons.
+The ventral surface of the pons and the pontomedullary junction. The [[fourth-ventricle]] lies dorsal to the pons.
 
 ## Surgical Significance
 
@@ -87,7 +87,7 @@ The pontine perforating branches are the principal constraint in basilar artery 
 
 The basilar artery traverses several [[basal-cisterns]]:
 - **Prepontine cistern** — contains the basilar trunk along the ventral pons
-- **Interpeduncular cistern** — contains the basilar apex and bifurcation
+- **[[interpeduncular-cistern]]** — contains the basilar apex and bifurcation
 - **Cerebellopontine cistern** — AICA branches course through this space
 
 ## Relations
@@ -104,4 +104,4 @@ The basilar artery traverses several [[basal-cisterns]]:
 ## References
 
 - Rhoton, Ch.12 — The Superior Cerebellar Artery (basilar artery morphology, bifurcation, AICA and SCA origins)
-- Rhoton, Ch.14 — The Foramen Magnum (vertebrobasilar junction, clival exposure)
+- Rhoton, Ch.14 — The [[foramen-magnum]] (vertebrobasilar junction, clival exposure)

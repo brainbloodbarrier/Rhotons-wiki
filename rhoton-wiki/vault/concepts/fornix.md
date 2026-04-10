@@ -21,7 +21,7 @@ parent: "[[cerebrum]]"
 
 # Fornix
 
-The fornix is the principal efferent pathway of the [[hippocampus]], arching beneath the [[corpus-callosum]] to connect the mesial temporal lobe with the [[hypothalamus]], septal nuclei, and [[thalamus]]. It forms a critical surgical landmark at the [[lateral-and-third-ventricles|foramen of Monro]] and along the [[choroid-plexus|choroidal fissure]], and its disruption can produce permanent memory deficits.
+The fornix is the principal efferent pathway of the [[hippocampus]], arching beneath the [[corpus-callosum]] to connect the mesial [[cerebral-lobes|temporal lobe]] with the [[hypothalamus]], septal nuclei, and [[thalamus]]. It forms a critical surgical landmark at the [[lateral-and-third-ventricles|foramen of Monro]] and along the [[choroid-plexus|choroidal fissure]], and its disruption can produce permanent memory deficits.
 
 ## Anatomy
 
@@ -38,7 +38,7 @@ The fornix is the principal efferent pathway of the [[hippocampus]], arching ben
 - The [[choroid-plexus]] attaches along the thalamochoroidal (posterior) edge
 - The [[internal-cerebral-veins|thalamostriate vein]] enters the [[internal-cerebral-veins|ICV]] at the venous angle just posterior to the foramen
 
-### Velum Interpositum
+### [[velum-interpositum]]
 - The body of the fornix forms the **floor** of the velum interpositum cistern
 - The [[internal-cerebral-veins]] course within this cistern above the [[thalamus|roof of the third ventricle]]
 - Surgical access via the transchoroidal or interforniceal approach
@@ -53,7 +53,7 @@ The fornix is the principal efferent pathway of the [[hippocampus]], arching ben
 - [[hypothalamus]] — the columns terminate in the mammillary bodies via the postcommissural fornix
 
 ### Lateral
-- [[choroid-plexus|Choroidal fissure]] — the fimbria and crus form the hippocampal lip of the choroidal fissure
+- [[choroid-plexus|Choroidal fissure]] — the fimbria and crus form the hippocampal lip of the [[choroidal-fissure]]
 - [[lateral-and-third-ventricles|Lateral ventricle]] — the fornix forms part of the medial wall (body) and floor (atrium)
 
 ### Vascular Supply
@@ -73,7 +73,7 @@ The fornix is the principal efferent pathway of the [[hippocampus]], arching ben
 - The raphe between the bodies may be absent in up to 30% of cases, making safe separation impossible
 
 ### Subchoroidal Approach
-- Entry through the tenia fornicis to access the [[lateral-and-third-ventricles|temporal horn]] and ambient cistern
+- Entry through the tenia fornicis to access the [[lateral-and-third-ventricles|temporal horn]] and [[ambient-cistern]]
 - [[anterior-choroidal-artery]] and [[basal-vein-of-rosenthal]] encountered in the choroidal fissure
 
 ### Colloid Cyst Surgery

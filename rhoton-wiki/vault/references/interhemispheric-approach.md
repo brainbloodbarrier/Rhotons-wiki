@@ -26,26 +26,26 @@ approach-to:
 
 # Interhemispheric Approach
 
-The interhemispheric approach accesses midline structures through the longitudinal (interhemispheric) fissure between the cerebral hemispheres. It provides a natural corridor to the [[anterior-communicating-artery|ACoA]] complex, [[anterior-cerebral-artery|ACA]] and its branches, the corpus callosum, the [[lateral-and-third-ventricles|third ventricle]], and the [[tentorial-incisura|posterior incisural space]] (pineal region). The approach avoids cortical incisions by following the falx cerebri and the interhemispheric fissure.
+The interhemispheric approach accesses midline structures through the longitudinal (interhemispheric) fissure between the cerebral hemispheres. It provides a natural corridor to the [[anterior-communicating-artery|ACoA]] complex, [[anterior-cerebral-artery|ACA]] and its branches, the [[corpus-callosum]], the [[lateral-and-third-ventricles|third ventricle]], and the [[tentorial-incisura|posterior incisural space]] ([[pineal-region]]). The approach avoids cortical incisions by following the [[falx-cerebri]] and the interhemispheric fissure.
 
 ## Variants
 
 ### Anterior interhemispheric
-Accesses the anterior [[circle-of-willis]], the [[anterior-communicating-artery|ACoA]] complex, and the lamina terminalis.
+Accesses the anterior [[circle-of-willis]], the [[anterior-communicating-artery|ACoA]] complex, and the [[lamina-terminalis]].
 
 **Indications:**
 - [[anterior-communicating-artery|ACoA]] aneurysms (alternative to [[pterional-approach]])
 - Distal [[anterior-cerebral-artery|ACA]] aneurysms (A2–A3 junction, pericallosal-callosomarginal bifurcation)
-- Tumors of the gyrus rectus, olfactory groove, and anterior skull base midline
+- Tumors of the gyrus rectus, olfactory groove, and anterior [[cranial-base|skull base]] midline
 - Third ventricle lesions via the lamina terminalis (translaminar approach)
 
 **Exposed structures:**
 - [[anterior-cerebral-artery|ACA]] A2 segments ascending in the interhemispheric fissure
-- [[anterior-communicating-artery|ACoA]] complex and its perforating branches
-- Recurrent artery of Heubner
+- [[anterior-communicating-artery|ACoA]] complex and its [[perforating-arteries|perforating branches]]
+- [[recurrent-artery-of-heubner]]
 - [[optic-chiasm]] and lamina terminalis
 - Frontopolar and callosomarginal arteries
-- Bridging veins to the superior sagittal sinus
+- [[bridging-veins]] to the superior sagittal sinus
 
 ### Posterior interhemispheric transcallosal
 Accesses the body and posterior third ventricle, splenium, and pineal region.
@@ -59,9 +59,9 @@ Accesses the body and posterior third ventricle, splenium, and pineal region.
 **Exposed structures:**
 - Corpus callosum (body and splenium)
 - [[lateral-and-third-ventricles|Lateral ventricle]] body and foramen of Monro
-- Internal cerebral veins and [[cerebral-veins|choroidal veins]]
+- [[internal-cerebral-veins]] and [[cerebral-veins|choroidal veins]]
 - Posterior third ventricle (via transchoroidal or interforniceal approach)
-- Vein of Galen (when extending to splenium/pineal)
+- [[vein-of-galen]] (when extending to splenium/pineal)
 
 ## Technique
 
@@ -71,7 +71,7 @@ Accesses the body and posterior third ventricle, splenium, and pineal region.
 
 ### Key steps
 1. **Identify bridging veins** — veins from the medial hemispheric surface to the superior sagittal sinus; preservation is critical to prevent venous infarction
-2. **Enter the interhemispheric fissure** — gentle retraction of the medial frontal/parietal lobe away from the falx
+2. **Enter the interhemispheric fissure** — gentle retraction of the medial frontal/[[cerebral-lobes|parietal lobe]] away from the falx
 3. **Follow the falx** — the falx cerebri guides the dissection downward toward midline structures
 4. **Identify the ACA** — the [[anterior-cerebral-artery|A2 segments]] and their branches (callosomarginal, pericallosal) course within the fissure along the corpus callosum
 5. **Callosotomy** (if needed) — section of the corpus callosum body (anterior transcallosal) or splenium (posterior) to access the ventricles
@@ -86,7 +86,7 @@ The [[anterior-cerebral-artery]] and its branches are the principal arterial str
 - **Pericallosal artery** — runs in the callosal sulcus, closely related to the corpus callosum surface
 - **Callosomarginal artery** — courses in or near the cingulate sulcus, gives cortical branches
 
-The **perforating branches** of the ACoA complex supply the hypothalamus, anterior commissure, columns of the fornix, and septal region. These must be meticulously preserved during ACoA aneurysm surgery.
+The **perforating branches** of the ACoA complex supply the [[hypothalamus]], anterior commissure, columns of the [[fornix]], and septal region. These must be meticulously preserved during ACoA [[aneurysm-surgery]].
 
 ## Complications
 

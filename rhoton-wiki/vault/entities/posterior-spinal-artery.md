@@ -21,7 +21,7 @@ parent: "[[vertebral-artery]]"
 
 # Posterior Spinal Artery
 
-The paired posterior spinal arteries arise from the [[vertebral-artery]] (V3 or V4 segment) or occasionally from the [[pica]]. They descend along the posterolateral surface of the spinal cord, supplying the posterior one-third (dorsal columns — proprioception and vibration). At the [[foramen-magnum]], they are intimately related to the dentate ligament, [[lower-cranial-nerves|accessory nerve (CN XI)]], and the dural entry of the [[vertebral-artery]].
+The paired posterior spinal arteries arise from the [[vertebral-artery]] (V3 or V4 segment) or occasionally from the [[pica]]. They descend along the posterolateral surface of the spinal cord, supplying the posterior one-third (dorsal columns — proprioception and vibration). At the [[foramen-magnum]], they are intimately related to the [[dentate-ligament]], [[lower-cranial-nerves|accessory nerve (CN XI)]], and the dural entry of the [[vertebral-artery]].
 
 ## Origin
 
@@ -34,7 +34,7 @@ The paired posterior spinal arteries arise from the [[vertebral-artery]] (V3 or 
 1. Arises at or near the dural penetration site of the [[vertebral-artery]]
 2. Courses medially **behind** the most rostral attachment of the dentate ligament
 3. On reaching the lower medulla ([[brainstem]]), divides into **ascending** and **descending** branches:
-   - **Ascending branch** — courses through the [[foramen-magnum]], supplies the restiform body (inferior cerebellar peduncle), gracile and cuneate tubercles
+   - **Ascending branch** — courses through the [[foramen-magnum]], supplies the restiform body ([[cerebellar-peduncles|inferior cerebellar peduncle]]), gracile and cuneate tubercles
    - **Descending branch** — courses along the posterolateral spinal cord, reinforced by segmental radiculopial arteries
 
 ## Supply Territory

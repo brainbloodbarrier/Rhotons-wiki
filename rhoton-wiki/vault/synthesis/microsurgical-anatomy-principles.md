@@ -34,7 +34,7 @@ The subarachnoid cisterns are natural surgical corridors filled with CSF. Openin
 | [[sylvian-fissure\|Sylvian cistern]] | [[pterional-approach]] | [[middle-cerebral-artery\|MCA]], [[internal-carotid-artery\|ICA]] bifurcation, [[anterior-communicating-artery\|ACoA]] |
 | [[interpeduncular-cistern]] | [[pterional-approach]], [[orbitozygomatic-approach]] | [[basilar-artery]] apex, [[thalamoperforating-arteries]] |
 | [[ambient-cistern]] | [[subtemporal-approach]] | [[posterior-cerebral-artery\|PCA]] P2, [[trochlear-nerve\|CN IV]] |
-| [[cerebellopontine-cistern]] | [[retrosigmoid-approach]] | CN V-VIII, [[aica]], [[superior-petrosal-vein]] |
+| [[cerebellopontine-cistern]] | [[retrosigmoid-approach]] | [[trigeminal-nerve|CN V]]-VIII, [[aica]], [[superior-petrosal-vein]] |
 | [[basal-cisterns\|Prepontine cistern]] | [[endoscopic-endonasal-approach]] | [[basilar-artery]] trunk, [[abducens-nerve\|CN VI]] |
 | [[cerebellomedullary-fissure\|Cerebellomedullary cistern]] | [[telovelar-approach]] | [[fourth-ventricle]], [[pica]] |
 | [[velum-interpositum]] | [[interhemispheric-approach]] transchoroidal | [[pineal-region]], posterior [[lateral-and-third-ventricles\|third ventricle]] |
@@ -114,10 +114,10 @@ Optimal patient positioning uses gravity to retract the brain, eliminating the n
 
 | Position | Approach | Gravity effect |
 |---|---|---|
-| Supine, head rotated | [[pterional-approach]] | Frontal lobe falls from sphenoid ridge |
-| Lateral | [[retrosigmoid-approach]] | Cerebellum falls from petrous bone |
-| Prone/sitting | [[supracerebellar-infratentorial-approach]] | Cerebellum falls away from tentorium |
-| Supine, head extended | [[subtemporal-approach]] | Temporal lobe falls with gravity |
+| Supine, head rotated | [[pterional-approach]] | Frontal lobe falls from [[sphenoid-bone|sphenoid]] ridge |
+| Lateral | [[retrosigmoid-approach]] | [[cerebellum]] falls from [[temporal-bone|petrous bone]] |
+| Prone/sitting | [[supracerebellar-infratentorial-approach]] | Cerebellum falls away from [[tentorium-cerebelli|tentorium]] |
+| Supine, head extended | [[subtemporal-approach]] | [[cerebral-lobes|Temporal lobe]] falls with gravity |
 | Park-bench | [[far-lateral-approach]] | Cerebellum falls from foramen magnum |
 
 ## Related Pages

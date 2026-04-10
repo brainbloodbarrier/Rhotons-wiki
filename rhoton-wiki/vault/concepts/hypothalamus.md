@@ -18,7 +18,7 @@ parent: "[[cerebrum]]"
 
 # Hypothalamus
 
-The hypothalamus is a small but functionally critical region forming the floor and inferior lateral walls of the [[lateral-and-third-ventricles|third ventricle]]. It controls neuroendocrine function, autonomic regulation, circadian rhythms, and thermoregulation. Surgically, it is intimately related to the [[pituitary-gland]], [[optic-chiasm]], [[lamina-terminalis]], and the perforating arteries of the anterior and posterior circulation.
+The hypothalamus is a small but functionally critical region forming the floor and inferior lateral walls of the [[lateral-and-third-ventricles|third ventricle]]. It controls neuroendocrine function, autonomic regulation, circadian rhythms, and thermoregulation. Surgically, it is intimately related to the [[pituitary-gland]], [[optic-chiasm]], [[lamina-terminalis]], and the [[perforating-arteries]] of the anterior and [[posterior-circulation]].
 
 ## Anatomical Boundaries
 
@@ -28,7 +28,7 @@ The hypothalamus is a small but functionally critical region forming the floor a
 | **Anterior** | [[lamina-terminalis]], [[optic-chiasm]] |
 | **Posterior** | Mammillary bodies, posterior perforated substance |
 | **Inferior** | Tuber cinereum, median eminence, [[pituitary-gland|pituitary stalk]] (infundibulum) |
-| **Lateral** | Subthalamus, internal capsule, [[optic-nerve|optic tracts]] |
+| **Lateral** | Subthalamus, [[internal-capsule]], [[optic-nerve|optic tracts]] |
 | **Medial** | Third ventricle cavity |
 
 ## Key Structures
@@ -40,7 +40,7 @@ The tuber cinereum is the gray matter elevation on the ventral hypothalamic surf
 The infundibulum descends from the tuber cinereum to the [[pituitary-gland]], carrying the hypothalamo-hypophyseal tract (axons to the posterior pituitary) and the portal vessels (to the anterior pituitary). The [[superior-hypophyseal-artery|circuminfundibular anastomosis]] surrounds it.
 
 ### Mammillary Bodies
-Paired eminences on the posterior hypothalamic surface, at the posterior edge of the interpeduncular cistern. They receive input from the hippocampus via the fornix and project to the anterior thalamic nuclei (mammillothalamic tract) — part of the Papez circuit for memory.
+Paired eminences on the posterior hypothalamic surface, at the posterior edge of the [[interpeduncular-cistern]]. They receive input from the hippocampus via the [[fornix]] and project to the anterior thalamic nuclei (mammillothalamic tract) — part of the Papez circuit for memory.
 
 ## Vascular Supply
 

@@ -20,36 +20,36 @@ summary: >-
 
 # Dural Venous Sinuses
 
-The dural venous sinuses are endothelial-lined channels between the periosteal and meningeal layers of the dura mater. They are the final common pathway for cerebral venous drainage, collecting blood from the [[cerebral-veins]], [[posterior-fossa-veins]], and diploic veins before delivering it to the internal jugular veins. Unlike veins, sinuses lack valves and have rigid walls that do not collapse.
+The dural venous sinuses are endothelial-lined channels between the periosteal and [[meninges|meningeal layers]] of the dura mater. They are the final common pathway for cerebral venous drainage, collecting blood from the [[cerebral-veins]], [[posterior-fossa-veins]], and diploic veins before delivering it to the internal jugular veins. Unlike veins, sinuses lack valves and have rigid walls that do not collapse.
 
 ## Supratentorial Sinuses
 
 ### Superior sagittal sinus
-Courses in the superior margin of the falx cerebri from the crista galli to the confluence of sinuses (torcular Herophili). Receives the superior cerebral (bridging) veins from the [[cerebrum]] and contains arachnoid granulations that absorb CSF. The sinus enlarges progressively from anterior to posterior.
+Courses in the superior margin of the [[falx-cerebri]] from the crista galli to the confluence of sinuses (torcular Herophili). Receives the superior cerebral (bridging) veins from the [[cerebrum]] and contains arachnoid granulations that absorb CSF. The sinus enlarges progressively from anterior to posterior.
 
-**Surgical relevance:** Bridging veins entering the sinus are at risk in [[interhemispheric-approach|interhemispheric]] and parasagittal craniotomies. Sacrifice of the posterior third of the sinus (dominant drainage) is usually fatal.
+**Surgical relevance:** [[bridging-veins]] entering the sinus are at risk in [[interhemispheric-approach|interhemispheric]] and parasagittal craniotomies. Sacrifice of the posterior third of the sinus (dominant drainage) is usually fatal.
 
 ### Inferior sagittal sinus
-Courses in the free inferior margin of the falx cerebri. Drains the falx and medial hemispheric surfaces. Joins the great cerebral vein (of Galen) to form the straight sinus.
+Courses in the free inferior margin of the falx cerebri. Drains the falx and medial hemispheric surfaces. Joins the [[vein-of-galen|great cerebral vein]] (of Galen) to form the straight sinus.
 
 ### Straight sinus
-Runs at the junction of the falx cerebri and tentorium cerebelli. Formed by the union of the inferior sagittal sinus and the vein of Galen. Drains to the confluence of sinuses. Related to the [[supracerebellar-infratentorial-approach]] and occipital transtentorial approaches, where the tentorium may be divided along its edge.
+Runs at the junction of the falx cerebri and [[tentorium-cerebelli]]. Formed by the union of the inferior sagittal sinus and the vein of Galen. Drains to the confluence of sinuses. Related to the [[supracerebellar-infratentorial-approach]] and occipital transtentorial approaches, where the tentorium may be divided along its edge.
 
 ### Confluence of sinuses (torcular Herophili)
-Located at the internal occipital protuberance where the superior sagittal, straight, occipital, and transverse sinuses converge. Highly variable — a true symmetric confluence exists in only ~25% of cases. The dominant transverse sinus typically receives flow from the superior sagittal sinus.
+Located at the internal occipital protuberance where the superior sagittal, straight, occipital, and transverse sinuses converge. Highly variable — a true symmetric confluence exists in only ~25% of cases. The dominant [[transverse-sinus]] typically receives flow from the superior sagittal sinus.
 
-## Posterior Fossa Sinuses
+## [[posterior-fossa]] Sinuses
 
 ### Transverse sinus
-Courses laterally in the attached margin of the tentorium from the confluence to the sigmoid sinus. The right transverse sinus is usually larger (receives the superior sagittal sinus flow). The sinus grooves the internal surface of the occipital bone at the [[cranial-base]].
+Courses laterally in the attached margin of the tentorium from the confluence to the [[sigmoid-sinus]]. The right transverse sinus is usually larger (receives the superior sagittal sinus flow). The sinus grooves the internal surface of the occipital bone at the [[cranial-base]].
 
 **Surgical relevance:** May be divided in combined supra-infratentorial approaches if small and well-collateralized. The vein of Labbé drains into the transverse sinus — its location determines the safe zone for tentorial section in the [[subtemporal-approach]].
 
 ### Sigmoid sinus
-S-shaped continuation of the transverse sinus; courses on the mastoid portion of the temporal bone. Drains into the internal jugular vein at the jugular foramen. The [[retrosigmoid-approach]] exposes the cerebellopontine angle posterior to this sinus.
+S-shaped continuation of the transverse sinus; courses on the mastoid portion of the [[temporal-bone]]. Drains into the internal jugular vein at the [[jugular-foramen]]. The [[retrosigmoid-approach]] exposes the [[cerebellopontine-cistern|cerebellopontine angle]] posterior to this sinus.
 
 ### Superior petrosal sinus
-Runs along the petrous ridge from the [[cavernous-sinus]] to the junction of the transverse and sigmoid sinuses. Passes above the [[trigeminal-nerve|trigeminal nerve]] posterior root, forming the upper margin of Meckel's cave. May be divided during anterior petrosectomy (Kawase approach).
+Runs along the petrous ridge from the [[cavernous-sinus]] to the junction of the transverse and sigmoid sinuses. Passes above the [[trigeminal-nerve|trigeminal nerve]] posterior root, forming the upper margin of [[meckels-cave|Meckel's cave]]. May be divided during anterior petrosectomy ([[anterior-petrosectomy|Kawase approach]]).
 
 ### Inferior petrosal sinus
 Courses in the petroclival fissure from the [[cavernous-sinus]] to the jugular foramen (petrous compartment). Passes through the anteromedial part of the jugular foramen with [[lower-cranial-nerves|CN IX]].
@@ -58,7 +58,7 @@ Courses in the petroclival fissure from the [[cavernous-sinus]] to the jugular f
 Small, variable sinus in the falx cerebelli; courses from the [[foramen-magnum]] margin to the confluence.
 
 ### Basilar (clival) venous plexus
-Interconnecting venous channels on the clivus between the periosteal and meningeal dura. Connects the bilateral [[cavernous-sinus|cavernous sinuses]] and inferior petrosal sinuses. Related to anterior skull base approaches and [[transsphenoidal-approach|transclival corridors]].
+Interconnecting venous channels on the [[clivus]] between the periosteal and meningeal dura. Connects the bilateral [[cavernous-sinus|cavernous sinuses]] and inferior petrosal sinuses. Related to anterior skull base approaches and [[transsphenoidal-approach|transclival corridors]].
 
 ## Cavernous Sinus
 

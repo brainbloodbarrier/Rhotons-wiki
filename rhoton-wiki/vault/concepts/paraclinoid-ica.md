@@ -84,7 +84,7 @@ The paraclinoid region of the [[internal-carotid-artery|ICA]] is the segment bet
 - [[internal-carotid-artery]] — Parent vessel, C1-C4 segments
 - [[anterior-clinoid-process]] — Bony framework, clinoidectomy
 - [[ophthalmic-artery]] — First intradural ICA branch
-- [[superior-hypophyseal-artery]] — Medial wall perforators
+- [[superior-hypophyseal-artery]] — Medial wall [[perforating-arteries|perforators]]
 - [[optic-nerve]] — Compressed by ophthalmic segment aneurysms
 - [[optic-canal]] — Optic strut, falciform ligament
 - [[cavernous-sinus]] — Proximal to the paraclinoid segment

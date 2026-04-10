@@ -40,7 +40,7 @@ The six extraocular muscles control eye movements and are innervated by three cr
 
 ## Annular Tendon (Annulus of Zinn)
 
-The common tendinous ring from which the four rectus muscles originate. It encircles the optic canal and the central part of the superior orbital fissure (the oculomotor foramen):
+The common tendinous ring from which the four rectus muscles originate. It encircles the [[optic-canal]] and the central part of the superior orbital fissure (the oculomotor foramen):
 
 ### Structures passing THROUGH the annulus
 - [[optic-nerve|CN II]] and [[ophthalmic-artery]] (via optic canal)

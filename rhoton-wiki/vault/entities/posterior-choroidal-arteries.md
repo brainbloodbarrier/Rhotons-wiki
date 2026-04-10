@@ -24,19 +24,19 @@ parent: "[[posterior-cerebral-artery]]"
 
 # Posterior Choroidal Arteries
 
-The posterior choroidal arteries are branches of the [[posterior-cerebral-artery|PCA]] that supply the [[choroid-plexus]] of the [[lateral-and-third-ventricles|third and lateral ventricles]], the [[thalamus]] (posterior portions), and the pineal region. They are divided into medial and lateral groups with distinct courses and territories. Together with the [[anterior-choroidal-artery]], they provide the dual arterial supply to the ventricular choroid plexus.
+The posterior choroidal arteries are branches of the [[posterior-cerebral-artery|PCA]] that supply the [[choroid-plexus]] of the [[lateral-and-third-ventricles|third and lateral ventricles]], the [[thalamus]] (posterior portions), and the [[pineal-region]]. They are divided into medial and lateral groups with distinct courses and territories. Together with the [[anterior-choroidal-artery]], they provide the dual arterial supply to the ventricular choroid plexus.
 
 ## Medial Posterior Choroidal Artery (MPChA)
 
 ### Origin
-Arises from the PCA P2A segment (anterior portion of the ambient cistern). Often the largest P1 branch when arising as a common trunk with thalamoperforating arteries (18% of hemispheres).
+Arises from the PCA P2A segment (anterior portion of the [[ambient-cistern]]). Often the largest P1 branch when arising as a common trunk with [[thalamoperforating-arteries]] (18% of hemispheres).
 
 ### Course
 1. Courses posteriorly through the ambient cistern, paralleling the [[posterior-cerebral-artery|PCA]] but more medially
 2. Passes around the [[brainstem]] (midbrain) through the middle incisural space of the [[tentorial-incisura]]
 3. Enters the quadrigeminal cistern, reaching the posterior incisural space
 4. Reaches the roof of the third ventricle and the pineal region
-5. Courses in the velum interpositum between the internal cerebral veins ([[vein-of-galen]])
+5. Courses in the [[velum-interpositum]] between the [[internal-cerebral-veins]] ([[vein-of-galen]])
 6. Supplies the [[choroid-plexus]] of the third ventricle and the medial part of the [[lateral-and-third-ventricles|lateral ventricle]] body
 
 ### Supply territory
@@ -69,7 +69,7 @@ Arises from the PCA P2P segment (posterior portion of the ambient cistern), slig
 - Part of the [[basal-ganglia|internal capsule]] (retrolenticular portion)
 
 ### Surgical relevance
-The LPChA enters the temporal horn through the choroidal fissure — the same corridor used in the transchoroidal approach ([[interhemispheric-approach]]). It is at risk during temporal horn tumor resection and amygdalohippocampectomy ([[hippocampus]] surgery).
+The LPChA enters the temporal horn through the [[choroidal-fissure]] — the same corridor used in the transchoroidal approach ([[interhemispheric-approach]]). It is at risk during temporal horn tumor resection and amygdalohippocampectomy ([[hippocampus]] surgery).
 
 ## Comparison: Anterior vs Posterior Choroidal Arteries
 
@@ -85,7 +85,7 @@ The LPChA enters the temporal horn through the choroidal fissure — the same co
 
 - Arise from [[posterior-cerebral-artery|PCA]] P2 segment — see [[posterior-circulation]]
 - Supply [[choroid-plexus]] of the [[lateral-and-third-ventricles]]
-- MPChA courses with [[vein-of-galen]] (internal cerebral veins) in the velum interpositum
+- MPChA courses with [[vein-of-galen]] (internal [[cerebral-veins]]) in the velum interpositum
 - LPChA courses around the [[thalamus]] (pulvinar) through the [[choroid-plexus|choroidal fissure]]
 - Complement the [[anterior-choroidal-artery]] (from [[anterior-circulation]])
 - MPChA related to the pineal region — at risk in [[supracerebellar-infratentorial-approach]]

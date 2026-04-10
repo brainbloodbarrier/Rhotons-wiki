@@ -29,7 +29,7 @@ The greater superficial petrosal nerve (GSPN) is a branch of the [[facial-nerve]
 | Segment | Location | Relations |
 |---|---|---|
 | **Origin** | Geniculate ganglion of [[facial-nerve]] within [[temporal-bone]] | At the first genu of the facial nerve, where the labyrinthine segment turns into the tympanic segment |
-| **Middle fossa floor** | Courses anterolaterally in a groove on the anterior surface of the petrous bone | Between the dura and periosteum, beneath the temporal lobe |
+| **Middle fossa floor** | Courses anterolaterally in a groove on the anterior surface of the petrous bone | Between the dura and periosteum, beneath the [[cerebral-lobes|temporal lobe]] |
 | **Foramen lacerum** | Enters the area of the foramen lacerum | Joins the deep petrosal nerve (sympathetic from ICA) to form the Vidian nerve |
 | **Vidian (pterygoid) canal** | As the Vidian nerve, traverses the pterygoid canal | Through the [[sphenoid-bone]] to reach the [[pterygopalatine-fossa]] |
 | **Pterygopalatine ganglion** | Synapses in the ganglion | Postganglionic fibers supply lacrimal gland, nasal/palatal mucosa |

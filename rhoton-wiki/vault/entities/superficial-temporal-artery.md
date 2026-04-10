@@ -21,7 +21,7 @@ parent: "[[anterior-circulation]]"
 
 # Superficial Temporal Artery
 
-The superficial temporal artery (STA) is the smaller terminal branch of the external carotid artery, coursing over the zygomatic root anterior to the ear to supply the lateral scalp and temporal region. It is the most commonly used **donor vessel** for extracranial-intracranial (EC-IC) bypass to the [[middle-cerebral-artery|MCA]] and the first artery encountered during the [[pterional-approach]], [[orbitozygomatic-approach]], and all frontotemporal craniotomies. Its preservation or intentional harvest is a key early decision in every lateral skull base procedure.
+The superficial temporal artery (STA) is the smaller terminal branch of the external carotid artery, coursing over the zygomatic root anterior to the ear to supply the lateral scalp and temporal region. It is the most commonly used **donor vessel** for extracranial-intracranial (EC-IC) bypass to the [[middle-cerebral-artery|MCA]] and the first artery encountered during the [[pterional-approach]], [[orbitozygomatic-approach]], and all frontotemporal craniotomies. Its preservation or intentional harvest is a key early decision in every lateral [[cranial-base|skull base]] procedure.
 
 ## Anatomy
 

@@ -43,7 +43,7 @@ The transverse sinus is a paired dural venous channel coursing along the attachm
 - **Superior petrosal sinus** — drains the [[cavernous-sinus]] into the transverse-sigmoid junction
 - **[[bridging-veins|Vein of Labbé]]** — the dominant inferior anastomotic vein of the temporal lobe drains into the transverse sinus (critical surgical landmark)
 - **Tentorial veins** — drain the [[tentorium-cerebelli|tentorial]] surface
-- **Inferior cerebral veins** — from the occipital and temporal lobes
+- **Inferior [[cerebral-veins]]** — from the occipital and temporal lobes
 
 ### Dimensions
 - Length: approximately 4-6 cm

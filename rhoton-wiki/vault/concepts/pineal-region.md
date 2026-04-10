@@ -39,7 +39,7 @@ The quadrigeminal cistern (cistern of the great cerebral vein) surrounds the pin
 
 ### Venous Structures
 - **[[vein-of-galen]]** — forms at the union of the [[internal-cerebral-veins]] above/posterior to the pineal body
-- **[[internal-cerebral-veins]]** — exit the velum interpositum above the pineal, following the concave curve of the splenium
+- **[[internal-cerebral-veins]]** — exit the [[velum-interpositum]] above the pineal, following the concave curve of the splenium
 - **[[basal-vein-of-rosenthal]]** — terminal segments enter laterally to join the vein of Galen
 - **Superior vermian vein** — ascends from the [[cerebellum]] to join the vein of Galen
 - **Tectal veins** — drain the superior and inferior colliculi
@@ -50,7 +50,7 @@ The quadrigeminal cistern (cistern of the great cerebral vein) surrounds the pin
 - **[[superior-cerebellar-artery]]** — branches ascend from the cerebellomesencephalic fissure
 
 ### Neural Structures
-- **[[trochlear-nerve]]** — CN IV exits dorsally from the midbrain below the inferior colliculus, coursing through the ambient cistern around the brainstem
+- **[[trochlear-nerve]]** — CN IV exits dorsally from the midbrain below the inferior colliculus, coursing through the [[ambient-cistern]] around the brainstem
 
 ## Posterior Incisural Space
 
@@ -59,19 +59,19 @@ The pineal region corresponds to the **posterior incisural space** of the [[tent
 ## Surgical Approaches
 
 ### [[supracerebellar-infratentorial-approach]]
-The primary approach to the pineal region. The surgeon works between the superior cerebellar surface and the tentorium to reach the quadrigeminal cistern from below. The [[vein-of-galen]] and its tributaries define the superior limit of safe dissection. Variants include midline, paramedian, and extreme-lateral positions.
+The primary approach to the pineal region. The surgeon works between the superior cerebellar surface and the [[tentorium-cerebelli|tentorium]] to reach the quadrigeminal cistern from below. The [[vein-of-galen]] and its tributaries define the superior limit of safe dissection. Variants include midline, paramedian, and extreme-lateral positions.
 
 ### Occipital Transtentorial
-An approach through the occipital lobe, dividing the tentorium to reach the pineal from above and lateral. Provides access to the superior and lateral pineal region, but requires retraction of the occipital lobe and risks injury to the visual cortex.
+An approach through the [[cerebral-lobes|occipital lobe]], dividing the tentorium to reach the pineal from above and lateral. Provides access to the superior and lateral pineal region, but requires retraction of the occipital lobe and risks injury to the visual cortex.
 
 ### [[interhemispheric-approach]] (Posterior Transcallosal)
-A posterior variant entering through the splenium of the [[corpus-callosum]] to access the pineal from above. The [[internal-cerebral-veins]] course in the velum interpositum just below the fornix and must be carefully preserved.
+A posterior variant entering through the splenium of the [[corpus-callosum]] to access the pineal from above. The [[internal-cerebral-veins]] course in the velum interpositum just below the [[fornix]] and must be carefully preserved.
 
-### Approach Selection
+### [[surgical-approaches-overview|Approach Selection]]
 
 | Approach | Best For | Key Obstacle |
 |---|---|---|
-| [[supracerebellar-infratentorial-approach]] | Inferior/posterior pineal | Bridging veins to tentorium |
+| [[supracerebellar-infratentorial-approach]] | Inferior/posterior pineal | [[bridging-veins]] to tentorium |
 | Occipital transtentorial | Superior/lateral pineal | Visual cortex retraction |
 | Posterior transcallosal | Superior pineal, third ventricle | [[internal-cerebral-veins]], [[vein-of-galen]] |
 
@@ -88,7 +88,7 @@ The deep venous confluence is the principal surgical obstacle in the pineal regi
 - **Meningiomas** — may arise from the falcotentorial junction
 
 ### Hydrocephalus
-Pineal tumors frequently compress the cerebral aqueduct, producing obstructive hydrocephalus. The [[fourth-ventricle]] and lateral ventricles dilate while the aqueduct is compressed between the tumor and the tectal plate.
+Pineal tumors frequently compress the [[cerebral-aqueduct]], producing obstructive hydrocephalus. The [[fourth-ventricle]] and lateral ventricles dilate while the aqueduct is compressed between the tumor and the tectal plate.
 
 ## Connections
 

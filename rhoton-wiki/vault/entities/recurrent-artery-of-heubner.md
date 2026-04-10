@@ -22,7 +22,7 @@ parent: "[[anterior-cerebral-artery]]"
 
 # Recurrent Artery of Heubner
 
-The recurrent artery of Heubner is the largest named [[perforating-arteries|perforating artery]] of the [[anterior-circulation]]. It arises from the proximal [[anterior-cerebral-artery|ACA]] A2 segment (or A1-A2 junction) and courses **recurrently** (backward) along A1 to enter the anteromedial [[anterior-perforated-substance]]. It is the perforator most frequently injured during [[anterior-communicating-artery|ACoA]] aneurysm surgery.
+The recurrent artery of Heubner is the largest named [[perforating-arteries|perforating artery]] of the [[anterior-circulation]]. It arises from the proximal [[anterior-cerebral-artery|ACA]] A2 segment (or A1-A2 junction) and courses **recurrently** (backward) along A1 to enter the anteromedial [[anterior-perforated-substance]]. It is the perforator most frequently injured during [[anterior-communicating-artery|ACoA]] [[aneurysm-surgery]].
 
 ## Origin
 
@@ -44,7 +44,7 @@ The recurrent course makes the Heubner artery easy to confuse with a cortical br
 
 - **Caudate head** — the primary territory (largest supply)
 - **Anterior putamen**
-- **Anterior limb of the internal capsule** ([[basal-ganglia]])
+- **Anterior limb of the [[internal-capsule]]** ([[basal-ganglia]])
 - **Nucleus accumbens**
 - **Anterior part of the globus pallidus** (variable)
 - **Subcallosal area and septal nuclei** (variable)
@@ -73,7 +73,7 @@ In the anterior interhemispheric approach for ACoA aneurysms, the Heubner artery
 |---|---|---|---|
 | **Heubner** | ACA A2 (or A1-A2) | Caudate head, anterior internal capsule | [[anterior-communicating-artery\|ACoA]] aneurysm |
 | Medial [[lenticulostriate-arteries\|lenticulostriates]] | ACA A1 | Medial caudate, anterior internal capsule | A1 manipulation |
-| [[anterior-communicating-artery\|ACoA]] perforators | ACoA | Hypothalamus, fornix, anterior commissure | ACoA aneurysm (memory deficits) |
+| [[anterior-communicating-artery\|ACoA]] perforators | ACoA | [[hypothalamus]], [[fornix]], anterior commissure | ACoA aneurysm (memory deficits) |
 | Frontopolar artery | ACA A2 | Frontal pole cortex | NOT a perforator — cortical branch |
 
 ## Relations

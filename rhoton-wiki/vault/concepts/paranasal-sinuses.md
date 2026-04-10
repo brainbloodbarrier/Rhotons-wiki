@@ -37,10 +37,10 @@ The most neurosurgically important sinus — the gateway to the [[sellar-region]
 ### Landmarks on sinus walls
 - **Sellar floor** — the thin bone (often dehiscent) over the [[pituitary-gland]]
 - **Carotid prominences** — bilateral protrusions of the [[internal-carotid-artery|ICA]] (C3 cavernous segment) on the posterolateral walls
-- **Optic canal prominences** — bilateral protrusions of the [[optic-nerve|CN II]] on the superolateral walls
+- **[[optic-canal]] prominences** — bilateral protrusions of the [[optic-nerve|CN II]] on the superolateral walls
 - **Opticocarotid recess** — the depression between the carotid and optic prominences; lateral limit of safe bone removal
 - **Planum sphenoidale** — the flat bone above the sinus, between the optic canals; floor of the anterior cranial fossa
-- **Clivus** — the posterior slope below the sellar floor, toward the [[foramen-magnum]]
+- **[[clivus]]** — the posterior slope below the sellar floor, toward the [[foramen-magnum]]
 - **Sinus septum** — often deviated; may insert on the ICA prominence (critical to identify preoperatively)
 
 ### Ostia
@@ -52,11 +52,11 @@ A labyrinth of 6–12 air cells between the [[orbit]] medially and the nasal cav
 - **Anterior ethmoid cells** — drain into the middle meatus (hiatus semilunaris)
 - **Posterior ethmoid cells** — drain into the superior meatus
 - **Lamina papyracea** — paper-thin medial orbital wall separating ethmoid cells from the [[orbit]]
-- **Cribriform plate** — the roof of the ethmoid labyrinth; floor of the anterior cranial fossa; transmits olfactory nerve fibers (CN I)
+- **Cribriform plate** — the roof of the ethmoid labyrinth; floor of the anterior cranial fossa; transmits olfactory nerve fibers ([[olfactory-nerve|CN I]])
 
 ### Surgical landmarks
 - **Anterior ethmoidal artery** — from the [[ophthalmic-artery]]; crosses the ethmoid roof in the anterior ethmoidal canal. Marks the level of the cribriform plate (anterior skull base floor). Its injury causes retrobulbar hematoma.
-- **Posterior ethmoidal artery** — from the [[ophthalmic-artery]]; crosses the posterior ethmoid. Located ~12 mm anterior to the optic canal.
+- **[[ethmoidal-arteries|Posterior ethmoidal artery]]** — from the [[ophthalmic-artery]]; crosses the posterior ethmoid. Located ~12 mm anterior to the optic canal.
 
 ## Maxillary Sinus
 
@@ -64,7 +64,7 @@ The largest paranasal sinus, located below the [[orbit]] floor:
 - **Roof** — the orbital floor; contains the infraorbital nerve and artery
 - **Medial wall** — the lateral nasal wall; the sinus opens into the middle meatus via the hiatus semilunaris
 - **Floor** — above the upper molar teeth roots
-- **Posterior wall** — separates the sinus from the [[infratemporal-fossa]] and pterygopalatine fossa
+- **Posterior wall** — separates the sinus from the [[infratemporal-fossa]] and [[pterygopalatine-fossa]]
 
 ## Frontal Sinus
 

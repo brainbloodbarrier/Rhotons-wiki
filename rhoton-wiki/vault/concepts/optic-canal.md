@@ -72,7 +72,7 @@ Unroofing the optic canal by drilling the superior wall is performed for:
 
 ### Clinoidectomy
 [[Anterior-clinoid-process|Clinoidectomy]] includes drilling the optic strut and unroofing the optic canal to:
-- Mobilize the [[optic-nerve]] for paraclinoid aneurysm surgery
+- Mobilize the [[optic-nerve]] for paraclinoid [[aneurysm-surgery]]
 - Expose the clinoid segment of the [[internal-carotid-artery]]
 - Divide the falciform process
 

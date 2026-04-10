@@ -23,27 +23,27 @@ parent: "[[circle-of-willis]]"
 
 # Posterior Communicating Artery
 
-The posterior communicating artery (PCoA) forms the lateral boundary of the [[circle-of-willis]], connecting the anterior and posterior cerebral circulations. It arises from the posteromedial surface of the [[internal-carotid-artery]] (C4 segment) approximately midway between the ophthalmic artery origin and the terminal ICA bifurcation.
+The posterior communicating artery (PCoA) forms the lateral boundary of the [[circle-of-willis]], connecting the anterior and posterior cerebral circulations. It arises from the posteromedial surface of the [[internal-carotid-artery]] (C4 segment) approximately midway between the [[ophthalmic-artery]] origin and the terminal ICA bifurcation.
 
 ## Course
 
-The PCoA sweeps backward and medially below the tuber cinereum, above the sella turcica, and slightly above and medial to the oculomotor nerve (CN III) to join the [[posterior-cerebral-artery]] (PCA). The diameter at the carotid origin is slightly larger than at the PCA junction, but the difference is usually not more than 1 mm.
+The PCoA sweeps backward and medially below the tuber cinereum, above the [[sellar-region|sella turcica]], and slightly above and medial to the [[oculomotor-nerve]] (CN III) to join the [[posterior-cerebral-artery]] (PCA). The diameter at the carotid origin is slightly larger than at the PCA junction, but the difference is usually not more than 1 mm.
 
 ## Variants
 
 - **Fetal configuration** — the PCoA remains the major origin of the PCA (embryonic pattern persisting in adult); courses more laterally, above or lateral to CN III
 - **Infundibular widening** — dilation at the PCoA origin from the C4, found in ~6% of hemispheres; may be difficult to distinguish from an aneurysm
 
-## Perforating Branches
+## [[perforating-arteries|Perforating Branches]]
 
 An average of 8 perforating branches (range 4–14) arise from the PCoA, mostly from superior and lateral surfaces. They penetrate (in decreasing frequency):
-- Tuber cinereum and premamillary floor of the third ventricle
-- Posterior perforated substance and interpeduncular fossa
-- Optic tract, pituitary stalk, and [[optic-chiasm]]
+- Tuber cinereum and premamillary floor of the [[lateral-and-third-ventricles|third ventricle]]
+- Posterior perforated substance and [[interpeduncular-cistern|interpeduncular fossa]]
+- [[optic-tract]], [[pituitary-gland|pituitary]] stalk, and [[optic-chiasm]]
 
-These branches reach the thalamus, hypothalamus, subthalamus, and internal capsule.
+These branches reach the [[thalamus]], [[hypothalamus]], subthalamus, and [[internal-capsule]].
 
-The **premamillary artery** is the largest PCoA branch — it enters the floor of the third ventricle anterior to or beside the mamillary body. Preservation of these perforators is critical during aneurysm surgery.
+The **premamillary artery** is the largest PCoA branch — it enters the floor of the third ventricle anterior to or beside the mamillary body. Preservation of these perforators is critical during [[aneurysm-surgery]].
 
 ## Surgical Relevance
 

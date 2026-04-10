@@ -28,14 +28,14 @@ The tentorium cerebelli is a crescentic dural fold that separates the supratento
 - **Posterior**: attached to the internal occipital protuberance and the transverse sulcus of the occipital bone
 - **Lateral**: attached to the superior border of the petrous ridge of the [[temporal-bone]] bilaterally
 - **Anterior-lateral**: attached to the posterior clinoid processes of the [[sphenoid-bone]]
-- **Superior**: continuous with the falx cerebri at the midline (falcotentorial junction)
+- **Superior**: continuous with the [[falx-cerebri]] at the midline (falcotentorial junction)
 
 ### Free Edge (Tentorial Edge)
 The free medial edge defines the [[tentorial-incisura]] (tentorial notch) — the oval opening through which the [[brainstem]] passes. Key relations along the free edge:
 
 - **[[trochlear-nerve]]** — CN IV courses along the tentorial edge after its dorsal exit from the midbrain
 - **[[oculomotor-nerve]]** — CN III passes between the [[posterior-cerebral-artery]] and [[superior-cerebellar-artery]] near the tentorial edge
-- **[[posterior-cerebral-artery]]** — courses above the tentorium in the ambient cistern
+- **[[posterior-cerebral-artery]]** — courses above the tentorium in the [[ambient-cistern]]
 - **[[superior-cerebellar-artery]]** — courses below the tentorium
 
 ### Surfaces
@@ -48,7 +48,7 @@ The tentorium contains or borders several [[dural-venous-sinuses]]:
 
 | Sinus | Location |
 |---|---|
-| **Transverse sinus** | Along the posterior attachment (lateral margin) |
+| **[[transverse-sinus]]** | Along the posterior attachment (lateral margin) |
 | **Superior petrosal sinus** | Along the petrous attachment (anterolateral margin) |
 | **Straight sinus** | At the junction of the falx and tentorium (falcotentorial junction) |
 | **Tentorial sinuses** | Variable sinuses within the tentorium itself, receiving temporobasal and occipitobasal [[bridging-veins]] |
@@ -72,7 +72,7 @@ The tentorium is typically divided **posterior to the point where CN IV enters t
 
 The [[tentorial-incisura]] is the site of transtentorial herniation:
 
-- **Uncal herniation** — the medial temporal lobe (uncus) herniates over the tentorial edge, compressing [[oculomotor-nerve|CN III]] and the [[posterior-cerebral-artery]]
+- **Uncal herniation** — the medial [[cerebral-lobes|temporal lobe]] ([[uncus]]) herniates over the tentorial edge, compressing [[oculomotor-nerve|CN III]] and the [[posterior-cerebral-artery]]
 - **Ascending herniation** — posterior fossa contents herniate upward through the incisura
 - **Central (descending) herniation** — bilateral downward displacement of the diencephalon
 
@@ -86,7 +86,7 @@ Meningiomas arising from the tentorium are classified by their relation to the f
 - **Medial tentorial** — near the free edge, involving the [[tentorial-incisura]]
 - **Lateral tentorial** — along the petrous attachment or transverse sinus
 
-These tumors are particularly challenging due to their proximity to the deep venous system ([[vein-of-galen]], [[internal-cerebral-veins]], [[basal-vein-of-rosenthal]]).
+These tumors are particularly challenging due to their proximity to the [[deep-venous-system]] ([[vein-of-galen]], [[internal-cerebral-veins]], [[basal-vein-of-rosenthal]]).
 
 ## Connections
 

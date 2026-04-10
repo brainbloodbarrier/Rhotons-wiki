@@ -21,7 +21,7 @@ parent: "[[cranial-base]]"
 
 # Foramen Magnum
 
-The foramen magnum is the largest foramen of the [[cranial-base]], located in the occipital bone. It transmits the cervicomedullary junction (lower medulla → upper spinal cord), the [[vertebral-artery|vertebral arteries]], the spinal portion of the [[lower-cranial-nerves|accessory nerve (CN XI)]], and the meninges. It is the gateway between the [[posterior-fossa]] and the spinal canal.
+The foramen magnum is the largest foramen of the [[cranial-base]], located in the occipital bone. It transmits the cervicomedullary junction (lower medulla → upper spinal cord), the [[vertebral-artery|vertebral arteries]], the spinal portion of the [[lower-cranial-nerves|accessory nerve (CN XI)]], and the [[meninges]]. It is the gateway between the [[posterior-fossa]] and the spinal canal.
 
 ## Osseous Anatomy
 
@@ -30,14 +30,14 @@ The foramen magnum is **oval-shaped**, wider posteriorly than anteriorly. The wi
 ### Occipital bone
 The occipital bone surrounds the foramen magnum with three parts:
 - **Squamosal part** — internally concave plate above and behind the foramen; the internal occipital crest bifurcates above the foramen to form a V-shaped ridge (vermian fossa)
-- **Basilar part (clivus)** — thick quadrangular plate extending forward and upward at ~45° from the foramen; joins the sphenoid bone at the spheno-occipital synchondrosis
+- **Basilar part ([[clivus]])** — thick quadrangular plate extending forward and upward at ~45° from the foramen; joins the [[sphenoid-bone]] at the spheno-occipital synchondrosis
 - **Condylar parts** — paired lateral portions bearing the occipital condyles, which articulate with the atlas
 
 ### Key landmarks
 - **Occipital condyles** — protrude from the external surface lateral to the anterior half of the foramen; oval, convex downward, with alar tubercles medially
 - **Hypoglossal canal** — situated above each condyle; transmits [[lower-cranial-nerves|CN XII]]; septated in 6% of skulls
-- **Condylar fossa** — depression behind the condyle; often perforated to form the posterior condylar canal (emissary vein connecting vertebral venous plexus with sigmoid sinus)
-- **Jugular process** — extends laterally from the posterior half of the condyle; forms the posterior border of the jugular foramen
+- **Condylar fossa** — depression behind the condyle; often perforated to form the posterior condylar canal (emissary vein connecting vertebral venous plexus with [[sigmoid-sinus]])
+- **Jugular process** — extends laterally from the posterior half of the condyle; forms the posterior border of the [[jugular-foramen]]
 - **Jugular tubercle** — oval prominence on the internal surface above the hypoglossal canal; CN IX, X, XI course in a shallow furrow above it
 
 ## Craniovertebral Junction
@@ -59,13 +59,13 @@ Connected to the occipital bone by four ligaments:
 ## Neurovascular Contents
 
 ### Vertebral artery ([[vertebral-artery]])
-The V3 segment passes medially behind the lateral mass of the atlas in the suboccipital triangle, enters the vertebral canal through the posterior atlanto-occipital membrane, and penetrates the dura just inferior to the lateral edge of the foramen magnum. The V4 (intradural) segment ascends through the foramen to the front of the medulla, joining its contralateral partner to form the [[basilar-artery]] at the pontomedullary junction.
+The V3 segment passes medially behind the lateral mass of the atlas in the [[suboccipital-triangle]], enters the vertebral canal through the posterior atlanto-occipital membrane, and penetrates the dura just inferior to the lateral edge of the foramen magnum. The V4 (intradural) segment ascends through the foramen to the front of the medulla, joining its contralateral partner to form the [[basilar-artery]] at the pontomedullary junction.
 
 ### PICA ([[pica]])
 May arise from the V3 (extradural) or V4 (intradural) segment. Origin ranges from below the foramen magnum to the vertebrobasilar junction (average 8.6 mm above the foramen).
 
 ### Accessory nerve ([[lower-cranial-nerves|CN XI]])
-The only cranial nerve to traverse the foramen magnum. The spinal trunk ascends between the dentate ligament and dorsal spinal roots, entering the [[posterior-fossa]] behind the [[vertebral-artery]].
+The only cranial nerve to traverse the foramen magnum. The spinal trunk ascends between the [[dentate-ligament]] and dorsal spinal roots, entering the [[posterior-fossa]] behind the [[vertebral-artery]].
 
 ### Hypoglossal nerve ([[lower-cranial-nerves|CN XII]])
 Rootlets pass behind the [[vertebral-artery]] to enter the hypoglossal canal above the condyle.
@@ -74,7 +74,7 @@ Rootlets pass behind the [[vertebral-artery]] to enter the hypoglossal canal abo
 A white fibrous sheet attached to the spinal cord medially and dura laterally. The most rostral attachment is at the foramen magnum level, above where the [[vertebral-artery]] pierces the dura. It passes between the vertebral artery (anteriorly) and the accessory nerve (posteriorly).
 
 ### Cerebellar tonsils
-Sit above the posterior edge of the foramen magnum. Tonsillar herniation (Chiari malformation) compresses structures through the foramen, including the [[vertebral-artery]], [[pica]], and medulla.
+Sit above the posterior edge of the foramen magnum. [[herniation-syndromes|Tonsillar herniation]] (Chiari malformation) compresses structures through the foramen, including the [[vertebral-artery]], [[pica]], and medulla.
 
 ## Muscular Relations
 

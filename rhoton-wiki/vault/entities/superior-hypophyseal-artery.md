@@ -22,7 +22,7 @@ parent: "[[internal-carotid-artery]]"
 
 # Superior Hypophyseal Artery
 
-The superior hypophyseal arteries are a group of 1–5 (average 2) small perforating branches arising from the ophthalmic segment (C4) of the [[internal-carotid-artery]]. They supply the [[pituitary-gland|pituitary stalk]], anterior lobe, [[optic-chiasm]], [[optic-nerve|optic nerves]], and floor of the [[lateral-and-third-ventricles|third ventricle]].
+The superior hypophyseal arteries are a group of 1–5 (average 2) small [[perforating-arteries|perforating branches]] arising from the ophthalmic segment (C4) of the [[internal-carotid-artery]]. They supply the [[pituitary-gland|pituitary stalk]], anterior lobe, [[optic-chiasm]], [[optic-nerve|optic nerves]], and floor of the [[lateral-and-third-ventricles|third ventricle]].
 
 ## Origin and Course
 
@@ -57,7 +57,7 @@ The superior hypophyseal and infundibular arteries intermingle to form a fine an
 
 The **posterior pituitary lobe** is supplied separately by the inferior hypophyseal artery, a branch of the meningohypophyseal trunk from the intracavernous [[internal-carotid-artery|ICA]].
 
-## Aneurysm Surgery
+## [[aneurysm-surgery]]
 
 ### Superior Hypophyseal Aneurysms
 Aneurysms arise on the **medially convex curve** of the ICA lateral to the pituitary stalk, at the distal edge of the superior hypophyseal artery origin. Key features:

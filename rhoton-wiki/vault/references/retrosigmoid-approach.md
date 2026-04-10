@@ -23,7 +23,7 @@ approach-to:
 
 # Retrosigmoid Approach
 
-The retrosigmoid approach provides access to the [[cerebellopontine-cistern]] and lateral [[posterior-fossa]] through a craniotomy behind the sigmoid sinus. It is the standard approach for vestibular schwannomas, trigeminal neuralgia (microvascular decompression), and other CP angle lesions.
+The retrosigmoid approach provides access to the [[cerebellopontine-cistern]] and lateral [[posterior-fossa]] through a craniotomy behind the [[sigmoid-sinus]]. It is the standard approach for vestibular schwannomas, trigeminal neuralgia (microvascular decompression), and other CP angle lesions.
 
 ## Indications
 
@@ -40,9 +40,9 @@ The retrosigmoid approach provides access to the [[cerebellopontine-cistern]] an
 - **[[superior-cerebellar-artery]]** — above CN V
 - **AICA** — near CN VII/VIII complex
 - **PICA** — inferior field
-- Superior petrosal vein (vein of Dandy)
+- [[superior-petrosal-vein]] (vein of Dandy)
 - Petrosal cerebellar surface
-- Internal auditory canal (after drilling posterior wall)
+- [[internal-auditory-canal]] (after drilling posterior wall)
 
 ## Surgical Risks
 
@@ -55,7 +55,7 @@ The retrosigmoid approach provides access to the [[cerebellopontine-cistern]] an
 ## Relations
 
 - Provides access to [[cerebellopontine-cistern]]
-- Craniotomy positioned behind [[dural-venous-sinuses|sigmoid sinus]], below transverse sinus
+- Craniotomy positioned behind [[dural-venous-sinuses|sigmoid sinus]], below [[transverse-sinus]]
 - [[posterior-fossa-veins]] (superior petrosal vein) cross the surgical corridor
 - Exposes [[trigeminal-nerve|CN V]], [[abducens-nerve|CN VI]], [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]], [[lower-cranial-nerves|CN IX-XI]]
 - Arterial structures: [[superior-cerebellar-artery]], [[aica]], [[pica]] — see [[posterior-circulation]]
