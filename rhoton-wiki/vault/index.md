@@ -62,6 +62,9 @@ title: Wiki Index
 - [[internal-capsule]] — Projection fiber lamina, lenticulostriate territory, AChA syndrome
 - [[choroidal-fissure]] — Fornix-thalamus cleft, transchoroidal corridor, AChA entry point
 - [[uncus]] — Mesial temporal hook, uncal herniation, amygdala/hippocampal head
+- [[velum-interpositum]] — Tela choroidea cistern, ICV corridor, pineal access
+- [[ambient-cistern]] — Perimesencephalic corridor, PCA/basal vein, middle incisural space
+- [[interpeduncular-cistern]] — Basilar apex hub, CN III origin, thalamoperforating territory
 
 ## Entities
 
@@ -100,6 +103,7 @@ title: Wiki Index
 - [[internal-cerebral-veins]] — Velum interpositum, venous angle, thalamostriate drainage
 - [[bridging-veins]] — Four drainage groups, Labbé/Trolard, craniotomy risks
 - [[sigmoid-sinus]] — S-shaped course, asterion landmark, craniotomy boundary
+- [[transverse-sinus]] — Torcular-sigmoid conduit, Labbé drainage, craniotomy boundary
 
 ### Nerves
 - [[olfactory-nerve]] — CN I, cribriform plate, olfactory groove meningioma
@@ -158,4 +162,4 @@ title: Wiki Index
 
 ---
 
-*129 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*133 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
