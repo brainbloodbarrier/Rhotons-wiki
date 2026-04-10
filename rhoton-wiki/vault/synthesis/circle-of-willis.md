@@ -30,9 +30,10 @@ The circle of Willis (circulus arteriosus cerebri) is the principal arterial ana
 - **[[anterior-communicating-artery]]** — completes the anterior circle, connecting bilateral A1 segments
 
 ### Posterior Circulation
-- **Basilar artery** — apex provides the posterior midline input
+- **[[basilar-artery]]** — apex provides the posterior midline input (see [[posterior-circulation]])
 - **[[posterior-cerebral-artery]]** — P1 segments connect the basilar to the PCoAs
 - **[[posterior-communicating-artery]]** (bilateral) — connect the ICA to the PCA, forming the lateral posterior boundary
+- **[[vertebral-artery]]** — paired arteries merge to form the basilar
 
 ## Configuration and Variants
 
