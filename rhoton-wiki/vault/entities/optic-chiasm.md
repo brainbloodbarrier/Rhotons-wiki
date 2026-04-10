@@ -49,12 +49,15 @@ This multi-source supply is why chiasmal ischemia is relatively uncommon despite
 
 ## Relations
 
+- [[optic-nerve|Optic nerves (CN II)]] converge at the chiasm from the optic canals
 - Positioned above [[sellar-region]] and pituitary gland
-- [[anterior-cerebral-artery]] (A1) courses above it
+- [[anterior-cerebral-artery]] (A1) courses above it — see [[anterior-circulation]]
 - [[internal-carotid-artery]] is lateral
 - [[anterior-communicating-artery]] is supero-posterior
 - Optic tracts continue posterolaterally to lateral geniculate bodies
 - Visual pathway continues to calcarine cortex (supplied by [[posterior-cerebral-artery]])
+- Part of the [[cranial-nerves-overview|cranial nerve map]] (CN II)
+- Exposed by [[pterional-approach]], [[transsphenoidal-approach]], [[interhemispheric-approach]]
 
 ## References
 

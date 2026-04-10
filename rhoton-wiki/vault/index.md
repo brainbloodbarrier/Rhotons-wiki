@@ -24,6 +24,7 @@ title: Wiki Index
 - [[brainstem]] — Midbrain, pons, medulla; neurovascular complexes, safe entry zones
 - [[dural-venous-sinuses]] — Sagittal, transverse, sigmoid, petrosal, confluence
 - [[cerebellum]] — Three surfaces, fissures, peduncles, neurovascular complexes
+- [[fourth-ventricle]] — Rhomboid fossa, choroid plexus, telovelar approach
 
 ## Entities
 
@@ -49,6 +50,7 @@ title: Wiki Index
 - [[facial-nerve]] — CN VII, CP angle surgery, parotid branches
 - [[vestibulocochlear-nerve]] — CN VIII, vestibular schwannoma origin
 - [[lower-cranial-nerves]] — CN IX-XII, jugular foramen, foramen magnum
+- [[optic-nerve]] — CN II, orbital/canalicular/cisternal segments, opticocarotid triangle
 - [[optic-chiasm]] — Visual pathway crossing, sellar region landmark
 
 ## References
@@ -70,7 +72,8 @@ title: Wiki Index
 - [[surgical-approaches-overview]] — Approach-target matrix, selection principles
 - [[cranial-nerves-overview]] — CN I-XII map, cisternal course, compression syndromes
 - [[posterior-circulation]] — Vertebrobasilar hierarchy, perforators, territories
+- [[anterior-circulation]] — ICA-MCA-ACA hierarchy, perforators, lenticulostriates
 
 ---
 
-*51 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*55 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
