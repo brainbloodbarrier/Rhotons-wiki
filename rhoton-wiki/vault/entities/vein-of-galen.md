@@ -43,7 +43,7 @@ Additional tributaries that join at or near the venous confluence:
 
 Each internal cerebral vein is formed at the foramen of Monro by the junction of:
 - **Thalamostriate vein** (terminal vein) — courses in the groove between the [[thalamus]] and caudate nucleus
-- **Septal vein** — courses along the septum pellucidum
+- **Septal vein** — courses along the [[septum-pellucidum]]
 - **Choroidal veins** — from the [[choroid-plexus]] of the [[lateral-and-third-ventricles|lateral ventricle]]
 
 The internal cerebral veins course posteriorly in the [[velum-interpositum]] (tela choroidea of the third ventricle), between the fornix above and the [[thalamus]] below.

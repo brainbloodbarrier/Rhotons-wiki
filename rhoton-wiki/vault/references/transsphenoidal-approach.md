@@ -30,7 +30,7 @@ The transsphenoidal approach is the most common route for pituitary surgery, acc
 ## Routes
 
 - **Sublabial transseptal** — classic approach through upper gingival incision
-- **Endonasal (direct)** — through one nostril along the nasal septum
+- **Endonasal (direct)** — through one nostril along the nasal [[septum-pellucidum|septum]]
 - **Endoscopic endonasal** — binostril approach with endoscope; most commonly used today
 - **Extended endonasal** — reaches suprasellar, clival, and parasellar lesions
 

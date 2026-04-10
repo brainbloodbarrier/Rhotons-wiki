@@ -1357,7 +1357,7 @@ tags:
 ### Card 193
 **Q:** Surgical significance of the Paranasal Sinuses?
 
-**A:** The nasal cavity → sphenoid sinus → sellar floor corridor is the standard route to the [[pituitary-gland]]. The sphenoid ostia are widened, the intersinus septum removed, and the sellar floor opened. The carotid and optic prominences define the lateral safe limits.
+**A:** The nasal cavity → sphenoid sinus → sellar floor corridor is the standard route to the [[pituitary-gland]]. The sphenoid ostia are widened, the intersinus [[septum-pellucidum|septum]] removed, and the sellar floor opened. The carotid and optic prominences define the lateral safe limits.
 
 ---
 

@@ -32,7 +32,7 @@ Cisternal veins ───→ Basal Veins of Rosenthal ──┘
 ### [[internal-cerebral-veins]]
 - **Formation**: behind the foramen of Monro (thalamostriate + superior choroidal veins → venous angle)
 - **Course**: [[velum-interpositum]] in roof of [[lateral-and-third-ventricles|third ventricle]]
-- **Territory**: frontal horn, body, atrium walls; [[thalamus]], [[basal-ganglia|caudate]], septum, [[fornix]]
+- **Territory**: frontal horn, body, atrium walls; [[thalamus]], [[basal-ganglia|caudate]], [[septum-pellucidum|septum]], [[fornix]]
 - **Termination**: unite above pineal to form [[vein-of-galen]]
 
 ### [[basal-vein-of-rosenthal]]

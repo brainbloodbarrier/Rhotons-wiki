@@ -81,7 +81,7 @@ The right transverse-sigmoid system is dominant in ~60% of individuals. In cases
 ## Clinical Significance
 
 ### Dural Arteriovenous Fistulae
-The transverse-sigmoid junction is the most common site for intracranial dAVFs. Feeders include the [[occipital-artery]], [[middle-meningeal-artery]], and ascending pharyngeal artery.
+The transverse-sigmoid junction is the most common site for intracranial dAVFs. Feeders include the [[occipital-artery]], [[middle-meningeal-artery]], and [[ascending-pharyngeal-artery]].
 
 ### Thrombosis
 Sigmoid sinus thrombosis causes increased intracranial pressure, headache, and may extend to the jugular bulb. Often associated with mastoiditis (Lemierre syndrome variant).

@@ -62,7 +62,7 @@ Variable pneumatization — classified as:
 - **Presellar** — pneumatization extends to the tuberculum sellae
 - **Sellar** — pneumatization extends beneath and behind the sella (most common, most favorable for [[transsphenoidal-approach]])
 
-The sinus septum is often deviated and may insert on the [[internal-carotid-artery|ICA]] prominence. Lateral recesses may extend into the greater wing or pterygoid process. The optic canal and ICA create prominences on the posterolateral sinus walls that must be identified preoperatively.
+The sinus [[septum-pellucidum|septum]] is often deviated and may insert on the [[internal-carotid-artery|ICA]] prominence. Lateral recesses may extend into the greater wing or pterygoid process. The optic canal and ICA create prominences on the posterolateral sinus walls that must be identified preoperatively.
 
 ## Surgical Significance
 
@@ -87,7 +87,7 @@ Extended [[pterional-approach]] removing the supraorbital rim and zygomatic arch
 | Foramen rotundum | Greater wing | [[trigeminal-nerve\|V2]] (maxillary) |
 | Foramen ovale | Greater wing | [[trigeminal-nerve\|V3]] (mandibular) |
 | Foramen spinosum | Greater wing | Middle meningeal artery |
-| Vidian canal | Pterygoid process | Vidian nerve (greater + deep petrosal) |
+| [[vidian-canal]] | Pterygoid process | Vidian nerve (greater + deep petrosal) |
 
 ## Relations
 

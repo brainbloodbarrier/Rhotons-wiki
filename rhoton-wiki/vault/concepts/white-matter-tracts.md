@@ -67,7 +67,7 @@ Rhoton's fiber dissection technique reveals layers from the cortical surface inw
 2. **Short association (U-fibers)** — connect adjacent gyri beneath each sulcus
 3. **Long association fasciculi** — SLF, IFOF, arcuate, uncinate
 4. **[[corpus-callosum]] fibers** — radiate laterally (forceps minor anteriorly, forceps major posteriorly)
-5. **Corona radiata** — projection fibers fanning from the internal capsule to the cortex
+5. **[[corona-radiata]]** — projection fibers fanning from the internal capsule to the cortex
 6. **Internal capsule** ([[basal-ganglia]]) — the compact convergence zone
 7. **Cerebral peduncle** ([[brainstem]]) — fibers descend into the midbrain
 

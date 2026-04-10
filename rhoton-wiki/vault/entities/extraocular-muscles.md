@@ -61,7 +61,7 @@ The rectus muscles form a **muscle cone** that divides the [[orbit]] into intrac
 - **Intraconal space** — contains the [[optic-nerve]], [[ophthalmic-artery]], ciliary ganglion, and orbital fat
 - **Extraconal space** — contains the lacrimal gland, orbital fat, and periorbita
 
-The intermuscular septum connects the rectus muscles, defining the cone boundary. Intraconal tumors displace the eye forward (proptosis) while preserving motility until late.
+The intermuscular [[septum-pellucidum|septum]] connects the rectus muscles, defining the cone boundary. Intraconal tumors displace the eye forward (proptosis) while preserving motility until late.
 
 ## Surgical Significance
 

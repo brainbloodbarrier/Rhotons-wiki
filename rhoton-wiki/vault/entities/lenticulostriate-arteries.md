@@ -38,7 +38,7 @@ Pass superiorly from M1 through the [[anterior-perforated-substance]] (lateral p
 - **Globus pallidus** (lateral portion)
 - **Body of the caudate nucleus** (superolateral portion)
 - **Internal capsule** — genu and posterior limb ([[basal-ganglia]])
-- **Corona radiata** (inferior portion)
+- **[[corona-radiata]]** (inferior portion)
 
 ### Surgical anatomy
 - The lenticulostriates are often **hidden behind the M1 trunk** — the surgeon must rotate the M1 to see them before clip placement

@@ -37,7 +37,7 @@ The lower cranial nerves — glossopharyngeal (IX), vagus (X), accessory (XI), a
 Arises from the posterolateral medulla, dorsal to the inferior olive, in the **cerebellomedullary cistern**. The rootlets emerge in a linear series between the olive and the [[cerebellar-peduncles|inferior cerebellar peduncle]], rostral to the vagus rootlets.
 
 ### Jugular foramen
-Passes through the **petrous part** (anteromedial compartment) of the jugular foramen, separated from CN X and XI by a dural septum and the intrajugular processes. Contains the superior and inferior (petrosal) ganglia within the foramen.
+Passes through the **petrous part** (anteromedial compartment) of the jugular foramen, separated from CN X and XI by a dural [[septum-pellucidum|septum]] and the intrajugular processes. Contains the superior and inferior (petrosal) ganglia within the foramen.
 
 ### Relations
 - The [[choroid-plexus]] projecting from the foramen of Luschka sits on the posterior surface of CN IX and X

@@ -7,9 +7,9 @@ tags:
   - surgical-approaches
 ---
 
-# Viva Questions — Surgical Approach Selection
+# Viva Questions — Surgical [[surgical-approaches-overview|Approach Selection]]
 
-*Given a lesion, select the approach. Each answer references approach pages, cisterns, and structures at risk.*
+*Given a lesion, select the approach. Each answer references approach pages, [[basal-cisterns|cisterns]], and structures at risk.*
 
 ---
 
@@ -51,11 +51,11 @@ tags:
 
 ---
 
-### Q7: Pineal region tumor with obstructive hydrocephalus
+### Q7: [[pineal-region]] tumor with obstructive hydrocephalus
 
 **Answer:** Two-stage:
 1. **EVD or endoscopic third ventriculostomy** (ETV) — through [[lamina-terminalis]] or [[lateral-and-third-ventricles|foramen of Monro]] to relieve hydrocephalus
-2. **[[supracerebellar-infratentorial-approach]]** — sitting or prone position. Cerebellum falls with gravity. Enter [[quadrigeminal-cistern]]. [[vein-of-galen]] and [[internal-cerebral-veins]] are the obstacles — retract, never sacrifice. [[trochlear-nerve|CN IV]] visible at lateral midbrain.
+2. **[[supracerebellar-infratentorial-approach]]** — sitting or prone position. [[cerebellum]] falls with gravity. Enter [[quadrigeminal-cistern]]. [[vein-of-galen]] and [[internal-cerebral-veins]] are the obstacles — retract, never sacrifice. [[trochlear-nerve|CN IV]] visible at lateral midbrain.
 
 Alternative: [[interhemispheric-approach]] occipital transtentorial for tumors extending above the [[vein-of-galen]].
 

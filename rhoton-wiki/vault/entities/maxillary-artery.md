@@ -49,7 +49,7 @@ The maxillary artery is the larger terminal branch of the [[external-carotid-art
   - **Descending palatine artery** — descends through the greater palatine canal to the palate
   - **Infraorbital artery** — courses through the infraorbital canal to the face
   - **Posterior superior alveolar artery** — supplies upper molars
-  - **Artery of the pterygoid canal (Vidian artery)** — courses through the Vidian canal alongside the Vidian nerve to the nasopharynx; landmark for the petrous [[internal-carotid-artery|ICA]]
+  - **Artery of the [[vidian-canal|pterygoid canal]] (Vidian artery)** — courses through the Vidian canal alongside the Vidian nerve to the nasopharynx; landmark for the petrous [[internal-carotid-artery|ICA]]
 
 ## Surgical Significance
 
@@ -66,7 +66,7 @@ The maxillary artery is the larger terminal branch of the [[external-carotid-art
 
 ### Epistaxis
 - The [[sphenopalatine-artery]] is the source of **posterior epistaxis** — ligation or cauterization via transnasal endoscopic approach is definitive treatment
-- The descending palatine artery contributes to the Kiesselbach plexus on the anterior septum (Little's area)
+- The descending palatine artery contributes to the Kiesselbach plexus on the anterior [[septum-pellucidum|septum]] (Little's area)
 
 ### EC-IC Bypass
 - The maxillary artery can serve as a **high-flow bypass donor** ([[superficial-temporal-artery]] being insufficient)

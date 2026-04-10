@@ -32,7 +32,7 @@ Each lateral ventricle is a C-shaped cavity wrapping around the [[thalamus]] wit
 - **Temporal horn** — inferolateral to thalamus; deep to middle temporal gyrus; contains [[hippocampus]] in floor
 - **Occipital horn** — posterior to thalamus; variable in size
 
-Each part has medial and lateral walls, roof, and floor — formed predominantly by thalamus, septum pellucidum, [[corpus-callosum]], and two C-shaped structures:
+Each part has medial and lateral walls, roof, and floor — formed predominantly by thalamus, [[septum-pellucidum]], [[corpus-callosum]], and two C-shaped structures:
 
 ### [[basal-ganglia|Caudate Nucleus]]
 C-shaped cellular mass wrapping around the thalamus. Head bulges into frontal horn lateral wall, body forms part of atrial lateral wall, tail extends into temporal horn roof and is continuous with the amygdala anteriorly.
