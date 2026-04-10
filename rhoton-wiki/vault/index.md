@@ -97,6 +97,7 @@ title: Wiki Index
 - [[thalamogeniculate-arteries]] — P2 perforators, lateral thalamus supply, ambient cistern
 - [[sphenopalatine-artery]] — Nasoseptal flap pedicle, posterior epistaxis
 - [[maxillary-artery]] — ECA terminal, infratemporal/pterygopalatine course, endonasal landmark
+- [[superficial-temporal-artery]] — STA-MCA bypass donor, pterional landmark, CN VII relation
 
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
@@ -163,7 +164,8 @@ title: Wiki Index
 - [[craniocervical-junction]] — CVJ osseous/ligamentous framework, approach selection
 - [[microsurgical-anatomy-principles]] — Rhoton's 6 axioms, cistern corridors, perforator rules
 - [[neurovascular-compression-syndromes]] — MVD anatomy, REZ zones, offending vessels
+- [[cistern-approach-map]] — Complete cistern-to-corridor mapping, master matrix
 
 ---
 
-*138 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*140 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
