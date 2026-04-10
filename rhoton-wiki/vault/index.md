@@ -49,6 +49,8 @@ title: Wiki Index
 - [[lamina-terminalis]] — Third ventricle anterior wall, ACoA landmark, CSF drainage
 - [[tentorium-cerebelli]] — Dural fold, tentorial division, sinuses, herniation site
 - [[falx-cerebri]] — Dural fold, sagittal sinuses, subfalcine herniation
+- [[petrous-apex]] — Kawase triangle, petroclival junction, Gradenigo syndrome
+- [[cerebral-aqueduct]] — Midbrain channel, aqueductal stenosis, tectal plate
 
 ## Entities
 
@@ -74,6 +76,8 @@ title: Wiki Index
 - [[posterior-spinal-artery]] — VA branch, dorsal column supply, dentate ligament relation
 - [[middle-meningeal-artery]] — Foramen spinosum, epidural hematoma, dural supply
 - [[occipital-artery]] — ECA branch, far-lateral landmark, EC-IC bypass donor
+- [[superior-hypophyseal-artery]] — Pituitary portal supply, chiasm perforators
+- [[ethmoidal-arteries]] — AEA/PEA, cribriform landmarks, anterior skull base supply
 
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
@@ -130,7 +134,8 @@ title: Wiki Index
 - [[skull-base-foramina]] — Complete foraminal map by fossa
 - [[herniation-syndromes]] — Uncal, central, tonsillar, subfalcine, ascending
 - [[deep-venous-system]] — ICV/basal/galenic architecture, surgical obstacle map
+- [[cavernous-sinus-triangles]] — 7 surgical windows, Parkinson/Kawase/Glasscock
 
 ---
 
-*105 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*111 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
