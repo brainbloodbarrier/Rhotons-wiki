@@ -53,6 +53,8 @@ title: Wiki Index
 - [[cerebral-aqueduct]] — Midbrain channel, aqueductal stenosis, tectal plate
 - [[internal-auditory-canal]] — Bill's bar, fundus quadrants, schwannoma staging
 - [[optic-canal]] — Optic strut, sphenoid sinus relation, nerve decompression
+- [[liliequist-membrane]] — Arachnoid barrier, cisternal compartments, basilar apex
+- [[cerebellomedullary-fissure]] — Telovelar gateway, PICA guide, fourth ventricle access
 
 ## Entities
 
@@ -88,6 +90,7 @@ title: Wiki Index
 - [[basal-vein-of-rosenthal]] — Deep venous conduit, PCA parallel, pineal region obstacle
 - [[internal-cerebral-veins]] — Velum interpositum, venous angle, thalamostriate drainage
 - [[bridging-veins]] — Four drainage groups, Labbé/Trolard, craniotomy risks
+- [[sigmoid-sinus]] — S-shaped course, asterion landmark, craniotomy boundary
 
 ### Nerves
 - [[olfactory-nerve]] — CN I, cribriform plate, olfactory groove meningioma
@@ -100,6 +103,7 @@ title: Wiki Index
 - [[facial-nerve]] — CN VII, CP angle surgery, parotid branches
 - [[vestibulocochlear-nerve]] — CN VIII, vestibular schwannoma origin
 - [[lower-cranial-nerves]] — CN IX-XII, jugular foramen, foramen magnum
+- [[greater-petrosal-nerve]] — GSPN, geniculate landmark, Kawase triangle boundary
 
 ### Other Entities
 - [[pituitary-gland]] — Adenohypophysis/neurohypophysis, hypophyseal arteries
@@ -140,7 +144,8 @@ title: Wiki Index
 - [[deep-venous-system]] — ICV/basal/galenic architecture, surgical obstacle map
 - [[cavernous-sinus-triangles]] — 7 surgical windows, Parkinson/Kawase/Glasscock
 - [[aneurysm-surgery]] — Site-approach-perforator map, CN relationships, clipping
+- [[craniocervical-junction]] — CVJ osseous/ligamentous framework, approach selection
 
 ---
 
-*114 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*119 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
