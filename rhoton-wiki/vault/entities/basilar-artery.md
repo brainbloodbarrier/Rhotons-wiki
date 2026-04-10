@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.12, 14 (Foramen Magnum)"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Pontine trunk, SCA/AICA/PCA branches, perforators
 ---
 
 # Basilar Artery

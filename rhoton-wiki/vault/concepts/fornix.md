@@ -11,6 +11,11 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Hippocampal efferent arc, foramen of Monro landmark, memory circuit
+aliases:
+  - "fornix cerebri"
+  - "hippocampal fornix"
 ---
 
 # Fornix

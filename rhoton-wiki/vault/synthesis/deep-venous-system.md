@@ -13,6 +13,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.4"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  ICV/basal/galenic architecture, surgical obstacle map
 ---
 
 # Deep Venous System

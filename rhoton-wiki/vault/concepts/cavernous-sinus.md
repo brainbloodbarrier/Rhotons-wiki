@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.9 — The Cavernous Sinus"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Dural envelope with ICA and cranial nerves III-VI
 ---
 
 # Cavernous Sinus

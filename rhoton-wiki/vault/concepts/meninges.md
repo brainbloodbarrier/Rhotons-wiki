@@ -17,6 +17,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.4, 14, 15"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Dura folds, Liliequist membrane, arachnoid cistern boundaries
 ---
 
 # Meninges

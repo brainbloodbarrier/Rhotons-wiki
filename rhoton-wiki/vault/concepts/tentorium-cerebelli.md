@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1, 4, 5, 9"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Dural fold, tentorial division, sinuses, herniation site
 ---
 
 # Tentorium Cerebelli

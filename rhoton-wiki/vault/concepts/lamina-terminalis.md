@@ -12,6 +12,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1, 2"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Third ventricle anterior wall, ACoA landmark, CSF drainage
 ---
 
 # Lamina Terminalis

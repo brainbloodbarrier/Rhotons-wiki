@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.8 — The Sellar Region"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Pituitary fossa, transsphenoidal and transcranial approaches
 ---
 
 # Sellar Region

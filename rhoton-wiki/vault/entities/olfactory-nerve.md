@@ -16,6 +16,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1, 6"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  CN I, cribriform plate, olfactory groove meningioma
 ---
 
 # Olfactory Nerve and Tract

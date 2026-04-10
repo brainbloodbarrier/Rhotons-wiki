@@ -13,6 +13,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.9"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Lateral wall nerve order, surgical triangles
 ---
 
 # Cavernous Sinus Contents

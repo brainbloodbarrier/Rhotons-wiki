@@ -22,6 +22,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.14 (Foramen Magnum), Ch.15 (Cerebellopontine Cistern)"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  CN IX-XII, jugular foramen, foramen magnum
 ---
 
 # Lower Cranial Nerves (CN IX–XII)

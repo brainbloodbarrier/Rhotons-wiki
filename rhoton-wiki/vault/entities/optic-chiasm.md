@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1–2, 8"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Visual pathway crossing, sellar region landmark
 ---
 
 # Optic Chiasm

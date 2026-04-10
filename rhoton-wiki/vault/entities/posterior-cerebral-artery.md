@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2–3"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  P1-P4 segments, thalamoperforating, choroidal branches
 ---
 
 # Posterior Cerebral Artery

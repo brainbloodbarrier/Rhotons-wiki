@@ -13,6 +13,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.14 (Foramen Magnum)"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Foramen magnum landmark, anterior/posterior compartment division
 ---
 
 # Dentate Ligament

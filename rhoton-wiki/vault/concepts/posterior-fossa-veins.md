@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.13 — The Posterior Fossa Veins"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Superior, anterior, and posterior drainage groups
 ---
 
 # Posterior Fossa Veins

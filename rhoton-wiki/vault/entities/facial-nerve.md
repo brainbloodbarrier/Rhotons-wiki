@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.10, 15"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  CN VII, CP angle surgery, parotid branches
 ---
 
 # Facial Nerve (CN VII)

@@ -13,6 +13,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.6, 14"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  V3 territory, maxillary artery, pterygoid plexus
 ---
 
 # Infratemporal Fossa

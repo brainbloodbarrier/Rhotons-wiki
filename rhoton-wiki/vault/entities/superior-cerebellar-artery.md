@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.12 — The Superior Cerebellar Artery"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Upper neurovascular complex, CN V relation
 ---
 
 # Superior Cerebellar Artery
