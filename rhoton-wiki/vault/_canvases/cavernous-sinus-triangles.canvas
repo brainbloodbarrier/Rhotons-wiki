@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {"id":"title","x":0,"y":-80,"width":500,"height":80,"type":"text","text":"# Cavernous Sinus Surgical Triangles\n7 windows defined by cranial nerves and bony landmarks"},
+    {"id":"cs","x":0,"y":80,"width":250,"height":60,"type":"file","file":"concepts/cavernous-sinus.md","color":"4"},
+    {"id":"triangles","x":0,"y":200,"width":280,"height":60,"type":"file","file":"synthesis/cavernous-sinus-triangles.md","color":"4"},
+    {"id":"clinoidal","x":-450,"y":350,"width":220,"height":70,"type":"text","text":"**1. Clinoidal (Dolenc)**\nCN II — CN III\nAnterior clinoidectomy","color":"1"},
+    {"id":"oculomotor","x":-200,"y":350,"width":220,"height":70,"type":"text","text":"**2. Oculomotor**\nCN III — CN IV\nPosterior clinoid access","color":"1"},
+    {"id":"supratrochlear","x":50,"y":350,"width":220,"height":70,"type":"text","text":"**3. Supratrochlear**\nCN IV — V1\nSuperomedial CS","color":"5"},
+    {"id":"infratrochlear","x":300,"y":350,"width":220,"height":70,"type":"text","text":"**4. Infratrochlear (Parkinson)**\nV1 — V2\nDirect to ICA","color":"5"},
+    {"id":"anterolateral","x":-450,"y":500,"width":220,"height":70,"type":"text","text":"**5. Anterolateral (Mullan)**\nV2 — V3\nForamen rotundum","color":"6"},
+    {"id":"anteromed","x":-200,"y":500,"width":220,"height":70,"type":"text","text":"**6. Anteromedial**\nV1 — ICA\nSuperior orbital fissure","color":"6"},
+    {"id":"posterolateral","x":50,"y":500,"width":250,"height":70,"type":"text","text":"**7. Posterolateral (Glasscock)**\nV3 — GSPN\nForamen ovale/spinosum","color":"6"},
+    {"id":"kawase","x":300,"y":500,"width":250,"height":70,"type":"text","text":"**Kawase Triangle**\n(extradural)\nGSPN — V3 — arcuate eminence","color":"3"},
+    {"id":"cn3","x":-350,"y":180,"width":150,"height":40,"type":"file","file":"entities/oculomotor-nerve.md","color":"1"},
+    {"id":"cn4","x":-150,"y":180,"width":150,"height":40,"type":"file","file":"entities/trochlear-nerve.md","color":"1"},
+    {"id":"cn5","x":100,"y":180,"width":150,"height":40,"type":"file","file":"entities/trigeminal-nerve.md","color":"1"},
+    {"id":"cn6","x":300,"y":180,"width":150,"height":40,"type":"file","file":"entities/abducens-nerve.md","color":"1"},
+    {"id":"ica-node","x":450,"y":180,"width":180,"height":40,"type":"file","file":"entities/internal-carotid-artery.md","color":"4"},
+    {"id":"gspn","x":450,"y":400,"width":200,"height":40,"type":"file","file":"entities/greater-petrosal-nerve.md","color":"5"},
+    {"id":"acp","x":-500,"y":250,"width":220,"height":40,"type":"file","file":"concepts/anterior-clinoid-process.md","color":"3"}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"cs","toNode":"triangles","fromSide":"bottom","toSide":"top"},
+    {"id":"e2","fromNode":"triangles","toNode":"clinoidal","fromSide":"left","toSide":"top","label":"1"},
+    {"id":"e3","fromNode":"triangles","toNode":"oculomotor","fromSide":"bottom","toSide":"top","label":"2"},
+    {"id":"e4","fromNode":"triangles","toNode":"supratrochlear","fromSide":"bottom","toSide":"top","label":"3"},
+    {"id":"e5","fromNode":"triangles","toNode":"infratrochlear","fromSide":"right","toSide":"top","label":"4"},
+    {"id":"e6","fromNode":"triangles","toNode":"anterolateral","fromSide":"bottom","toSide":"top","label":"5"},
+    {"id":"e7","fromNode":"triangles","toNode":"anteromed","fromSide":"bottom","toSide":"top","label":"6"},
+    {"id":"e8","fromNode":"triangles","toNode":"posterolateral","fromSide":"bottom","toSide":"top","label":"7"},
+    {"id":"e9","fromNode":"posterolateral","toNode":"kawase","fromSide":"right","toSide":"left","label":"extends to"},
+    {"id":"e10","fromNode":"kawase","toNode":"gspn","fromSide":"right","toSide":"left","label":"boundary"},
+    {"id":"e11","fromNode":"clinoidal","toNode":"acp","fromSide":"left","toSide":"right","label":"requires"}
+  ]
+}
