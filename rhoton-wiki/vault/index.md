@@ -42,6 +42,11 @@ title: Wiki Index
 - [[pterygopalatine-fossa]] — V2/maxillary artery hub, 8 communications
 - [[meninges]] — Dura folds, Liliequist membrane, arachnoid cistern boundaries
 - [[suboccipital-triangle]] — V3 vertebral artery landmark, far-lateral roadmap
+- [[clivus]] — Central skull base axis, petroclival region, chordomas
+- [[anterior-clinoid-process]] — Clinoidectomy, dural rings, optic strut, paraclinoid ICA
+- [[pineal-region]] — Quadrigeminal cistern, deep venous confluence, pineal tumors
+- [[jugular-foramen]] — Pars nervosa/vascularis, CN IX-XI transit, glomus tumors
+- [[lamina-terminalis]] — Third ventricle anterior wall, ACoA landmark, CSF drainage
 
 ## Entities
 
@@ -70,6 +75,8 @@ title: Wiki Index
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
 - [[superior-petrosal-vein]] — Vein of Dandy, retrosigmoid obstacle, petrosal drainage
+- [[basal-vein-of-rosenthal]] — Deep venous conduit, PCA parallel, pineal region obstacle
+- [[internal-cerebral-veins]] — Velum interpositum, venous angle, thalamostriate drainage
 
 ### Nerves
 - [[olfactory-nerve]] — CN I, cribriform plate, olfactory groove meningioma
@@ -120,4 +127,4 @@ title: Wiki Index
 
 ---
 
-*91 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*98 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
