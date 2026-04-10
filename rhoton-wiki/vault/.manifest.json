@@ -1,6 +1,23 @@
 {
   "version": "1.0",
   "vault": "rhoton-wiki/vault",
-  "sources": {},
-  "last_updated": "2026-04-09T00:00:00Z"
+  "sources": {
+    "rhoton-full-text": {
+      "path": "rhoton-wiki/full-pdf-book/rhoton-full-text.txt",
+      "original": "Rhoton - Cranial Anatomy and Surgical Approaches (2023)",
+      "sha256": "5d1413d97bb3e3adfcbd3a22081594ce11a4c13ca3da87e930b5c0235a7a8398",
+      "ingested_at": "2026-04-10T00:00:00Z",
+      "pages_created": 139,
+      "method": "autoresearch-150-iterations"
+    }
+  },
+  "stats": {
+    "total_pages": 141,
+    "concepts": 57,
+    "entities": 50,
+    "synthesis": 18,
+    "references": 14,
+    "special": 2
+  },
+  "last_updated": "2026-04-10T23:00:00Z"
 }
