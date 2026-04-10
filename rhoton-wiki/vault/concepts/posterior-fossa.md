@@ -76,13 +76,15 @@ Two critical fissures provide natural surgical corridors to the fourth ventricle
 ## Relations
 
 - Separated from supratentorial ([[cerebrum]]) space by tentorium cerebelli
-- Contains cerebellum, brainstem, CN III-XII
-- Arterial supply: vertebral-basilar system ([[superior-cerebellar-artery]], AICA, PICA)
-- Venous drainage: [[posterior-fossa-veins]] → petrosal, transverse, sigmoid sinuses
+- Contains [[brainstem]] (midbrain, pons, medulla), cerebellum, CN III-XII
+- Arterial supply: [[vertebral-artery]] → [[basilar-artery]] system ([[superior-cerebellar-artery]], [[aica]], [[pica]])
+- Venous drainage: [[posterior-fossa-veins]] → [[dural-venous-sinuses]] (petrosal, transverse, sigmoid sinuses)
 - Fourth ventricle communicates with [[lateral-and-third-ventricles]] via aqueduct
 - [[tentorial-incisura]] is the gateway between supra- and infratentorial compartments
 - [[cerebellopontine-cistern]] is a major surgical target within the posterior fossa
-- Approaches: [[retrosigmoid-approach]], [[far-lateral-approach]], suboccipital midline
+- [[foramen-magnum]] is the inferior boundary (transmits [[vertebral-artery]], [[lower-cranial-nerves|CN XI]])
+- Approaches: [[retrosigmoid-approach]], [[far-lateral-approach]], [[subtemporal-approach]], [[supracerebellar-infratentorial-approach]], suboccipital midline
+- See [[surgical-approaches-overview]] for approach selection by target
 
 ## References
 

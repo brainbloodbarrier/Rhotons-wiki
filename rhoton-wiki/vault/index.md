@@ -21,6 +21,8 @@ title: Wiki Index
 - [[cerebellopontine-cistern]] — CP angle anatomy, CN V-VIII, AICA
 - [[basal-cisterns]] — 12 named cisterns, surgical access routes
 - [[foramen-magnum]] — Craniocervical junction, occipital bone, CVJ ligaments
+- [[brainstem]] — Midbrain, pons, medulla; neurovascular complexes, safe entry zones
+- [[dural-venous-sinuses]] — Sagittal, transverse, sigmoid, petrosal, confluence
 
 ## Entities
 
@@ -57,13 +59,15 @@ title: Wiki Index
 - [[transsphenoidal-approach]] — Endonasal corridor to sellar region
 - [[subtemporal-approach]] — Middle incisural space, basilar apex, tentorial division
 - [[supracerebellar-infratentorial-approach]] — Pineal region, quadrigeminal cistern
+- [[interhemispheric-approach]] — Midline corridor, ACoA/ACA, transcallosal
 
 ## Synthesis
 
 - [[circle-of-willis]] — Cerebral arterial circle, variants, aneurysm sites
 - [[sylvian-fissure]] — Most important surgical corridor, MCA and venous contents
 - [[cavernous-sinus-contents]] — Lateral wall nerve order, surgical triangles
+- [[surgical-approaches-overview]] — Approach-target matrix, selection principles
 
 ---
 
-*44 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*48 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
