@@ -47,6 +47,8 @@ title: Wiki Index
 - [[pineal-region]] — Quadrigeminal cistern, deep venous confluence, pineal tumors
 - [[jugular-foramen]] — Pars nervosa/vascularis, CN IX-XI transit, glomus tumors
 - [[lamina-terminalis]] — Third ventricle anterior wall, ACoA landmark, CSF drainage
+- [[tentorium-cerebelli]] — Dural fold, tentorial division, sinuses, herniation site
+- [[falx-cerebri]] — Dural fold, sagittal sinuses, subfalcine herniation
 
 ## Entities
 
@@ -71,12 +73,14 @@ title: Wiki Index
 - [[anterior-spinal-artery]] — VA branch, anterior cord supply, spinal artery syndrome
 - [[posterior-spinal-artery]] — VA branch, dorsal column supply, dentate ligament relation
 - [[middle-meningeal-artery]] — Foramen spinosum, epidural hematoma, dural supply
+- [[occipital-artery]] — ECA branch, far-lateral landmark, EC-IC bypass donor
 
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
 - [[superior-petrosal-vein]] — Vein of Dandy, retrosigmoid obstacle, petrosal drainage
 - [[basal-vein-of-rosenthal]] — Deep venous conduit, PCA parallel, pineal region obstacle
 - [[internal-cerebral-veins]] — Velum interpositum, venous angle, thalamostriate drainage
+- [[bridging-veins]] — Four drainage groups, Labbé/Trolard, craniotomy risks
 
 ### Nerves
 - [[olfactory-nerve]] — CN I, cribriform plate, olfactory groove meningioma
@@ -110,6 +114,7 @@ title: Wiki Index
 - [[anterior-petrosectomy]] — Kawase triangle, lateral clivus exposure
 - [[middle-fossa-approach]] — IAC from above, hearing preservation
 - [[posterior-petrosectomy]] — Retrolabyrinthine, translabyrinthine, transcochlear, combined petrosal
+- [[endoscopic-endonasal-approach]] — Expanded endonasal, modular skull base corridors
 
 ## Synthesis
 
@@ -124,7 +129,8 @@ title: Wiki Index
 - [[surgical-approaches-overview]] — Approach-target matrix, selection principles
 - [[skull-base-foramina]] — Complete foraminal map by fossa
 - [[herniation-syndromes]] — Uncal, central, tonsillar, subfalcine, ascending
+- [[deep-venous-system]] — ICV/basal/galenic architecture, surgical obstacle map
 
 ---
 
-*98 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*105 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
