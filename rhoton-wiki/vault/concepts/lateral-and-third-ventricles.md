@@ -72,7 +72,7 @@ The choroidal fissure is the cleft between the fornix and thalamus through which
 - Located within the [[cerebrum]], wrapping around the thalamus
 - Arterial supply: [[anterior-choroidal-artery]], [[posterior-cerebral-artery]] (choroidal branches)
 - Venous drainage: deep [[cerebral-veins]] (internal cerebral veins → vein of Galen)
-- Communicates with fourth ventricle in [[posterior-fossa]] via cerebral aqueduct
+- Communicates with [[fourth-ventricle]] in [[posterior-fossa]] via cerebral aqueduct
 - [[optic-chiasm]] and [[sellar-region]] are below the anterior third ventricle
 - Choroidal fissure provides surgical corridor (transchoroidal approach)
 

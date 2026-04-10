@@ -76,4 +76,4 @@ title: Wiki Index
 
 ---
 
-*55 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*52 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*

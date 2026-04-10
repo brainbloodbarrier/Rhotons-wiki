@@ -62,6 +62,17 @@ Key operative relationships:
 - **Cranial base tumors** (sphenoid ridge meningiomas, pituitary adenomas) frequently encase or displace the ICA
 - Agenesis or aplasia of the ICA is rare
 
+## Relations
+
+- Principal vessel of the [[anterior-circulation]]
+- Bifurcates into [[anterior-cerebral-artery]] and [[middle-cerebral-artery]]
+- Gives rise to [[posterior-communicating-artery]], [[anterior-choroidal-artery]], ophthalmic artery
+- C3 segment traverses the [[cavernous-sinus]] — see [[cavernous-sinus-contents]]
+- [[optic-nerve|CN II]] medial in the optic canal; [[optic-chiasm]] above
+- [[oculomotor-nerve|CN III]] related at the PCoA origin
+- Completes the [[circle-of-willis]] laterally
+- Exposed by [[pterional-approach]], [[transsphenoidal-approach]], [[interhemispheric-approach]]
+
 ## References
 
 - Rhoton, Ch.2 — The Supratentorial Arteries, Figs. 2.1–2.3
