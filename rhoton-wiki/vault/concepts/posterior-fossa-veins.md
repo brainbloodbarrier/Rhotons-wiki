@@ -56,8 +56,13 @@ These veins are typically small but critical — their injury during surgery can
 
 ## Relations
 
-- Superior group drains into vein of Galen system (connects to deep [[cerebral-veins]])
-- Petrosal group drains into superior petrosal sinus
+- Superior group drains into vein of Galen system (connects to deep [[cerebral-veins]]) → [[dural-venous-sinuses|straight sinus]]
+- Petrosal group drains into [[dural-venous-sinuses|superior petrosal sinus]]
+- Posterior group drains into [[dural-venous-sinuses|transverse sinus]] and torcular
+- Drain the [[cerebellum]] (three surfaces) and [[brainstem]]
+- Related to the [[fourth-ventricle]] (dorsal brainstem veins)
+- At risk in [[retrosigmoid-approach]], [[supracerebellar-infratentorial-approach]], [[far-lateral-approach]]
+- See [[posterior-circulation]] for the arterial counterpart
 - Inferior group drains into transverse/sigmoid sinuses
 - Anatomically organized around the three neurovascular complexes of [[posterior-fossa]]
 

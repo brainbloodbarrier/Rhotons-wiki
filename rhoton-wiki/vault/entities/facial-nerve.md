@@ -42,6 +42,18 @@ In vestibular schwannomas, CN VII is typically displaced anteriorly and superior
 - The frontal branch crosses the zygomatic arch ~1.5 cm anterior to the ear — at risk during [[pterional-approach]] skin incision
 - Hemifacial spasm: [[aica]] or [[pica]] compressing CN VII — treated by microvascular decompression
 
+## Relations
+
+- Arises from [[brainstem]] (pons) — motor nucleus loops around [[abducens-nerve|CN VI]] nucleus at [[fourth-ventricle]] floor (facial colliculus)
+- Courses through [[cerebellopontine-cistern]] with [[vestibulocochlear-nerve|CN VIII]]
+- [[aica|AICA]] meatal loop courses near CN VII in the internal auditory canal
+- Part of the middle neurovascular complex — see [[posterior-circulation]]
+- Exits skull via stylomastoid foramen to parotid gland
+- Frontal branch at risk in [[pterional-approach]] skin incision
+- Preserved in [[retrosigmoid-approach]] vestibular schwannoma surgery
+- See [[cranial-nerves-overview]] for compression syndromes (hemifacial spasm)
+- Related to [[basilar-artery]] (AICA origin), [[cerebellum]] (petrosal surface)
+
 ## References
 
 - Rhoton, Ch.10 — The Posterior Cranial Fossa
