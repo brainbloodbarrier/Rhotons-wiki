@@ -65,6 +65,7 @@ title: Wiki Index
 - [[velum-interpositum]] — Tela choroidea cistern, ICV corridor, pineal access
 - [[ambient-cistern]] — Perimesencephalic corridor, PCA/basal vein, middle incisural space
 - [[interpeduncular-cistern]] — Basilar apex hub, CN III origin, thalamoperforating territory
+- [[paraclinoid-ica]] — Dural rings, clinoid space, carotid cave aneurysms, clinoidectomy
 
 ## Entities
 
@@ -95,6 +96,7 @@ title: Wiki Index
 - [[thalamoperforating-arteries]] — P1 perforators, Percheron variant, basilar apex risk
 - [[thalamogeniculate-arteries]] — P2 perforators, lateral thalamus supply, ambient cistern
 - [[sphenopalatine-artery]] — Nasoseptal flap pedicle, posterior epistaxis
+- [[maxillary-artery]] — ECA terminal, infratemporal/pterygopalatine course, endonasal landmark
 
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
@@ -159,7 +161,9 @@ title: Wiki Index
 - [[cavernous-sinus-triangles]] — 7 surgical windows, Parkinson/Kawase/Glasscock
 - [[aneurysm-surgery]] — Site-approach-perforator map, CN relationships, clipping
 - [[craniocervical-junction]] — CVJ osseous/ligamentous framework, approach selection
+- [[microsurgical-anatomy-principles]] — Rhoton's 6 axioms, cistern corridors, perforator rules
+- [[neurovascular-compression-syndromes]] — MVD anatomy, REZ zones, offending vessels
 
 ---
 
-*133 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*138 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
