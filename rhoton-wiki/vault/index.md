@@ -55,6 +55,8 @@ title: Wiki Index
 - [[optic-canal]] — Optic strut, sphenoid sinus relation, nerve decompression
 - [[liliequist-membrane]] — Arachnoid barrier, cisternal compartments, basilar apex
 - [[cerebellomedullary-fissure]] — Telovelar gateway, PICA guide, fourth ventricle access
+- [[hypothalamus]] — Third ventricle floor, perforator supply, craniopharyngioma
+- [[cerebellar-peduncles]] — Three fiber bundles, safe entry zones, fourth ventricle walls
 
 ## Entities
 
@@ -83,6 +85,8 @@ title: Wiki Index
 - [[superior-hypophyseal-artery]] — Pituitary portal supply, chiasm perforators
 - [[ethmoidal-arteries]] — AEA/PEA, cribriform landmarks, anterior skull base supply
 - [[thalamoperforating-arteries]] — P1 perforators, Percheron variant, basilar apex risk
+- [[thalamogeniculate-arteries]] — P2 perforators, lateral thalamus supply, ambient cistern
+- [[sphenopalatine-artery]] — Nasoseptal flap pedicle, posterior epistaxis
 
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
@@ -104,6 +108,7 @@ title: Wiki Index
 - [[vestibulocochlear-nerve]] — CN VIII, vestibular schwannoma origin
 - [[lower-cranial-nerves]] — CN IX-XII, jugular foramen, foramen magnum
 - [[greater-petrosal-nerve]] — GSPN, geniculate landmark, Kawase triangle boundary
+- [[optic-tract]] — Post-chiasmatic pathway, AChA landmark, uncal herniation
 
 ### Other Entities
 - [[pituitary-gland]] — Adenohypophysis/neurohypophysis, hypophyseal arteries
@@ -148,4 +153,4 @@ title: Wiki Index
 
 ---
 
-*119 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*124 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
