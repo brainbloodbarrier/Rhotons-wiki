@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.9, 10, 12, 15"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  CN V, three divisions, neurovascular compression
 ---
 
 # Trigeminal Nerve (CN V)

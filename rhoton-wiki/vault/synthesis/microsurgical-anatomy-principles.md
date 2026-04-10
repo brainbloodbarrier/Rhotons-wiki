@@ -12,6 +12,11 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Rhoton's 6 axioms, cistern corridors, perforator rules
+aliases:
+  - "Rhoton principles"
+  - "microsurgical principles"
 ---
 
 # Microsurgical Anatomy Principles

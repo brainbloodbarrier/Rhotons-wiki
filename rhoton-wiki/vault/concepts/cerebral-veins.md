@@ -13,6 +13,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.4 — The Cerebral Veins"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Superficial and deep venous drainage systems
 ---
 
 # Cerebral Veins

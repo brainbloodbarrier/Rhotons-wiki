@@ -17,6 +17,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.3 — The Posterior Cerebral Artery"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  PCA branches, pineal/choroid plexus supply
 ---
 
 # Posterior Choroidal Arteries

@@ -13,6 +13,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.11 — Fourth Ventricle and Cerebellar-Brainstem Fissures"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Rhomboid fossa, choroid plexus, telovelar approach
 ---
 
 # Fourth Ventricle

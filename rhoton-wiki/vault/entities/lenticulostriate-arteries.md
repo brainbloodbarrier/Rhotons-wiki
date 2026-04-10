@@ -16,6 +16,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2 — The Supratentorial Arteries"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  MCA/ACA perforators, basal ganglia supply, end-arteries
 ---
 
 # Lenticulostriate Arteries

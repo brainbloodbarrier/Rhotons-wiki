@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.5 — The Lateral and Third Ventricles"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Ventricular anatomy, choroidal fissure, surgical approaches
 ---
 
 # Lateral and Third Ventricles

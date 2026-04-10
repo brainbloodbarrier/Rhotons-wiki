@@ -11,6 +11,11 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Dural rings, clinoid space, carotid cave aneurysms, clinoidectomy
+aliases:
+  - "paraclinoid internal carotid"
+  - "clinoid segment ICA"
 ---
 
 # Paraclinoid Internal Carotid Artery

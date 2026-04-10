@@ -16,6 +16,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.10–11"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Cerebellum, brainstem, fourth ventricle, cerebellar arteries
 ---
 
 # Posterior Cranial Fossa

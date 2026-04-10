@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.9, 14, 15"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Trigeminal ganglion housing, paraclival triangles
 ---
 
 # Meckel's Cave

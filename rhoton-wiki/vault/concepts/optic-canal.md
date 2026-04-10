@@ -12,6 +12,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.7, 8, 9"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Optic strut, sphenoid sinus relation, nerve decompression
 ---
 
 # Optic Canal

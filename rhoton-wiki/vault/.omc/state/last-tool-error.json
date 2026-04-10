@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"git add rhoton-wiki/vault/ && git commit -m \\\"$(cat <<'EOF'\\nexperiment(wiki): index update to 129 pages + cross-link enrichment — add optic radiation, fornix, internal capsule, choroidal ...",
+  "error": "Exit code 128\nwarning: could not open directory 'rhoton-wiki/vault/rhoton-wiki/vault/': No such file or directory\nfatal: pathspec 'rhoton-wiki/vault/' did not match any files",
+  "timestamp": "2026-04-10T16:06:03.117Z",
+  "retry_count": 1
+}

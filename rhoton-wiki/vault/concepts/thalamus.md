@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.3, 5, 14"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Central relay, thalamoperforating supply, choroidal fissure
 ---
 
 # Thalamus

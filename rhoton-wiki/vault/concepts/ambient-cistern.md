@@ -11,6 +11,11 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Perimesencephalic corridor, PCA/basal vein, middle incisural space
+aliases:
+  - "perimesencephalic cistern"
+  - "cisterna ambiens"
 ---
 
 # Ambient Cistern

@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.6, 7, 8"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  V2/maxillary artery hub, 8 communications
 ---
 
 # Pterygopalatine Fossa

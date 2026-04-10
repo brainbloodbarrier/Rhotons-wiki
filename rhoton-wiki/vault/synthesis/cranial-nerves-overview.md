@@ -13,6 +13,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), all chapters"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  CN I-XII map, cisternal course, compression syndromes
 ---
 
 # Cranial Nerves Overview

@@ -11,6 +11,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1, 2, 3"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Third ventricle floor, perforator supply, craniopharyngioma
 ---
 
 # Hypothalamus

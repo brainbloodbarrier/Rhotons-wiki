@@ -11,6 +11,11 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  STA-MCA bypass donor, pterional landmark, CN VII relation
+aliases:
+  - "STA"
+  - "arteria temporalis superficialis"
 ---
 
 # Superficial Temporal Artery

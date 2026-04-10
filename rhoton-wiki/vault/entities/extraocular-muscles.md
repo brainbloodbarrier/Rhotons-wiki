@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.7 — The Orbit"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Rectus/oblique muscles, annulus of Zinn, CN palsies
 ---
 
 # Extraocular Muscles

@@ -16,6 +16,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.10, 12, 14 (Foramen Magnum)"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  V1-V4 segments, vertebrobasilar system, foramen magnum
 ---
 
 # Vertebral Artery

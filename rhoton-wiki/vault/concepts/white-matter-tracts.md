@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1 — The Cerebrum"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Association, commissural, projection fibers, fiber dissection
 ---
 
 # White Matter Tracts

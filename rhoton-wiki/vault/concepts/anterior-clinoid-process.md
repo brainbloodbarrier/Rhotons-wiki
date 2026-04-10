@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.3, 7, 9"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Clinoidectomy, dural rings, optic strut, paraclinoid ICA
 ---
 
 # Anterior Clinoid Process

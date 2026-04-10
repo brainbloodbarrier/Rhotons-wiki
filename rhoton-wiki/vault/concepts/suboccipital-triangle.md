@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.14 (Foramen Magnum)"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  V3 vertebral artery landmark, far-lateral roadmap
 ---
 
 # Suboccipital Triangle

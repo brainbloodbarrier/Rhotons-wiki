@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  P2 perforators, lateral thalamus supply, ambient cistern
 ---
 
 # Thalamogeniculate Arteries

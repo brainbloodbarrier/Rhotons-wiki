@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.6, 9, 14"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  IAC from above, hearing preservation
 ---
 
 # Middle Fossa Approach

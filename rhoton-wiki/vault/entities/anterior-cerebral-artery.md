@@ -14,6 +14,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2 — The Supratentorial Arteries"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  A1-A5 segments, ACoA complex, recurrent artery of Heubner
 ---
 
 # Anterior Cerebral Artery

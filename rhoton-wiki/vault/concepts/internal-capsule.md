@@ -11,6 +11,10 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Projection fiber lamina, lenticulostriate territory, AChA syndrome
+aliases:
+  - "capsula interna"
 ---
 
 # Internal Capsule

@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.14 — Tentorial Incisura"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Incisural spaces, transtentorial herniation
 ---
 
 # Tentorial Incisura

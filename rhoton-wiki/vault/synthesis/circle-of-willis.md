@@ -16,6 +16,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2–3"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Cerebral arterial circle, variants, aneurysm sites
 ---
 
 # Circle of Willis

@@ -17,6 +17,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.5"
 created: 2026-04-10
 updated: 2026-04-10
+summary: >-
+  Three fiber bundles, safe entry zones, fourth ventricle walls
 ---
 
 # Cerebellar Peduncles

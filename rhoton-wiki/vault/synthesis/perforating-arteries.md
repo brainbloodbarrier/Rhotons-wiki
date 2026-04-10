@@ -15,6 +15,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2, 3, 12"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Complete perforator map, surgical rules
 ---
 
 # Perforating Arteries

@@ -13,6 +13,8 @@ sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.10, 11, 12"
 created: 2026-04-09
 updated: 2026-04-09
+summary: >-
+  Three surfaces, fissures, peduncles, neurovascular complexes
 ---
 
 # Cerebellum
