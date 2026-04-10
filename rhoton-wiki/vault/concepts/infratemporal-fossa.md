@@ -38,7 +38,7 @@ The infratemporal fossa is an irregularly shaped deep space below the middle cra
 - **Otic ganglion** — parasympathetic relay below the foramen ovale
 
 ### Vascular
-- **Maxillary artery** — the larger terminal branch of the external carotid; courses through the fossa giving off multiple branches (middle meningeal, inferior alveolar, deep temporal, buccal, sphenopalatine)
+- **Maxillary artery** — the larger terminal branch of the [[external-carotid-artery|external carotid]]; courses through the fossa giving off multiple branches (middle meningeal, inferior alveolar, deep temporal, buccal, sphenopalatine)
 - **[[middle-meningeal-artery]]** — ascends through the foramen spinosum ([[sphenoid-bone]]) to supply the dura of the middle fossa
 - **Pterygoid venous plexus** — extensive venous network around the pterygoid muscles; communicates with the [[cavernous-sinus]] via emissary veins through the foramen ovale and foramen of Vesalius
 

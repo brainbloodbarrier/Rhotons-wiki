@@ -29,7 +29,7 @@ The cerebellopontine cistern lies between the anterolateral surface of the pons 
 
 - **Superior** — separated from [[ambient-cistern]] by the lateral pontomesencephalic membrane (spans between PCA and SCA, attached at midbrain-pons junction)
 - **Inferior** — separated from cerebellomedullary cistern by the lateral pontomedullary membrane (crosses between CN VIII and [[lower-cranial-nerves|CN IX]])
-- **Medial** — separated from prepontine cistern by the anterior pontine membrane
+- **Medial** — separated from [[prepontine-cistern]] by the anterior pontine membrane
 - **Lateral** — cerebellar surface wrapping around pons (cerebellopontine fissure)
 
 ## Neural Contents

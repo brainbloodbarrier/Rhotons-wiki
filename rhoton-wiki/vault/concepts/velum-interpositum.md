@@ -28,7 +28,7 @@ The velum interpositum is a triangular cistern (tela choroidea of the third vent
 - **Floor** — body of the [[fornix]] (bilaterally) and the superior surface of the [[thalamus]] (roof of the third ventricle)
 - **Roof** — undersurface of the [[corpus-callosum]] (splenium and posterior body)
 - **Apex (anterior)** — narrows to the [[lateral-and-third-ventricles|foramen of Monro]], where the [[internal-cerebral-veins]] originate at the venous angle
-- **Base (posterior)** — opens into the quadrigeminal cistern at the [[pineal-region]]; the [[internal-cerebral-veins]] exit here to join the [[vein-of-galen]]
+- **Base (posterior)** — opens into the [[quadrigeminal-cistern]] at the [[pineal-region]]; the [[internal-cerebral-veins]] exit here to join the [[vein-of-galen]]
 - **Lateral walls** — the tenia of the [[fornix]] and the [[choroidal-fissure]] on each side
 
 ### Shape

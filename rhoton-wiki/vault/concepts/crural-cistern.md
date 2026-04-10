@@ -20,7 +20,7 @@ parent: "[[basal-cisterns]]"
 
 # Crural Cistern
 
-The crural cistern occupies the anterior incisural space between the [[uncus]] of the temporal lobe laterally and the [[brainstem|cerebral peduncle]] (crus cerebri) medially. It connects the chiasmatic/carotid cisterns anteriorly to the [[ambient-cistern]] posteriorly and is the corridor through which the [[oculomotor-nerve|CN III]], [[anterior-choroidal-artery]], and [[posterior-cerebral-artery|PCA]] P2A segment course around the [[brainstem|midbrain]].
+The crural cistern occupies the anterior incisural space between the [[uncus]] of the [[cerebral-lobes|temporal lobe]] laterally and the [[brainstem|cerebral peduncle]] (crus cerebri) medially. It connects the chiasmatic/carotid cisterns anteriorly to the [[ambient-cistern]] posteriorly and is the corridor through which the [[oculomotor-nerve|CN III]], [[anterior-choroidal-artery]], and [[posterior-cerebral-artery|PCA]] P2A segment course around the [[brainstem|midbrain]].
 
 ## Boundaries
 - **Medial** — [[brainstem|cerebral peduncle]] (crus cerebri)
@@ -34,13 +34,13 @@ The crural cistern occupies the anterior incisural space between the [[uncus]] o
 - **[[posterior-cerebral-artery|PCA]] P2A segment** — enters the cistern from the [[interpeduncular-cistern]]
 - **[[anterior-choroidal-artery]]** — courses posterolaterally from the [[internal-carotid-artery|ICA]] through the crural cistern before entering the [[choroidal-fissure]]
 - **[[basal-vein-of-rosenthal]]** — begins forming in the anterior incisural space
-- **[[posterior-communicating-artery|PCoA]]** premamillary perforators — traverse the cistern floor
+- **[[posterior-communicating-artery|PCoA]]** premamillary [[perforating-arteries|perforators]] — traverse the cistern floor
 
 ## Surgical Significance
 - **[[pterional-approach]]** — follows [[internal-carotid-artery|ICA]] → [[posterior-communicating-artery|PCoA]] → [[posterior-cerebral-artery|PCA]] P1 through the crural cistern to reach the [[basilar-artery]] apex
 - **[[oculomotor-nerve|CN III]]** is the key landmark: structures above CN III = [[posterior-cerebral-artery|PCA]], [[basilar-artery|basilar apex]]; below = [[superior-cerebellar-artery|SCA]], pons
 - **[[posterior-communicating-artery|PCoA]] aneurysm** projects into this cistern, compressing [[oculomotor-nerve|CN III]] → ipsilateral pupil dilation
-- **[[anterior-choroidal-artery]]** must be preserved — its course through the crural cistern makes it vulnerable during [[internal-carotid-artery|ICA]] bifurcation and [[posterior-communicating-artery|PCoA]] aneurysm surgery
+- **[[anterior-choroidal-artery]]** must be preserved — its course through the crural cistern makes it vulnerable during [[internal-carotid-artery|ICA]] bifurcation and [[posterior-communicating-artery|PCoA]] [[aneurysm-surgery]]
 - In [[herniation-syndromes|uncal herniation]], the [[uncus]] herniates into the crural cistern, obliterating it
 
 ## Related Pages

@@ -22,7 +22,7 @@ parent: "[[posterior-circulation]]"
 
 # Posterior Cerebral Artery
 
-The posterior cerebral artery (PCA) arises at the basilar bifurcation, is joined by the [[posterior-communicating-artery]] at the lateral margin of the [[interpeduncular-cistern]], and encircles the [[brainstem]] through the crural and ambient [[basal-cisterns|cisterns]] to reach the quadrigeminal cistern. It supplies not only the posterior cerebral hemisphere but also sends critical branches to the [[thalamus]], midbrain, [[choroid-plexus]], and walls of the [[lateral-and-third-ventricles]].
+The posterior cerebral artery (PCA) arises at the basilar bifurcation, is joined by the [[posterior-communicating-artery]] at the lateral margin of the [[interpeduncular-cistern]], and encircles the [[brainstem]] through the crural and ambient [[basal-cisterns|cisterns]] to reach the [[quadrigeminal-cistern]]. It supplies not only the posterior cerebral hemisphere but also sends critical branches to the [[thalamus]], midbrain, [[choroid-plexus]], and walls of the [[lateral-and-third-ventricles]].
 
 ## Embryology
 

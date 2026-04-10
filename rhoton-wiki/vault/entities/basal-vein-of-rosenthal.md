@@ -23,7 +23,7 @@ drains-to:
 
 # Basal Vein of Rosenthal
 
-The basal vein of Rosenthal is one of the principal [[deep-venous-system|deep cerebral veins]], encircling the [[brainstem]] from the [[anterior-perforated-substance]] to the [[vein-of-galen]] in the quadrigeminal cistern. It is a major conduit of the deep venous system, draining the basal surface of the brain, the medial [[cerebral-lobes|temporal lobe]], and deep hemispheric structures.
+The basal vein of Rosenthal is one of the principal [[deep-venous-system|deep cerebral veins]], encircling the [[brainstem]] from the [[anterior-perforated-substance]] to the [[vein-of-galen]] in the [[quadrigeminal-cistern]]. It is a major conduit of the deep venous system, draining the basal surface of the brain, the medial [[cerebral-lobes|temporal lobe]], and deep hemispheric structures.
 
 ## Formation
 
@@ -41,7 +41,7 @@ The basal vein forms at the [[anterior-perforated-substance]] by the convergence
 From the anterior perforated substance, the basal vein courses posteriorly beneath the [[optic-chiasm]] and [[optic-tract]]. It receives the inferior striate veins and hypothalamic veins. The [[oculomotor-nerve]] exits the [[interpeduncular-cistern|interpeduncular fossa]] medially.
 
 ### 2. Middle (Peduncular) Segment
-The vein passes along the [[cerebrum|cerebral peduncle]] through the crural cistern, coursing with the [[posterior-cerebral-artery]]. Here it receives:
+The vein passes along the [[cerebrum|cerebral peduncle]] through the [[crural-cistern]], coursing with the [[posterior-cerebral-artery]]. Here it receives:
 
 - **Inferior ventricular vein** — exits the temporal horn through the [[choroid-plexus|choroidal fissure]] and joins at the posterior edge of the peduncle
 - **Anterior hippocampal vein** — drains the sulcus between [[uncus]] and parahippocampal gyrus

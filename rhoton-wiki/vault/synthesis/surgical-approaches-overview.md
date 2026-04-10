@@ -78,10 +78,10 @@ Choose the approach that provides the most direct corridor without crossing crit
 All approaches follow subarachnoid cisterns ([[basal-cisterns]]). Opening cisterns releases CSF, relaxing the brain and reducing retraction:
 - **Sylvian cistern** → [[pterional-approach]]
 - **Ambient/crural cisterns** → [[subtemporal-approach]]
-- **Quadrigeminal cistern** → [[supracerebellar-infratentorial-approach]]
+- **[[quadrigeminal-cistern]]** → [[supracerebellar-infratentorial-approach]]
 - **Cerebellomedullary cistern** → [[far-lateral-approach]], telovelar
 - **[[cerebellopontine-cistern]]** → [[retrosigmoid-approach]]
-- **Prepontine cistern** → [[transsphenoidal-approach|transclival]]
+- **[[prepontine-cistern]]** → [[transsphenoidal-approach|transclival]]
 
 ### 3. Vascular and neural constraints
 - **[[bridging-veins]]** — the vein of Labbé limits [[subtemporal-approach]]; parasagittal veins limit [[interhemispheric-approach]]

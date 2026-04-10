@@ -33,7 +33,7 @@ Courses through the [[orbit]] from the globe to the [[optic-canal]]. Length ~25 
 Traverses the optic canal in the lesser wing of the sphenoid. Length ~10 mm. The ophthalmic artery courses inferolateral to the nerve in the canal. The canal roof is formed by the [[anterior-clinoid-process]] — surgical landmark for anterior clinoidectomy.
 
 ### Intracranial (cisternal) segment
-Emerges from the optic canal into the suprasellar cistern ([[basal-cisterns]]). Length 10–16 mm. Converges with the contralateral nerve at the [[optic-chiasm]] above the [[sellar-region|pituitary gland]] and diaphragma sellae. The [[internal-carotid-artery|ICA]] (supraclinoid C4 segment) lies lateral to the intracranial optic nerve.
+Emerges from the optic canal into the [[chiasmatic-cistern|suprasellar cistern]] ([[basal-cisterns]]). Length 10–16 mm. Converges with the contralateral nerve at the [[optic-chiasm]] above the [[sellar-region|pituitary gland]] and diaphragma sellae. The [[internal-carotid-artery|ICA]] (supraclinoid C4 segment) lies lateral to the intracranial optic nerve.
 
 ## Key Relations
 

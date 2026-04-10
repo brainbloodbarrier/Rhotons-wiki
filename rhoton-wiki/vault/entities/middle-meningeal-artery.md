@@ -26,7 +26,7 @@ The middle meningeal artery (MMA) is the largest meningeal artery, supplying the
 ## Origin and Course
 
 ### Extracranial
-Arises from the first part of the [[maxillary-artery]] (terminal branch of the external carotid) in the [[infratemporal-fossa]]. Ascends between the sphenomandibular ligament and lateral pterygoid muscle to reach the foramen spinosum.
+Arises from the first part of the [[maxillary-artery]] (terminal branch of the [[external-carotid-artery|external carotid]]) in the [[infratemporal-fossa]]. Ascends between the sphenomandibular ligament and lateral pterygoid muscle to reach the foramen spinosum.
 
 ### Intracranial
 1. Enters through the **foramen spinosum** ([[sphenoid-bone]] greater wing)

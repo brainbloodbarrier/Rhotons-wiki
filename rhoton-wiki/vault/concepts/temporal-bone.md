@@ -75,7 +75,7 @@ Through the mastoid air cells and labyrinth (sacrifices hearing). Provides direc
 Elevation of the [[cerebral-lobes|temporal lobe]] from the petrous anterior surface. Accesses the IAC from above without entering the posterior fossa. Used for small intracanalicular vestibular schwannomas with serviceable hearing.
 
 ### Anterior petrosectomy (Kawase)
-Extension of the [[subtemporal-approach]]. Drilling the petrous apex between the [[trigeminal-nerve]] and IAC exposes the lateral [[clivus]], prepontine cistern, [[basilar-artery]], and [[abducens-nerve|CN VI]].
+Extension of the [[subtemporal-approach]]. Drilling the petrous apex between the [[trigeminal-nerve]] and IAC exposes the lateral [[clivus]], [[prepontine-cistern]], [[basilar-artery]], and [[abducens-nerve|CN VI]].
 
 ### [[posterior-petrosectomy]] (retrolabyrinthine/presigmoid)
 Removal of mastoid bone behind the labyrinth and anterior to the sigmoid sinus. Accesses the cerebellopontine angle and petroclival region while preserving hearing.

@@ -28,7 +28,7 @@ The anterior choroidal artery (AChA) usually arises from the [[internal-carotid-
 The AChA follows a complex trajectory through multiple anatomical spaces:
 
 1. **Initial segment** — directed posteromedially behind the ICA; crosses from lateral to medial side of the [[optic-tract]] (average 12 mm along the tract)
-2. **Cisternal segment** — at the anterior margin of the lateral geniculate body, crosses the optic tract again from medial to lateral; passes posterolaterally through the **crural cistern** between the cerebral peduncle and [[uncus]]
+2. **Cisternal segment** — at the anterior margin of the lateral geniculate body, crosses the optic tract again from medial to lateral; passes posterolaterally through the **[[crural-cistern]]** between the cerebral peduncle and [[uncus]]
 3. **Plexal segment** — arrives superomedial to the uncus, passes through the [[choroidal-fissure]] to enter the [[choroid-plexus]] within the temporal horn; courses along the medial border of the choroid plexus, sometimes reaching the foramen of Monro
 
 ## Supply Territory

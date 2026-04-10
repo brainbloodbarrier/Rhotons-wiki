@@ -68,7 +68,7 @@ Opening the lamina terminalis is a standard neurosurgical maneuver for:
 |---|---|
 | [[pterional-approach]] | Accessed via the carotid-chiasmatic corridor after sylvian fissure opening |
 | [[interhemispheric-approach]] | Directly visualized in the anterior interhemispheric fissure |
-| [[orbitozygomatic-approach]] | Enhanced low-angle view of the lamina and chiasmatic cistern |
+| [[orbitozygomatic-approach]] | Enhanced low-angle view of the lamina and [[chiasmatic-cistern]] |
 
 ### ACoA Aneurysm Surgery
 The lamina terminalis is a key landmark during [[anterior-communicating-artery|ACoA]] aneurysm clipping. The ACoA complex sits at or just above the lamina. Opening the lamina provides:

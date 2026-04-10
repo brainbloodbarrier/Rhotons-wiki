@@ -47,7 +47,7 @@ The uncus is the hook-shaped medial projection of the [[cerebral-lobes|temporal 
 - [[oculomotor-nerve|CN III]] — crosses the incisura between the [[posterior-cerebral-artery|PCA]] and [[superior-cerebellar-artery|SCA]], directly below the uncal apex
 
 ### Medial
-- **Crural cistern** — lies between the uncus and the [[brainstem|cerebral peduncle]]
+- **[[crural-cistern]]** — lies between the uncus and the [[brainstem|cerebral peduncle]]
 - [[posterior-cerebral-artery|PCA]] P2 segment — courses in the crural and ambient [[basal-cisterns|cisterns]] along the uncal surface
 - [[basal-vein-of-rosenthal]] — passes along the medial uncal surface posteriorly
 

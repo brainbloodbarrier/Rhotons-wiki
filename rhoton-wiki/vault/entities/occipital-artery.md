@@ -20,7 +20,7 @@ parent: "[[posterior-circulation]]"
 
 # Occipital Artery
 
-The occipital artery is a posterior branch of the external carotid artery that courses through the posterior cervical musculature to supply the posterior scalp. It is a key landmark in the [[far-lateral-approach]] and [[suboccipital-triangle]] dissection, and serves as a potential donor vessel for extracranial-intracranial bypass procedures.
+The occipital artery is a posterior branch of the [[external-carotid-artery]] that courses through the posterior cervical musculature to supply the posterior scalp. It is a key landmark in the [[far-lateral-approach]] and [[suboccipital-triangle]] dissection, and serves as a potential donor vessel for extracranial-intracranial bypass procedures.
 
 ## Course
 

@@ -26,7 +26,7 @@ The sphenopalatine artery is the terminal branch of the [[maxillary-artery]] (th
 ## Course
 
 ### Origin
-The maxillary artery (internal maxillary), a terminal branch of the external carotid artery, courses through the [[infratemporal-fossa]] and enters the [[pterygopalatine-fossa]] through the pterygomaxillary fissure. Within the pterygopalatine fossa, it gives rise to several branches before terminating as the sphenopalatine artery.
+The maxillary artery (internal maxillary), a terminal branch of the [[external-carotid-artery]], courses through the [[infratemporal-fossa]] and enters the [[pterygopalatine-fossa]] through the pterygomaxillary fissure. Within the pterygopalatine fossa, it gives rise to several branches before terminating as the sphenopalatine artery.
 
 ### Sphenopalatine Foramen
 The sphenopalatine artery exits the [[pterygopalatine-fossa]] through the **sphenopalatine foramen**, which opens into the posterior nasal cavity at the junction of the superior and middle meatus, behind the posterior attachment of the middle turbinate.

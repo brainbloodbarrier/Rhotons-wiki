@@ -29,8 +29,8 @@ The membrane is classically described as having two leaves:
 
 | Leaf | Attachment | Separates |
 |---|---|---|
-| **Diencephalic (anterior) leaf** | From dorsum sellae/posterior clinoid processes to mamillary bodies | Chiasmatic cistern above from interpeduncular cistern below |
-| **Mesencephalic (posterior) leaf** | From mamillary bodies to anterior midbrain surface (cerebral peduncles) | Interpeduncular cistern from prepontine cistern |
+| **Diencephalic (anterior) leaf** | From dorsum sellae/posterior clinoid processes to mamillary bodies | [[chiasmatic-cistern]] above from interpeduncular cistern below |
+| **Mesencephalic (posterior) leaf** | From mamillary bodies to anterior midbrain surface (cerebral peduncles) | Interpeduncular cistern from [[prepontine-cistern]] |
 
 ### Variations
 The membrane varies from a robust, nearly impermeable sheet to a fenestrated, incomplete web. Its thickness and completeness affect CSF circulation between the suprasellar and [[posterior-fossa]] cisterns.

@@ -26,7 +26,7 @@ The interpeduncular cistern (interpeduncular fossa) is the midline CSF space bet
 ## Anatomy
 
 ### Boundaries
-- **Anterior** — [[liliequist-membrane]] (diencephalic leaf) separating it from the prepontine cistern
+- **Anterior** — [[liliequist-membrane]] (diencephalic leaf) separating it from the [[prepontine-cistern]]
 - **Posterior** — posterior perforated substance (floor of the [[lateral-and-third-ventricles|third ventricle]])
 - **Lateral** — [[brainstem|cerebral peduncles]] (medial surfaces)
 - **Superior** — mammillary bodies of the [[hypothalamus]], tuber cinereum

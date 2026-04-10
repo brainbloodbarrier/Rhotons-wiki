@@ -44,7 +44,7 @@ The internal cerebral veins course posteriorly through the **velum interpositum*
 - Is bounded by two layers of tela choroidea
 - Contains the internal cerebral veins and the [[posterior-choroidal-arteries|medial posterior choroidal arteries]]
 
-### Quadrigeminal Cistern
+### [[quadrigeminal-cistern]]
 The paired internal cerebral veins exit the velum interpositum above the pineal body, enter the quadrigeminal cistern, and unite to form the [[vein-of-galen]].
 
 ## Tributaries

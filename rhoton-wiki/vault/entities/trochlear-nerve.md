@@ -32,7 +32,7 @@ CN IV arises below the inferior colliculus on the dorsal surface of the midbrain
 
 The trochlear nerve has the most extensive incisural course of any cranial nerve, traversing all three incisural spaces:
 
-1. **Posterior incisural space** — emerges below the inferior colliculus in the quadrigeminal cistern, between the [[superior-cerebellar-artery|SCA]] branches and the [[cerebellum]]
+1. **Posterior incisural space** — emerges below the inferior colliculus in the [[quadrigeminal-cistern]], between the [[superior-cerebellar-artery|SCA]] branches and the [[cerebellum]]
 2. **Middle incisural space** — passes forward between the [[posterior-cerebral-artery|PCA]] (above) and [[superior-cerebellar-artery|SCA]] (below), with SCA branches coursing alongside it around the brainstem. Its initial course is medial to the free edge, in the space between the tectum and cerebellum
 3. **Anterior incisural space** — reaches the lower margin of the free edge at the posterior edge of the cerebral peduncle, then pierces the free edge in the posterior part of the **oculomotor trigone**
 

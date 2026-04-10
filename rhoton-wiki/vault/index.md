@@ -66,6 +66,10 @@ title: Wiki Index
 - [[ambient-cistern]] — Perimesencephalic corridor, PCA/basal vein, middle incisural space
 - [[interpeduncular-cistern]] — Basilar apex hub, CN III origin, thalamoperforating territory
 - [[paraclinoid-ica]] — Dural rings, clinoid space, carotid cave aneurysms, clinoidectomy
+- [[prepontine-cistern]] — Ventral brainstem corridor, basilar trunk, CN VI
+- [[quadrigeminal-cistern]] — Posterior incisural space, vein of Galen, pineal tumors
+- [[chiasmatic-cistern]] — Suprasellar CSF space, optic chiasm, ACoA complex
+- [[crural-cistern]] — Anterior incisural space, CN III crossing, AChA course
 
 ## Entities
 
@@ -98,6 +102,7 @@ title: Wiki Index
 - [[sphenopalatine-artery]] — Nasoseptal flap pedicle, posterior epistaxis
 - [[maxillary-artery]] — ECA terminal, infratemporal/pterygopalatine course, endonasal landmark
 - [[superficial-temporal-artery]] — STA-MCA bypass donor, pterional landmark, CN VII relation
+- [[external-carotid-artery]] — 8 branches, scalp/face/dural supply, bypass donors
 
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
@@ -168,4 +173,4 @@ title: Wiki Index
 
 ---
 
-*140 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*145 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*

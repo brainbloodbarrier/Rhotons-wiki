@@ -48,7 +48,7 @@ A lesion of one optic tract produces **contralateral homonymous hemianopia** (lo
 - **[[anterior-choroidal-artery]]** — courses along the medial surface of the optic tract, then passes posteriorly through the [[choroid-plexus|choroidal fissure]]; its origin from the ICA is just medial to the tract
 - **[[posterior-communicating-artery]]** — courses below and medial to the optic tract, connecting the ICA to the [[posterior-cerebral-artery]]
 - **[[posterior-cerebral-artery]] (P2)** — the ambient segment courses parallel to the optic tract around the peduncle
-- **[[basal-vein-of-rosenthal]]** — courses alongside the optic tract through the crural cistern
+- **[[basal-vein-of-rosenthal]]** — courses alongside the optic tract through the [[crural-cistern]]
 
 ### Adjacent Structures
 - **Uncus** — the medial [[cerebral-lobes|temporal lobe]] lies lateral to the tract; in [[herniation-syndromes|uncal herniation]], the uncus compresses the tract against the peduncle

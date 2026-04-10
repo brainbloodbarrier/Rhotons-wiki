@@ -56,7 +56,7 @@ Largest branch of the [[vertebral-artery]]. Five segments: anterior medullary �
 
 ## Basilar Artery ([[basilar-artery]])
 
-Formed at the pontomedullary junction. Length 20–40 mm, diameter 5–6 mm at origin, 4–5 mm at apex. Ascends on the ventral pons in the prepontine cistern ([[basal-cisterns]]).
+Formed at the pontomedullary junction. Length 20–40 mm, diameter 5–6 mm at origin, 4–5 mm at apex. Ascends on the ventral pons in the [[prepontine-cistern]] ([[basal-cisterns]]).
 
 **Bifurcation:** At the pontomesencephalic junction (normal, 72%), anterior to the midbrain (high), or anterior to the pons (low). The bifurcation height determines the optimal surgical approach.
 
@@ -76,7 +76,7 @@ Supplies the tentorial cerebellar surface ([[cerebellum]]) and is the most commo
 
 - **P1** — [[basilar-artery]] apex to [[posterior-communicating-artery|PCoA]] junction (completes [[circle-of-willis]])
 - **P2** — [[ambient-cistern]], around the midbrain
-- **P3** — quadrigeminal cistern
+- **P3** — [[quadrigeminal-cistern]]
 - **P4** — cortical branches to occipital and medial temporal lobes
 
 Gives rise to [[thalamoperforating-arteries]] (P1), medial and lateral [[posterior-choroidal-arteries]] (P2), and cortical branches supplying visual cortex.
