@@ -39,6 +39,9 @@ title: Wiki Index
 - [[meckels-cave]] — Trigeminal ganglion housing, paraclival triangles
 - [[infratemporal-fossa]] — V3 territory, maxillary artery, pterygoid plexus
 - [[paranasal-sinuses]] — Sphenoid sinus landmarks, endonasal corridor
+- [[pterygopalatine-fossa]] — V2/maxillary artery hub, 8 communications
+- [[meninges]] — Dura folds, Liliequist membrane, arachnoid cistern boundaries
+- [[suboccipital-triangle]] — V3 vertebral artery landmark, far-lateral roadmap
 
 ## Entities
 
@@ -56,11 +59,18 @@ title: Wiki Index
 - [[vertebral-artery]] — V1-V4 segments, vertebrobasilar system, foramen magnum
 - [[basilar-artery]] — Pontine trunk, SCA/AICA/PCA branches, perforators
 - [[ophthalmic-artery]] — First ICA branch, orbital supply, ethmoidal arteries
+- [[lenticulostriate-arteries]] — MCA/ACA perforators, basal ganglia supply, end-arteries
+- [[recurrent-artery-of-heubner]] — Largest ACA perforator, ACoA surgery risk
+- [[posterior-choroidal-arteries]] — PCA branches, pineal/choroid plexus supply
+- [[labyrinthine-artery]] — AICA branch, sole cochlear supply, deafness risk
+- [[anterior-spinal-artery]] — VA branch, anterior cord supply, spinal artery syndrome
+- [[middle-meningeal-artery]] — Foramen spinosum, epidural hematoma, dural supply
 
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
 
 ### Nerves
+- [[olfactory-nerve]] — CN I, cribriform plate, olfactory groove meningioma
 - [[optic-nerve]] — CN II, orbital/canalicular/cisternal segments, opticocarotid triangle
 - [[optic-chiasm]] — Visual pathway crossing, sellar region landmark
 - [[oculomotor-nerve]] — CN III, PCA-SCA sandwich, PCoA aneurysm relation
@@ -106,4 +116,4 @@ title: Wiki Index
 
 ---
 
-*77 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*87 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
