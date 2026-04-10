@@ -63,10 +63,12 @@ The cavernous sinus receives veins from and communicates with:
 ## Relations
 
 - Lateral to the [[sellar-region]] and pituitary gland
-- Contains [[internal-carotid-artery]] (C3 segment)
-- Cranial nerves III, IV, V1, VI course through or in its walls
-- Connected to [[cerebral-veins]] via superficial sylvian veins
+- Contains [[internal-carotid-artery]] (C3 segment) — part of [[anterior-circulation]]
+- [[oculomotor-nerve|CN III]], [[trochlear-nerve|CN IV]], [[trigeminal-nerve|V1]], [[abducens-nerve|CN VI]] course through or in its walls — see [[cavernous-sinus-contents]]
+- Connected to [[cerebral-veins]] via superficial sylvian veins → [[dural-venous-sinuses]]
 - Posterior wall shared with basilar sinus
+- [[optic-nerve|CN II]] and [[optic-chiasm]] related superiorly
+- See [[cranial-nerves-overview]] and [[surgical-approaches-overview]]
 
 ## References
 
