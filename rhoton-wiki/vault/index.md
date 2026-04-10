@@ -64,10 +64,12 @@ title: Wiki Index
 - [[posterior-choroidal-arteries]] — PCA branches, pineal/choroid plexus supply
 - [[labyrinthine-artery]] — AICA branch, sole cochlear supply, deafness risk
 - [[anterior-spinal-artery]] — VA branch, anterior cord supply, spinal artery syndrome
+- [[posterior-spinal-artery]] — VA branch, dorsal column supply, dentate ligament relation
 - [[middle-meningeal-artery]] — Foramen spinosum, epidural hematoma, dural supply
 
 ### Veins
 - [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
+- [[superior-petrosal-vein]] — Vein of Dandy, retrosigmoid obstacle, petrosal drainage
 
 ### Nerves
 - [[olfactory-nerve]] — CN I, cribriform plate, olfactory groove meningioma
@@ -84,6 +86,7 @@ title: Wiki Index
 ### Other Entities
 - [[pituitary-gland]] — Adenohypophysis/neurohypophysis, hypophyseal arteries
 - [[extraocular-muscles]] — Rectus/oblique muscles, annulus of Zinn, CN palsies
+- [[dentate-ligament]] — Foramen magnum landmark, anterior/posterior compartment division
 
 ## References
 
@@ -99,6 +102,7 @@ title: Wiki Index
 - [[telovelar-approach]] — Fourth ventricle via cerebellomedullary fissure
 - [[anterior-petrosectomy]] — Kawase triangle, lateral clivus exposure
 - [[middle-fossa-approach]] — IAC from above, hearing preservation
+- [[posterior-petrosectomy]] — Retrolabyrinthine, translabyrinthine, transcochlear, combined petrosal
 
 ## Synthesis
 
@@ -116,4 +120,4 @@ title: Wiki Index
 
 ---
 
-*87 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*91 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
