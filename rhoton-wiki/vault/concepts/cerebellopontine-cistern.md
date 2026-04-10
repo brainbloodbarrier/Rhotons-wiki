@@ -58,11 +58,16 @@ The [[retrosigmoid-approach]] is the standard corridor to this cistern.
 
 ## Relations
 
-- Part of the [[posterior-fossa]] cistern system
-- Contains cranial nerves V–VIII (middle neurovascular complex)
-- AICA and [[superior-cerebellar-artery]] course through it
-- Superior petrosal veins drain to superior petrosal sinus
+- Part of the [[posterior-fossa]] cistern system — one of the [[basal-cisterns]]
+- Contains [[trigeminal-nerve|CN V]], [[abducens-nerve|CN VI]], [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]] (middle neurovascular complex)
+- [[aica|AICA]] and [[superior-cerebellar-artery]] course through it — see [[posterior-circulation]]
+- Superior petrosal veins drain to [[dural-venous-sinuses|superior petrosal sinus]]
 - Communicates with ambient cistern superiorly and cerebellomedullary cistern inferiorly
+- [[cerebellum]] (petrosal surface) forms the lateral wall
+- [[brainstem]] (pons) forms the medial wall
+- [[fourth-ventricle]] lateral recess opens into this cistern via foramen of Luschka
+- Accessed via [[retrosigmoid-approach]] — see [[surgical-approaches-overview]]
+- See [[cranial-nerves-overview]] for compression syndromes
 
 ## References
 
