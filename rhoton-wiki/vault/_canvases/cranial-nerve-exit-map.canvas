@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {"id":"title","x":0,"y":-50,"width":400,"height":80,"type":"text","text":"# Cranial Nerve Exit Map\nCN I-XII: nucleus → cistern → foramen → target"},
+    {"id":"cn1","x":-500,"y":100,"width":180,"height":50,"type":"file","file":"entities/olfactory-nerve.md","color":"1"},
+    {"id":"cn2","x":-300,"y":100,"width":180,"height":50,"type":"file","file":"entities/optic-nerve.md","color":"1"},
+    {"id":"cn3","x":-100,"y":100,"width":180,"height":50,"type":"file","file":"entities/oculomotor-nerve.md","color":"1"},
+    {"id":"cn4","x":100,"y":100,"width":180,"height":50,"type":"file","file":"entities/trochlear-nerve.md","color":"1"},
+    {"id":"cn5","x":300,"y":100,"width":180,"height":50,"type":"file","file":"entities/trigeminal-nerve.md","color":"1"},
+    {"id":"cn6","x":500,"y":100,"width":180,"height":50,"type":"file","file":"entities/abducens-nerve.md","color":"1"},
+    {"id":"cn7","x":-400,"y":300,"width":180,"height":50,"type":"file","file":"entities/facial-nerve.md","color":"5"},
+    {"id":"cn8","x":-200,"y":300,"width":200,"height":50,"type":"file","file":"entities/vestibulocochlear-nerve.md","color":"5"},
+    {"id":"cn912","x":100,"y":300,"width":200,"height":50,"type":"file","file":"entities/lower-cranial-nerves.md","color":"5"},
+    {"id":"cribriform","x":-500,"y":200,"width":180,"height":40,"type":"text","text":"Cribriform plate","color":"3"},
+    {"id":"optcanal","x":-300,"y":200,"width":180,"height":40,"type":"text","text":"Optic canal","color":"3"},
+    {"id":"sof","x":0,"y":200,"width":200,"height":40,"type":"text","text":"Superior orbital fissure\n(CN III, IV, V1, VI)","color":"3"},
+    {"id":"ovale","x":300,"y":200,"width":180,"height":40,"type":"text","text":"Foramen ovale (V3)","color":"3"},
+    {"id":"rotundum","x":500,"y":200,"width":180,"height":40,"type":"text","text":"Foramen rotundum (V2)","color":"3"},
+    {"id":"iac","x":-300,"y":400,"width":200,"height":50,"type":"file","file":"concepts/internal-auditory-canal.md","color":"3"},
+    {"id":"jf","x":100,"y":400,"width":200,"height":50,"type":"file","file":"concepts/jugular-foramen.md","color":"3"},
+    {"id":"interped","x":-100,"y":0,"width":250,"height":40,"type":"text","text":"Interpeduncular cistern (CN III)","color":"6"},
+    {"id":"cpa-cist","x":-300,"y":250,"width":250,"height":40,"type":"text","text":"CP cistern (CN V, VII, VIII)","color":"6"},
+    {"id":"prepontine","x":300,"y":0,"width":250,"height":40,"type":"text","text":"Prepontine cistern (CN VI)","color":"6"},
+    {"id":"overview","x":0,"y":500,"width":250,"height":60,"type":"file","file":"synthesis/cranial-nerves-overview.md","color":"4"},
+    {"id":"foramina","x":300,"y":500,"width":250,"height":60,"type":"file","file":"synthesis/skull-base-foramina.md","color":"4"}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"cn1","toNode":"cribriform","fromSide":"bottom","toSide":"top"},
+    {"id":"e2","fromNode":"cn2","toNode":"optcanal","fromSide":"bottom","toSide":"top"},
+    {"id":"e3","fromNode":"cn3","toNode":"sof","fromSide":"bottom","toSide":"top"},
+    {"id":"e4","fromNode":"cn4","toNode":"sof","fromSide":"bottom","toSide":"top"},
+    {"id":"e5","fromNode":"cn5","toNode":"ovale","fromSide":"bottom","toSide":"top","label":"V3"},
+    {"id":"e6","fromNode":"cn5","toNode":"rotundum","fromSide":"bottom","toSide":"top","label":"V2"},
+    {"id":"e7","fromNode":"cn6","toNode":"sof","fromSide":"bottom","toSide":"left"},
+    {"id":"e8","fromNode":"cn7","toNode":"iac","fromSide":"bottom","toSide":"top"},
+    {"id":"e9","fromNode":"cn8","toNode":"iac","fromSide":"bottom","toSide":"top"},
+    {"id":"e10","fromNode":"cn912","toNode":"jf","fromSide":"bottom","toSide":"top","label":"CN IX-XI"},
+    {"id":"e11","fromNode":"cn3","toNode":"interped","fromSide":"top","toSide":"bottom","label":"cistern"},
+    {"id":"e12","fromNode":"cn6","toNode":"prepontine","fromSide":"top","toSide":"bottom","label":"cistern"}
+  ]
+}
