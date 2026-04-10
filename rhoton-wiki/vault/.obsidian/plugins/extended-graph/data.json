@@ -1,41 +1,41 @@
 {
   "enableFeatures": {
     "graph": {
-      "auto-enabled": false,
-      "tags": false,
+      "auto-enabled": true,
+      "tags": true,
       "properties": false,
       "property-key": false,
-      "links": false,
+      "links": true,
       "linksSameColorAsNode": false,
-      "folders": false,
-      "imagesFromProperty": false,
+      "folders": true,
+      "imagesFromProperty": true,
       "imagesFromEmbeds": false,
       "imagesForAttachments": false,
-      "focus": false,
-      "shapes": false,
-      "elements-stats": false,
-      "names": false,
+      "focus": true,
+      "shapes": true,
+      "elements-stats": true,
+      "names": true,
       "icons": false,
-      "arrows": false,
+      "arrows": true,
       "layers": false
     },
     "localgraph": {
-      "auto-enabled": false,
-      "tags": false,
+      "auto-enabled": true,
+      "tags": true,
       "properties": false,
       "property-key": false,
-      "links": false,
+      "links": true,
       "linksSameColorAsNode": false,
-      "folders": false,
-      "imagesFromProperty": false,
+      "folders": true,
+      "imagesFromProperty": true,
       "imagesFromEmbeds": false,
       "imagesForAttachments": false,
-      "focus": false,
-      "shapes": false,
-      "elements-stats": false,
-      "names": false,
+      "focus": true,
+      "shapes": true,
+      "elements-stats": true,
+      "names": true,
       "icons": false,
-      "arrows": false,
+      "arrows": true,
       "layers": false
     }
   },
@@ -66,7 +66,13 @@
     },
     "folder": {
       "colormap": "winter",
-      "colors": [],
+      "colors": [
+        { "name": "concepts", "color": "#4A90D9" },
+        { "name": "entities", "color": "#27AE60" },
+        { "name": "synthesis", "color": "#E67E22" },
+        { "name": "references", "color": "#E74C3C" },
+        { "name": "_meta", "color": "#95A5A6" }
+      ],
       "unselected": [],
       "excludeRegex": {
         "regex": "",
@@ -74,7 +80,7 @@
       },
       "noneType": "/",
       "showOnGraph": true,
-      "enableByDefault": false
+      "enableByDefault": true
     }
   },
   "additionalProperties": {},
