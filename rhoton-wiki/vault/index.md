@@ -4,14 +4,18 @@ title: Wiki Index
 
 # Rhoton Neuroanatomy Wiki
 
-*This index is automatically maintained. Last updated: 2026-04-09*
+*This index is automatically maintained. Last updated: 2026-04-10*
 
 ## Concepts
 
 - [[cerebrum]] — Hemispheric organization, deep landmarks, surgical corridors
+- [[cerebral-lobes]] — Frontal, temporal, parietal, occipital anatomy and vascular supply
 - [[cerebral-veins]] — Superficial and deep venous drainage systems
 - [[lateral-and-third-ventricles]] — Ventricular anatomy, choroidal fissure, surgical approaches
+- [[fourth-ventricle]] — Rhomboid fossa, choroid plexus, telovelar approach
 - [[cranial-base]] — Anterior and middle cranial fossae, foramina
+- [[sphenoid-bone]] — Sella turcica, wings, foramina, sphenoid sinus
+- [[temporal-bone]] — Petrous pyramid, IAC, mastoid, jugular foramen
 - [[orbit]] — Osseous walls, annular tendon, optic canal
 - [[sellar-region]] — Pituitary fossa, transsphenoidal and transcranial approaches
 - [[cavernous-sinus]] — Dural envelope with ICA and cranial nerves III-VI
@@ -22,9 +26,19 @@ title: Wiki Index
 - [[basal-cisterns]] — 12 named cisterns, surgical access routes
 - [[foramen-magnum]] — Craniocervical junction, occipital bone, CVJ ligaments
 - [[brainstem]] — Midbrain, pons, medulla; neurovascular complexes, safe entry zones
-- [[dural-venous-sinuses]] — Sagittal, transverse, sigmoid, petrosal, confluence
 - [[cerebellum]] — Three surfaces, fissures, peduncles, neurovascular complexes
-- [[fourth-ventricle]] — Rhomboid fossa, choroid plexus, telovelar approach
+- [[dural-venous-sinuses]] — Sagittal, transverse, sigmoid, petrosal, confluence
+- [[thalamus]] — Central relay, thalamoperforating supply, choroidal fissure
+- [[basal-ganglia]] — Lenticulostriate territory, internal capsule, DBS targets
+- [[hippocampus]] — Medial temporal lobe, choroidal fissure, epilepsy surgery
+- [[insula]] — Deep cortex, MCA territory, lenticulostriate perforators
+- [[corpus-callosum]] — Commissural fibers, pericallosal artery, transcallosal access
+- [[white-matter-tracts]] — Association, commissural, projection fibers, fiber dissection
+- [[choroid-plexus]] — CSF production, choroidal fissure, dual arterial supply
+- [[anterior-perforated-substance]] — Lenticulostriate exit zone, aneurysm landmark
+- [[meckels-cave]] — Trigeminal ganglion housing, paraclival triangles
+- [[infratemporal-fossa]] — V3 territory, maxillary artery, pterygoid plexus
+- [[paranasal-sinuses]] — Sphenoid sinus landmarks, endonasal corridor
 
 ## Entities
 
@@ -41,8 +55,14 @@ title: Wiki Index
 - [[pica]] — Lower neurovascular complex, telovelar approach
 - [[vertebral-artery]] — V1-V4 segments, vertebrobasilar system, foramen magnum
 - [[basilar-artery]] — Pontine trunk, SCA/AICA/PCA branches, perforators
+- [[ophthalmic-artery]] — First ICA branch, orbital supply, ethmoidal arteries
+
+### Veins
+- [[vein-of-galen]] — Deep venous confluence, ICVs, basal vein, pineal obstacle
 
 ### Nerves
+- [[optic-nerve]] — CN II, orbital/canalicular/cisternal segments, opticocarotid triangle
+- [[optic-chiasm]] — Visual pathway crossing, sellar region landmark
 - [[oculomotor-nerve]] — CN III, PCA-SCA sandwich, PCoA aneurysm relation
 - [[trochlear-nerve]] — CN IV, dorsal origin, tentorial edge course, thinnest CN
 - [[trigeminal-nerve]] — CN V, three divisions, neurovascular compression
@@ -50,30 +70,40 @@ title: Wiki Index
 - [[facial-nerve]] — CN VII, CP angle surgery, parotid branches
 - [[vestibulocochlear-nerve]] — CN VIII, vestibular schwannoma origin
 - [[lower-cranial-nerves]] — CN IX-XII, jugular foramen, foramen magnum
-- [[optic-nerve]] — CN II, orbital/canalicular/cisternal segments, opticocarotid triangle
-- [[optic-chiasm]] — Visual pathway crossing, sellar region landmark
+
+### Other Entities
+- [[pituitary-gland]] — Adenohypophysis/neurohypophysis, hypophyseal arteries
+- [[extraocular-muscles]] — Rectus/oblique muscles, annulus of Zinn, CN palsies
 
 ## References
 
 ### Surgical Approaches
 - [[pterional-approach]] — Frontotemporal craniotomy, sylvian fissure access
+- [[orbitozygomatic-approach]] — Extended pterional, low-angle basilar access
+- [[interhemispheric-approach]] — Midline corridor, ACoA/ACA, transcallosal
+- [[subtemporal-approach]] — Middle incisural space, basilar apex, tentorial division
 - [[retrosigmoid-approach]] — CP angle access, microvascular decompression
 - [[far-lateral-approach]] — Foramen magnum, lower clivus, vertebral artery
 - [[transsphenoidal-approach]] — Endonasal corridor to sellar region
-- [[subtemporal-approach]] — Middle incisural space, basilar apex, tentorial division
 - [[supracerebellar-infratentorial-approach]] — Pineal region, quadrigeminal cistern
-- [[interhemispheric-approach]] — Midline corridor, ACoA/ACA, transcallosal
+- [[telovelar-approach]] — Fourth ventricle via cerebellomedullary fissure
+- [[anterior-petrosectomy]] — Kawase triangle, lateral clivus exposure
+- [[middle-fossa-approach]] — IAC from above, hearing preservation
 
 ## Synthesis
 
 - [[circle-of-willis]] — Cerebral arterial circle, variants, aneurysm sites
+- [[anterior-circulation]] — ICA-MCA-ACA hierarchy, perforators, lenticulostriates
+- [[posterior-circulation]] — Vertebrobasilar hierarchy, perforators, territories
+- [[perforating-arteries]] — Complete perforator map, surgical rules
 - [[sylvian-fissure]] — Most important surgical corridor, MCA and venous contents
 - [[cavernous-sinus-contents]] — Lateral wall nerve order, surgical triangles
-- [[surgical-approaches-overview]] — Approach-target matrix, selection principles
 - [[cranial-nerves-overview]] — CN I-XII map, cisternal course, compression syndromes
-- [[posterior-circulation]] — Vertebrobasilar hierarchy, perforators, territories
-- [[anterior-circulation]] — ICA-MCA-ACA hierarchy, perforators, lenticulostriates
+- [[cerebral-lobes]] — Frontal/temporal/parietal/occipital, functional-vascular correlation
+- [[surgical-approaches-overview]] — Approach-target matrix, selection principles
+- [[skull-base-foramina]] — Complete foraminal map by fossa
+- [[herniation-syndromes]] — Uncal, central, tonsillar, subfalcine, ascending
 
 ---
 
-*52 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*77 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
