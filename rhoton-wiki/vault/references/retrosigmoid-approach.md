@@ -49,9 +49,13 @@ The retrosigmoid approach provides access to the [[cerebellopontine-cistern]] an
 ## Relations
 
 - Provides access to [[cerebellopontine-cistern]]
-- Craniotomy positioned behind sigmoid sinus, below transverse sinus
+- Craniotomy positioned behind [[dural-venous-sinuses|sigmoid sinus]], below transverse sinus
 - [[posterior-fossa-veins]] (superior petrosal vein) cross the surgical corridor
-- Deep structures: brainstem, cerebellum, fourth ventricle
+- Exposes [[trigeminal-nerve|CN V]], [[abducens-nerve|CN VI]], [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]], [[lower-cranial-nerves|CN IX-XI]]
+- Arterial structures: [[superior-cerebellar-artery]], [[aica]], [[pica]] — see [[posterior-circulation]]
+- Deep structures: [[brainstem]] (pons), [[cerebellum]] (petrosal surface), [[fourth-ventricle]] (lateral recess)
+- Complementary to [[far-lateral-approach]] (inferior), [[subtemporal-approach]] (superior)
+- See [[surgical-approaches-overview]] and [[cranial-nerves-overview]]
 
 ## References
 

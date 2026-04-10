@@ -45,6 +45,16 @@ Vestibular schwannomas (acoustic neuromas) arise from Schwann cells of the infer
 - Labyrinthine artery (usually from AICA) supplies the cochlea — its sacrifice causes deafness
 - The flocculus projects behind CN VII/VIII in the [[cerebellopontine-cistern]]
 
+## Relations
+
+- Arises from [[brainstem]] (pontomedullary junction) — vestibular and cochlear nuclei in lateral pons
+- Courses through [[cerebellopontine-cistern]] with [[facial-nerve|CN VII]]
+- [[aica|AICA]] meatal loop and labyrinthine artery intimately related — see [[posterior-circulation]]
+- [[cerebellum]] (petrosal surface, flocculus) projects behind CN VII/VIII
+- Part of the middle neurovascular complex — see [[cranial-nerves-overview]]
+- Exposed via [[retrosigmoid-approach]], translabyrinthine, middle fossa
+- [[basilar-artery]] gives rise to [[aica]], the principal arterial relation
+
 ## References
 
 - Rhoton, Ch.10 — The Posterior Cranial Fossa
