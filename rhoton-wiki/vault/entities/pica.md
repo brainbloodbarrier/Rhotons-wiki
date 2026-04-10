@@ -44,11 +44,13 @@ The posterior inferior cerebellar artery (PICA) is the largest branch of the ver
 
 ## Relations
 
-- Arises from vertebral artery in [[posterior-fossa]]
-- Courses near CN IX, X, XI, XII at the medulla
+- Arises from [[vertebral-artery]] in [[posterior-fossa]]
+- Courses near [[lower-cranial-nerves|CN IX, X, XI, XII]] at the medulla
 - Supplies suboccipital cerebellar surface
 - Courses through cerebellomedullary fissure (telovelar approach corridor)
 - Part of the lower neurovascular complex with [[posterior-fossa-veins]]
+- Origin related to [[foramen-magnum]] (may arise above or below)
+- Sister cerebellar arteries: [[aica]] (middle), [[superior-cerebellar-artery]] (upper) — all branch from [[basilar-artery]] or [[vertebral-artery]]
 
 ## References
 

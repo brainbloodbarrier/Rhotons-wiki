@@ -61,11 +61,14 @@ The SCA frequently contacts:
 
 ## Relations
 
-- Arises from basilar artery (near [[posterior-cerebral-artery]] origin)
-- Courses between CN III/IV above and CN V below
+- Arises from [[basilar-artery]] (near [[posterior-cerebral-artery]] origin)
+- Courses between [[oculomotor-nerve|CN III]]/[[trochlear-nerve|CN IV]] above and [[trigeminal-nerve|CN V]] below
 - Intimately related to [[tentorial-incisura]] and cerebellomesencephalic fissure
 - Supplies tentorial cerebellar surface
 - Part of the upper neurovascular complex of [[posterior-fossa]]
+- Sister cerebellar arteries: [[aica]] (middle), [[pica]] (lower)
+- [[vertebral-artery|Vertebral arteries]] join to form the [[basilar-artery]], which gives rise to the SCA
+- Exposed via [[pterional-approach]], [[subtemporal-approach]], [[supracerebellar-infratentorial-approach]]
 
 ## References
 
