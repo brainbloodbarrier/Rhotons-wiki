@@ -47,7 +47,7 @@ The transsphenoidal approach is the most common route for pituitary surgery, acc
 - **[[internal-carotid-artery]]** — lateral prominences in the sphenoid sinus wall; at risk if sinus is broadly pneumatized
 - **[[optic-chiasm]]** — above the diaphragma sellae; at risk in suprasellar extension
 - **[[cavernous-sinus]]** — lateral to the sella; medial wall may be thin
-- **[[anterior-communicating-artery]]** and [[anterior-cerebral-artery]] — above the chiasm in the suprasellar cistern
+- **[[anterior-communicating-artery]]** and [[anterior-cerebral-artery]] — above the chiasm in the [[chiasmatic-cistern|suprasellar cistern]]
 
 ## Indications
 

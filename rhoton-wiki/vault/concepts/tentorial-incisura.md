@@ -39,14 +39,14 @@ Opens laterally into the medial [[sylvian-fissure]] and posteriorly into the mid
 
 ### Middle Incisural Space (paired)
 Located lateral to the brainstem between the cerebral peduncle and tentorial edge. Contains:
-- **Crural cistern** — between peduncle and uncus; [[posterior-cerebral-artery]] (P2A) and [[anterior-choroidal-artery]] course here
+- **[[crural-cistern]]** — between peduncle and uncus; [[posterior-cerebral-artery]] (P2A) and [[anterior-choroidal-artery]] course here
 - **[[ambient-cistern]]** — continuation posteriorly; [[posterior-cerebral-artery]] (P2P), [[basal-vein-of-rosenthal]]
 - Oculomotor nerve (CN III) — passes between [[posterior-cerebral-artery]] and superior cerebellar artery
 - Trochlear nerve (CN IV) — courses in the ambient cistern
 
 ### Posterior Incisural Space
 Located behind the midbrain. Contains:
-- **Quadrigeminal cistern** — between tectum and splenium
+- **[[quadrigeminal-cistern]]** — between tectum and splenium
 - Pineal gland
 - [[vein-of-galen]] and [[internal-cerebral-veins]]
 - [[posterior-cerebral-artery]] (P3 segment)

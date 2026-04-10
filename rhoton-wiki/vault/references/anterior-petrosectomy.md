@@ -26,7 +26,7 @@ approach-to:
 
 # Anterior Petrosectomy (Kawase Approach)
 
-The anterior petrosectomy extends the [[subtemporal-approach]] by drilling the [[petrous-apex]] of the [[temporal-bone]] — the **Kawase triangle** — to expose the lateral clivus, prepontine cistern, [[basilar-artery]], and [[abducens-nerve|CN VI]]. It bridges the middle and posterior cranial fossae without a [[posterior-fossa]] craniotomy.
+The anterior petrosectomy extends the [[subtemporal-approach]] by drilling the [[petrous-apex]] of the [[temporal-bone]] — the **Kawase triangle** — to expose the lateral clivus, [[prepontine-cistern]], [[basilar-artery]], and [[abducens-nerve|CN VI]]. It bridges the middle and posterior cranial fossae without a [[posterior-fossa]] craniotomy.
 
 ## Indications
 

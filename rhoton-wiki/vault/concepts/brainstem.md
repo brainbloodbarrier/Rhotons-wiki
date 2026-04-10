@@ -40,9 +40,9 @@ The midbrain occupies the tentorial notch and is surrounded by the anterior, mid
 
 ### Cisterns
 - **[[interpeduncular-cistern]]** — contains the [[basilar-artery]] apex, [[oculomotor-nerve|CN III]] origin
-- **Crural cistern** — between peduncle and [[uncus]], contains [[anterior-choroidal-artery]]
+- **[[crural-cistern]]** — between peduncle and [[uncus]], contains [[anterior-choroidal-artery]]
 - **Ambient cistern** — lateral to the midbrain, contains [[posterior-cerebral-artery|PCA]], [[superior-cerebellar-artery|SCA]], [[basal-vein-of-rosenthal|basal vein]]
-- **Quadrigeminal cistern** — behind the tectum, contains [[pineal-region|pineal gland]], [[vein-of-galen]]
+- **[[quadrigeminal-cistern]]** — behind the tectum, contains [[pineal-region|pineal gland]], [[vein-of-galen]]
 
 ## Pons
 
@@ -60,7 +60,7 @@ The pons is the middle segment, situated between the midbrain and medulla. Its v
 - [[facial-nerve|CN VII]] and [[vestibulocochlear-nerve|CN VIII]] — emerge at the cerebellopontine angle, closely related to the [[aica]]
 
 ### Cisterns
-- **Prepontine cistern** — between the clivus and the ventral pons, containing the [[basilar-artery]]
+- **[[prepontine-cistern]]** — between the clivus and the ventral pons, containing the [[basilar-artery]]
 - **[[cerebellopontine-cistern]]** — lateral to the pons, containing CN V–VIII and AICA
 
 ## Medulla Oblongata

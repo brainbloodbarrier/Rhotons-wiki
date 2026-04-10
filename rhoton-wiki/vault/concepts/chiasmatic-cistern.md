@@ -20,7 +20,7 @@ parent: "[[basal-cisterns]]"
 
 # Chiasmatic Cistern
 
-The chiasmatic cistern (suprasellar cistern) is the CSF space surrounding the [[optic-chiasm]] above the [[sellar-region|sella turcica]]. It is the crossroads of anterior skull base surgery — the [[anterior-cerebral-artery|ACA]] A1 segments, [[anterior-communicating-artery|ACoA]] complex, [[lamina-terminalis]], [[pituitary-gland|pituitary stalk]], and [[superior-hypophyseal-artery|superior hypophyseal arteries]] all converge here. Opening the [[lamina-terminalis]] from this cistern drains the [[lateral-and-third-ventricles|third ventricle]] and provides a corridor to its interior.
+The chiasmatic cistern (suprasellar cistern) is the CSF space surrounding the [[optic-chiasm]] above the [[sellar-region|sella turcica]]. It is the crossroads of anterior [[cranial-base|skull base]] surgery — the [[anterior-cerebral-artery|ACA]] A1 segments, [[anterior-communicating-artery|ACoA]] complex, [[lamina-terminalis]], [[pituitary-gland|pituitary stalk]], and [[superior-hypophyseal-artery|superior hypophyseal arteries]] all converge here. Opening the [[lamina-terminalis]] from this cistern drains the [[lateral-and-third-ventricles|third ventricle]] and provides a corridor to its interior.
 
 ## Boundaries
 - **Superior** — [[optic-chiasm]], [[lamina-terminalis]], [[anterior-cerebral-artery|A1]] segments
@@ -54,7 +54,7 @@ The chiasmatic cistern (suprasellar cistern) is the CSF space surrounding the [[
 ### Lamina Terminalis Opening
 - Opening the [[lamina-terminalis]] from the chiasmatic cistern drains CSF from the [[lateral-and-third-ventricles|third ventricle]]
 - Reduces need for external ventricular drain in subarachnoid hemorrhage
-- Standard step during [[anterior-communicating-artery|ACoA]] aneurysm surgery
+- Standard step during [[anterior-communicating-artery|ACoA]] [[aneurysm-surgery]]
 
 ## Related Pages
 - [[basal-cisterns]] — Part of the 12-cistern framework

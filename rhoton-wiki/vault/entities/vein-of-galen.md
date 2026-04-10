@@ -64,7 +64,7 @@ The vein of Galen drains into the **straight sinus** ([[dural-venous-sinuses]]) 
 ## Surgical Significance
 
 ### Pineal region surgery
-The vein of Galen and its tributaries are the **principal venous obstacle** in approaches to the pineal region, posterior third ventricle, and quadrigeminal cistern:
+The vein of Galen and its tributaries are the **principal venous obstacle** in approaches to the pineal region, posterior third ventricle, and [[quadrigeminal-cistern]]:
 
 - **[[supracerebellar-infratentorial-approach]]** — approaches from below the tentorium; the vein of Galen complex blocks direct access to the pineal from the midline. The vein of the cerebellomesencephalic fissure is particularly obstructive in the midline variant.
 - **Occipital transtentorial approach** — approaches from above; provides access above the vein of Galen for lesions centered at or above the tentorial edge

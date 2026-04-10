@@ -39,7 +39,7 @@ Cisternal veins ───→ Basal Veins of Rosenthal ──┘
 - **Formation**: [[anterior-perforated-substance]] (anterior cerebral + deep sylvian + olfactory veins)
 - **Course**: encircles [[brainstem]] through crural → ambient → quadrigeminal [[basal-cisterns|cisterns]]
 - **Territory**: basal frontal surface, medial [[cerebral-lobes|temporal lobe]], [[hippocampus]], cerebral peduncle, lateral midbrain
-- **Termination**: joins [[vein-of-galen]] in quadrigeminal cistern
+- **Termination**: joins [[vein-of-galen]] in [[quadrigeminal-cistern]]
 
 ### [[vein-of-galen]]
 - **Formation**: union of paired [[internal-cerebral-veins]] ± [[basal-vein-of-rosenthal|basal veins]] above/behind pineal

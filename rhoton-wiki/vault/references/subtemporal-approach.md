@@ -47,7 +47,7 @@ The subtemporal approach exposes the **middle incisural space** of the [[tentori
 ### Key steps
 1. **Temporal lobe elevation** — gentle retraction upward; avoid occluding [[bridging-veins]], especially the **vein of Labbé** (hemorrhage, venous infarction, and edema are the principal complications)
 2. **Tentorial division** — frequently performed to increase exposure or decompress the [[brainstem]] when mass lesions are impacted in the incisura
-3. **Cisternal dissection** — opening the [[ambient-cistern]] and crural cistern exposes the PCA, SCA, and [[oculomotor-nerve|CN III]]
+3. **Cisternal dissection** — opening the [[ambient-cistern]] and [[crural-cistern]] exposes the PCA, SCA, and [[oculomotor-nerve|CN III]]
 
 ### Tentorial section
 The [[tentorium-cerebelli|tentorium]] may be divided to combine the subtemporal exposure with a suboccipital craniectomy, providing access to the prepontine and cerebellopontine cisterns. **Critical:** The [[trochlear-nerve|trochlear nerve (CN IV)]] enters the anterior edge of the tentorium and is at risk when dividing the free edge. It is the cranial nerve most frequently injured in the middle incisural space — so thin and friable that gentle retraction may rupture it.
@@ -74,7 +74,7 @@ The [[tentorium-cerebelli|tentorium]] may be divided to combine the subtemporal 
 ## Variants and Combinations
 
 ### Subtemporal + anterior petrosectomy ([[anterior-petrosectomy|Kawase approach]])
-Drilling the petrous apex between the [[trigeminal-nerve]] and [[internal-auditory-canal|internal acoustic meatus]] exposes the lateral [[clivus]] and provides access to the prepontine cistern, [[basilar-artery]], and [[abducens-nerve|CN VI]].
+Drilling the petrous apex between the [[trigeminal-nerve]] and [[internal-auditory-canal|internal acoustic meatus]] exposes the lateral [[clivus]] and provides access to the [[prepontine-cistern]], [[basilar-artery]], and [[abducens-nerve|CN VI]].
 
 ### Subtemporal + suboccipital (combined supratentorial-infratentorial)
 The tentorium and [[transverse-sinus]] may be divided to create a combined corridor for large petroclival lesions extending both above and below the tentorium.

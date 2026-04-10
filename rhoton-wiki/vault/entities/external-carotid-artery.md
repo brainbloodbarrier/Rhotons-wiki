@@ -34,7 +34,7 @@ The external carotid artery (ECA) is the lateral terminal branch of the common c
 5. **Posterior auricular artery** — supplies scalp behind ear and mastoid
 
 ### Medial Branch
-6. **Ascending pharyngeal artery** — smallest named branch; supplies pharynx, [[meninges|dura]] of posterior fossa, and [[lower-cranial-nerves|CN IX-XII]] at [[jugular-foramen]]
+6. **Ascending pharyngeal artery** — smallest named branch; supplies pharynx, [[meninges|dura]] of [[posterior-fossa]], and [[lower-cranial-nerves|CN IX-XII]] at [[jugular-foramen]]
 
 ### Terminal Branches
 7. **[[maxillary-artery]]** — larger terminal branch; courses through [[infratemporal-fossa]] and [[pterygopalatine-fossa]]; gives [[middle-meningeal-artery]], [[sphenopalatine-artery]]
@@ -49,7 +49,7 @@ The external carotid artery (ECA) is the lateral terminal branch of the common c
 
 ### EC-IC Bypass
 - **[[superficial-temporal-artery|STA]]-[[middle-cerebral-artery|MCA]] bypass** — standard low-flow revascularization (15-25 mL/min)
-- **[[occipital-artery]]-PICA bypass** — posterior circulation revascularization
+- **[[occipital-artery]]-[[pica]] bypass** — [[posterior-circulation]] revascularization
 - **[[maxillary-artery]]-MCA bypass** — high-flow option when STA insufficient
 
 ### Tumor Embolization
@@ -64,7 +64,7 @@ The external carotid artery (ECA) is the lateral terminal branch of the common c
 ## Relations
 - [[internal-carotid-artery]] — medial terminal branch of common carotid (ECA is lateral)
 - [[superficial-temporal-artery]] — terminal branch, STA-MCA bypass
-- [[maxillary-artery]] — terminal branch, endonasal/skull base supply
+- [[maxillary-artery]] — terminal branch, endonasal/[[cranial-base|skull base]] supply
 - [[occipital-artery]] — posterior branch, far-lateral landmark
 - [[middle-meningeal-artery]] — via maxillary artery, dural supply
 - [[sphenopalatine-artery]] — via maxillary artery, nasal supply

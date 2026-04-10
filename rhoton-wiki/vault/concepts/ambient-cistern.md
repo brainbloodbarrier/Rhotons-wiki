@@ -21,7 +21,7 @@ parent: "[[basal-cisterns]]"
 
 # Ambient Cistern
 
-The ambient cistern is the lateral extension of the perimesencephalic cisterns, wrapping around the [[brainstem|midbrain]] between the temporal lobe ([[uncus]] and parahippocampal gyrus) laterally and the [[brainstem|cerebral peduncle]] medially. It is the principal corridor through which the [[posterior-cerebral-artery|PCA]] P2 segment, [[basal-vein-of-rosenthal]], [[trochlear-nerve|CN IV]], and [[superior-cerebellar-artery|SCA]] course. The cistern connects the crural cistern anteriorly to the quadrigeminal cistern posteriorly.
+The ambient cistern is the lateral extension of the perimesencephalic cisterns, wrapping around the [[brainstem|midbrain]] between the temporal lobe ([[uncus]] and parahippocampal gyrus) laterally and the [[brainstem|cerebral peduncle]] medially. It is the principal corridor through which the [[posterior-cerebral-artery|PCA]] P2 segment, [[basal-vein-of-rosenthal]], [[trochlear-nerve|CN IV]], and [[superior-cerebellar-artery|SCA]] course. The cistern connects the [[crural-cistern]] anteriorly to the [[quadrigeminal-cistern]] posteriorly.
 
 ## Anatomy
 

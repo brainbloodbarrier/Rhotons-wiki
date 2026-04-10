@@ -20,7 +20,7 @@ parent: "[[basal-cisterns]]"
 
 # Prepontine Cistern
 
-The prepontine cistern is the midline CSF space anterior to the [[brainstem|pons]], posterior to the [[clivus]], and inferior to the [[interpeduncular-cistern]]. It contains the [[basilar-artery]] trunk, pontine perforating arteries, and the [[abducens-nerve|CN VI]] as it ascends to [[cavernous-sinus|Dorello's canal]]. The [[endoscopic-endonasal-approach]] accesses the prepontine cistern through the [[clivus]] for clival tumors and basilar trunk pathology. Opening the [[liliequist-membrane]] connects prepontine to [[interpeduncular-cistern|interpeduncular]] cisterns.
+The prepontine cistern is the midline CSF space anterior to the [[brainstem|pons]], posterior to the [[clivus]], and inferior to the [[interpeduncular-cistern]]. It contains the [[basilar-artery]] trunk, pontine [[perforating-arteries]], and the [[abducens-nerve|CN VI]] as it ascends to [[cavernous-sinus|Dorello's canal]]. The [[endoscopic-endonasal-approach]] accesses the prepontine cistern through the [[clivus]] for clival tumors and basilar trunk pathology. Opening the [[liliequist-membrane]] connects prepontine to [[interpeduncular-cistern|interpeduncular]] cisterns.
 
 ## Boundaries
 - **Anterior** — [[clivus]] (basisphenoid above, basiocciput below)

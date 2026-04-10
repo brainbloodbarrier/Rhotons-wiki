@@ -62,7 +62,7 @@ Each cranial nerve traverses specific [[basal-cisterns]]:
 
 - **[[interpeduncular-cistern]]** — CN III origin
 - **[[ambient-cistern]]** — CN III, IV course with [[posterior-cerebral-artery|PCA]] and [[superior-cerebellar-artery|SCA]]
-- **Prepontine cistern** — CN VI ascending on clivus with [[basilar-artery]]
+- **[[prepontine-cistern]]** — CN VI ascending on clivus with [[basilar-artery]]
 - **[[cerebellopontine-cistern]]** — CN V, VII, VIII with [[aica|AICA]]
 - **Cerebellomedullary cistern** — CN IX, X, XI with [[pica|PICA]]
 - **Premedullary cistern** — CN XII with [[vertebral-artery|vertebral arteries]]

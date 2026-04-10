@@ -27,7 +27,7 @@ The abducens nerve (CN VI) has the **longest intracranial subarachnoid course** 
 
 ## Origin and Cisternal Course
 
-CN VI emerges from the pontomedullary junction at the anterior surface of the [[brainstem]], between the [[clivus]] and the belly of the pons. It ascends through the **prepontine cistern** ([[basal-cisterns]]), where it is closely related to the [[basilar-artery]] and the anterior pontine segment of the [[aica]]. The proximal AICA trunk lies in contact with either the dorsal or ventral aspect of the abducens nerve.
+CN VI emerges from the pontomedullary junction at the anterior surface of the [[brainstem]], between the [[clivus]] and the belly of the pons. It ascends through the **[[prepontine-cistern]]** ([[basal-cisterns]]), where it is closely related to the [[basilar-artery]] and the anterior pontine segment of the [[aica]]. The proximal AICA trunk lies in contact with either the dorsal or ventral aspect of the abducens nerve.
 
 ## Dorello's Canal
 

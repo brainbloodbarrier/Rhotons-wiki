@@ -35,7 +35,7 @@ Every neurosurgical approach reaches its target through one or more subarachnoid
 - **Targets:** [[paraclinoid-ica|Paraclinoid aneurysms]], ICA bifurcation aneurysms, [[optic-chiasm|chiasmatic tumors]]
 - **Dissection principle:** Open the opticocarotid triangle and carotid-oculomotor triangle
 
-### Chiasmatic Cistern
+### [[chiasmatic-cistern]]
 - **Approaches:** [[pterional-approach]], [[interhemispheric-approach]], [[endoscopic-endonasal-approach]]
 - **Key structures:** [[optic-chiasm]], [[anterior-cerebral-artery|ACA]] A1, [[lamina-terminalis]], [[superior-hypophyseal-artery]]
 - **Targets:** Craniopharyngiomas, [[anterior-communicating-artery|ACoA]] aneurysms, third ventricle (via lamina terminalis)
@@ -55,7 +55,7 @@ Every neurosurgical approach reaches its target through one or more subarachnoid
 
 ## Incisural Cisterns
 
-### Crural Cistern (Anterior Incisural Space)
+### [[crural-cistern]] (Anterior Incisural Space)
 - **Approaches:** [[pterional-approach]], [[orbitozygomatic-approach]], [[subtemporal-approach]]
 - **Key structures:** [[posterior-cerebral-artery|PCA]] P2A, [[anterior-choroidal-artery|AChA]], [[oculomotor-nerve|CN III]], [[uncus]], [[brainstem|cerebral peduncle]]
 - **Targets:** [[basilar-artery]] apex aneurysms, peduncular lesions, [[uncus|uncal tumors]]
@@ -67,7 +67,7 @@ Every neurosurgical approach reaches its target through one or more subarachnoid
 - **Targets:** P2 aneurysms, tentorial meningiomas, [[thalamus|lateral thalamic lesions]]
 - **Dissection principle:** Divide the [[tentorium-cerebelli|tentorium]] to widen the corridor
 
-### Quadrigeminal Cistern (Posterior Incisural Space)
+### [[quadrigeminal-cistern]] (Posterior Incisural Space)
 - **Approaches:** [[supracerebellar-infratentorial-approach]], occipital transtentorial
 - **Key structures:** [[vein-of-galen]], [[internal-cerebral-veins]], [[pineal-region|pineal gland]], [[posterior-cerebral-artery|PCA]] P3
 - **Targets:** [[pineal-region]] tumors, tectal gliomas, [[vein-of-galen|galenic malformations]]
@@ -87,7 +87,7 @@ Every neurosurgical approach reaches its target through one or more subarachnoid
 - **Targets:** [[fourth-ventricle]] tumors, [[foramen-magnum]] lesions, Chiari decompression
 - **Dissection principle:** Follow [[pica]] through the [[cerebellomedullary-fissure]] to reach the fourth ventricle floor
 
-### Prepontine Cistern
+### [[prepontine-cistern]]
 - **Approaches:** [[endoscopic-endonasal-approach]], [[retrosigmoid-approach]]
 - **Key structures:** [[basilar-artery]], [[abducens-nerve|CN VI]], [[liliequist-membrane]], pontine perforators
 - **Targets:** [[clivus|Clival tumors]], petroclival meningiomas, endoscopic third ventriculostomy

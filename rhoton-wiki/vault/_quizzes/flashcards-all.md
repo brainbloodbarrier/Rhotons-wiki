@@ -11,7 +11,7 @@ tags:
 *329 cards generated from 144 vault pages*
 
 ### Card 1
-**Q:** What is the Middle Fossa Approach?
+**Q:** What is the [[middle-fossa-approach]]?
 
 **A:** IAC from above, hearing preservation
 
@@ -20,21 +20,21 @@ tags:
 ### Card 2
 **Q:** What anatomical region contains the Middle Fossa Approach?
 
-**A:** Surgical Approaches Overview
+**A:** [[surgical-approaches-overview]]
 
 ---
 
 ### Card 3
 **Q:** What structures does the Middle Fossa Approach provide access to?
 
-**A:** Internal Auditory Canal, Temporal Bone
+**A:** [[internal-auditory-canal]], [[temporal-bone]]
 
 ---
 
 ### Card 4
-**Q:** What is the Supracerebellar Infratentorial Approach?
+**Q:** What is the [[supracerebellar-infratentorial-approach]]?
 
-**A:** Pineal region, quadrigeminal cistern
+**A:** [[pineal-region]], [[quadrigeminal-cistern]]
 
 ---
 
@@ -76,7 +76,7 @@ tags:
 ### Card 10
 **Q:** What is the Far Lateral Approach?
 
-**A:** Foramen magnum, lower clivus, vertebral artery
+**A:** Foramen magnum, lower [[clivus]], vertebral artery
 
 ---
 
@@ -111,7 +111,7 @@ tags:
 ### Card 15
 **Q:** What structures does the Pterional Approach provide access to?
 
-**A:** Sylvian Fissure, Anterior Circulation, Cavernous Sinus
+**A:** Sylvian Fissure, [[anterior-circulation]], Cavernous Sinus
 
 ---
 
@@ -137,7 +137,7 @@ tags:
 ---
 
 ### Card 19
-**Q:** What is the Combined Petrosal Approach?
+**Q:** What is the [[posterior-petrosectomy|Combined Petrosal Approach]]?
 
 **A:** Kawase + posterior petrosectomy, full petroclival exposure
 
@@ -153,7 +153,7 @@ tags:
 ### Card 21
 **Q:** What structures does the Combined Petrosal Approach provide access to?
 
-**A:** Clivus, Petrous Apex
+**A:** Clivus, [[petrous-apex]]
 
 ---
 
@@ -174,14 +174,14 @@ tags:
 ### Card 24
 **Q:** What structures does the Interhemispheric Approach provide access to?
 
-**A:** Anterior Cerebral Artery, Corpus Callosum, Lateral And Third Ventricles
+**A:** [[anterior-cerebral-artery]], [[corpus-callosum]], Lateral And Third Ventricles
 
 ---
 
 ### Card 25
-**Q:** What is the Telovelar Approach?
+**Q:** What is the [[telovelar-approach]]?
 
-**A:** Fourth ventricle via cerebellomedullary fissure
+**A:** Fourth ventricle via [[cerebellomedullary-fissure]]
 
 ---
 
@@ -216,7 +216,7 @@ tags:
 ### Card 30
 **Q:** What structures does the Orbitozygomatic Approach provide access to?
 
-**A:** Basilar Artery, Interpeduncular Cistern
+**A:** Basilar Artery, [[interpeduncular-cistern]]
 
 ---
 
@@ -242,7 +242,7 @@ tags:
 ---
 
 ### Card 34
-**Q:** What is the Anterior Petrosectomy (Kawase Approach)?
+**Q:** What is the Anterior Petrosectomy ([[anterior-petrosectomy|Kawase Approach]])?
 
 **A:** Kawase triangle, lateral clivus exposure
 
@@ -279,7 +279,7 @@ tags:
 ### Card 39
 **Q:** What structures does the Subtemporal Approach provide access to?
 
-**A:** Ambient Cistern, Tentorial Incisura
+**A:** [[ambient-cistern]], [[tentorial-incisura]]
 
 ---
 
@@ -300,7 +300,7 @@ tags:
 ### Card 42
 **Q:** What structures does the Endoscopic Endonasal Approach provide access to?
 
-**A:** Sellar Region, Clivus, Paranasal Sinuses
+**A:** Sellar Region, Clivus, [[paranasal-sinuses]]
 
 ---
 
@@ -312,21 +312,21 @@ tags:
 ---
 
 ### Card 44
-**Q:** What is the Perforating Arteries?
+**Q:** What is the [[perforating-arteries]]?
 
 **A:** Complete perforator map, surgical rules
 
 ---
 
 ### Card 45
-**Q:** What is the Deep Venous System?
+**Q:** What is the [[deep-venous-system]]?
 
 **A:** ICV/basal/galenic architecture, surgical obstacle map
 
 ---
 
 ### Card 46
-**Q:** What is the Cistern-Approach Map?
+**Q:** What is the [[cistern-approach-map]]?
 
 **A:** Complete cistern-to-corridor mapping, master matrix
 
@@ -340,7 +340,7 @@ tags:
 ---
 
 ### Card 48
-**Q:** What is the Cranial Nerves Overview?
+**Q:** What is the [[cranial-nerves-overview]]?
 
 **A:** CN I-XII map, cisternal course, compression syndromes
 
@@ -361,7 +361,7 @@ tags:
 ---
 
 ### Card 51
-**Q:** What is the Microsurgical Anatomy Principles?
+**Q:** What is the [[microsurgical-anatomy-principles]]?
 
 **A:** Rhoton's 6 axioms, cistern corridors, perforator rules
 
@@ -375,14 +375,14 @@ tags:
 ---
 
 ### Card 53
-**Q:** What is the Neurovascular Compression Syndromes?
+**Q:** What is the [[neurovascular-compression-syndromes]]?
 
 **A:** MVD anatomy, REZ zones, offending vessels
 
 ---
 
 ### Card 54
-**Q:** What is the Skull Base Foramina?
+**Q:** What is the [[skull-base-foramina]]?
 
 **A:** Complete foraminal map by fossa
 
@@ -410,7 +410,7 @@ tags:
 ---
 
 ### Card 58
-**Q:** What is the Cavernous Sinus Triangles?
+**Q:** What is the [[cavernous-sinus-triangles]]?
 
 **A:** 7 surgical windows, Parkinson/Kawase/Glasscock
 
@@ -419,26 +419,26 @@ tags:
 ### Card 59
 **Q:** What is the Circle of Willis?
 
-**A:** Cerebral arterial circle, variants, aneurysm sites
+**A:** [[circle-of-willis|Cerebral arterial circle]], variants, aneurysm sites
 
 ---
 
 ### Card 60
-**Q:** What is the Craniocervical Junction?
+**Q:** What is the [[craniocervical-junction]]?
 
 **A:** CVJ osseous/ligamentous framework, approach selection
 
 ---
 
 ### Card 61
-**Q:** What is the Cavernous Sinus Contents?
+**Q:** What is the [[cavernous-sinus-contents]]?
 
 **A:** Lateral wall nerve order, surgical triangles
 
 ---
 
 ### Card 62
-**Q:** What is the Meckel's Cave?
+**Q:** What is the [[meckels-cave|Meckel's Cave]]?
 
 **A:** Trigeminal ganglion housing, paraclival triangles
 
@@ -461,7 +461,7 @@ tags:
 ### Card 65
 **Q:** What is the Sellar Region?
 
-**A:** Pituitary fossa, transsphenoidal and transcranial approaches
+**A:** [[sellar-region|Pituitary fossa]], transsphenoidal and transcranial approaches
 
 ---
 
@@ -473,7 +473,7 @@ tags:
 ---
 
 ### Card 67
-**Q:** What is the Optic Canal?
+**Q:** What is the [[optic-canal]]?
 
 **A:** Optic strut, sphenoid sinus relation, nerve decompression
 
@@ -494,7 +494,7 @@ tags:
 ---
 
 ### Card 70
-**Q:** What is the Anterior and Middle Cranial Base?
+**Q:** What is the [[cranial-base|Anterior and Middle Cranial Base]]?
 
 **A:** Anterior and middle cranial fossae, foramina
 
@@ -517,7 +517,7 @@ tags:
 ### Card 73
 **Q:** What anatomical region contains the Ambient Cistern?
 
-**A:** Basal Cisterns
+**A:** [[basal-cisterns]]
 
 ---
 
@@ -531,14 +531,14 @@ tags:
 ### Card 75
 **Q:** What is the Thalamus?
 
-**A:** Central relay, thalamoperforating supply, choroidal fissure
+**A:** Central relay, thalamoperforating supply, [[choroidal-fissure]]
 
 ---
 
 ### Card 76
 **Q:** What anatomical region contains the Thalamus?
 
-**A:** Cerebrum
+**A:** [[cerebrum]]
 
 ---
 
@@ -550,7 +550,7 @@ tags:
 ---
 
 ### Card 78
-**Q:** What is the Paraclinoid Internal Carotid Artery?
+**Q:** What is the [[paraclinoid-ica|Paraclinoid Internal Carotid Artery]]?
 
 **A:** Dural rings, clinoid space, carotid cave aneurysms, clinoidectomy
 
@@ -578,7 +578,7 @@ tags:
 ---
 
 ### Card 82
-**Q:** What is the Falx Cerebri?
+**Q:** What is the [[falx-cerebri]]?
 
 **A:** Dural fold, sagittal sinuses, subfalcine herniation
 
@@ -592,7 +592,7 @@ tags:
 ---
 
 ### Card 84
-**Q:** What is the White Matter Tracts?
+**Q:** What is the [[white-matter-tracts]]?
 
 **A:** Association, commissural, projection fibers, fiber dissection
 
@@ -606,7 +606,7 @@ tags:
 ---
 
 ### Card 86
-**Q:** What is the Choroid Plexus?
+**Q:** What is the [[choroid-plexus]]?
 
 **A:** CSF production, choroidal fissure, dual arterial supply
 
@@ -655,7 +655,7 @@ tags:
 ---
 
 ### Card 93
-**Q:** What is the Velum Interpositum?
+**Q:** What is the [[velum-interpositum]]?
 
 **A:** Tela choroidea cistern, ICV corridor, pineal access
 
@@ -676,7 +676,7 @@ tags:
 ---
 
 ### Card 96
-**Q:** What is the Anterior Clinoid Process?
+**Q:** What is the [[anterior-clinoid-process]]?
 
 **A:** Clinoidectomy, dural rings, optic strut, paraclinoid ICA
 
@@ -690,7 +690,7 @@ tags:
 ---
 
 ### Card 98
-**Q:** What is the Posterior Fossa Veins?
+**Q:** What is the [[posterior-fossa-veins]]?
 
 **A:** Superior, anterior, and posterior drainage groups
 
@@ -711,7 +711,7 @@ tags:
 ---
 
 ### Card 101
-**Q:** What is the Lamina Terminalis?
+**Q:** What is the [[lamina-terminalis]]?
 
 **A:** Third ventricle anterior wall, ACoA landmark, CSF drainage
 
@@ -753,7 +753,7 @@ tags:
 ---
 
 ### Card 107
-**Q:** What is the Suboccipital Triangle?
+**Q:** What is the [[suboccipital-triangle]]?
 
 **A:** V3 vertebral artery landmark, far-lateral roadmap
 
@@ -774,7 +774,7 @@ tags:
 ---
 
 ### Card 110
-**Q:** What is the Basal Ganglia and Internal Capsule?
+**Q:** What is the Basal Ganglia and [[internal-capsule]]?
 
 **A:** Lenticulostriate territory, internal capsule, DBS targets
 
@@ -816,7 +816,7 @@ tags:
 ---
 
 ### Card 116
-**Q:** What is the Fornix?
+**Q:** What is the [[fornix]]?
 
 **A:** Hippocampal efferent arc, foramen of Monro landmark, memory circuit
 
@@ -837,9 +837,9 @@ tags:
 ---
 
 ### Card 119
-**Q:** What is the Infratemporal Fossa?
+**Q:** What is the [[infratemporal-fossa]]?
 
-**A:** V3 territory, maxillary artery, pterygoid plexus
+**A:** V3 territory, [[maxillary-artery]], pterygoid plexus
 
 ---
 
@@ -858,7 +858,7 @@ tags:
 ---
 
 ### Card 122
-**Q:** What is the Cerebral Veins?
+**Q:** What is the [[cerebral-veins]]?
 
 **A:** Superficial and deep venous drainage systems
 
@@ -867,7 +867,7 @@ tags:
 ### Card 123
 **Q:** What is the Tentorial Incisura?
 
-**A:** Incisural spaces, transtentorial herniation
+**A:** Incisural spaces, [[herniation-syndromes|transtentorial herniation]]
 
 ---
 
@@ -879,7 +879,7 @@ tags:
 ---
 
 ### Card 125
-**Q:** What is the Dural Venous Sinuses?
+**Q:** What is the [[dural-venous-sinuses]]?
 
 **A:** Sagittal, transverse, sigmoid, petrosal, confluence
 
@@ -893,14 +893,14 @@ tags:
 ---
 
 ### Card 127
-**Q:** What is the Tentorium Cerebelli?
+**Q:** What is the [[tentorium-cerebelli]]?
 
 **A:** Dural fold, tentorial division, sinuses, herniation site
 
 ---
 
 ### Card 128
-**Q:** What is the Orbit?
+**Q:** What is the [[orbit]]?
 
 **A:** Osseous walls, annular tendon, optic canal
 
@@ -993,7 +993,7 @@ tags:
 ### Card 141
 **Q:** What is the Optic Radiation?
 
-**A:** Meyer's loop, geniculocalcarine tract, visual field mapping
+**A:** Meyer's loop, [[optic-radiation|geniculocalcarine tract]], visual field mapping
 
 ---
 
@@ -1012,7 +1012,7 @@ tags:
 ---
 
 ### Card 144
-**Q:** What is the Liliequist Membrane?
+**Q:** What is the [[meninges|Liliequist Membrane]]?
 
 **A:** Arachnoid barrier, cisternal compartments, basilar apex
 
@@ -1054,7 +1054,7 @@ tags:
 ---
 
 ### Card 150
-**Q:** What is the Uncus?
+**Q:** What is the [[uncus]]?
 
 **A:** Mesial temporal hook, uncal herniation, amygdala/hippocampal head
 
@@ -1075,7 +1075,7 @@ tags:
 ---
 
 ### Card 153
-**Q:** What is the Cerebellar Peduncles?
+**Q:** What is the [[cerebellar-peduncles]]?
 
 **A:** Three fiber bundles, safe entry zones, fourth ventricle walls
 
@@ -1138,7 +1138,7 @@ tags:
 ---
 
 ### Card 162
-**Q:** What is the Hippocampus?
+**Q:** What is the [[hippocampus]]?
 
 **A:** Medial temporal lobe, choroidal fissure, epilepsy surgery
 
@@ -1159,7 +1159,7 @@ tags:
 ---
 
 ### Card 165
-**Q:** What is the Insula?
+**Q:** What is the [[insula]]?
 
 **A:** Deep cortex, MCA territory, lenticulostriate perforators
 
@@ -1257,7 +1257,7 @@ tags:
 ---
 
 ### Card 179
-**Q:** What is the Cerebral Aqueduct?
+**Q:** What is the [[cerebral-aqueduct]]?
 
 **A:** Midbrain channel, aqueductal stenosis, tectal plate
 
@@ -1278,7 +1278,7 @@ tags:
 ---
 
 ### Card 182
-**Q:** What is the Pterygopalatine Fossa?
+**Q:** What is the [[pterygopalatine-fossa]]?
 
 **A:** V2/maxillary artery hub, 8 communications
 
@@ -1299,14 +1299,14 @@ tags:
 ---
 
 ### Card 185
-**Q:** What is the Posterior Cranial Fossa?
+**Q:** What is the [[posterior-fossa|Posterior Cranial Fossa]]?
 
 **A:** Cerebellum, brainstem, fourth ventricle, cerebellar arteries
 
 ---
 
 ### Card 186
-**Q:** What is the Hypothalamus?
+**Q:** What is the [[hypothalamus]]?
 
 **A:** Third ventricle floor, perforator supply, craniopharyngioma
 
@@ -1383,7 +1383,7 @@ tags:
 ---
 
 ### Card 197
-**Q:** What is the Recurrent Artery of Heubner?
+**Q:** What is the [[recurrent-artery-of-heubner]]?
 
 **A:** Largest ACA perforator, ACoA surgery risk
 
@@ -1404,7 +1404,7 @@ tags:
 ---
 
 ### Card 200
-**Q:** What is the Middle Meningeal Artery?
+**Q:** What is the [[middle-meningeal-artery]]?
 
 **A:** Foramen spinosum, epidural hematoma, dural supply
 
@@ -1425,7 +1425,7 @@ tags:
 ---
 
 ### Card 203
-**Q:** What is the Anterior Spinal Artery?
+**Q:** What is the [[anterior-spinal-artery]]?
 
 **A:** VA branch, anterior cord supply, spinal artery syndrome
 
@@ -1446,7 +1446,7 @@ tags:
 ---
 
 ### Card 206
-**Q:** What is the Abducens Nerve?
+**Q:** What is the [[abducens-nerve]]?
 
 **A:** CN VI, longest subarachnoid course, Dorello's canal
 
@@ -1502,7 +1502,7 @@ tags:
 ---
 
 ### Card 214
-**Q:** What is the Transverse Sinus?
+**Q:** What is the [[transverse-sinus]]?
 
 **A:** Torcular-sigmoid conduit, Labbé drainage, craniotomy boundary
 
@@ -1523,7 +1523,7 @@ tags:
 ---
 
 ### Card 217
-**Q:** What is the Thalamoperforating Arteries?
+**Q:** What is the [[thalamoperforating-arteries]]?
 
 **A:** P1 perforators, Percheron variant, basilar apex risk
 
@@ -1532,12 +1532,12 @@ tags:
 ### Card 218
 **Q:** What anatomical region contains the Thalamoperforating Arteries?
 
-**A:** Posterior Cerebral Artery
+**A:** [[posterior-cerebral-artery]]
 
 ---
 
 ### Card 219
-**Q:** What is the Superior Cerebellar Artery?
+**Q:** What is the [[superior-cerebellar-artery]]?
 
 **A:** Upper neurovascular complex, CN V relation
 
@@ -1551,7 +1551,7 @@ tags:
 ---
 
 ### Card 221
-**Q:** What is the Superior Hypophyseal Artery?
+**Q:** What is the [[superior-hypophyseal-artery]]?
 
 **A:** Pituitary portal supply, chiasm perforators
 
@@ -1565,7 +1565,7 @@ tags:
 ---
 
 ### Card 223
-**Q:** What is the Ethmoidal Arteries?
+**Q:** What is the [[ethmoidal-arteries]]?
 
 **A:** AEA/PEA, cribriform landmarks, anterior skull base supply
 
@@ -1574,7 +1574,7 @@ tags:
 ### Card 224
 **Q:** What anatomical region contains the Ethmoidal Arteries?
 
-**A:** Ophthalmic Artery
+**A:** [[ophthalmic-artery]]
 
 ---
 
@@ -1586,7 +1586,7 @@ tags:
 ---
 
 ### Card 226
-**Q:** What is the Anterior Choroidal Artery?
+**Q:** What is the [[anterior-choroidal-artery]]?
 
 **A:** Cisternal course, choroidal fissure entry, supply territory
 
@@ -1600,7 +1600,7 @@ tags:
 ---
 
 ### Card 228
-**Q:** What is the Occipital Artery?
+**Q:** What is the [[occipital-artery]]?
 
 **A:** ECA branch, far-lateral landmark, EC-IC bypass donor
 
@@ -1621,7 +1621,7 @@ tags:
 ---
 
 ### Card 231
-**Q:** What is the Sigmoid Sinus?
+**Q:** What is the [[sigmoid-sinus]]?
 
 **A:** S-shaped course, asterion landmark, craniotomy boundary
 
@@ -1642,7 +1642,7 @@ tags:
 ---
 
 ### Card 234
-**Q:** What is the Posterior Choroidal Arteries?
+**Q:** What is the [[posterior-choroidal-arteries]]?
 
 **A:** PCA branches, pineal/choroid plexus supply
 
@@ -1656,7 +1656,7 @@ tags:
 ---
 
 ### Card 236
-**Q:** What is the Greater Superficial Petrosal Nerve?
+**Q:** What is the [[greater-petrosal-nerve|Greater Superficial Petrosal Nerve]]?
 
 **A:** GSPN, geniculate landmark, Kawase triangle boundary
 
@@ -1665,12 +1665,12 @@ tags:
 ### Card 237
 **Q:** What anatomical region contains the Greater Superficial Petrosal Nerve?
 
-**A:** Facial Nerve
+**A:** [[facial-nerve]]
 
 ---
 
 ### Card 238
-**Q:** What is the Labyrinthine Artery?
+**Q:** What is the [[labyrinthine-artery]]?
 
 **A:** AICA branch, sole cochlear supply, deafness risk
 
@@ -1740,7 +1740,7 @@ tags:
 ---
 
 ### Card 248
-**Q:** What is the Olfactory Nerve and Tract?
+**Q:** What is the [[olfactory-nerve|Olfactory Nerve and Tract]]?
 
 **A:** CN I, cribriform plate, olfactory groove meningioma
 
@@ -1761,7 +1761,7 @@ tags:
 ---
 
 ### Card 251
-**Q:** What is the Optic Chiasm?
+**Q:** What is the [[optic-chiasm]]?
 
 **A:** Visual pathway crossing, sellar region landmark
 
@@ -1782,7 +1782,7 @@ tags:
 ---
 
 ### Card 254
-**Q:** What is the Dentate Ligament?
+**Q:** What is the [[dentate-ligament]]?
 
 **A:** Foramen magnum landmark, anterior/posterior compartment division
 
@@ -1803,7 +1803,7 @@ tags:
 ---
 
 ### Card 257
-**Q:** What is the Middle Cerebral Artery?
+**Q:** What is the [[middle-cerebral-artery]]?
 
 **A:** M1-M4 segments, branching patterns, lenticulostriate arteries
 
@@ -1817,7 +1817,7 @@ tags:
 ---
 
 ### Card 259
-**Q:** What is the Extraocular Muscles?
+**Q:** What is the [[extraocular-muscles]]?
 
 **A:** Rectus/oblique muscles, annulus of Zinn, CN palsies
 
@@ -1838,7 +1838,7 @@ tags:
 ---
 
 ### Card 262
-**Q:** What is the Internal Cerebral Veins?
+**Q:** What is the [[internal-cerebral-veins]]?
 
 **A:** Velum interpositum, venous angle, thalamostriate drainage
 
@@ -1859,7 +1859,7 @@ tags:
 ---
 
 ### Card 265
-**Q:** What is the Anterior Communicating Artery?
+**Q:** What is the [[anterior-communicating-artery]]?
 
 **A:** Connects bilateral ACAs, most common aneurysm site
 
@@ -1873,7 +1873,7 @@ tags:
 ---
 
 ### Card 267
-**Q:** What is the Oculomotor Nerve?
+**Q:** What is the [[oculomotor-nerve]]?
 
 **A:** CN III, PCA-SCA sandwich, PCoA aneurysm relation
 
@@ -1887,7 +1887,7 @@ tags:
 ---
 
 ### Card 269
-**Q:** What is the Superficial Temporal Artery?
+**Q:** What is the [[superficial-temporal-artery]]?
 
 **A:** STA-MCA bypass donor, pterional landmark, CN VII relation
 
@@ -1908,7 +1908,7 @@ tags:
 ---
 
 ### Card 272
-**Q:** What is the Vestibulocochlear Nerve?
+**Q:** What is the [[vestibulocochlear-nerve]]?
 
 **A:** CN VIII, vestibular schwannoma origin
 
@@ -1922,7 +1922,7 @@ tags:
 ---
 
 ### Card 274
-**Q:** What is the Optic Tract?
+**Q:** What is the [[optic-tract]]?
 
 **A:** Post-chiasmatic pathway, AChA landmark, uncal herniation
 
@@ -1980,7 +1980,7 @@ tags:
 ### Card 282
 **Q:** What is the Vertebral Artery?
 
-**A:** V1-V4 segments, vertebrobasilar system, foramen magnum
+**A:** V1-V4 segments, [[posterior-circulation|vertebrobasilar system]], foramen magnum
 
 ---
 
@@ -2015,7 +2015,7 @@ tags:
 ### Card 287
 **Q:** Surgical significance of the Ophthalmic Artery?
 
-**A:** Removing the anterior clinoid process unroofs the optic canal and exposes the ophthalmic artery origin from the ICA. Critical for paraclinoid [[internal-carotid-artery|ICA]] [[aneurysm-surgery]] and optic nerve decompression.
+**A:** Removing the anterior clinoid process unroofs the optic canal and exposes the ophthalmic artery origin from the ICA. Critical for paraclinoid [[internal-carotid-artery|ICA]] [[aneurysm-surgery]] and [[optic-nerve]] decompression.
 
 ---
 
@@ -2076,7 +2076,7 @@ tags:
 ---
 
 ### Card 296
-**Q:** What is the Anterior Inferior Cerebellar Artery?
+**Q:** What is the [[aica|Anterior Inferior Cerebellar Artery]]?
 
 **A:** Middle neurovascular complex, meatal loop, labyrinthine artery
 
@@ -2111,7 +2111,7 @@ tags:
 ---
 
 ### Card 301
-**Q:** What is the Trochlear Nerve?
+**Q:** What is the [[trochlear-nerve]]?
 
 **A:** CN IV, dorsal origin, tentorial edge course, thinnest CN
 
@@ -2183,12 +2183,12 @@ tags:
 ### Card 311
 **Q:** Surgical significance of the Lower Cranial Nerves (CN IX–XII)?
 
-**A:** The primary corridor exposing all four lower cranial nerves. CN XI is identified ascending behind the [[vertebral-artery]] through the foramen magnum. CN XII rootlets are seen crossing behind the vertebral artery. CN IX and X are visible at the jugular foramen above.
+**A:** The primary corridor exposing all four lower cranial nerves. CN XI is identified ascending behind the [[vertebral-artery]] through the foramen magnum. [[lower-cranial-nerves|CN XII]] rootlets are seen crossing behind the vertebral artery. CN IX and X are visible at the jugular foramen above.
 
 ---
 
 ### Card 312
-**Q:** What is the Basal Vein of Rosenthal?
+**Q:** What is the [[basal-vein-of-rosenthal]]?
 
 **A:** Deep venous conduit, PCA parallel, pineal region obstacle
 
@@ -2209,7 +2209,7 @@ tags:
 ---
 
 ### Card 315
-**Q:** What is the Vein of Galen Complex?
+**Q:** What is the [[vein-of-galen|Vein of Galen Complex]]?
 
 **A:** Deep venous confluence, ICVs, basal vein, pineal obstacle
 
@@ -2230,7 +2230,7 @@ tags:
 ---
 
 ### Card 318
-**Q:** What is the Posterior Spinal Artery?
+**Q:** What is the [[posterior-spinal-artery]]?
 
 **A:** VA branch, dorsal column supply, dentate ligament relation
 
@@ -2272,7 +2272,7 @@ tags:
 ---
 
 ### Card 324
-**Q:** What is the Thalamogeniculate Arteries?
+**Q:** What is the [[thalamogeniculate-arteries]]?
 
 **A:** P2 perforators, lateral thalamus supply, ambient cistern
 

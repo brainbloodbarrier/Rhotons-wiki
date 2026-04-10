@@ -86,7 +86,7 @@ The pontine perforating branches are the principal constraint in basilar artery 
 ## Cisterns
 
 The basilar artery traverses several [[basal-cisterns]]:
-- **Prepontine cistern** — contains the basilar trunk along the ventral pons
+- **[[prepontine-cistern]]** — contains the basilar trunk along the ventral pons
 - **[[interpeduncular-cistern]]** — contains the basilar apex and bifurcation
 - **Cerebellopontine cistern** — AICA branches course through this space
 

@@ -20,7 +20,7 @@ summary: >-
 
 # Pineal Region
 
-The pineal region is a deep midline area centered on the pineal gland at the posterior wall of the [[lateral-and-third-ventricles|third ventricle]], within the quadrigeminal cistern. It is one of the most surgically challenging regions due to its depth and the convergence of critical venous and arterial structures.
+The pineal region is a deep midline area centered on the pineal gland at the posterior wall of the [[lateral-and-third-ventricles|third ventricle]], within the [[quadrigeminal-cistern]]. It is one of the most surgically challenging regions due to its depth and the convergence of critical venous and arterial structures.
 
 ## Pineal Gland
 

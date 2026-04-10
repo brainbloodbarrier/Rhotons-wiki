@@ -86,7 +86,7 @@ The cerebellar tonsils descend through the [[foramen-magnum]], compressing the m
 - Drained by [[posterior-fossa-veins]] → [[dural-venous-sinuses]]
 - [[foramen-magnum]] below (tonsillar herniation pathway)
 - [[tentorial-incisura]] above (ascending herniation pathway)
-- [[basal-cisterns]] (cisterna magna, quadrigeminal cistern) surround the cerebellum
+- [[basal-cisterns]] (cisterna magna, [[quadrigeminal-cistern]]) surround the cerebellum
 - Fourth ventricle ([[lateral-and-third-ventricles]]) is embedded between cerebellum and [[brainstem]]
 - See [[surgical-approaches-overview]] for approach selection
 

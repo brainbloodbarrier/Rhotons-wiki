@@ -39,7 +39,7 @@ Sits within the sella turcica, covered superiorly by the diaphragma sellae (a du
 ### [[sphenoid-bone|Sphenoid]] Sinus
 Located directly below the sella; provides the primary transsphenoidal surgical corridor. The sinus is separated from the sella by a thin bony floor (sometimes dehiscent). The sphenoid ostia open into the sphenoethmoidal recesses of the nasal cavity.
 
-### Suprasellar Cistern
+### [[chiasmatic-cistern|Suprasellar Cistern]]
 Contains the [[optic-chiasm]], infundibulum, [[anterior-cerebral-artery]] (A1), [[anterior-communicating-artery]], superior hypophyseal arteries, and the [[lamina-terminalis]].
 
 ## Surgical Approaches
