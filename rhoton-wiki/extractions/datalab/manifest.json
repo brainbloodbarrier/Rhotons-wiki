@@ -335,5 +335,363 @@
       "poll_seconds": 26.0
     }
   },
-  "updated_at": "2026-04-11T18:26:54+00:00"
+  "updated_at": "2026-04-11T20:13:19+00:00",
+  "jobs_json": {
+    "p1c01-operative-techniques-and-instrumentation-for-neurosurgery": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "PmLXneSDjwW0v3_CSrCyGg",
+      "submitted_at": "2026-04-11T19:48:26+00:00",
+      "completed_at": "2026-04-11T19:49:40+00:00",
+      "page_count": 78,
+      "parse_quality_score": null,
+      "cost_cents": 36,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 36.0
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p1c01-operative-techniques-and-instrumentation-for-neurosurgery/json-pass",
+      "checkpoint_id": "checkpoint_q9H8EoCPOnI_u6lhE2ymlZFN6rKpnf8JOvAWal6GhLc",
+      "upload_seconds": 32.5,
+      "poll_seconds": 41.0
+    },
+    "p2c01-the-cerebrum": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "MyEyPoSiYYcjIvhyv1FyWg",
+      "submitted_at": "2026-04-11T19:49:40+00:00",
+      "completed_at": "2026-04-11T19:50:57+00:00",
+      "page_count": 101,
+      "parse_quality_score": null,
+      "cost_cents": 46,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 61,
+        "final_cost_cents": 46
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p2c01-the-cerebrum/json-pass",
+      "checkpoint_id": "checkpoint_W2fZYPoG4fLvkeC2H_bxQbMp23gZVNInjJ1UglZIy4I",
+      "upload_seconds": 27.0,
+      "poll_seconds": 50.4
+    },
+    "p2c02-the-supratentorial-arteries": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "FIwtwiHTtIMm4U55Goc3BQ",
+      "submitted_at": "2026-04-11T19:50:57+00:00",
+      "completed_at": "2026-04-11T19:52:55+00:00",
+      "page_count": 147,
+      "parse_quality_score": null,
+      "cost_cents": 67,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 89,
+        "final_cost_cents": 67
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p2c02-the-supratentorial-arteries/json-pass",
+      "checkpoint_id": "checkpoint_juoooh8mIcwquXHSlnuqmk2RsK3waSTruA4vakXWnus",
+      "upload_seconds": 55.3,
+      "poll_seconds": 62.2
+    },
+    "p2c03-aneurysms": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "669I_5vKOSR44ryacleXHw",
+      "submitted_at": "2026-04-11T19:52:55+00:00",
+      "completed_at": "2026-04-11T19:54:44+00:00",
+      "page_count": 83,
+      "parse_quality_score": null,
+      "cost_cents": 38,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 50,
+        "final_cost_cents": 38
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p2c03-aneurysms/json-pass",
+      "checkpoint_id": "checkpoint_tvtbPZeRhuRWGXAhb65rb9XYsOWWZQ51wEHKKXL2KfI",
+      "upload_seconds": 48.8,
+      "poll_seconds": 60.2
+    },
+    "p2c04-the-cerebral-veins": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "a9n28sgr2Ce3JX8LThVX8w",
+      "submitted_at": "2026-04-11T19:54:44+00:00",
+      "completed_at": "2026-04-11T19:55:46+00:00",
+      "page_count": 94,
+      "parse_quality_score": null,
+      "cost_cents": 43,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 57,
+        "final_cost_cents": 43
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p2c04-the-cerebral-veins/json-pass",
+      "checkpoint_id": "checkpoint_5usKsV0pPjzcUqfuao_CM0BpLinLnfqhv_gcfay2Xn4",
+      "upload_seconds": 24.4,
+      "poll_seconds": 38.3
+    },
+    "p2c05-the-lateral-and-third-ventricles": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "nM2ql-wzyk90pnjqlIHFCg",
+      "submitted_at": "2026-04-11T19:55:46+00:00",
+      "completed_at": "2026-04-11T19:57:17+00:00",
+      "page_count": 135,
+      "parse_quality_score": null,
+      "cost_cents": 61,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 61.0
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p2c05-the-lateral-and-third-ventricles/json-pass",
+      "checkpoint_id": "checkpoint_PvQR-XM1C-2FWCpw1zpjUF77WUPXM80Hq4d9Gu47X8U",
+      "upload_seconds": 23.6,
+      "poll_seconds": 66.6
+    },
+    "p2c06-the-anterior-and-middle-cranial-base": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "j3Jjvbl5clGUU4dOzXIp6g",
+      "submitted_at": "2026-04-11T19:57:17+00:00",
+      "completed_at": "2026-04-11T19:58:26+00:00",
+      "page_count": 53,
+      "parse_quality_score": null,
+      "cost_cents": 24,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 32,
+        "final_cost_cents": 24
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p2c06-the-anterior-and-middle-cranial-base/json-pass",
+      "checkpoint_id": "checkpoint_2A58CTxMxnjWhBVml8BdZDBsi3HYVVZ1B_clGY4cuVo",
+      "upload_seconds": 25.5,
+      "poll_seconds": 43.8
+    },
+    "p2c07-the-orbit": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "lFMCbs2i1Ipz809PWrpeTw",
+      "submitted_at": "2026-04-11T19:58:26+00:00",
+      "completed_at": "2026-04-11T19:59:32+00:00",
+      "page_count": 66,
+      "parse_quality_score": null,
+      "cost_cents": 30,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 30.0
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p2c07-the-orbit/json-pass",
+      "checkpoint_id": "checkpoint_RtUhfo64u47AVAW1zPNVna9lfRgeT0fYTAJTO5-qnP4",
+      "upload_seconds": 24.9,
+      "poll_seconds": 41.4
+    },
+    "p2c08-the-sellar-region": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "anS7Mn771Bp76-fIUCdzQA",
+      "submitted_at": "2026-04-11T19:59:32+00:00",
+      "completed_at": "2026-04-11T20:00:47+00:00",
+      "page_count": 82,
+      "parse_quality_score": null,
+      "cost_cents": 37,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 50,
+        "final_cost_cents": 37
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p2c08-the-sellar-region/json-pass",
+      "checkpoint_id": "checkpoint_1fOGdUxzvKXohZ851SGLLIrRl8G45kcm6IfNqeFtYGw",
+      "upload_seconds": 23.2,
+      "poll_seconds": 51.3
+    },
+    "p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "pWMXFj3L-P2rdvas4gNqDA",
+      "submitted_at": "2026-04-11T20:00:47+00:00",
+      "completed_at": "2026-04-11T20:02:03+00:00",
+      "page_count": 69,
+      "parse_quality_score": null,
+      "cost_cents": 32,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 42,
+        "final_cost_cents": 32
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro/json-pass",
+      "checkpoint_id": "checkpoint_L1sKFJ04AfepUVgeT75mh7jrB69fjdFeO1LzJKxDRh0",
+      "upload_seconds": 23.2,
+      "poll_seconds": 53.1
+    },
+    "p3c01-cerebellum-and-fourth-ventricle": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "84ilHuBrMZToO9pdoVycpg",
+      "submitted_at": "2026-04-11T20:02:03+00:00",
+      "completed_at": "2026-04-11T20:02:59+00:00",
+      "page_count": 49,
+      "parse_quality_score": null,
+      "cost_cents": 23,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 30,
+        "final_cost_cents": 23
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p3c01-cerebellum-and-fourth-ventricle/json-pass",
+      "checkpoint_id": "checkpoint_wr8rWlczlG9AehFE9qVYr9E22tnU73oM9q9EqWYrmYk",
+      "upload_seconds": 24.9,
+      "poll_seconds": 31.1
+    },
+    "p3c02-the-cerebellar-arteries": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "xHpIlNU81emwkGmgOyt5Yw",
+      "submitted_at": "2026-04-11T20:02:59+00:00",
+      "completed_at": "2026-04-11T20:04:39+00:00",
+      "page_count": 90,
+      "parse_quality_score": null,
+      "cost_cents": 41,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 54,
+        "final_cost_cents": 41
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p3c02-the-cerebellar-arteries/json-pass",
+      "checkpoint_id": "checkpoint_mE3UG-HyCJp1hU7Pu4fRNoLjMNaWA6O2JdrGTpcdVLs",
+      "upload_seconds": 24.0,
+      "poll_seconds": 75.6
+    },
+    "p3c03-the-posterior-fossa-veins": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "ThtWP0whLGLnsD6dRhZxvQ",
+      "submitted_at": "2026-04-11T20:04:39+00:00",
+      "completed_at": "2026-04-11T20:05:31+00:00",
+      "page_count": 54,
+      "parse_quality_score": null,
+      "cost_cents": 25,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 33,
+        "final_cost_cents": 25
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p3c03-the-posterior-fossa-veins/json-pass",
+      "checkpoint_id": "checkpoint_nJ4OrkCDITzr_A_wvjTkfPub-f_S7SIHGgmEc0HeezY",
+      "upload_seconds": 29.3,
+      "poll_seconds": 22.4
+    },
+    "p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "5-eGv3SGGwz6QMCsX4T9yw",
+      "submitted_at": "2026-04-11T20:05:31+00:00",
+      "completed_at": "2026-04-11T20:06:37+00:00",
+      "page_count": 89,
+      "parse_quality_score": null,
+      "cost_cents": 41,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 54,
+        "final_cost_cents": 41
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve/json-pass",
+      "checkpoint_id": "checkpoint_X0_1OZgCWUksx46qSU3o4EYcKlLkcYlY3JxP0Pq6pdY",
+      "upload_seconds": 25.7,
+      "poll_seconds": 40.4
+    },
+    "p3c05-tentorial-incisura": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "2agoZ7L_5SebzuFEESkqpw",
+      "submitted_at": "2026-04-11T20:06:37+00:00",
+      "completed_at": "2026-04-11T20:07:55+00:00",
+      "page_count": 52,
+      "parse_quality_score": null,
+      "cost_cents": 24,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 32,
+        "final_cost_cents": 24
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p3c05-tentorial-incisura/json-pass",
+      "checkpoint_id": "checkpoint_0eZJdgY0pHD0qwsd1KaHl7tqIfZZiZEj95_1TAHFen8",
+      "upload_seconds": 33.2,
+      "poll_seconds": 45.3
+    },
+    "p3c06-the-foramen-magnum": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "Ik2ELgkDJZRTQQQiovXPwA",
+      "submitted_at": "2026-04-11T20:07:55+00:00",
+      "completed_at": "2026-04-11T20:08:56+00:00",
+      "page_count": 85,
+      "parse_quality_score": null,
+      "cost_cents": 39,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 39.0
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p3c06-the-foramen-magnum/json-pass",
+      "checkpoint_id": "checkpoint_IhSPt2oNV4LDVO2TElBFMToHsmlPp5T_V4_svnBnNM0",
+      "upload_seconds": 25.2,
+      "poll_seconds": 35.7
+    },
+    "p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "ozlBH22t8tZmn28nRZFcAw",
+      "submitted_at": "2026-04-11T20:08:56+00:00",
+      "completed_at": "2026-04-11T20:09:46+00:00",
+      "page_count": 32,
+      "parse_quality_score": null,
+      "cost_cents": 15,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 20,
+        "final_cost_cents": 15
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar/json-pass",
+      "checkpoint_id": "checkpoint_kUjX8HQyyY1cFg5ExeKJoGBPnLDUfyjDZatWaZ3nyPI",
+      "upload_seconds": 30.6,
+      "poll_seconds": 19.0
+    },
+    "p3c08-the-temporal-bone-and-transtemporal-approaches": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "V8N8boMmZhTB6AygTFg-tA",
+      "submitted_at": "2026-04-11T20:09:46+00:00",
+      "completed_at": "2026-04-11T20:11:18+00:00",
+      "page_count": 123,
+      "parse_quality_score": null,
+      "cost_cents": 56,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 74,
+        "final_cost_cents": 56
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p3c08-the-temporal-bone-and-transtemporal-approaches/json-pass",
+      "checkpoint_id": "checkpoint_nY19nkDkvHeF-l_ZEpHhs1xSMzuGp7FGs8nJBRbhH0I",
+      "upload_seconds": 26.8,
+      "poll_seconds": 65.4
+    },
+    "p3c09-jugular-foramen": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "0rU9DIZZScZM-heRYqil5g",
+      "submitted_at": "2026-04-11T20:11:18+00:00",
+      "completed_at": "2026-04-11T20:12:25+00:00",
+      "page_count": 42,
+      "parse_quality_score": null,
+      "cost_cents": 19,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 26,
+        "final_cost_cents": 19
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p3c09-jugular-foramen/json-pass",
+      "checkpoint_id": "checkpoint_qJpjgxc-JBw0Zgq9o3OkgbI8lj8aX2B7gdX8pHx9m9s",
+      "upload_seconds": 31.9,
+      "poll_seconds": 34.5
+    },
+    "p3c10-the-posterior-fossa-cisterns": {
+      "status": "complete",
+      "output_format": "json",
+      "request_id": "j127ciITRfzfpaRf7sG7dA",
+      "submitted_at": "2026-04-11T20:12:25+00:00",
+      "completed_at": "2026-04-11T20:13:19+00:00",
+      "page_count": 27,
+      "parse_quality_score": null,
+      "cost_cents": 13,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 17,
+        "final_cost_cents": 13
+      },
+      "chapter_dir": "/Users/fax/obsidian-wiki/rhoton-wiki/extractions/datalab/chapters/p3c10-the-posterior-fossa-cisterns/json-pass",
+      "checkpoint_id": "checkpoint_gxDLonJRRbElP29q_BYdHAMglVjCotwAlj_lbJuuZ6I",
+      "upload_seconds": 31.6,
+      "poll_seconds": 22.4
+    }
+  }
 }

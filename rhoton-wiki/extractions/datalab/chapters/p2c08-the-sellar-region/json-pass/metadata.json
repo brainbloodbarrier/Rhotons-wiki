@@ -1,0 +1,19 @@
+{
+  "chapter_id": "p2c08-the-sellar-region",
+  "chapter_title": "The Sellar Region",
+  "part_num": 2,
+  "chapter_num": 8,
+  "page_range": "826-907",
+  "expected_page_count": 82,
+  "api_page_count": 82,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 50,
+    "final_cost_cents": 37
+  },
+  "checkpoint_id": "checkpoint_1fOGdUxzvKXohZ851SGLLIrRl8G45kcm6IfNqeFtYGw",
+  "request_id": "anS7Mn771Bp76-fIUCdzQA",
+  "top_level_block_count": 82,
+  "json_bytes": 7189119,
+  "saved_at": "2026-04-11T20:00:47+00:00"
+}

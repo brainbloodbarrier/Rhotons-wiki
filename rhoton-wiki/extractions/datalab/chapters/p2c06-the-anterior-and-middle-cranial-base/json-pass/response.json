@@ -1,0 +1,237 @@
+{
+  "status": "complete",
+  "output_format": "json",
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "segmentation_results": null,
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 707,
+        "num_blocks": 10
+      },
+      {
+        "page_id": 708,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 709,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 710,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 711,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 712,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 713,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 714,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 715,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 716,
+        "num_blocks": 8
+      },
+      {
+        "page_id": 717,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 718,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 719,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 720,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 721,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 722,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 723,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 724,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 725,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 726,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 727,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 728,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 729,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 730,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 731,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 732,
+        "num_blocks": 0
+      },
+      {
+        "page_id": 733,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 734,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 735,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 736,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 737,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 738,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 739,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 740,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 741,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 742,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 743,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 744,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 745,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 746,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 747,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 748,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 749,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 750,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 751,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 752,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 753,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 754,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 755,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 756,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 757,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 758,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 759,
+        "num_blocks": 2
+      }
+    ]
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": null,
+  "page_count": 53,
+  "total_cost": 24,
+  "cost_breakdown": {
+    "list_cost_cents": 32,
+    "final_cost_cents": 24
+  },
+  "runtime": 38.941423416137695,
+  "checkpoint_id": "checkpoint_2A58CTxMxnjWhBVml8BdZDBsi3HYVVZ1B_clGY4cuVo",
+  "versions": null,
+  "evaluation": null,
+  "request_id": "j3Jjvbl5clGUU4dOzXIp6g"
+}

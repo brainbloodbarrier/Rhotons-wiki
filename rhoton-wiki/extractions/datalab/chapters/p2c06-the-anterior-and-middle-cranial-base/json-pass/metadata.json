@@ -1,0 +1,19 @@
+{
+  "chapter_id": "p2c06-the-anterior-and-middle-cranial-base",
+  "chapter_title": "The Anterior and Middle Cranial Base",
+  "part_num": 2,
+  "chapter_num": 6,
+  "page_range": "707-759",
+  "expected_page_count": 53,
+  "api_page_count": 53,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 32,
+    "final_cost_cents": 24
+  },
+  "checkpoint_id": "checkpoint_2A58CTxMxnjWhBVml8BdZDBsi3HYVVZ1B_clGY4cuVo",
+  "request_id": "j3Jjvbl5clGUU4dOzXIp6g",
+  "top_level_block_count": 53,
+  "json_bytes": 6425373,
+  "saved_at": "2026-04-11T19:58:26+00:00"
+}

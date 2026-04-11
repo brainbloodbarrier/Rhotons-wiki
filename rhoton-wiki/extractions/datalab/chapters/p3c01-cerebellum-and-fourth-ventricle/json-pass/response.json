@@ -1,0 +1,221 @@
+{
+  "status": "complete",
+  "output_format": "json",
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "segmentation_results": null,
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 980,
+        "num_blocks": 7
+      },
+      {
+        "page_id": 981,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 982,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 983,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 984,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 985,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 986,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 987,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 988,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 989,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 990,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 991,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 992,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 993,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 994,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 995,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 996,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 997,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 998,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 999,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1000,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1001,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1002,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1003,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1004,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1005,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1006,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1007,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1008,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1009,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1010,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1011,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1012,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1013,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 1014,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1015,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1016,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1017,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1018,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1019,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1020,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1021,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1022,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1023,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1024,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1025,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1026,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1027,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1028,
+        "num_blocks": 1
+      }
+    ]
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": null,
+  "page_count": 49,
+  "total_cost": 23,
+  "cost_breakdown": {
+    "list_cost_cents": 30,
+    "final_cost_cents": 23
+  },
+  "runtime": 26.234840631484985,
+  "checkpoint_id": "checkpoint_wr8rWlczlG9AehFE9qVYr9E22tnU73oM9q9EqWYrmYk",
+  "versions": null,
+  "evaluation": null,
+  "request_id": "84ilHuBrMZToO9pdoVycpg"
+}

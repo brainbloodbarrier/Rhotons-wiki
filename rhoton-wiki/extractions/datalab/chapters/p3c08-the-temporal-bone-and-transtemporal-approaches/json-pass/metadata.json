@@ -1,0 +1,19 @@
+{
+  "chapter_id": "p3c08-the-temporal-bone-and-transtemporal-approaches",
+  "chapter_title": "The Temporal Bone and Transtemporal Approaches",
+  "part_num": 3,
+  "chapter_num": 8,
+  "page_range": "1431-1553",
+  "expected_page_count": 123,
+  "api_page_count": 123,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 74,
+    "final_cost_cents": 56
+  },
+  "checkpoint_id": "checkpoint_nY19nkDkvHeF-l_ZEpHhs1xSMzuGp7FGs8nJBRbhH0I",
+  "request_id": "V8N8boMmZhTB6AygTFg-tA",
+  "top_level_block_count": 123,
+  "json_bytes": 10467048,
+  "saved_at": "2026-04-11T20:11:18+00:00"
+}

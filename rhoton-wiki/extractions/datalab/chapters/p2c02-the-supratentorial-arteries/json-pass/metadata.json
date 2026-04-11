@@ -1,0 +1,19 @@
+{
+  "chapter_id": "p2c02-the-supratentorial-arteries",
+  "chapter_title": "The Supratentorial Arteries",
+  "part_num": 2,
+  "chapter_num": 2,
+  "page_range": "248-394",
+  "expected_page_count": 147,
+  "api_page_count": 147,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 89,
+    "final_cost_cents": 67
+  },
+  "checkpoint_id": "checkpoint_juoooh8mIcwquXHSlnuqmk2RsK3waSTruA4vakXWnus",
+  "request_id": "FIwtwiHTtIMm4U55Goc3BQ",
+  "top_level_block_count": 147,
+  "json_bytes": 13874804,
+  "saved_at": "2026-04-11T19:52:55+00:00"
+}

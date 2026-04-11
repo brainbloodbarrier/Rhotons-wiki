@@ -1,0 +1,613 @@
+{
+  "status": "complete",
+  "output_format": "json",
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "segmentation_results": null,
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 248,
+        "num_blocks": 9
+      },
+      {
+        "page_id": 249,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 250,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 251,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 252,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 253,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 254,
+        "num_blocks": 9
+      },
+      {
+        "page_id": 255,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 256,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 257,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 258,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 259,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 260,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 261,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 262,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 263,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 264,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 265,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 266,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 267,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 268,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 269,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 270,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 271,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 272,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 273,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 274,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 275,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 276,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 277,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 278,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 279,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 280,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 281,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 282,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 283,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 284,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 285,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 286,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 287,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 288,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 289,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 290,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 291,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 292,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 293,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 294,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 295,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 296,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 297,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 298,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 299,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 300,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 301,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 302,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 303,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 304,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 305,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 306,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 307,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 308,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 309,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 310,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 311,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 312,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 313,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 314,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 315,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 316,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 317,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 318,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 319,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 320,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 321,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 322,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 323,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 324,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 325,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 326,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 327,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 328,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 329,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 330,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 331,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 332,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 333,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 334,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 335,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 336,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 337,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 338,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 339,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 340,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 341,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 342,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 343,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 344,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 345,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 346,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 347,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 348,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 349,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 350,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 351,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 352,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 353,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 354,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 355,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 356,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 357,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 358,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 359,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 360,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 361,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 362,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 363,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 364,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 365,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 366,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 367,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 368,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 369,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 370,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 371,
+        "num_blocks": 7
+      },
+      {
+        "page_id": 372,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 373,
+        "num_blocks": 8
+      },
+      {
+        "page_id": 374,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 375,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 376,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 377,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 378,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 379,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 380,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 381,
+        "num_blocks": 7
+      },
+      {
+        "page_id": 382,
+        "num_blocks": 7
+      },
+      {
+        "page_id": 383,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 384,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 385,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 386,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 387,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 388,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 389,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 390,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 391,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 392,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 393,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 394,
+        "num_blocks": 2
+      }
+    ]
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": null,
+  "page_count": 147,
+  "total_cost": 67,
+  "cost_breakdown": {
+    "list_cost_cents": 89,
+    "final_cost_cents": 67
+  },
+  "runtime": 54.915751218795776,
+  "checkpoint_id": "checkpoint_juoooh8mIcwquXHSlnuqmk2RsK3waSTruA4vakXWnus",
+  "versions": null,
+  "evaluation": null,
+  "request_id": "FIwtwiHTtIMm4U55Goc3BQ"
+}
