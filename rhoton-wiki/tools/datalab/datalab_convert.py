@@ -410,6 +410,83 @@ def save_artifacts(chapter: dict, result: dict) -> Path:
     return cdir
 
 
+# ---- Stage 4 JSON-pass routing ---------------------------------------------
+MANIFEST_KEYS: dict[str, str] = {
+    "markdown": "jobs",
+    "json": "jobs_json",
+}
+SUBDIRS: dict[str, str] = {
+    "markdown": "",  # write directly under chapter dir
+    "json": "json-pass",
+}
+
+
+def manifest_key_for(output_format: str) -> str:
+    try:
+        return MANIFEST_KEYS[output_format]
+    except KeyError:
+        print(f"[FAIL] unsupported output_format: {output_format!r}", file=sys.stderr)
+        sys.exit(3)
+
+
+def save_artifacts_json(chapter: dict, result: dict) -> Path:
+    """
+    Persist Stage 4 json-pass artifacts under chapters/<cid>/json-pass/.
+    Writes: chapter.json (raw result["json"]), response.json (stripped),
+    metadata.json. Does NOT touch Stage 2/3 markdown artifacts.
+    """
+    cdir = CHAPTERS_DIR / chapter["chapter_id"] / "json-pass"
+    cdir.mkdir(parents=True, exist_ok=True)
+
+    # Stripped response for audit — no payloads
+    stripped = {
+        k: v
+        for k, v in result.items()
+        if k not in ("markdown", "images", "html", "json", "chunks")
+    }
+    atomic_write(cdir / "response.json", json.dumps(stripped, indent=2))
+
+    # Raw json block tree
+    json_payload = result.get("json")
+    atomic_write(
+        cdir / "chapter.json",
+        json.dumps(json_payload, indent=2) if json_payload is not None else "null",
+    )
+
+    # Probe block/children count for metadata (shape not locked — try common keys)
+    block_count = None
+    if isinstance(json_payload, dict):
+        for k in ("children", "blocks"):
+            v = json_payload.get(k)
+            if isinstance(v, list):
+                block_count = len(v)
+                break
+    elif isinstance(json_payload, list):
+        block_count = len(json_payload)
+
+    json_bytes = len(
+        (json.dumps(json_payload) if json_payload is not None else "").encode()
+    )
+    metadata = {
+        "chapter_id": chapter["chapter_id"],
+        "chapter_title": chapter["title"],
+        "part_num": chapter["part_num"],
+        "chapter_num": chapter["num"],
+        "page_range": chapter["page_range_param"],
+        "expected_page_count": chapter["page_count"],
+        "api_page_count": result.get("page_count"),
+        "parse_quality_score": result.get("parse_quality_score"),
+        "cost_breakdown": result.get("cost_breakdown"),
+        "checkpoint_id": result.get("checkpoint_id"),
+        "request_id": result.get("request_id"),
+        "top_level_block_count": block_count,
+        "json_bytes": json_bytes,
+        "saved_at": now_iso(),
+    }
+    atomic_write(cdir / "metadata.json", json.dumps(metadata, indent=2))
+    return cdir
+
+
 # ------------------------------------------------------------------ pilot
 def stage_pilot(chapter_id: str, dry_run: bool = False) -> int:
     key = load_key()
@@ -561,14 +638,19 @@ PILOT_GATE_TOKEN = "PILOT APPROVED"
 
 
 def process_chapter(
-    session: requests.Session, key: str, chapter: dict, manifest: dict
+    session: requests.Session,
+    key: str,
+    chapter: dict,
+    manifest: dict,
+    output_format: str = "markdown",
 ) -> tuple[int | None, dict]:
     """
     Submit + poll + save + record manifest for a single chapter.
     Returns (cost_cents, result). Exits on hard failure (no auto-retry of 4xx).
+    Format dispatches to the right artifact writer + manifest key.
     """
     t0 = time.time()
-    submit = submit_convert(session, key, chapter)
+    submit = submit_convert(session, key, chapter, output_format=output_format)
     upload_s = time.time() - t0
 
     if not submit.get("success", False):
@@ -595,11 +677,25 @@ def process_chapter(
     result.setdefault("request_id", request_id)
     poll_s = time.time() - t1
 
-    cdir = save_artifacts(chapter, result)
+    # Route artifact writer by format
+    if output_format == "markdown":
+        cdir = save_artifacts(chapter, result)
+    elif output_format == "json":
+        cdir = save_artifacts_json(chapter, result)
+    else:
+        print(
+            f"[FAIL] process_chapter: unsupported format {output_format!r}",
+            file=sys.stderr,
+        )
+        sys.exit(3)
+
     total_cents = extract_cost_cents(result.get("cost_breakdown"))
 
-    manifest["jobs"][chapter["chapter_id"]] = {
+    mkey = manifest_key_for(output_format)
+    manifest.setdefault(mkey, {})
+    manifest[mkey][chapter["chapter_id"]] = {
         "status": "complete",
+        "output_format": output_format,
         "request_id": request_id,
         "submitted_at": datetime.fromtimestamp(t0, tz=timezone.utc).isoformat(
             timespec="seconds"
@@ -618,12 +714,18 @@ def process_chapter(
     return total_cents, result
 
 
-def stage_run(dry_run: bool = False, budget_cents: int | None = None) -> int:
+def stage_run(
+    dry_run: bool = False,
+    budget_cents: int | None = None,
+    output_format: str = "markdown",
+) -> int:
     key = load_key()
     ranges = load_ranges()
+    mkey = manifest_key_for(output_format)
 
     # Gate 1: PILOT APPROVED — require the token on a line of its own
     # (not inside the instructions block, which also contains the literal phrase).
+    # Same gate applies to the json pass per user decision.
     pr = OUT_DIR / "pilot-report.md"
     if not pr.exists():
         print(f"[FAIL] pilot-report.md missing at {pr}", file=sys.stderr)
@@ -662,20 +764,34 @@ def stage_run(dry_run: bool = False, budget_cents: int | None = None) -> int:
         return 3
 
     manifest = load_manifest()
+    manifest.setdefault(mkey, {})
     chapters = ordered_chapters(ranges)
 
-    cumulative = sum(
-        (j.get("cost_cents") or 0)
-        for j in manifest.get("jobs", {}).values()
-        if j.get("status") == "complete"
-    )
+    # Combined cumulative: sum cost across BOTH markdown and json passes.
+    # Budget cap is global, not per-format.
+    def _completed_cost(bucket: dict) -> int:
+        return sum(
+            (j.get("cost_cents") or 0)
+            for j in bucket.values()
+            if j.get("status") == "complete"
+        )
+
+    md_spent = _completed_cost(manifest.get("jobs", {}))
+    json_spent = _completed_cost(manifest.get("jobs_json", {}))
+    cumulative = md_spent + json_spent
+
+    # Avg c/page comes from the markdown pass (most data); json pass is
+    # same underlying pricing, close enough for projection.
     avg_cpp = avg_cents_per_page(manifest)
 
+    print(f"[RUN] format        = {output_format}  (manifest key = {mkey})")
     print(f"[RUN] budget        = {budget_cents} c (${budget_cents / 100:.2f})")
-    print(f"[RUN] already spent = {cumulative} c")
+    print(
+        f"[RUN] already spent = {cumulative} c  (markdown {md_spent} + json {json_spent})"
+    )
     print(f"[RUN] remaining     = {budget_cents - cumulative} c")
     print(
-        f"[RUN] avg c/page    = {avg_cpp:.3f} (from {len(manifest.get('jobs', {}))} job(s))"
+        f"[RUN] avg c/page    = {avg_cpp:.3f} (from {len(manifest.get('jobs', {}))} markdown job(s))"
     )
     print(f"[RUN] chapters      = {len(chapters)}  dry_run={dry_run}")
     print()
@@ -684,10 +800,10 @@ def stage_run(dry_run: bool = False, budget_cents: int | None = None) -> int:
 
     for chapter in chapters:
         cid = chapter["chapter_id"]
-        existing = manifest.get("jobs", {}).get(cid, {})
+        existing = manifest.get(mkey, {}).get(cid, {})
         if existing.get("status") == "complete":
             print(
-                f"[SKIP] {cid}  (manifest shows complete, cost={existing.get('cost_cents')} c)"
+                f"[SKIP] {cid}  ({mkey} shows complete, cost={existing.get('cost_cents')} c)"
             )
             continue
 
@@ -709,6 +825,7 @@ def stage_run(dry_run: bool = False, budget_cents: int | None = None) -> int:
                 est=est,
                 projected=projected,
                 budget=budget_cents,
+                format=output_format,
             )
             return 2
 
@@ -718,7 +835,9 @@ def stage_run(dry_run: bool = False, budget_cents: int | None = None) -> int:
             continue
 
         try:
-            total_cents, result = process_chapter(session, key, chapter, manifest)
+            total_cents, result = process_chapter(
+                session, key, chapter, manifest, output_format=output_format
+            )
         except SystemExit:
             raise
         except Exception as e:
@@ -750,7 +869,9 @@ def main() -> int:
         help="Print the payload and exit without calling the API",
     )
 
-    rp = sub.add_parser("run", help="Stage 3 — full sequential run, budget-guarded")
+    rp = sub.add_parser(
+        "run", help="Stage 3 — full sequential markdown run, budget-guarded"
+    )
     rp.add_argument(
         "--dry-run",
         action="store_true",
@@ -763,11 +884,37 @@ def main() -> int:
         help="Hard spend cap in cents (overrides DATALAB_BUDGET_CENTS env)",
     )
 
+    jp = sub.add_parser(
+        "run-json",
+        help="Stage 4 — secondary json-pass run, budget-guarded (uses jobs_json manifest key)",
+    )
+    jp.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="List chapters, show projected costs, do not submit",
+    )
+    jp.add_argument(
+        "--budget-cents",
+        type=int,
+        default=None,
+        help="Hard spend cap in cents (combined across markdown + json passes)",
+    )
+
     args = p.parse_args()
     if args.stage == "pilot":
         return stage_pilot(args.chapter, dry_run=args.dry_run)
     if args.stage == "run":
-        return stage_run(dry_run=args.dry_run, budget_cents=args.budget_cents)
+        return stage_run(
+            dry_run=args.dry_run,
+            budget_cents=args.budget_cents,
+            output_format="markdown",
+        )
+    if args.stage == "run-json":
+        return stage_run(
+            dry_run=args.dry_run,
+            budget_cents=args.budget_cents,
+            output_format="json",
+        )
     return 2
 
 
