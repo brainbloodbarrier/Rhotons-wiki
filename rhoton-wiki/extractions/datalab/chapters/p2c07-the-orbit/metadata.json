@@ -1,0 +1,20 @@
+{
+  "chapter_id": "p2c07-the-orbit",
+  "chapter_title": "The Orbit",
+  "part_num": 2,
+  "chapter_num": 7,
+  "page_range": "760-825",
+  "expected_page_count": 66,
+  "api_page_count": 66,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 40,
+    "final_cost_cents": 30
+  },
+  "checkpoint_id": "checkpoint_DrD5Fvig6z3yFfROMM2q-TloHNoKXegxHnnAttC0ln4",
+  "request_id": "iwLl_aN5ESiN3-oVJZLEQA",
+  "markdown_bytes": 171633,
+  "markdown_sha256": "897a66f6d8454848c030a06b168eb86eeae5cbaa02c21607ed01b2ba35ab64e2",
+  "image_count": 38,
+  "saved_at": "2026-04-11T18:10:42+00:00"
+}

@@ -1,0 +1,3340 @@
+{
+  "total_pages": 1668,
+  "entries": [
+    {
+      "depth": 0,
+      "title": "Cover",
+      "page_0idx": null
+    },
+    {
+      "depth": 0,
+      "title": "Title Page",
+      "page_0idx": 1
+    },
+    {
+      "depth": 0,
+      "title": "Copyright",
+      "page_0idx": 2
+    },
+    {
+      "depth": 0,
+      "title": "Contents",
+      "page_0idx": 36
+    },
+    {
+      "depth": 0,
+      "title": "EDITOR\u2019S LETTER : The Timeless Value of Rhoton\u2019s Cranial Anatomy and Surgical Approaches",
+      "page_0idx": 39
+    },
+    {
+      "depth": 0,
+      "title": "EDITOR\u2019S LETTER: Mirabile Visu",
+      "page_0idx": 42
+    },
+    {
+      "depth": 0,
+      "title": "FOREWORD: The Brain and Cranial Base: Microsurgical Anatomy and Surgical Approaches",
+      "page_0idx": 46
+    },
+    {
+      "depth": 0,
+      "title": "PART 1: Operative Techniques and Instrumentation for Neurosurgery",
+      "page_0idx": 63
+    },
+    {
+      "depth": 1,
+      "title": "1. Operative Techniques and Instrumentation for Neurosurgery",
+      "page_0idx": 66
+    },
+    {
+      "depth": 2,
+      "title": "GENERAL CONSIDERATIONS",
+      "page_0idx": 67
+    },
+    {
+      "depth": 2,
+      "title": "HEAD FIXATION DEVICES",
+      "page_0idx": 79
+    },
+    {
+      "depth": 2,
+      "title": "INSTRUMENT SELECTION",
+      "page_0idx": 80
+    },
+    {
+      "depth": 3,
+      "title": "Bayonet Forceps",
+      "page_0idx": 86
+    },
+    {
+      "depth": 3,
+      "title": "Bipolar Coagulation",
+      "page_0idx": 92
+    },
+    {
+      "depth": 3,
+      "title": "Scissors",
+      "page_0idx": 94
+    },
+    {
+      "depth": 3,
+      "title": "Dissectors",
+      "page_0idx": 97
+    },
+    {
+      "depth": 3,
+      "title": "Needles, Sutures, and Needle-holders",
+      "page_0idx": 100
+    },
+    {
+      "depth": 3,
+      "title": "Suction Tubes",
+      "page_0idx": 101
+    },
+    {
+      "depth": 3,
+      "title": "Brain Retractors",
+      "page_0idx": 105
+    },
+    {
+      "depth": 3,
+      "title": "Drills",
+      "page_0idx": 114
+    },
+    {
+      "depth": 3,
+      "title": "Bone Curettes",
+      "page_0idx": 117
+    },
+    {
+      "depth": 3,
+      "title": "Cup Forceps",
+      "page_0idx": 118
+    },
+    {
+      "depth": 2,
+      "title": "OPERATING MICROSCOPE",
+      "page_0idx": 120
+    },
+    {
+      "depth": 2,
+      "title": "ULTRASONIC AND LASER DISSECTION",
+      "page_0idx": 128
+    },
+    {
+      "depth": 3,
+      "title": "Ultrasonic Aspirators",
+      "page_0idx": 128
+    },
+    {
+      "depth": 3,
+      "title": "Laser Microsurgery",
+      "page_0idx": 128
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 140
+    },
+    {
+      "depth": 0,
+      "title": "PART 2: The Supratentorial Cranial Space: Microsurgical Anatomy and Surgical Approaches",
+      "page_0idx": 144
+    },
+    {
+      "depth": 1,
+      "title": "1. The Cerebrum",
+      "page_0idx": 147
+    },
+    {
+      "depth": 2,
+      "title": "THE HEMISPHERES",
+      "page_0idx": 148
+    },
+    {
+      "depth": 3,
+      "title": "Hemispheric Surfaces",
+      "page_0idx": 149
+    },
+    {
+      "depth": 3,
+      "title": "Boundaries and Surfaces of the Lobes",
+      "page_0idx": 159
+    },
+    {
+      "depth": 3,
+      "title": "Sulci and Gyri",
+      "page_0idx": 162
+    },
+    {
+      "depth": 2,
+      "title": "SYLVIAN FISSURE",
+      "page_0idx": 163
+    },
+    {
+      "depth": 3,
+      "title": "Anterior Perforated Substance",
+      "page_0idx": 169
+    },
+    {
+      "depth": 3,
+      "title": "Insula",
+      "page_0idx": 169
+    },
+    {
+      "depth": 2,
+      "title": "SULCI AND GYRI",
+      "page_0idx": 171
+    },
+    {
+      "depth": 3,
+      "title": "Central Sulcus",
+      "page_0idx": 171
+    },
+    {
+      "depth": 3,
+      "title": "Lateral Convexity",
+      "page_0idx": 172
+    },
+    {
+      "depth": 4,
+      "title": "Frontal Lobe",
+      "page_0idx": 172
+    },
+    {
+      "depth": 4,
+      "title": "Parietal Lobe",
+      "page_0idx": 178
+    },
+    {
+      "depth": 4,
+      "title": "Occipital Lobe",
+      "page_0idx": 179
+    },
+    {
+      "depth": 4,
+      "title": "Temporal Lobe",
+      "page_0idx": 179
+    },
+    {
+      "depth": 3,
+      "title": "Medial Hemispheric Surface",
+      "page_0idx": 184
+    },
+    {
+      "depth": 4,
+      "title": "Frontal Lobe",
+      "page_0idx": 185
+    },
+    {
+      "depth": 4,
+      "title": "Parietal Lobe",
+      "page_0idx": 186
+    },
+    {
+      "depth": 4,
+      "title": "Occipital Lobe",
+      "page_0idx": 186
+    },
+    {
+      "depth": 4,
+      "title": "Temporal Lobe",
+      "page_0idx": 187
+    },
+    {
+      "depth": 3,
+      "title": "Basal Surface",
+      "page_0idx": 199
+    },
+    {
+      "depth": 4,
+      "title": "Frontal Lobe",
+      "page_0idx": 200
+    },
+    {
+      "depth": 4,
+      "title": "Temporal and Occipital Lobes",
+      "page_0idx": 200
+    },
+    {
+      "depth": 2,
+      "title": "CENTRAL CORE",
+      "page_0idx": 203
+    },
+    {
+      "depth": 2,
+      "title": "WHITE MATTER",
+      "page_0idx": 207
+    },
+    {
+      "depth": 3,
+      "title": "Association Fibers",
+      "page_0idx": 214
+    },
+    {
+      "depth": 4,
+      "title": "Uncinate Fasciculus",
+      "page_0idx": 214
+    },
+    {
+      "depth": 4,
+      "title": "Cingulum",
+      "page_0idx": 215
+    },
+    {
+      "depth": 4,
+      "title": "Superior Longitudinal Fasciculus",
+      "page_0idx": 215
+    },
+    {
+      "depth": 3,
+      "title": "Projection Fibers",
+      "page_0idx": 215
+    },
+    {
+      "depth": 3,
+      "title": "Commissural Fibers",
+      "page_0idx": 227
+    },
+    {
+      "depth": 4,
+      "title": "Corpus Callosum",
+      "page_0idx": 227
+    },
+    {
+      "depth": 4,
+      "title": "Anterior Commissure",
+      "page_0idx": 228
+    },
+    {
+      "depth": 4,
+      "title": "Fornix",
+      "page_0idx": 228
+    },
+    {
+      "depth": 4,
+      "title": "Septum Pellucidum",
+      "page_0idx": 232
+    },
+    {
+      "depth": 2,
+      "title": "GRAY MATTER IN THE CENTRAL CORE",
+      "page_0idx": 232
+    },
+    {
+      "depth": 3,
+      "title": "Caudate Nucleus",
+      "page_0idx": 233
+    },
+    {
+      "depth": 3,
+      "title": "Lentiform Nucleus",
+      "page_0idx": 235
+    },
+    {
+      "depth": 3,
+      "title": "Thalamus",
+      "page_0idx": 235
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 236
+    },
+    {
+      "depth": 3,
+      "title": "Temporal Lobectomy and Amygdalohippocampectomy",
+      "page_0idx": 244
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 246
+    },
+    {
+      "depth": 1,
+      "title": "2. The Supratentorial Arteries",
+      "page_0idx": 248
+    },
+    {
+      "depth": 2,
+      "title": "SUPRACLINOIDAL PORTION OF THE INTERNAL CAROTID ARTERY",
+      "page_0idx": 249
+    },
+    {
+      "depth": 3,
+      "title": "Segments of the Internal Carotid Artery",
+      "page_0idx": 249
+    },
+    {
+      "depth": 3,
+      "title": "Segments of the C4",
+      "page_0idx": 253
+    },
+    {
+      "depth": 3,
+      "title": "C4 Perforating Branches",
+      "page_0idx": 254
+    },
+    {
+      "depth": 4,
+      "title": "Ophthalmic Segment",
+      "page_0idx": 254
+    },
+    {
+      "depth": 4,
+      "title": "Communicating Segment",
+      "page_0idx": 254
+    },
+    {
+      "depth": 4,
+      "title": "Choroidal Segment",
+      "page_0idx": 254
+    },
+    {
+      "depth": 3,
+      "title": "Superior Hypophyseal and Infundibular Arteries",
+      "page_0idx": 255
+    },
+    {
+      "depth": 2,
+      "title": "OPHTHALMIC ARTERY",
+      "page_0idx": 258
+    },
+    {
+      "depth": 2,
+      "title": "POSTERIOR COMMUNICATING ARTERY",
+      "page_0idx": 262
+    },
+    {
+      "depth": 3,
+      "title": "PComA Branches",
+      "page_0idx": 265
+    },
+    {
+      "depth": 2,
+      "title": "ANTERIOR CHOROIDAL ARTERY",
+      "page_0idx": 266
+    },
+    {
+      "depth": 3,
+      "title": "Course",
+      "page_0idx": 266
+    },
+    {
+      "depth": 3,
+      "title": "Segments",
+      "page_0idx": 271
+    },
+    {
+      "depth": 3,
+      "title": "Branches",
+      "page_0idx": 271
+    },
+    {
+      "depth": 3,
+      "title": "Clinical Features",
+      "page_0idx": 280
+    },
+    {
+      "depth": 2,
+      "title": "MIDDLE CEREBRAL ARTERY",
+      "page_0idx": 282
+    },
+    {
+      "depth": 3,
+      "title": "Segments",
+      "page_0idx": 282
+    },
+    {
+      "depth": 3,
+      "title": "Perforating Branches",
+      "page_0idx": 284
+    },
+    {
+      "depth": 3,
+      "title": "Cortical Distribution",
+      "page_0idx": 288
+    },
+    {
+      "depth": 3,
+      "title": "Branching Pattern",
+      "page_0idx": 294
+    },
+    {
+      "depth": 3,
+      "title": "Stem Arteries",
+      "page_0idx": 295
+    },
+    {
+      "depth": 3,
+      "title": "Cortical Arteries",
+      "page_0idx": 301
+    },
+    {
+      "depth": 3,
+      "title": "Early Branches",
+      "page_0idx": 301
+    },
+    {
+      "depth": 3,
+      "title": "Anomalies",
+      "page_0idx": 302
+    },
+    {
+      "depth": 3,
+      "title": "MCA Branches for Extracranial-Intracranial Bypass",
+      "page_0idx": 302
+    },
+    {
+      "depth": 3,
+      "title": "Discussion",
+      "page_0idx": 308
+    },
+    {
+      "depth": 2,
+      "title": "ANTERIOR CEREBRAL ARTERY",
+      "page_0idx": 311
+    },
+    {
+      "depth": 3,
+      "title": "Segments",
+      "page_0idx": 311
+    },
+    {
+      "depth": 3,
+      "title": "A1 Segment and the Anterior Communicating Arteries",
+      "page_0idx": 312
+    },
+    {
+      "depth": 4,
+      "title": "Recurrent Artery",
+      "page_0idx": 328
+    },
+    {
+      "depth": 4,
+      "title": "Basal Perforating Branches",
+      "page_0idx": 330
+    },
+    {
+      "depth": 3,
+      "title": "Distal Part",
+      "page_0idx": 331
+    },
+    {
+      "depth": 4,
+      "title": "The Pericallosal Artery",
+      "page_0idx": 332
+    },
+    {
+      "depth": 4,
+      "title": "The Callosomarginal Artery",
+      "page_0idx": 332
+    },
+    {
+      "depth": 4,
+      "title": "Distal ACA Branches",
+      "page_0idx": 336
+    },
+    {
+      "depth": 4,
+      "title": "Basal Perforating Branches",
+      "page_0idx": 337
+    },
+    {
+      "depth": 4,
+      "title": "Cortical Branches",
+      "page_0idx": 337
+    },
+    {
+      "depth": 4,
+      "title": "Convexity Branches",
+      "page_0idx": 344
+    },
+    {
+      "depth": 4,
+      "title": "Callosal Branches",
+      "page_0idx": 344
+    },
+    {
+      "depth": 3,
+      "title": "Anomalies",
+      "page_0idx": 345
+    },
+    {
+      "depth": 2,
+      "title": "ANTERIOR PERFORATING ARTERIES",
+      "page_0idx": 346
+    },
+    {
+      "depth": 3,
+      "title": "Choroidal Segment of the C4",
+      "page_0idx": 348
+    },
+    {
+      "depth": 3,
+      "title": "Anterior Choroidal Artery",
+      "page_0idx": 349
+    },
+    {
+      "depth": 3,
+      "title": "Middle Cerebral Artery",
+      "page_0idx": 349
+    },
+    {
+      "depth": 3,
+      "title": "Anterior Cerebral Artery",
+      "page_0idx": 350
+    },
+    {
+      "depth": 3,
+      "title": "Discussion",
+      "page_0idx": 358
+    },
+    {
+      "depth": 2,
+      "title": "THE POSTERIOR PART OF THE CIRCLE OF WILLIS",
+      "page_0idx": 364
+    },
+    {
+      "depth": 2,
+      "title": "THE POSTERIOR CEREBRAL ARTERY",
+      "page_0idx": 368
+    },
+    {
+      "depth": 3,
+      "title": "PCA Segments",
+      "page_0idx": 371
+    },
+    {
+      "depth": 4,
+      "title": "P1 Segment",
+      "page_0idx": 371
+    },
+    {
+      "depth": 4,
+      "title": "P2 Segment",
+      "page_0idx": 372
+    },
+    {
+      "depth": 4,
+      "title": "P3 Segment",
+      "page_0idx": 372
+    },
+    {
+      "depth": 4,
+      "title": "P4 Segment",
+      "page_0idx": 373
+    },
+    {
+      "depth": 3,
+      "title": "PCA Branches",
+      "page_0idx": 373
+    },
+    {
+      "depth": 3,
+      "title": "Perforating Branches",
+      "page_0idx": 373
+    },
+    {
+      "depth": 4,
+      "title": "Thalamoperforating Arteries",
+      "page_0idx": 377
+    },
+    {
+      "depth": 4,
+      "title": "Peduncular Perforating Arteries",
+      "page_0idx": 378
+    },
+    {
+      "depth": 4,
+      "title": "Circumflex Branches",
+      "page_0idx": 378
+    },
+    {
+      "depth": 4,
+      "title": "Thalamogeniculate Arteries",
+      "page_0idx": 379
+    },
+    {
+      "depth": 3,
+      "title": "Ventricular and Choroid Plexus Branches",
+      "page_0idx": 380
+    },
+    {
+      "depth": 3,
+      "title": "Cortical Branches",
+      "page_0idx": 381
+    },
+    {
+      "depth": 4,
+      "title": "Inferior Temporal Arteries",
+      "page_0idx": 381
+    },
+    {
+      "depth": 4,
+      "title": "Hippocampal Arteries",
+      "page_0idx": 382
+    },
+    {
+      "depth": 4,
+      "title": "Anterior Temporal Artery",
+      "page_0idx": 382
+    },
+    {
+      "depth": 4,
+      "title": "Middle Temporal Artery",
+      "page_0idx": 382
+    },
+    {
+      "depth": 4,
+      "title": "Posterior Temporal Artery",
+      "page_0idx": 388
+    },
+    {
+      "depth": 4,
+      "title": "Common Temporal Artery",
+      "page_0idx": 388
+    },
+    {
+      "depth": 4,
+      "title": "Parieto-occipital Artery",
+      "page_0idx": 388
+    },
+    {
+      "depth": 4,
+      "title": "Calcarine Artery",
+      "page_0idx": 389
+    },
+    {
+      "depth": 4,
+      "title": "Splenial Artery",
+      "page_0idx": 389
+    },
+    {
+      "depth": 3,
+      "title": "Lateral Convexity Branches",
+      "page_0idx": 390
+    },
+    {
+      "depth": 3,
+      "title": "IIIrd and IVth Cranial Nerves",
+      "page_0idx": 390
+    },
+    {
+      "depth": 3,
+      "title": "Discussion",
+      "page_0idx": 390
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 391
+    },
+    {
+      "depth": 1,
+      "title": "3. Aneurysms",
+      "page_0idx": 395
+    },
+    {
+      "depth": 2,
+      "title": "ANEURYSM SITES",
+      "page_0idx": 396
+    },
+    {
+      "depth": 3,
+      "title": "Internal Carotid Artery Aneurysms",
+      "page_0idx": 396
+    },
+    {
+      "depth": 3,
+      "title": "Carotid-Ophthalmic Aneurysms",
+      "page_0idx": 400
+    },
+    {
+      "depth": 3,
+      "title": "Carotid-Superior Hypophyseal Aneurysms",
+      "page_0idx": 411
+    },
+    {
+      "depth": 3,
+      "title": "Carotid-Posterior Communicating Aneurysms",
+      "page_0idx": 415
+    },
+    {
+      "depth": 3,
+      "title": "Carotid-Anterior Choroidal Aneurysms",
+      "page_0idx": 422
+    },
+    {
+      "depth": 3,
+      "title": "Carotid Bifurcation Aneurysms",
+      "page_0idx": 422
+    },
+    {
+      "depth": 3,
+      "title": "Middle Cerebral Artery Aneurysms",
+      "page_0idx": 423
+    },
+    {
+      "depth": 3,
+      "title": "Anterior Communicating Aneurysms",
+      "page_0idx": 425
+    },
+    {
+      "depth": 3,
+      "title": "Pericallosal Aneurysms",
+      "page_0idx": 427
+    },
+    {
+      "depth": 3,
+      "title": "Vertebral and Basilar Artery Aneurysms",
+      "page_0idx": 430
+    },
+    {
+      "depth": 3,
+      "title": "Basilar Apex Aneurysms",
+      "page_0idx": 431
+    },
+    {
+      "depth": 3,
+      "title": "Basilar Trunk Aneurysms",
+      "page_0idx": 436
+    },
+    {
+      "depth": 2,
+      "title": "ANATOMIC PRINCIPLES DIRECTING SURGERY",
+      "page_0idx": 437
+    },
+    {
+      "depth": 2,
+      "title": "OPERATIVE APPROACHES",
+      "page_0idx": 451
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 475
+    },
+    {
+      "depth": 1,
+      "title": "4. The Cerebral Veins",
+      "page_0idx": 478
+    },
+    {
+      "depth": 2,
+      "title": "THE SUPERFICIAL VEINS",
+      "page_0idx": 479
+    },
+    {
+      "depth": 3,
+      "title": "Drainage Groups",
+      "page_0idx": 479
+    },
+    {
+      "depth": 4,
+      "title": "Superior Sagittal Group",
+      "page_0idx": 479
+    },
+    {
+      "depth": 4,
+      "title": "Sphenoidal Group",
+      "page_0idx": 480
+    },
+    {
+      "depth": 4,
+      "title": "Tentorial Group",
+      "page_0idx": 480
+    },
+    {
+      "depth": 4,
+      "title": "Falcine Group",
+      "page_0idx": 482
+    },
+    {
+      "depth": 3,
+      "title": "Dural Sinuses and Veins",
+      "page_0idx": 483
+    },
+    {
+      "depth": 4,
+      "title": "Superior Sagittal Sinus and Venous Lacunae",
+      "page_0idx": 483
+    },
+    {
+      "depth": 4,
+      "title": "Inferior Sagittal Sinus",
+      "page_0idx": 487
+    },
+    {
+      "depth": 4,
+      "title": "Straight Sinus",
+      "page_0idx": 493
+    },
+    {
+      "depth": 4,
+      "title": "Transverse Sinus",
+      "page_0idx": 493
+    },
+    {
+      "depth": 4,
+      "title": "Tentorial Sinuses",
+      "page_0idx": 498
+    },
+    {
+      "depth": 4,
+      "title": "Cavernous Sinus",
+      "page_0idx": 500
+    },
+    {
+      "depth": 4,
+      "title": "Superior Petrosal Sinus",
+      "page_0idx": 500
+    },
+    {
+      "depth": 4,
+      "title": "Sphenoparietal, Sphenobasal, and Sphenopetrosal Sinuses",
+      "page_0idx": 500
+    },
+    {
+      "depth": 3,
+      "title": "Anastomotic Veins",
+      "page_0idx": 501
+    },
+    {
+      "depth": 4,
+      "title": "Vein of Trolard",
+      "page_0idx": 504
+    },
+    {
+      "depth": 4,
+      "title": "Vein of Labb\u00e9",
+      "page_0idx": 505
+    },
+    {
+      "depth": 4,
+      "title": "Superficial Sylvian Vein",
+      "page_0idx": 506
+    },
+    {
+      "depth": 3,
+      "title": "Cortical Veins",
+      "page_0idx": 511
+    },
+    {
+      "depth": 4,
+      "title": "Frontal Lobe",
+      "page_0idx": 512
+    },
+    {
+      "depth": 4,
+      "title": "Parietal Lobe",
+      "page_0idx": 520
+    },
+    {
+      "depth": 4,
+      "title": "Temporal Lobe",
+      "page_0idx": 521
+    },
+    {
+      "depth": 4,
+      "title": "Occipital Lobe",
+      "page_0idx": 522
+    },
+    {
+      "depth": 3,
+      "title": "Meningeal Veins",
+      "page_0idx": 523
+    },
+    {
+      "depth": 2,
+      "title": "THE DEEP VEINS",
+      "page_0idx": 523
+    },
+    {
+      "depth": 2,
+      "title": "VENTRICULAR GROUP",
+      "page_0idx": 531
+    },
+    {
+      "depth": 3,
+      "title": "Neural Relationships",
+      "page_0idx": 531
+    },
+    {
+      "depth": 3,
+      "title": "Choroid Plexus and Choroidal Fissure",
+      "page_0idx": 532
+    },
+    {
+      "depth": 3,
+      "title": "Velum Interpositum",
+      "page_0idx": 532
+    },
+    {
+      "depth": 3,
+      "title": "Ventricular Veins",
+      "page_0idx": 533
+    },
+    {
+      "depth": 4,
+      "title": "Frontal Horn",
+      "page_0idx": 538
+    },
+    {
+      "depth": 4,
+      "title": "Body of the Lateral Ventricle",
+      "page_0idx": 538
+    },
+    {
+      "depth": 4,
+      "title": "Atrium and Occipital Horn",
+      "page_0idx": 540
+    },
+    {
+      "depth": 4,
+      "title": "Temporal Horn",
+      "page_0idx": 541
+    },
+    {
+      "depth": 4,
+      "title": "Choroidal Veins",
+      "page_0idx": 542
+    },
+    {
+      "depth": 4,
+      "title": "Internal Cerebral Veins",
+      "page_0idx": 544
+    },
+    {
+      "depth": 2,
+      "title": "CISTERNAL GROUP",
+      "page_0idx": 545
+    },
+    {
+      "depth": 3,
+      "title": "Anterior Incisural Region",
+      "page_0idx": 547
+    },
+    {
+      "depth": 3,
+      "title": "Middle Incisural Space",
+      "page_0idx": 558
+    },
+    {
+      "depth": 3,
+      "title": "Posterior Incisural Region",
+      "page_0idx": 559
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION AND OPERATIVE APPROACHES",
+      "page_0idx": 560
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 569
+    },
+    {
+      "depth": 1,
+      "title": "5. The Lateral and Third Ventricles",
+      "page_0idx": 572
+    },
+    {
+      "depth": 2,
+      "title": "LATERAL VENTRICLE",
+      "page_0idx": 573
+    },
+    {
+      "depth": 3,
+      "title": "Neural Relationships",
+      "page_0idx": 573
+    },
+    {
+      "depth": 4,
+      "title": "Thalamus",
+      "page_0idx": 573
+    },
+    {
+      "depth": 4,
+      "title": "Caudate Nucleus",
+      "page_0idx": 573
+    },
+    {
+      "depth": 4,
+      "title": "Fornix",
+      "page_0idx": 574
+    },
+    {
+      "depth": 4,
+      "title": "Corpus Callosum",
+      "page_0idx": 579
+    },
+    {
+      "depth": 4,
+      "title": "Septum Pellucidum",
+      "page_0idx": 588
+    },
+    {
+      "depth": 4,
+      "title": "Internal Capsule",
+      "page_0idx": 589
+    },
+    {
+      "depth": 3,
+      "title": "Lateral Ventricular Walls",
+      "page_0idx": 589
+    },
+    {
+      "depth": 4,
+      "title": "Body",
+      "page_0idx": 599
+    },
+    {
+      "depth": 4,
+      "title": "Atrium and Occipital Horn",
+      "page_0idx": 599
+    },
+    {
+      "depth": 4,
+      "title": "Temporal Horn",
+      "page_0idx": 600
+    },
+    {
+      "depth": 3,
+      "title": "Choroidal Fissure and Choroid Plexus",
+      "page_0idx": 600
+    },
+    {
+      "depth": 2,
+      "title": "THIRD VENTRICLE",
+      "page_0idx": 604
+    },
+    {
+      "depth": 3,
+      "title": "Neural Relationships",
+      "page_0idx": 604
+    },
+    {
+      "depth": 4,
+      "title": "Roof",
+      "page_0idx": 604
+    },
+    {
+      "depth": 4,
+      "title": "Floor",
+      "page_0idx": 612
+    },
+    {
+      "depth": 4,
+      "title": "Anterior Wall",
+      "page_0idx": 616
+    },
+    {
+      "depth": 4,
+      "title": "Posterior Wall",
+      "page_0idx": 617
+    },
+    {
+      "depth": 4,
+      "title": "Lateral Wall",
+      "page_0idx": 618
+    },
+    {
+      "depth": 3,
+      "title": "Tentorial Incisura",
+      "page_0idx": 623
+    },
+    {
+      "depth": 2,
+      "title": "ARTERIAL RELATIONSHIPS",
+      "page_0idx": 627
+    },
+    {
+      "depth": 3,
+      "title": "Choroidal Arteries",
+      "page_0idx": 628
+    },
+    {
+      "depth": 3,
+      "title": "Internal Carotid Artery",
+      "page_0idx": 642
+    },
+    {
+      "depth": 3,
+      "title": "Posterior Communicating Artery",
+      "page_0idx": 643
+    },
+    {
+      "depth": 3,
+      "title": "Anterior Cerebral and Anterior Communicating Arteries",
+      "page_0idx": 643
+    },
+    {
+      "depth": 3,
+      "title": "Middle Cerebral Artery",
+      "page_0idx": 644
+    },
+    {
+      "depth": 3,
+      "title": "Posterior Cerebral Artery",
+      "page_0idx": 646
+    },
+    {
+      "depth": 3,
+      "title": "Superior Cerebellar Artery",
+      "page_0idx": 646
+    },
+    {
+      "depth": 2,
+      "title": "VENOUS RELATIONSHIPS",
+      "page_0idx": 647
+    },
+    {
+      "depth": 3,
+      "title": "Choroidal Veins",
+      "page_0idx": 651
+    },
+    {
+      "depth": 3,
+      "title": "Internal Cerebral, Basal, and Great Veins",
+      "page_0idx": 652
+    },
+    {
+      "depth": 2,
+      "title": "SURGICAL CONSIDERATIONS",
+      "page_0idx": 653
+    },
+    {
+      "depth": 3,
+      "title": "Craniotomy Placement",
+      "page_0idx": 654
+    },
+    {
+      "depth": 3,
+      "title": "Neural Incisions",
+      "page_0idx": 655
+    },
+    {
+      "depth": 3,
+      "title": "Arterial Considerations",
+      "page_0idx": 657
+    },
+    {
+      "depth": 3,
+      "title": "Venous Considerations",
+      "page_0idx": 658
+    },
+    {
+      "depth": 3,
+      "title": "Tumor Removal",
+      "page_0idx": 663
+    },
+    {
+      "depth": 2,
+      "title": "OPERATIVE APPROACHES",
+      "page_0idx": 664
+    },
+    {
+      "depth": 3,
+      "title": "Anterior Approaches",
+      "page_0idx": 665
+    },
+    {
+      "depth": 4,
+      "title": "Anterior Transcortical Approach",
+      "page_0idx": 673
+    },
+    {
+      "depth": 4,
+      "title": "Anterior Frontal Approach",
+      "page_0idx": 676
+    },
+    {
+      "depth": 4,
+      "title": "Posterior Approaches",
+      "page_0idx": 677
+    },
+    {
+      "depth": 4,
+      "title": "Posterior Transcortical Approach",
+      "page_0idx": 680
+    },
+    {
+      "depth": 4,
+      "title": "Posterior Transcallosal Approach",
+      "page_0idx": 685
+    },
+    {
+      "depth": 4,
+      "title": "Occipital Approach",
+      "page_0idx": 693
+    },
+    {
+      "depth": 4,
+      "title": "Infratentorial Supracerebellar Approach",
+      "page_0idx": 694
+    },
+    {
+      "depth": 3,
+      "title": "Lateral Approaches",
+      "page_0idx": 696
+    },
+    {
+      "depth": 4,
+      "title": "Frontotemporal (Pterional) and Posterior Frontotemporal Exposures",
+      "page_0idx": 696
+    },
+    {
+      "depth": 4,
+      "title": "Transtemporal and Subtemporal Approaches",
+      "page_0idx": 699
+    },
+    {
+      "depth": 2,
+      "title": "SELECTION OF OPERATIVE APPROACHES",
+      "page_0idx": 700
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 703
+    },
+    {
+      "depth": 1,
+      "title": "6. The Anterior and Middle Cranial Base",
+      "page_0idx": 707
+    },
+    {
+      "depth": 2,
+      "title": "OVERVIEW",
+      "page_0idx": 707
+    },
+    {
+      "depth": 2,
+      "title": "ANTERIOR CRANIAL BASE",
+      "page_0idx": 708
+    },
+    {
+      "depth": 3,
+      "title": "Endocranial Surface",
+      "page_0idx": 708
+    },
+    {
+      "depth": 3,
+      "title": "Exocranial Surface",
+      "page_0idx": 709
+    },
+    {
+      "depth": 2,
+      "title": "MIDDLE CRANIAL BASE",
+      "page_0idx": 725
+    },
+    {
+      "depth": 3,
+      "title": "Endocranial Surface",
+      "page_0idx": 725
+    },
+    {
+      "depth": 3,
+      "title": "Exocranial Surface",
+      "page_0idx": 739
+    },
+    {
+      "depth": 2,
+      "title": "POSTERIOR CRANIAL BASE",
+      "page_0idx": 745
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 752
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 758
+    },
+    {
+      "depth": 1,
+      "title": "7. The Orbit",
+      "page_0idx": 760
+    },
+    {
+      "depth": 2,
+      "title": "OVERVIEW",
+      "page_0idx": 760
+    },
+    {
+      "depth": 2,
+      "title": "OSSEOUS RELATIONSHIPS",
+      "page_0idx": 761
+    },
+    {
+      "depth": 2,
+      "title": "PERIORBITA, DURA, AND ANNULAR TENDON",
+      "page_0idx": 776
+    },
+    {
+      "depth": 2,
+      "title": "NEURAL RELATIONSHIPS",
+      "page_0idx": 781
+    },
+    {
+      "depth": 3,
+      "title": "Optic Nerve",
+      "page_0idx": 781
+    },
+    {
+      "depth": 3,
+      "title": "Oculomotor, Trochlear, and Abducens Nerves",
+      "page_0idx": 782
+    },
+    {
+      "depth": 3,
+      "title": "Trigeminal Nerve",
+      "page_0idx": 783
+    },
+    {
+      "depth": 3,
+      "title": "Ciliary Ganglion",
+      "page_0idx": 788
+    },
+    {
+      "depth": 3,
+      "title": "Sympathetic Fibers",
+      "page_0idx": 788
+    },
+    {
+      "depth": 3,
+      "title": "Vidian Nerve and Pterygopalatine Ganglion",
+      "page_0idx": 789
+    },
+    {
+      "depth": 2,
+      "title": "ARTERIAL RELATIONSHIPS",
+      "page_0idx": 789
+    },
+    {
+      "depth": 3,
+      "title": "Internal Carotid Artery",
+      "page_0idx": 789
+    },
+    {
+      "depth": 3,
+      "title": "Ophthalmic Artery",
+      "page_0idx": 789
+    },
+    {
+      "depth": 2,
+      "title": "VENOUS RELATIONSHIPS",
+      "page_0idx": 796
+    },
+    {
+      "depth": 2,
+      "title": "MUSCULAR AND TENDINOUS RELATIONSHIPS",
+      "page_0idx": 798
+    },
+    {
+      "depth": 2,
+      "title": "SURGICAL CONSIDERATIONS",
+      "page_0idx": 802
+    },
+    {
+      "depth": 3,
+      "title": "Orbitofrontal Craniotomy",
+      "page_0idx": 803
+    },
+    {
+      "depth": 4,
+      "title": "The Medial Orbitofrontal Approach",
+      "page_0idx": 807
+    },
+    {
+      "depth": 4,
+      "title": "The Central Orbitofrontal Approach",
+      "page_0idx": 808
+    },
+    {
+      "depth": 4,
+      "title": "The Lateral Orbitofrontal Approach",
+      "page_0idx": 809
+    },
+    {
+      "depth": 3,
+      "title": "Lateral Wall Approach (Sphenozygomatic Approach)",
+      "page_0idx": 814
+    },
+    {
+      "depth": 3,
+      "title": "Transmaxillary Approach",
+      "page_0idx": 823
+    },
+    {
+      "depth": 3,
+      "title": "Medial Orbital and Transethmoidal Approaches",
+      "page_0idx": 823
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 824
+    },
+    {
+      "depth": 1,
+      "title": "8. The Sellar Region",
+      "page_0idx": 826
+    },
+    {
+      "depth": 2,
+      "title": "SUBCRANIAL RELATIONSHIPS",
+      "page_0idx": 827
+    },
+    {
+      "depth": 3,
+      "title": "Nasal Cavity",
+      "page_0idx": 827
+    },
+    {
+      "depth": 3,
+      "title": "Sphenoid Bone",
+      "page_0idx": 832
+    },
+    {
+      "depth": 3,
+      "title": "Sphenoid Sinus",
+      "page_0idx": 838
+    },
+    {
+      "depth": 3,
+      "title": "Diaphragma Sellae",
+      "page_0idx": 864
+    },
+    {
+      "depth": 3,
+      "title": "Pituitary Gland",
+      "page_0idx": 865
+    },
+    {
+      "depth": 3,
+      "title": "Pituitary Gland and Carotid Artery",
+      "page_0idx": 866
+    },
+    {
+      "depth": 3,
+      "title": "Intercavernous Venous Connections",
+      "page_0idx": 868
+    },
+    {
+      "depth": 3,
+      "title": "Cavernous Sinus",
+      "page_0idx": 869
+    },
+    {
+      "depth": 2,
+      "title": "SUPRASELLAR AND THIRD VENTRICULAR REGION",
+      "page_0idx": 871
+    },
+    {
+      "depth": 3,
+      "title": "Ventricular and Cisternal Relationships",
+      "page_0idx": 871
+    },
+    {
+      "depth": 3,
+      "title": "Cranial Nerves",
+      "page_0idx": 875
+    },
+    {
+      "depth": 4,
+      "title": "Optic Chiasm",
+      "page_0idx": 876
+    },
+    {
+      "depth": 4,
+      "title": "Oculomotor Nerve",
+      "page_0idx": 878
+    },
+    {
+      "depth": 4,
+      "title": "Trochlear Nerve",
+      "page_0idx": 880
+    },
+    {
+      "depth": 4,
+      "title": "Abducens Nerve",
+      "page_0idx": 880
+    },
+    {
+      "depth": 4,
+      "title": "Trigeminal Nerve",
+      "page_0idx": 880
+    },
+    {
+      "depth": 3,
+      "title": "Arterial Relationships",
+      "page_0idx": 881
+    },
+    {
+      "depth": 3,
+      "title": "Venous Relationships",
+      "page_0idx": 888
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION AND OPERATIVE APPROACHES",
+      "page_0idx": 888
+    },
+    {
+      "depth": 3,
+      "title": "Sublabial Transsphenoidal Approach",
+      "page_0idx": 889
+    },
+    {
+      "depth": 3,
+      "title": "Transseptal Approach",
+      "page_0idx": 891
+    },
+    {
+      "depth": 3,
+      "title": "Endonasal Approach",
+      "page_0idx": 891
+    },
+    {
+      "depth": 3,
+      "title": "Management of Sphenoid Sinus and Sella",
+      "page_0idx": 895
+    },
+    {
+      "depth": 3,
+      "title": "Subfrontal Exposure of the Suprasellar Region",
+      "page_0idx": 901
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 905
+    },
+    {
+      "depth": 1,
+      "title": "9. The Cavernous Sinus, the Cavernous Venous Plexus, and the Carotid Collar",
+      "page_0idx": 908
+    },
+    {
+      "depth": 2,
+      "title": "THE SINUS",
+      "page_0idx": 909
+    },
+    {
+      "depth": 2,
+      "title": "OSSEOUS RELATIONSHIPS",
+      "page_0idx": 923
+    },
+    {
+      "depth": 3,
+      "title": "Anterior and Middle Clinoid Processes",
+      "page_0idx": 925
+    },
+    {
+      "depth": 3,
+      "title": "Optic Strut",
+      "page_0idx": 927
+    },
+    {
+      "depth": 2,
+      "title": "DURAL RELATIONSHIPS",
+      "page_0idx": 927
+    },
+    {
+      "depth": 3,
+      "title": "Carotid Collar",
+      "page_0idx": 929
+    },
+    {
+      "depth": 2,
+      "title": "NEURAL RELATIONSHIPS",
+      "page_0idx": 930
+    },
+    {
+      "depth": 2,
+      "title": "CAVERNOUS SINUS AND MIDDLE FOSSA TRIANGLES",
+      "page_0idx": 937
+    },
+    {
+      "depth": 3,
+      "title": "Cavernous Sinus Triangles",
+      "page_0idx": 937
+    },
+    {
+      "depth": 4,
+      "title": "Oculomotor Triangle",
+      "page_0idx": 937
+    },
+    {
+      "depth": 4,
+      "title": "Supratrochlear Triangle",
+      "page_0idx": 937
+    },
+    {
+      "depth": 4,
+      "title": "Infratrochlear Triangle (Parkinson\u2019s Triangle)",
+      "page_0idx": 938
+    },
+    {
+      "depth": 3,
+      "title": "Middle Fossa Triangles",
+      "page_0idx": 943
+    },
+    {
+      "depth": 4,
+      "title": "Anterolateral Middle Fossa Triangle",
+      "page_0idx": 943
+    },
+    {
+      "depth": 4,
+      "title": "Posterolateral Middle Fossa Triangle (Glasscock\u2019s Triangle)",
+      "page_0idx": 943
+    },
+    {
+      "depth": 4,
+      "title": "Posteromedial Middle Fossa Triangle (Kawase\u2019s Triangle)",
+      "page_0idx": 943
+    },
+    {
+      "depth": 3,
+      "title": "Paraclinoid Triangles",
+      "page_0idx": 944
+    },
+    {
+      "depth": 4,
+      "title": "Inferomedial Paraclival Triangle",
+      "page_0idx": 944
+    },
+    {
+      "depth": 2,
+      "title": "ARTERIAL RELATIONSHIPS",
+      "page_0idx": 945
+    },
+    {
+      "depth": 3,
+      "title": "Ophthalmic Artery",
+      "page_0idx": 946
+    },
+    {
+      "depth": 3,
+      "title": "Intracavernous Branches",
+      "page_0idx": 946
+    },
+    {
+      "depth": 3,
+      "title": "VENOUS RELATIONSHIPS",
+      "page_0idx": 952
+    },
+    {
+      "depth": 3,
+      "title": "Intercavernous Sinus",
+      "page_0idx": 953
+    },
+    {
+      "depth": 3,
+      "title": "Clinoid Venous Space",
+      "page_0idx": 954
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 957
+    },
+    {
+      "depth": 3,
+      "title": "Operative Considerations",
+      "page_0idx": 958
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 974
+    },
+    {
+      "depth": 0,
+      "title": "PART 3: The Posterior Cranial Fossa: Microsurgical Anatomy and Surgical Approaches",
+      "page_0idx": 977
+    },
+    {
+      "depth": 1,
+      "title": "1. Cerebellum and Fourth Ventricle",
+      "page_0idx": 980
+    },
+    {
+      "depth": 2,
+      "title": "CEREBELLAR SURFACES",
+      "page_0idx": 981
+    },
+    {
+      "depth": 3,
+      "title": "Tentorial surface",
+      "page_0idx": 982
+    },
+    {
+      "depth": 3,
+      "title": "Suboccipital surface",
+      "page_0idx": 985
+    },
+    {
+      "depth": 3,
+      "title": "Petrosal surface",
+      "page_0idx": 991
+    },
+    {
+      "depth": 2,
+      "title": "THE FOURTH VENTRICLE AND THE CEREBELLAR-BRAINSTEM FISSURES",
+      "page_0idx": 992
+    },
+    {
+      "depth": 3,
+      "title": "Fourth ventricle",
+      "page_0idx": 992
+    },
+    {
+      "depth": 3,
+      "title": "Upper ventricular roof and the cerebellomesencephalic fissure",
+      "page_0idx": 1009
+    },
+    {
+      "depth": 3,
+      "title": "Lower roof and cerebellomedullary fissure",
+      "page_0idx": 1010
+    },
+    {
+      "depth": 2,
+      "title": "LATERAL RECESS AND CEREBELLOPONTINE FISSURE",
+      "page_0idx": 1012
+    },
+    {
+      "depth": 2,
+      "title": "CHOROID PLEXUS",
+      "page_0idx": 1013
+    },
+    {
+      "depth": 2,
+      "title": "BRAINSTEM AND FLOOR",
+      "page_0idx": 1014
+    },
+    {
+      "depth": 3,
+      "title": "Brainstem",
+      "page_0idx": 1014
+    },
+    {
+      "depth": 3,
+      "title": "Floor",
+      "page_0idx": 1015
+    },
+    {
+      "depth": 2,
+      "title": "VASCULAR RELATIONSHIPS",
+      "page_0idx": 1017
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1018
+    },
+    {
+      "depth": 3,
+      "title": "Effects of neural injury",
+      "page_0idx": 1018
+    },
+    {
+      "depth": 3,
+      "title": "Telovelar approach to fourth ventricle",
+      "page_0idx": 1023
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 1024
+    },
+    {
+      "depth": 1,
+      "title": "2. The Cerebellar Arteries",
+      "page_0idx": 1029
+    },
+    {
+      "depth": 2,
+      "title": "THE SUPERIOR CEREBELLAR ARTERY",
+      "page_0idx": 1030
+    },
+    {
+      "depth": 3,
+      "title": "Overview",
+      "page_0idx": 1030
+    },
+    {
+      "depth": 3,
+      "title": "Segments",
+      "page_0idx": 1033
+    },
+    {
+      "depth": 4,
+      "title": "Anterior pontomesencephalic segment",
+      "page_0idx": 1033
+    },
+    {
+      "depth": 4,
+      "title": "Lateral pontomesencephalic segment",
+      "page_0idx": 1033
+    },
+    {
+      "depth": 4,
+      "title": "Cerebellomesencephalic segment",
+      "page_0idx": 1033
+    },
+    {
+      "depth": 4,
+      "title": "Cortical segment",
+      "page_0idx": 1036
+    },
+    {
+      "depth": 3,
+      "title": "Origin",
+      "page_0idx": 1036
+    },
+    {
+      "depth": 3,
+      "title": "Bifurcation",
+      "page_0idx": 1042
+    },
+    {
+      "depth": 3,
+      "title": "Branches",
+      "page_0idx": 1043
+    },
+    {
+      "depth": 4,
+      "title": "Precerebellar branches",
+      "page_0idx": 1046
+    },
+    {
+      "depth": 4,
+      "title": "Cortical arteries",
+      "page_0idx": 1048
+    },
+    {
+      "depth": 4,
+      "title": "Hemispheric arteries",
+      "page_0idx": 1049
+    },
+    {
+      "depth": 4,
+      "title": "Vermian arteries",
+      "page_0idx": 1051
+    },
+    {
+      "depth": 4,
+      "title": "Marginal branch",
+      "page_0idx": 1052
+    },
+    {
+      "depth": 3,
+      "title": "Relationship to the cranial nerves",
+      "page_0idx": 1052
+    },
+    {
+      "depth": 4,
+      "title": "Oculomotor nerve",
+      "page_0idx": 1052
+    },
+    {
+      "depth": 4,
+      "title": "Trochlear nerve",
+      "page_0idx": 1053
+    },
+    {
+      "depth": 4,
+      "title": "Trigeminal nerve",
+      "page_0idx": 1053
+    },
+    {
+      "depth": 3,
+      "title": "Relationship to the tentorium cerebelli",
+      "page_0idx": 1054
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1060
+    },
+    {
+      "depth": 3,
+      "title": "Operative exposure",
+      "page_0idx": 1061
+    },
+    {
+      "depth": 2,
+      "title": "ANTEROINFERIOR CEREBELLAR ARTERY",
+      "page_0idx": 1063
+    },
+    {
+      "depth": 3,
+      "title": "Overview",
+      "page_0idx": 1063
+    },
+    {
+      "depth": 3,
+      "title": "Segments",
+      "page_0idx": 1063
+    },
+    {
+      "depth": 4,
+      "title": "Anterior pontine segment",
+      "page_0idx": 1064
+    },
+    {
+      "depth": 4,
+      "title": "Lateral pontine segment",
+      "page_0idx": 1064
+    },
+    {
+      "depth": 4,
+      "title": "Flocculopeduncular segment",
+      "page_0idx": 1064
+    },
+    {
+      "depth": 4,
+      "title": "Cortical segment",
+      "page_0idx": 1064
+    },
+    {
+      "depth": 3,
+      "title": "Origin",
+      "page_0idx": 1065
+    },
+    {
+      "depth": 3,
+      "title": "Bifurcation",
+      "page_0idx": 1069
+    },
+    {
+      "depth": 3,
+      "title": "Nerve-related branches",
+      "page_0idx": 1069
+    },
+    {
+      "depth": 4,
+      "title": "Premeatal segment",
+      "page_0idx": 1070
+    },
+    {
+      "depth": 4,
+      "title": "Meatal segment",
+      "page_0idx": 1070
+    },
+    {
+      "depth": 4,
+      "title": "Subarcuate loop",
+      "page_0idx": 1071
+    },
+    {
+      "depth": 4,
+      "title": "Postmeatal segment",
+      "page_0idx": 1071
+    },
+    {
+      "depth": 3,
+      "title": "Branches of nerve-related AICAs",
+      "page_0idx": 1071
+    },
+    {
+      "depth": 4,
+      "title": "Labyrinthine (internal auditory) arteries",
+      "page_0idx": 1075
+    },
+    {
+      "depth": 4,
+      "title": "Recurrent perforating arteries",
+      "page_0idx": 1077
+    },
+    {
+      "depth": 4,
+      "title": "Subarcuate artery",
+      "page_0idx": 1077
+    },
+    {
+      "depth": 4,
+      "title": "Cerebellosubarcuate artery",
+      "page_0idx": 1078
+    },
+    {
+      "depth": 3,
+      "title": "Cortical branches",
+      "page_0idx": 1079
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1079
+    },
+    {
+      "depth": 3,
+      "title": "Operative exposure",
+      "page_0idx": 1080
+    },
+    {
+      "depth": 2,
+      "title": "POSTEROINFERIOR CEREBELLAR ARTERY",
+      "page_0idx": 1081
+    },
+    {
+      "depth": 3,
+      "title": "Overview",
+      "page_0idx": 1081
+    },
+    {
+      "depth": 3,
+      "title": "Segments",
+      "page_0idx": 1082
+    },
+    {
+      "depth": 4,
+      "title": "Anterior medullary segment",
+      "page_0idx": 1086
+    },
+    {
+      "depth": 4,
+      "title": "Lateral medullary segment",
+      "page_0idx": 1086
+    },
+    {
+      "depth": 4,
+      "title": "Tonsillomedullary segment",
+      "page_0idx": 1089
+    },
+    {
+      "depth": 4,
+      "title": "Telovelotonsillar segment",
+      "page_0idx": 1089
+    },
+    {
+      "depth": 4,
+      "title": "Cortical segment",
+      "page_0idx": 1090
+    },
+    {
+      "depth": 3,
+      "title": "The PICA origin and the vertebral artery",
+      "page_0idx": 1090
+    },
+    {
+      "depth": 3,
+      "title": "Bifurcation",
+      "page_0idx": 1094
+    },
+    {
+      "depth": 3,
+      "title": "Branches",
+      "page_0idx": 1097
+    },
+    {
+      "depth": 4,
+      "title": "Perforating arteries",
+      "page_0idx": 1098
+    },
+    {
+      "depth": 4,
+      "title": "Choroidal arteries",
+      "page_0idx": 1101
+    },
+    {
+      "depth": 4,
+      "title": "Cortical arteries",
+      "page_0idx": 1102
+    },
+    {
+      "depth": 4,
+      "title": "Hemispheric branches",
+      "page_0idx": 1102
+    },
+    {
+      "depth": 3,
+      "title": "Vermian arteries",
+      "page_0idx": 1103
+    },
+    {
+      "depth": 4,
+      "title": "Tonsillar branches",
+      "page_0idx": 1103
+    },
+    {
+      "depth": 3,
+      "title": "Relationship to the cranial nerves",
+      "page_0idx": 1105
+    },
+    {
+      "depth": 4,
+      "title": "Hypoglossal rootlets",
+      "page_0idx": 1105
+    },
+    {
+      "depth": 4,
+      "title": "Glossopharyngeal, vagus, and accessory nerves",
+      "page_0idx": 1106
+    },
+    {
+      "depth": 4,
+      "title": "Facial and vestibulocochlear nerves",
+      "page_0idx": 1109
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1109
+    },
+    {
+      "depth": 3,
+      "title": "Occlusion",
+      "page_0idx": 1109
+    },
+    {
+      "depth": 3,
+      "title": "Operative exposure",
+      "page_0idx": 1114
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 1115
+    },
+    {
+      "depth": 1,
+      "title": "3. The Posterior Fossa Veins",
+      "page_0idx": 1119
+    },
+    {
+      "depth": 2,
+      "title": "THE POSTERIOR FOSSA VEINS",
+      "page_0idx": 1120
+    },
+    {
+      "depth": 3,
+      "title": "Superficial veins",
+      "page_0idx": 1120
+    },
+    {
+      "depth": 3,
+      "title": "Deep veins",
+      "page_0idx": 1120
+    },
+    {
+      "depth": 3,
+      "title": "Veins of the brainstem",
+      "page_0idx": 1121
+    },
+    {
+      "depth": 3,
+      "title": "Bridging veins and major draining groups",
+      "page_0idx": 1123
+    },
+    {
+      "depth": 2,
+      "title": "SUPERFICIAL VEINS",
+      "page_0idx": 1127
+    },
+    {
+      "depth": 3,
+      "title": "Tentorial surface",
+      "page_0idx": 1128
+    },
+    {
+      "depth": 4,
+      "title": "Superior vermian veins",
+      "page_0idx": 1128
+    },
+    {
+      "depth": 4,
+      "title": "Superior hemispheric veins",
+      "page_0idx": 1131
+    },
+    {
+      "depth": 3,
+      "title": "Suboccipital surface",
+      "page_0idx": 1133
+    },
+    {
+      "depth": 4,
+      "title": "Inferior vermian veins",
+      "page_0idx": 1133
+    },
+    {
+      "depth": 4,
+      "title": "Inferior hemispheric veins",
+      "page_0idx": 1133
+    },
+    {
+      "depth": 4,
+      "title": "Retrotonsillar veins",
+      "page_0idx": 1134
+    },
+    {
+      "depth": 4,
+      "title": "Medial and lateral tonsillar veins",
+      "page_0idx": 1135
+    },
+    {
+      "depth": 3,
+      "title": "Petrosal surface",
+      "page_0idx": 1135
+    },
+    {
+      "depth": 4,
+      "title": "Anterior hemispheric veins",
+      "page_0idx": 1135
+    },
+    {
+      "depth": 2,
+      "title": "DEEP VEINS",
+      "page_0idx": 1136
+    },
+    {
+      "depth": 3,
+      "title": "Cerebellomesencephalic fissure",
+      "page_0idx": 1140
+    },
+    {
+      "depth": 4,
+      "title": "Vein of the superior cerebellar peduncle",
+      "page_0idx": 1140
+    },
+    {
+      "depth": 4,
+      "title": "Vein of the cerebellomesencephalic fissure",
+      "page_0idx": 1140
+    },
+    {
+      "depth": 4,
+      "title": "Pontotrigeminal vein",
+      "page_0idx": 1146
+    },
+    {
+      "depth": 4,
+      "title": "Tectal veins",
+      "page_0idx": 1147
+    },
+    {
+      "depth": 3,
+      "title": "Cerebellomedullary fissure",
+      "page_0idx": 1147
+    },
+    {
+      "depth": 4,
+      "title": "Vein of the cerebellomedullary fissure",
+      "page_0idx": 1149
+    },
+    {
+      "depth": 4,
+      "title": "Vein of the inferior cerebellar peduncle",
+      "page_0idx": 1149
+    },
+    {
+      "depth": 4,
+      "title": "Supratonsillar veins",
+      "page_0idx": 1150
+    },
+    {
+      "depth": 4,
+      "title": "Choroidal veins",
+      "page_0idx": 1150
+    },
+    {
+      "depth": 3,
+      "title": "Cerebellopontine fissure",
+      "page_0idx": 1150
+    },
+    {
+      "depth": 4,
+      "title": "Vein of the cerebellopontine fissure",
+      "page_0idx": 1150
+    },
+    {
+      "depth": 4,
+      "title": "Vein of the middle cerebellar peduncle",
+      "page_0idx": 1151
+    },
+    {
+      "depth": 2,
+      "title": "VEINS OF THE BRAINSTEM",
+      "page_0idx": 1151
+    },
+    {
+      "depth": 3,
+      "title": "Longitudinal veins",
+      "page_0idx": 1154
+    },
+    {
+      "depth": 4,
+      "title": "Median anterior medullary vein",
+      "page_0idx": 1155
+    },
+    {
+      "depth": 4,
+      "title": "Lateral anterior pontomesencephalic vein",
+      "page_0idx": 1155
+    },
+    {
+      "depth": 4,
+      "title": "Lateral anterior medullary vein (preolivary vein)",
+      "page_0idx": 1156
+    },
+    {
+      "depth": 4,
+      "title": "Lateral mesencephalic vein",
+      "page_0idx": 1156
+    },
+    {
+      "depth": 4,
+      "title": "Lateral medullary and retro-olivary veins",
+      "page_0idx": 1158
+    },
+    {
+      "depth": 3,
+      "title": "Transversely oriented veins",
+      "page_0idx": 1158
+    },
+    {
+      "depth": 4,
+      "title": "Posterior communicating vein",
+      "page_0idx": 1159
+    },
+    {
+      "depth": 4,
+      "title": "Vein of the pontomesencephalic sulcus",
+      "page_0idx": 1159
+    },
+    {
+      "depth": 4,
+      "title": "Transverse pontine veins",
+      "page_0idx": 1159
+    },
+    {
+      "depth": 4,
+      "title": "Vein of the pontomedullary sulcus",
+      "page_0idx": 1160
+    },
+    {
+      "depth": 4,
+      "title": "Transverse medullary veins",
+      "page_0idx": 1160
+    },
+    {
+      "depth": 2,
+      "title": "MAJOR DRAINING GROUPS",
+      "page_0idx": 1160
+    },
+    {
+      "depth": 3,
+      "title": "Galenic draining group",
+      "page_0idx": 1163
+    },
+    {
+      "depth": 3,
+      "title": "Tentorial draining group",
+      "page_0idx": 1163
+    },
+    {
+      "depth": 3,
+      "title": "Petrosal draining group",
+      "page_0idx": 1164
+    },
+    {
+      "depth": 3,
+      "title": "Other bridging veins",
+      "page_0idx": 1166
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1167
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 1171
+    },
+    {
+      "depth": 1,
+      "title": "4. The Cerebellopontine Angle and Posterior Fossa Cranial Nerves by the Retrosigmoid Approach",
+      "page_0idx": 1173
+    },
+    {
+      "depth": 2,
+      "title": "UPPER NEUROVASCULAR COMPLEX",
+      "page_0idx": 1174
+    },
+    {
+      "depth": 3,
+      "title": "Trigeminal root anatomy",
+      "page_0idx": 1174
+    },
+    {
+      "depth": 3,
+      "title": "Anatomy of vascular compression in the upper neurovascular complex",
+      "page_0idx": 1182
+    },
+    {
+      "depth": 4,
+      "title": "Venous relationships",
+      "page_0idx": 1194
+    },
+    {
+      "depth": 3,
+      "title": "Suprameatal extension of the retrosigmoid approach",
+      "page_0idx": 1197
+    },
+    {
+      "depth": 2,
+      "title": "MIDDLE NEUROVASCULAR COMPLEX",
+      "page_0idx": 1205
+    },
+    {
+      "depth": 3,
+      "title": "Anatomy of acoustic neuromas",
+      "page_0idx": 1205
+    },
+    {
+      "depth": 4,
+      "title": "Meatal relationships",
+      "page_0idx": 1208
+    },
+    {
+      "depth": 4,
+      "title": "Brainstem relationships",
+      "page_0idx": 1217
+    },
+    {
+      "depth": 4,
+      "title": "Summary: Anatomy of acoustic neuromas",
+      "page_0idx": 1226
+    },
+    {
+      "depth": 3,
+      "title": "Anatomy of vascular compression in the middle neurovascular complex",
+      "page_0idx": 1233
+    },
+    {
+      "depth": 4,
+      "title": "Cochlear and vestibular nerve compression syndromes",
+      "page_0idx": 1239
+    },
+    {
+      "depth": 4,
+      "title": "Geniculate neuralgia",
+      "page_0idx": 1241
+    },
+    {
+      "depth": 2,
+      "title": "LOWER NEUROVASCULAR COMPLEX",
+      "page_0idx": 1245
+    },
+    {
+      "depth": 3,
+      "title": "Neural relationships",
+      "page_0idx": 1247
+    },
+    {
+      "depth": 3,
+      "title": "Anatomy of glossopharyngeal neuralgia",
+      "page_0idx": 1250
+    },
+    {
+      "depth": 3,
+      "title": "Vascular relationships",
+      "page_0idx": 1254
+    },
+    {
+      "depth": 3,
+      "title": "Vascular compression in the lower neurovascular complex",
+      "page_0idx": 1255
+    },
+    {
+      "depth": 3,
+      "title": "Tumors involving multiple neurovascular complexes",
+      "page_0idx": 1255
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 1256
+    },
+    {
+      "depth": 1,
+      "title": "5. Tentorial Incisura",
+      "page_0idx": 1262
+    },
+    {
+      "depth": 2,
+      "title": "ANATOMY OF THE TENTORIUM",
+      "page_0idx": 1263
+    },
+    {
+      "depth": 2,
+      "title": "TENTORIAL INCISURA",
+      "page_0idx": 1266
+    },
+    {
+      "depth": 2,
+      "title": "ANTERIOR INCISURAL SPACE",
+      "page_0idx": 1267
+    },
+    {
+      "depth": 3,
+      "title": "Neural relationships",
+      "page_0idx": 1267
+    },
+    {
+      "depth": 3,
+      "title": "Cisternal relationships",
+      "page_0idx": 1271
+    },
+    {
+      "depth": 3,
+      "title": "Ventricular relationships",
+      "page_0idx": 1271
+    },
+    {
+      "depth": 3,
+      "title": "Cranial nerves",
+      "page_0idx": 1272
+    },
+    {
+      "depth": 3,
+      "title": "Arterial relationships",
+      "page_0idx": 1272
+    },
+    {
+      "depth": 3,
+      "title": "Venous relationships",
+      "page_0idx": 1277
+    },
+    {
+      "depth": 2,
+      "title": "MIDDLE INCISURAL SPACE",
+      "page_0idx": 1277
+    },
+    {
+      "depth": 3,
+      "title": "Neural relationships",
+      "page_0idx": 1277
+    },
+    {
+      "depth": 3,
+      "title": "Cisternal relationships",
+      "page_0idx": 1284
+    },
+    {
+      "depth": 3,
+      "title": "Ventricular relationships",
+      "page_0idx": 1284
+    },
+    {
+      "depth": 3,
+      "title": "Cranial nerves",
+      "page_0idx": 1284
+    },
+    {
+      "depth": 3,
+      "title": "Arterial relationships",
+      "page_0idx": 1286
+    },
+    {
+      "depth": 3,
+      "title": "Venous relationships",
+      "page_0idx": 1287
+    },
+    {
+      "depth": 2,
+      "title": "POSTERIOR INCISURAL SPACE",
+      "page_0idx": 1287
+    },
+    {
+      "depth": 3,
+      "title": "Neural relationships",
+      "page_0idx": 1287
+    },
+    {
+      "depth": 3,
+      "title": "Cisternal relationships",
+      "page_0idx": 1288
+    },
+    {
+      "depth": 3,
+      "title": "Ventricular relationships",
+      "page_0idx": 1288
+    },
+    {
+      "depth": 3,
+      "title": "Arterial relationships",
+      "page_0idx": 1289
+    },
+    {
+      "depth": 3,
+      "title": "Venous relationships",
+      "page_0idx": 1289
+    },
+    {
+      "depth": 3,
+      "title": "Tentorial arteries",
+      "page_0idx": 1290
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1290
+    },
+    {
+      "depth": 3,
+      "title": "Tentorial herniation",
+      "page_0idx": 1290
+    },
+    {
+      "depth": 3,
+      "title": "Pathology and operative approaches",
+      "page_0idx": 1293
+    },
+    {
+      "depth": 4,
+      "title": "Anterior incisural space",
+      "page_0idx": 1293
+    },
+    {
+      "depth": 4,
+      "title": "Middle incisural space",
+      "page_0idx": 1298
+    },
+    {
+      "depth": 4,
+      "title": "Posterior incisural space",
+      "page_0idx": 1302
+    },
+    {
+      "depth": 3,
+      "title": "Comparison of occipital transtentorial and infratentorial supracerebellar approaches",
+      "page_0idx": 1303
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 1310
+    },
+    {
+      "depth": 1,
+      "title": "6. The Foramen Magnum",
+      "page_0idx": 1314
+    },
+    {
+      "depth": 2,
+      "title": "THE FORAMEN MAGNUM",
+      "page_0idx": 1315
+    },
+    {
+      "depth": 3,
+      "title": "Osseous relationships",
+      "page_0idx": 1315
+    },
+    {
+      "depth": 4,
+      "title": "Occipital bone",
+      "page_0idx": 1315
+    },
+    {
+      "depth": 4,
+      "title": "The atlas",
+      "page_0idx": 1320
+    },
+    {
+      "depth": 4,
+      "title": "The axis",
+      "page_0idx": 1321
+    },
+    {
+      "depth": 4,
+      "title": "The atlantoaxial joints",
+      "page_0idx": 1323
+    },
+    {
+      "depth": 4,
+      "title": "The atlanto-occipital joints",
+      "page_0idx": 1328
+    },
+    {
+      "depth": 4,
+      "title": "Axis and occipital bone",
+      "page_0idx": 1330
+    },
+    {
+      "depth": 3,
+      "title": "Muscular relationships",
+      "page_0idx": 1331
+    },
+    {
+      "depth": 3,
+      "title": "Neural relationships",
+      "page_0idx": 1335
+    },
+    {
+      "depth": 4,
+      "title": "Spinal cord",
+      "page_0idx": 1335
+    },
+    {
+      "depth": 4,
+      "title": "Dentate ligament",
+      "page_0idx": 1338
+    },
+    {
+      "depth": 4,
+      "title": "Brainstem",
+      "page_0idx": 1339
+    },
+    {
+      "depth": 4,
+      "title": "Cerebellum",
+      "page_0idx": 1339
+    },
+    {
+      "depth": 4,
+      "title": "Cranial nerves",
+      "page_0idx": 1339
+    },
+    {
+      "depth": 4,
+      "title": "Cervical nerve roots",
+      "page_0idx": 1340
+    },
+    {
+      "depth": 3,
+      "title": "Arterial relationships",
+      "page_0idx": 1342
+    },
+    {
+      "depth": 4,
+      "title": "Vertebral artery",
+      "page_0idx": 1342
+    },
+    {
+      "depth": 4,
+      "title": "Posterior spinal artery",
+      "page_0idx": 1344
+    },
+    {
+      "depth": 4,
+      "title": "Posteroinferior cerebellar artery",
+      "page_0idx": 1345
+    },
+    {
+      "depth": 4,
+      "title": "Anterior spinal artery",
+      "page_0idx": 1345
+    },
+    {
+      "depth": 4,
+      "title": "Meningeal arteries",
+      "page_0idx": 1346
+    },
+    {
+      "depth": 3,
+      "title": "Venous relationships",
+      "page_0idx": 1347
+    },
+    {
+      "depth": 4,
+      "title": "Extradural groups",
+      "page_0idx": 1348
+    },
+    {
+      "depth": 4,
+      "title": "Dural venous sinuses",
+      "page_0idx": 1348
+    },
+    {
+      "depth": 4,
+      "title": "Intradural (neural) veins",
+      "page_0idx": 1349
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1350
+    },
+    {
+      "depth": 3,
+      "title": "Herniations",
+      "page_0idx": 1350
+    },
+    {
+      "depth": 3,
+      "title": "Tumors",
+      "page_0idx": 1351
+    },
+    {
+      "depth": 3,
+      "title": "Surgical approaches",
+      "page_0idx": 1356
+    },
+    {
+      "depth": 4,
+      "title": "Posterior approaches",
+      "page_0idx": 1357
+    },
+    {
+      "depth": 4,
+      "title": "Anterior operative approaches",
+      "page_0idx": 1362
+    },
+    {
+      "depth": 4,
+      "title": "Transoral approaches",
+      "page_0idx": 1366
+    },
+    {
+      "depth": 4,
+      "title": "Transmaxillary approach",
+      "page_0idx": 1372
+    },
+    {
+      "depth": 4,
+      "title": "Transsphenoidal approach",
+      "page_0idx": 1380
+    },
+    {
+      "depth": 4,
+      "title": "Transcervical approach",
+      "page_0idx": 1380
+    },
+    {
+      "depth": 4,
+      "title": "Transcranial-transbasal approach",
+      "page_0idx": 1389
+    },
+    {
+      "depth": 4,
+      "title": "Extended frontal approach",
+      "page_0idx": 1391
+    },
+    {
+      "depth": 3,
+      "title": "Selection of operative approach",
+      "page_0idx": 1392
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 1393
+    },
+    {
+      "depth": 1,
+      "title": "7. The Far-lateral Approach and Its Transcondylar, Supracondylar, and Paracondylar Extensions",
+      "page_0idx": 1399
+    },
+    {
+      "depth": 2,
+      "title": "STAGES OF APPROACH",
+      "page_0idx": 1400
+    },
+    {
+      "depth": 3,
+      "title": "Muscular stage",
+      "page_0idx": 1400
+    },
+    {
+      "depth": 4,
+      "title": "Muscular dissection",
+      "page_0idx": 1401
+    },
+    {
+      "depth": 4,
+      "title": "Vascular structures",
+      "page_0idx": 1404
+    },
+    {
+      "depth": 4,
+      "title": "Osseous structures",
+      "page_0idx": 1412
+    },
+    {
+      "depth": 4,
+      "title": "Neural structures",
+      "page_0idx": 1412
+    },
+    {
+      "depth": 3,
+      "title": "Extradural stage",
+      "page_0idx": 1412
+    },
+    {
+      "depth": 3,
+      "title": "Intradural stage",
+      "page_0idx": 1416
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1423
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 1427
+    },
+    {
+      "depth": 1,
+      "title": "8. The Temporal Bone and Transtemporal Approaches",
+      "page_0idx": 1431
+    },
+    {
+      "depth": 2,
+      "title": "THE TEMPORAL BONE AND TRANSTEMPORAL APPROACHES",
+      "page_0idx": 1433
+    },
+    {
+      "depth": 3,
+      "title": "Lateral surface",
+      "page_0idx": 1433
+    },
+    {
+      "depth": 3,
+      "title": "The tympanic part",
+      "page_0idx": 1439
+    },
+    {
+      "depth": 3,
+      "title": "The squamous part",
+      "page_0idx": 1443
+    },
+    {
+      "depth": 3,
+      "title": "The mastoid part",
+      "page_0idx": 1444
+    },
+    {
+      "depth": 3,
+      "title": "The petrous part",
+      "page_0idx": 1452
+    },
+    {
+      "depth": 3,
+      "title": "Petroclival region",
+      "page_0idx": 1473
+    },
+    {
+      "depth": 4,
+      "title": "The inferior petroclival space",
+      "page_0idx": 1473
+    },
+    {
+      "depth": 4,
+      "title": "The middle petroclival space",
+      "page_0idx": 1473
+    },
+    {
+      "depth": 4,
+      "title": "The superior petroclival space",
+      "page_0idx": 1476
+    },
+    {
+      "depth": 3,
+      "title": "Adjacent structures",
+      "page_0idx": 1476
+    },
+    {
+      "depth": 4,
+      "title": "Infratemporal fossa",
+      "page_0idx": 1477
+    },
+    {
+      "depth": 4,
+      "title": "Parapharyngeal space",
+      "page_0idx": 1480
+    },
+    {
+      "depth": 4,
+      "title": "Pterygopalatine fossa",
+      "page_0idx": 1481
+    },
+    {
+      "depth": 3,
+      "title": "Arterial relationships",
+      "page_0idx": 1482
+    },
+    {
+      "depth": 4,
+      "title": "Common carotid artery",
+      "page_0idx": 1483
+    },
+    {
+      "depth": 4,
+      "title": "External carotid artery",
+      "page_0idx": 1483
+    },
+    {
+      "depth": 4,
+      "title": "Vertebral artery",
+      "page_0idx": 1485
+    },
+    {
+      "depth": 3,
+      "title": "Venous relationships",
+      "page_0idx": 1485
+    },
+    {
+      "depth": 2,
+      "title": "SURGICAL APPROACHES",
+      "page_0idx": 1486
+    },
+    {
+      "depth": 3,
+      "title": "Middle fossa approach",
+      "page_0idx": 1486
+    },
+    {
+      "depth": 3,
+      "title": "Subtemporal anterior transpetrosal approach",
+      "page_0idx": 1499
+    },
+    {
+      "depth": 3,
+      "title": "Translabyrinthine approach",
+      "page_0idx": 1506
+    },
+    {
+      "depth": 3,
+      "title": "Transcochlear approach",
+      "page_0idx": 1511
+    },
+    {
+      "depth": 3,
+      "title": "Combined supra- and infratentorial presigmoid approach",
+      "page_0idx": 1512
+    },
+    {
+      "depth": 3,
+      "title": "Subtemporal preauricular infratemporal fossa approach",
+      "page_0idx": 1515
+    },
+    {
+      "depth": 3,
+      "title": "Postauricular transtemporal approach",
+      "page_0idx": 1518
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1524
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 1548
+    },
+    {
+      "depth": 1,
+      "title": "9. Jugular Foramen",
+      "page_0idx": 1554
+    },
+    {
+      "depth": 2,
+      "title": "OSSEOUS RELATIONSHIPS",
+      "page_0idx": 1555
+    },
+    {
+      "depth": 2,
+      "title": "ADJACENT BONY STRUCTURES",
+      "page_0idx": 1563
+    },
+    {
+      "depth": 3,
+      "title": "Dural architecture",
+      "page_0idx": 1564
+    },
+    {
+      "depth": 3,
+      "title": "Neural relationships",
+      "page_0idx": 1567
+    },
+    {
+      "depth": 4,
+      "title": "Accessory nerve",
+      "page_0idx": 1575
+    },
+    {
+      "depth": 4,
+      "title": "Hypoglossal nerve",
+      "page_0idx": 1575
+    },
+    {
+      "depth": 2,
+      "title": "ARTERIAL RELATIONSHIPS",
+      "page_0idx": 1576
+    },
+    {
+      "depth": 3,
+      "title": "Internal carotid artery",
+      "page_0idx": 1576
+    },
+    {
+      "depth": 3,
+      "title": "External carotid artery",
+      "page_0idx": 1576
+    },
+    {
+      "depth": 3,
+      "title": "Vertebral artery",
+      "page_0idx": 1581
+    },
+    {
+      "depth": 2,
+      "title": "VENOUS RELATIONSHIPS",
+      "page_0idx": 1581
+    },
+    {
+      "depth": 3,
+      "title": "Sigmoid sinus and jugular bulb",
+      "page_0idx": 1581
+    },
+    {
+      "depth": 3,
+      "title": "Inferior petrosal sinus and venous confluens",
+      "page_0idx": 1581
+    },
+    {
+      "depth": 3,
+      "title": "Bridging veins",
+      "page_0idx": 1582
+    },
+    {
+      "depth": 2,
+      "title": "MUSCULAR RELATIONSHIPS",
+      "page_0idx": 1582
+    },
+    {
+      "depth": 2,
+      "title": "SURGICAL APPROACHES",
+      "page_0idx": 1583
+    },
+    {
+      "depth": 3,
+      "title": "Postauricular transtemporal approach",
+      "page_0idx": 1583
+    },
+    {
+      "depth": 3,
+      "title": "Retrosigmoid approach",
+      "page_0idx": 1586
+    },
+    {
+      "depth": 3,
+      "title": "Far-lateral approach",
+      "page_0idx": 1588
+    },
+    {
+      "depth": 3,
+      "title": "Preauricular subtemporal-infratemporal approach",
+      "page_0idx": 1588
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1589
+    },
+    {
+      "depth": 3,
+      "title": "Pathologies",
+      "page_0idx": 1589
+    },
+    {
+      "depth": 3,
+      "title": "Selection of surgical approach",
+      "page_0idx": 1589
+    },
+    {
+      "depth": 4,
+      "title": "Lateral approach",
+      "page_0idx": 1590
+    },
+    {
+      "depth": 4,
+      "title": "Posterior approach",
+      "page_0idx": 1590
+    },
+    {
+      "depth": 4,
+      "title": "Anterior approach",
+      "page_0idx": 1591
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 1592
+    },
+    {
+      "depth": 1,
+      "title": "10. The Posterior Fossa Cisterns",
+      "page_0idx": 1596
+    },
+    {
+      "depth": 2,
+      "title": "INTERPEDUNCULAR CISTERN AND LILIEQUIST\u2019S MEMBRANE",
+      "page_0idx": 1597
+    },
+    {
+      "depth": 2,
+      "title": "PREPONTINE CISTERN",
+      "page_0idx": 1603
+    },
+    {
+      "depth": 2,
+      "title": "CEREBELLOPONTINE CISTERN",
+      "page_0idx": 1604
+    },
+    {
+      "depth": 2,
+      "title": "PREMEDULLARY CISTERN",
+      "page_0idx": 1607
+    },
+    {
+      "depth": 2,
+      "title": "CEREBELLOMEDULLARY CISTERN",
+      "page_0idx": 1607
+    },
+    {
+      "depth": 2,
+      "title": "CISTERNA MAGNA",
+      "page_0idx": 1609
+    },
+    {
+      "depth": 2,
+      "title": "QUADRIGEMINAL CISTERN",
+      "page_0idx": 1610
+    },
+    {
+      "depth": 2,
+      "title": "SUPERIOR CEREBELLAR CISTERN",
+      "page_0idx": 1614
+    },
+    {
+      "depth": 2,
+      "title": "DISCUSSION",
+      "page_0idx": 1614
+    },
+    {
+      "depth": 2,
+      "title": "REFERENCES",
+      "page_0idx": 1618
+    },
+    {
+      "depth": 0,
+      "title": "Subject Index",
+      "page_0idx": 1623
+    }
+  ]
+}

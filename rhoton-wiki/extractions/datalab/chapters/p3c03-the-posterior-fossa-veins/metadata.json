@@ -1,0 +1,19 @@
+{
+  "chapter_id": "p3c03-the-posterior-fossa-veins",
+  "chapter_title": "The Posterior Fossa Veins",
+  "part_num": 3,
+  "chapter_num": 3,
+  "page_range": "1119-1172",
+  "expected_page_count": 54,
+  "api_page_count": 54,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 25.0
+  },
+  "checkpoint_id": "checkpoint_1yBTpKISg-UZIrM8QgZ5krfmVjgoJY0_ty58B3J8Gnw",
+  "request_id": "5xwCP4lIK9n1XGlQM3Kr6w",
+  "markdown_bytes": 128546,
+  "markdown_sha256": "71eb5df556c75429275f25efeff06af1a17231ed1e6a7e812ff4a612c378bb8e",
+  "image_count": 21,
+  "saved_at": "2026-04-11T18:16:59+00:00"
+}

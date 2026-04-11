@@ -1,0 +1,233 @@
+{
+  "status": "complete",
+  "output_format": "markdown",
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "segmentation_results": null,
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 1262,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 1263,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1264,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1265,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1266,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1267,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1268,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1269,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1270,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1271,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1272,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 1273,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1274,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1275,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1276,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1277,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 1278,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1279,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1280,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1281,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1282,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1283,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1284,
+        "num_blocks": 7
+      },
+      {
+        "page_id": 1285,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1286,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1287,
+        "num_blocks": 7
+      },
+      {
+        "page_id": 1288,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 1289,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 1290,
+        "num_blocks": 8
+      },
+      {
+        "page_id": 1291,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1292,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1293,
+        "num_blocks": 7
+      },
+      {
+        "page_id": 1294,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1295,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1296,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1297,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1298,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1299,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1300,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1301,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1302,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1303,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1304,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1305,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1306,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1307,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1308,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1309,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1310,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1311,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1312,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1313,
+        "num_blocks": 1
+      }
+    ]
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": null,
+  "page_count": 52,
+  "total_cost": 24,
+  "cost_breakdown": {
+    "list_cost_cents": 32,
+    "final_cost_cents": 24
+  },
+  "runtime": 28.426039695739746,
+  "checkpoint_id": "checkpoint__BmXukOmBdfm7oJIZRKlAKjOoCzFNyLSxTyUxEW_Tp0",
+  "versions": null,
+  "evaluation": null,
+  "request_id": "gHN9kORpIDANbmvUHCQuKg"
+}

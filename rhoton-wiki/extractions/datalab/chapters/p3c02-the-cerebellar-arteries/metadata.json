@@ -1,0 +1,19 @@
+{
+  "chapter_id": "p3c02-the-cerebellar-arteries",
+  "chapter_title": "The Cerebellar Arteries",
+  "part_num": 3,
+  "chapter_num": 2,
+  "page_range": "1029-1118",
+  "expected_page_count": 90,
+  "api_page_count": 90,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 41.0
+  },
+  "checkpoint_id": "checkpoint_cgf_VP8ocGtMTBGTYAgGSaZC3n2QivQ9RAdmtnscsNM",
+  "request_id": "XHPuFuClcfr1yScg0XZJ_w",
+  "markdown_bytes": 206076,
+  "markdown_sha256": "5e36578e96b99563881991bdeae5e0578a407f1e2ccb6805f7d9588388a4505a",
+  "image_count": 33,
+  "saved_at": "2026-04-11T18:15:56+00:00"
+}

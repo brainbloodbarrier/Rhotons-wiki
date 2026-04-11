@@ -1,0 +1,68 @@
+{"t": "2026-04-11T17:22:31+00:00", "event": "submit_start", "chapter_id": "p3c10-the-posterior-fossa-cisterns", "page_range": "1596-1622", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T17:22:59+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T17:23:22+00:00", "event": "poll_complete", "request_id": "BlePZWVfX21iK-3Be963xw", "iters": 9}
+{"t": "2026-04-11T17:59:21+00:00", "event": "submit_start", "chapter_id": "p1c01-operative-techniques-and-instrumentation-for-neurosurgery", "page_range": "66-143", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T17:59:46+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:00:32+00:00", "event": "poll_complete", "request_id": "tyGiA9cIVJJVLqruTEsSyQ", "iters": 18}
+{"t": "2026-04-11T18:00:32+00:00", "event": "submit_start", "chapter_id": "p2c01-the-cerebrum", "page_range": "147-247", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:00:56+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:01:29+00:00", "event": "poll_complete", "request_id": "el2XaHpi89Nm0UNFUC2yaQ", "iters": 13}
+{"t": "2026-04-11T18:01:29+00:00", "event": "submit_start", "chapter_id": "p2c02-the-supratentorial-arteries", "page_range": "248-394", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:01:32+00:00", "event": "submit_network_error", "error": "HTTPSConnectionPool(host='www.datalab.to', port=443): Max retries exceeded with url: /api/v1/convert (Caused by SSLError(SSLError(5, '[SSL: SSLV3_ALERT_BAD_RECORD_MAC] ssl/tls alert bad record mac (_ssl.c:2711)')))"}
+{"t": "2026-04-11T18:03:06+00:00", "event": "submit_start", "chapter_id": "p2c02-the-supratentorial-arteries", "page_range": "248-394", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:03:33+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:04:42+00:00", "event": "poll_complete", "request_id": "qEaLSIEsqtYK3X7LEutiLQ", "iters": 26}
+{"t": "2026-04-11T18:04:42+00:00", "event": "submit_start", "chapter_id": "p2c03-aneurysms", "page_range": "395-477", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:05:07+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:05:54+00:00", "event": "poll_complete", "request_id": "mp101YRCYwYxh_nmds20rw", "iters": 18}
+{"t": "2026-04-11T18:05:54+00:00", "event": "submit_start", "chapter_id": "p2c04-the-cerebral-veins", "page_range": "478-571", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:06:18+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:07:02+00:00", "event": "poll_complete", "request_id": "CVv9v3GkV1YvASJVG0nTuw", "iters": 17}
+{"t": "2026-04-11T18:07:02+00:00", "event": "submit_start", "chapter_id": "p2c05-the-lateral-and-third-ventricles", "page_range": "572-706", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:07:24+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:08:47+00:00", "event": "poll_complete", "request_id": "J7x5TpLvRbmraWyje7YDLQ", "iters": 31}
+{"t": "2026-04-11T18:08:47+00:00", "event": "submit_start", "chapter_id": "p2c06-the-anterior-and-middle-cranial-base", "page_range": "707-759", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:09:10+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:09:38+00:00", "event": "poll_complete", "request_id": "L15yKd-1N-zsDqYJ78sueg", "iters": 11}
+{"t": "2026-04-11T18:09:38+00:00", "event": "submit_start", "chapter_id": "p2c07-the-orbit", "page_range": "760-825", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:10:02+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:10:42+00:00", "event": "poll_complete", "request_id": "iwLl_aN5ESiN3-oVJZLEQA", "iters": 16}
+{"t": "2026-04-11T18:10:42+00:00", "event": "submit_start", "chapter_id": "p2c08-the-sellar-region", "page_range": "826-907", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:10:48+00:00", "event": "submit_network_error", "error": "HTTPSConnectionPool(host='www.datalab.to', port=443): Max retries exceeded with url: /api/v1/convert (Caused by SSLError(SSLError(5, '[SSL: SSLV3_ALERT_BAD_RECORD_MAC] ssl/tls alert bad record mac (_ssl.c:2711)')))", "attempt": 1}
+{"t": "2026-04-11T18:11:24+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:12:21+00:00", "event": "poll_complete", "request_id": "MAhgjBwsognQjV_o90mjpQ", "iters": 22}
+{"t": "2026-04-11T18:12:21+00:00", "event": "submit_start", "chapter_id": "p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro", "page_range": "908-976", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:12:46+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:13:31+00:00", "event": "poll_complete", "request_id": "FdseTl2AYbAOnEb07m_tmQ", "iters": 18}
+{"t": "2026-04-11T18:13:31+00:00", "event": "submit_start", "chapter_id": "p3c01-cerebellum-and-fourth-ventricle", "page_range": "980-1028", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:13:55+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:14:37+00:00", "event": "poll_complete", "request_id": "F5qr2afnTAbaExUlGB_4Gw", "iters": 16}
+{"t": "2026-04-11T18:14:37+00:00", "event": "submit_start", "chapter_id": "p3c02-the-cerebellar-arteries", "page_range": "1029-1118", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:14:58+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:15:56+00:00", "event": "poll_complete", "request_id": "XHPuFuClcfr1yScg0XZJ_w", "iters": 22}
+{"t": "2026-04-11T18:15:56+00:00", "event": "submit_start", "chapter_id": "p3c03-the-posterior-fossa-veins", "page_range": "1119-1172", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:16:18+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:16:59+00:00", "event": "poll_complete", "request_id": "5xwCP4lIK9n1XGlQM3Kr6w", "iters": 16}
+{"t": "2026-04-11T18:16:59+00:00", "event": "submit_start", "chapter_id": "p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve", "page_range": "1173-1261", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:17:19+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:18:07+00:00", "event": "poll_complete", "request_id": "Eas7zjKXOKFr8AjW8CB9OA", "iters": 18}
+{"t": "2026-04-11T18:18:07+00:00", "event": "submit_start", "chapter_id": "p3c05-tentorial-incisura", "page_range": "1262-1313", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:19:03+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:19:35+00:00", "event": "poll_complete", "request_id": "gHN9kORpIDANbmvUHCQuKg", "iters": 12}
+{"t": "2026-04-11T18:19:35+00:00", "event": "submit_start", "chapter_id": "p3c06-the-foramen-magnum", "page_range": "1314-1398", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:19:57+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:20:50+00:00", "event": "poll_complete", "request_id": "091eP2rVFKulfBitw1LetQ", "iters": 20}
+{"t": "2026-04-11T18:20:50+00:00", "event": "submit_start", "chapter_id": "p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar", "page_range": "1399-1430", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:21:16+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:21:38+00:00", "event": "poll_complete", "request_id": "YRX4zcUqEu5BxYyTIMQWzA", "iters": 9}
+{"t": "2026-04-11T18:21:38+00:00", "event": "submit_start", "chapter_id": "p3c08-the-temporal-bone-and-transtemporal-approaches", "page_range": "1431-1553", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:22:03+00:00", "event": "submit_response", "http": 502, "body_bytes": 6432}
+{"t": "2026-04-11T18:22:03+00:00", "event": "submit_5xx_backoff", "http": 502, "attempt": 1, "wait_s": 2}
+{"t": "2026-04-11T18:22:52+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:23:41+00:00", "event": "poll_complete", "request_id": "6PYcda0EdbgHbjy90YbuRg", "iters": 19}
+{"t": "2026-04-11T18:23:41+00:00", "event": "submit_start", "chapter_id": "p3c09-jugular-foramen", "page_range": "1554-1595", "mode": "accurate", "output_format": "markdown", "paginate": true, "save_checkpoint": true, "key_fp": "f2b74f6c"}
+{"t": "2026-04-11T18:24:09+00:00", "event": "submit_network_error", "error": "HTTPSConnectionPool(host='www.datalab.to', port=443): Max retries exceeded with url: /api/v1/convert (Caused by SSLError(SSLError(5, '[SSL: SSLV3_ALERT_BAD_RECORD_MAC] ssl/tls alert bad record mac (_ssl.c:2711)')))", "attempt": 1}
+{"t": "2026-04-11T18:24:43+00:00", "event": "submit_network_error", "error": "HTTPSConnectionPool(host='www.datalab.to', port=443): Max retries exceeded with url: /api/v1/convert (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_BAD_RECORD_MAC] ssl/tls alert bad record mac (_ssl.c:2711)')))", "attempt": 2}
+{"t": "2026-04-11T18:25:11+00:00", "event": "submit_network_error", "error": "HTTPSConnectionPool(host='www.datalab.to', port=443): Max retries exceeded with url: /api/v1/convert (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_BAD_RECORD_MAC] ssl/tls alert bad record mac (_ssl.c:2711)')))", "attempt": 3}
+{"t": "2026-04-11T18:26:28+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-11T18:26:54+00:00", "event": "poll_complete", "request_id": "x-_ipsciAmfja4SXT7hp8A", "iters": 10}

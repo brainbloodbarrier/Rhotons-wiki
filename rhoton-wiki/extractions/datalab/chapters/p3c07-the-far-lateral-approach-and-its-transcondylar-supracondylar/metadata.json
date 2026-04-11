@@ -1,0 +1,20 @@
+{
+  "chapter_id": "p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar",
+  "chapter_title": "The Far-lateral Approach and Its Transcondylar, Supracondylar, and Paracondylar Extensions",
+  "part_num": 3,
+  "chapter_num": 7,
+  "page_range": "1399-1430",
+  "expected_page_count": 32,
+  "api_page_count": 32,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 20,
+    "final_cost_cents": 15
+  },
+  "checkpoint_id": "checkpoint_lRgtr6mmdT9XqhG1AoiRtBQOan7JCxuXuVvqOGmlsG8",
+  "request_id": "YRX4zcUqEu5BxYyTIMQWzA",
+  "markdown_bytes": 76242,
+  "markdown_sha256": "7a1eeea8e3e68ba971b90a3c6ab05fd2b54c6a6a64401e5ab26937425abe0d16",
+  "image_count": 10,
+  "saved_at": "2026-04-11T18:21:38+00:00"
+}

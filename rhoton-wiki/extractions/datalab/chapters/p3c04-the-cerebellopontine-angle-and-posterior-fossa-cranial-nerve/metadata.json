@@ -1,0 +1,19 @@
+{
+  "chapter_id": "p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve",
+  "chapter_title": "The Cerebellopontine Angle and Posterior Fossa Cranial Nerves by the Retrosigmoid Approach",
+  "part_num": 3,
+  "chapter_num": 4,
+  "page_range": "1173-1261",
+  "expected_page_count": 89,
+  "api_page_count": 89,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 41.0
+  },
+  "checkpoint_id": "checkpoint_tqAth9r1IICh4-kkCMUscPkOixIwZPxjG4Mc9xaOKqU",
+  "request_id": "Eas7zjKXOKFr8AjW8CB9OA",
+  "markdown_bytes": 201274,
+  "markdown_sha256": "aee566605f6f35c290a8efe449112e4a1afe85cb2bb4ffd25317afe92a143ab3",
+  "image_count": 47,
+  "saved_at": "2026-04-11T18:18:07+00:00"
+}

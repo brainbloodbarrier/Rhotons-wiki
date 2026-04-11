@@ -1,0 +1,20 @@
+{
+  "chapter_id": "p2c04-the-cerebral-veins",
+  "chapter_title": "The Cerebral Veins",
+  "part_num": 2,
+  "chapter_num": 4,
+  "page_range": "478-571",
+  "expected_page_count": 94,
+  "api_page_count": 94,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 57,
+    "final_cost_cents": 43
+  },
+  "checkpoint_id": "checkpoint_W-2fx646KSNrdfOHAHjOkJO-EjnK5M_zM19iSP_onOg",
+  "request_id": "CVv9v3GkV1YvASJVG0nTuw",
+  "markdown_bytes": 230393,
+  "markdown_sha256": "a57e47e7d4a2a50fd1e37a1e8bb6381c26ca2950792ef6cf134be7fa93b5d565",
+  "image_count": 45,
+  "saved_at": "2026-04-11T18:07:02+00:00"
+}

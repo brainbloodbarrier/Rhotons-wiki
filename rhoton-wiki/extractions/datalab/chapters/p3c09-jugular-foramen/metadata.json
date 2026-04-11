@@ -1,0 +1,19 @@
+{
+  "chapter_id": "p3c09-jugular-foramen",
+  "chapter_title": "Jugular Foramen",
+  "part_num": 3,
+  "chapter_num": 9,
+  "page_range": "1554-1595",
+  "expected_page_count": 42,
+  "api_page_count": 42,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 19.0
+  },
+  "checkpoint_id": "checkpoint_VMHsAwFkXh5169BV9KmnmPed-5JPCztdZWpmYOBFi34",
+  "request_id": "x-_ipsciAmfja4SXT7hp8A",
+  "markdown_bytes": 101770,
+  "markdown_sha256": "872d23f86b3555739499a6a5cb8e53e12d367f341e58c7e6784539c8d01d2d7a",
+  "image_count": 13,
+  "saved_at": "2026-04-11T18:26:54+00:00"
+}

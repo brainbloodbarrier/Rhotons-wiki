@@ -1,0 +1,20 @@
+{
+  "chapter_id": "p3c10-the-posterior-fossa-cisterns",
+  "chapter_title": "The Posterior Fossa Cisterns",
+  "part_num": 3,
+  "chapter_num": 10,
+  "page_range": "1596-1622",
+  "expected_page_count": 27,
+  "api_page_count": 27,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 17,
+    "final_cost_cents": 13
+  },
+  "checkpoint_id": "checkpoint_yKJM1ZTb71tMVVRLgGkCR4pLri0C2tbmbajyeMJHSvQ",
+  "request_id": "BlePZWVfX21iK-3Be963xw",
+  "markdown_bytes": 61155,
+  "markdown_sha256": "5ce8953fba5e06cee2316caa93abd17916c35f3d86a5ec016e874c3ff4ac4326",
+  "image_count": 8,
+  "saved_at": "2026-04-11T17:23:22+00:00"
+}

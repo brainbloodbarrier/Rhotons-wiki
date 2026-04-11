@@ -1,0 +1,19 @@
+{
+  "chapter_id": "p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro",
+  "chapter_title": "The Cavernous Sinus, the Cavernous Venous Plexus, and the Carotid Collar",
+  "part_num": 2,
+  "chapter_num": 9,
+  "page_range": "908-976",
+  "expected_page_count": 69,
+  "api_page_count": 69,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 32.0
+  },
+  "checkpoint_id": "checkpoint_GNuwLpFihwKEsMy83FchDrbw8EXUWJp3dE7cUbpVBh8",
+  "request_id": "FdseTl2AYbAOnEb07m_tmQ",
+  "markdown_bytes": 189640,
+  "markdown_sha256": "5c3f205b06981a7c935997ce446881564bf5fdecc1af2b109be29647f3051227",
+  "image_count": 58,
+  "saved_at": "2026-04-11T18:13:31+00:00"
+}

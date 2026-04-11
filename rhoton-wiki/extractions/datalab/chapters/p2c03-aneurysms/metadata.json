@@ -1,0 +1,19 @@
+{
+  "chapter_id": "p2c03-aneurysms",
+  "chapter_title": "Aneurysms",
+  "part_num": 2,
+  "chapter_num": 3,
+  "page_range": "395-477",
+  "expected_page_count": 83,
+  "api_page_count": 83,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 38.0
+  },
+  "checkpoint_id": "checkpoint_mikRqVzPVRcbCxGy0aSmndHW7J6hvTCLntXViGO7vOY",
+  "request_id": "mp101YRCYwYxh_nmds20rw",
+  "markdown_bytes": 210857,
+  "markdown_sha256": "8caf131b434e2e6f095f992e283652680b928e07588d72f77047dc583f2472aa",
+  "image_count": 62,
+  "saved_at": "2026-04-11T18:05:54+00:00"
+}

@@ -1,0 +1,153 @@
+{
+  "status": "complete",
+  "output_format": "markdown",
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "segmentation_results": null,
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 1399,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 1400,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1401,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1402,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1403,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1404,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1405,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1406,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1407,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1408,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1409,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1410,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1411,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1412,
+        "num_blocks": 7
+      },
+      {
+        "page_id": 1413,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1414,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1415,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1416,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1417,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1418,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1419,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1420,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1421,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1422,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1423,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1424,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1425,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 1426,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 1427,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 1428,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 1429,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1430,
+        "num_blocks": 2
+      }
+    ]
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": null,
+  "page_count": 32,
+  "total_cost": 15,
+  "cost_breakdown": {
+    "list_cost_cents": 20,
+    "final_cost_cents": 15
+  },
+  "runtime": 19.632654905319214,
+  "checkpoint_id": "checkpoint_lRgtr6mmdT9XqhG1AoiRtBQOan7JCxuXuVvqOGmlsG8",
+  "versions": null,
+  "evaluation": null,
+  "request_id": "YRX4zcUqEu5BxYyTIMQWzA"
+}
