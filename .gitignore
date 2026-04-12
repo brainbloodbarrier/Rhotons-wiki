@@ -2,7 +2,18 @@
 .DS_Store
 *.pyc
 __pycache__/
+*.pdf
+
+# Agent state (local only)
+.omc/
+.remember/
+.ruff_cache/
+autoresearch-results.tsv
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
 # Agent skill symlinks (created by setup.sh) — these are just pointers to .skills/
 # We track them so cloners get the symlinks too, but if your git doesn't
-# preserve symlinks, run `bash setup.sh` after cloning.autoresearch-results.tsv
+# preserve symlinks, run `bash setup.sh` after cloning.

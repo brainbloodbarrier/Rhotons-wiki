@@ -38,4 +38,3 @@ This project is a **skill-based framework** for building and maintaining an Obsi
 ## Architecture Reference
 
 For the full pattern (three-layer architecture, page templates, project org), read `.skills/llm-wiki/SKILL.md`.
-For the complete architecture doc, see [ARCHITECTURE.md](ARCHITECTURE.md). For onboarding, see [ONBOARDING.md](ONBOARDING.md).

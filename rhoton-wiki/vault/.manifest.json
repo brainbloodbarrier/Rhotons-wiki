@@ -9,16 +9,25 @@
       "ingested_at": "2026-04-10T00:00:00Z",
       "pages_created": 139,
       "method": "autoresearch-150-iterations"
+    },
+    "datalab-augment-campaign-2": {
+      "path": "rhoton-wiki/extractions/datalab/chapters/",
+      "original": "Datalab PDF extraction — 20 chapters, 885 figures",
+      "ingested_at": "2026-04-12T00:00:00Z",
+      "pages_created": 16,
+      "method": "autoresearch-campaign-2-iters-0-5"
     }
   },
   "stats": {
-    "content_pages": 148,
-    "total_pages": 151,
-    "concepts": 64,
+    "content_pages": 155,
+    "total_pages": 161,
+    "concepts": 69,
     "entities": 52,
-    "synthesis": 18,
+    "synthesis": 20,
     "references": 14,
-    "meta_pages": 3
+    "meta_pages": 3,
+    "quizzes": 3,
+    "score": 11803
   },
-  "last_updated": "2026-04-10T22:40:37Z"
+  "last_updated": "2026-04-12T00:00:00Z"
 }
