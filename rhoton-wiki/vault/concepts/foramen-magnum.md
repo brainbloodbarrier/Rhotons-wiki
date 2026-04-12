@@ -13,7 +13,7 @@ aliases:
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.14 (The Foramen Magnum)"
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 summary: >-
   Craniocervical junction, occipital bone, CVJ ligaments
 parent: "[[cranial-base]]"
@@ -85,19 +85,29 @@ The foramen magnum is surrounded by layered suboccipital musculature:
 
 The **suboccipital triangle** is the key surgical landmark: bounded by the superior oblique (superolateral), inferior oblique (inferolateral), and rectus capitis posterior major (medial). The V3 segment of the [[vertebral-artery]] courses along the floor of this triangle.
 
-## Surgical Approaches
+## Surgical Approaches (Rhoton Classification)
 
-### Suboccipital craniectomy
-Posterior approach through the squamosal part with upper cervical laminectomy. Exposes the vertebral arteries crossing the upper surface of the atlas, the posterior meningeal arteries, and the intradural contents (medulla, tonsils, [[pica]], CN XI).
+### Posterior Approaches (intradural lesions)
+- **Suboccipital craniectomy** — midline or hockey-stick incision; three-quarter prone; craniectomy + C1-C2 laminectomy. Exposes vertebral arteries, [[pica]], tonsils, CN IX-XII. Dural closure with graft if native dura constricts tonsils/cervicomedullary junction
+- **[[retrosigmoid-approach|Hockey-stick retrosigmoid]]** — extends superolateral from mastoid along superior nuchal line to inion. For lesions extending anterolateral to brainstem toward [[jugular-foramen]] or [[cerebellopontine-cistern|CPA]]
+- **[[far-lateral-approach]] (extreme lateral)** — transcondylar, retrocondylar, or supracondylar extensions for anterolateral foramen magnum exposure
 
-### Far-lateral approach ([[far-lateral-approach]])
-Directed through the condylar part of the occipital bone. Provides anterolateral exposure of the foramen magnum, [[vertebral-artery]], vertebrobasilar junction, and [[lower-cranial-nerves|CN IX–XII]]. Modifications include transcondylar, retrocondylar, and supracondylar extensions.
+### Anterior Approaches (extradural, clivus, dens)
+- **Transoral/transpalatal** — soft palate at foramen magnum level; division provides access to anterior C1 arch, dens, lower [[clivus]]
+- **Transmaxillary** — Le Fort osteotomy for extended central cranial base access to foramen magnum
+- **Transcervical/labiomandibular** — for lower clivus and upper cervical spine
+- **Transnasal** — endoscopic endonasal to upper clivus via sphenoid sinus
 
-### Anterior approaches
-Through the nasal/oral cavities, pharynx, or maxilla. The foramen magnum is at approximately the level of the hard palate. Opening the clivus and anterior arch of C1 exposes the [[vertebral-artery|vertebral arteries]], [[basilar-artery]], and the dens.
+### Lateral Approaches (temporal bone, petroclival)
+- **Translabyrinthine/transcochlear** — through [[temporal-bone]]
+- **Presigmoid/subtemporal transpetrosal** — combined petrosal approaches
+- **Preauricular infratemporal** — mandibular condyle displaced/resected for petrous ICA and anterior jugular foramen access
 
-### Transoral approach
-The soft palate is at the level of the foramen magnum. Division of the soft palate provides access to the anterior arch of C1, the dens, and the lower clivus.
+**Selection principle:** Posterior for intradural lesions. Anterior for extradural lesions anterior to the foramen. Lateral for lesions involving or contiguous with [[temporal-bone]].
+
+## Foramen Magnum Herniation
+
+Tonsillar herniation usually involves both tonsils and biventral lobules, deeply grooved by the foramen edge. May compress the medulla severely enough for necrosis. Presentation ranges from asymptomatic to sudden death. Symptoms: neck/arm pain, dizziness, ataxia, gait disturbance, diplopia, dysphagia, nystagmus, up to quadriparesis. Coughing/sneezing may aggravate symptoms or cause syncope. Chronic herniation: Arnold-Chiari malformation; acute: posterior fossa mass effect.
 
 ## Relations
 
