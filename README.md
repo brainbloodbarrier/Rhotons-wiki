@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Pages-151-blue?style=for-the-badge" alt="Pages"/>
-  <img src="https://img.shields.io/badge/Wikilinks-3000%2B-green?style=for-the-badge" alt="Wikilinks"/>
+  <img src="https://img.shields.io/badge/Pages-161-blue?style=for-the-badge" alt="Pages"/>
+  <img src="https://img.shields.io/badge/Wikilinks-8469-green?style=for-the-badge" alt="Wikilinks"/>
+  <img src="https://img.shields.io/badge/Figures-884-red?style=for-the-badge" alt="Figures"/>
+  <img src="https://img.shields.io/badge/Words-127K-teal?style=for-the-badge" alt="Words"/>
   <img src="https://img.shields.io/badge/Flashcards-329-orange?style=for-the-badge" alt="Flashcards"/>
   <img src="https://img.shields.io/badge/Canvases-6-purple?style=for-the-badge" alt="Canvases"/>
   <img src="https://img.shields.io/badge/Obsidian-Ready-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/>
@@ -8,9 +10,9 @@
 
 # Rhoton's Wiki
 
-A comprehensive microsurgical neuroanatomy knowledge base built from Albert Rhoton's *Cranial Anatomy and Surgical Approaches* (2023, 1668 pages, 15 chapters). 148 content pages (151 total including meta) covering every major arterial, venous, neural, and cisternal structure relevant to neurosurgical practice.
+The complete microsurgical neuroanatomy knowledge base compiled from Albert Rhoton's *Cranial Anatomy and Surgical Approaches* (Thieme, 2023) — all **20 chapters**, all **3 parts**, all **1,668 pages** distilled into an interconnected Obsidian vault.
 
-Built with the [obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) framework (Karpathy's [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) pattern) and compiled autonomously via 150 autoresearch iterations and an 8-phase evolution pipeline.
+161 wiki pages. 884 anatomical figures. 8,469 cross-references. 6 interactive teaching canvases. Built autonomously through 170 autoresearch iterations across two evolutionary campaigns.
 
 ---
 
@@ -18,177 +20,197 @@ Built with the [obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) framework
 
 ```bash
 git clone https://github.com/brainbloodbarrier/Rhotons-wiki.git
-cd Rhotons-wiki
 ```
 
-Open `rhoton-wiki/vault/` as an Obsidian vault (File > Open Vault), install the community plugins listed below, and start exploring.
+Open `rhoton-wiki/vault/` as an Obsidian vault. Install community plugins, enable them, done.
 
-### Required Obsidian Plugins
+### Plugins (all configs pre-set in `.obsidian/`)
 
-Install via Settings > Community Plugins > Browse:
-
-1. **Dataview** — structured queries across frontmatter
-2. **Breadcrumbs** — typed relation traversal (parent, branch-of, innervates, etc.)
-3. **ExcaliBrain** — ego-graph hierarchical navigation
-4. **Smart Connections** — AI-powered similarity discovery (use `bge-micro-v2` local model)
-5. **Advanced Canvas** — teaching flowcharts and decision trees
-
-All plugin configs are pre-written in `.obsidian/` — just install and enable.
-
-### First Steps
-
-- **Cmd+G** — Global graph view (color-coded by category)
-- **ExcaliBrain** — Click any page for parent/child/sibling navigation
-- `_canvases/` — 6 interactive teaching flowcharts
-- `_quizzes/flashcards-all.md` — 329 study flashcards
+| Plugin | Purpose |
+|--------|---------|
+| **Dataview** | Structured queries across frontmatter |
+| **Breadcrumbs** | Typed relation traversal (parent, branch-of, innervates...) |
+| **ExcaliBrain** | Ego-graph hierarchical navigation |
+| **Smart Connections** | AI-powered similarity discovery (`bge-micro-v2` local) |
+| **Advanced Canvas** | Teaching flowcharts and decision trees |
 
 ---
 
-## What's Inside
+## Content
 
-### 148 Content Pages
+### 155 Anatomy Pages + 6 Meta
 
-| Category | Count | Examples |
-|----------|-------|---------|
-| Concepts | 64 | Basal cisterns, internal capsule, choroidal fissure, tentorial incisura |
-| Entities | 52 | ICA, MCA, PCA, CN III–XII, vein of Galen, lenticulostriates |
-| Synthesis | 18 | Perforating arteries map, aneurysm surgery, herniation syndromes |
-| References | 14 | Pterional, retrosigmoid, telovelar, combined petrosal approaches |
+| Category | Count | Scope |
+|----------|-------|-------|
+| **Concepts** | 69 | Cisterns, ventricles, fossa, incisural spaces, brainstem, cerebrum |
+| **Entities** | 52 | ICA, MCA, PCA, PICA, SCA, CN III-XII, vein of Galen, lenticulostriates |
+| **Synthesis** | 20 | Perforating arteries, aneurysm surgery, herniation syndromes, NVC |
+| **References** | 14 | Pterional, retrosigmoid, telovelar, far-lateral, combined petrosal |
+| **Quizzes** | 3 | Flashcards, viva questions, approach selection |
+| **Meta** | 3 | Taxonomy, plugin roles, sync config |
+
+### 20 Chapters Covered
+
+| Part | Chapters | Content |
+|------|----------|---------|
+| **I** | 1 | Operative techniques and instrumentation |
+| **II** | 2-10 | Cerebrum, arteries, aneurysms, veins, ventricles, cranial base, sellar region, orbit, temporal bone |
+| **III** | 11-20 | CP angle, tentorial incisura, foramen magnum, posterior fossa approaches, middle fossa, jugular foramen, basal cisterns |
+
+### 884 Anatomical Figures
+
+Every figure from the Datalab extraction pipeline, catalogued with attribution, confidence level, and source page:
+
+| Confidence | Count | Status |
+|------------|-------|--------|
+| High | 628 | Embedded with caption |
+| Medium | 161 | Embedded with caption |
+| Low | 63 | Catalogued, not embedded |
+| Unattributed | 32 | Catalogued, not embedded |
+
+Figures live in `vault/_attachments/figures/` and are embedded inline as `![[figure.jpg]]` with italicized captions linking to relevant wiki pages.
 
 ### Semantic Relations (Breadcrumbs)
 
-Six typed relation pairs model neuroanatomy formally:
+Six typed relation pairs in frontmatter model neuroanatomy formally:
 
-| Relation | Inverse | Example |
-|----------|---------|---------|
-| `parent` | `child` | posterior-fossa contains cerebellum |
-| `branch-of` | `branches` | PICA is branch-of vertebral-artery |
-| `innervates` | `innervated-by` | CN III innervates extraocular-muscles |
-| `traverses` | `traversed-by` | CN VI traverses cavernous-sinus |
-| `approach-to` | `approached-via` | pterional targets anterior-circulation |
-| `drains-to` | `drained-by` | basal-vein drains-to vein-of-Galen |
+```
+parent ↔ child          posterior-fossa → cerebellum
+branch-of ↔ branches    PICA → vertebral-artery
+innervates ↔ innervated-by    CN III → extraocular-muscles
+traverses ↔ traversed-by      CN VI → cavernous-sinus
+approach-to ↔ approached-via   pterional → anterior-circulation
+drains-to ↔ drained-by        basal-vein → vein-of-Galen
+```
+
+### 48 Canonical Tags
+
+Controlled vocabulary enforced across all pages. Categories: region (19), system (11), circulation (4), surgical (5), clinical (5), meta (3), domain (1).
 
 ### 6 Teaching Canvases
 
-Interactive surgical decision trees and anatomical maps:
-
-- **Circle of Willis** — Complete arterial circle with perforator branches
-- **Herniation Syndromes** — Uncal/central/tonsillar flow with CN findings
-- **Posterior Fossa Approaches** — Target-based approach decision tree
-- **Cranial Nerve Exit Map** — CN I–XII: nucleus to cistern to foramen
-- **Anterior Circulation Aneurysms** — ICA bifurcation sites to approach selection
-- **Cavernous Sinus Triangles** — 7 surgical windows spatial layout
+| Canvas | Content |
+|--------|---------|
+| Circle of Willis | Arterial circle with perforator branches |
+| Herniation Syndromes | Uncal/central/tonsillar flow with CN findings |
+| Posterior Fossa Approaches | Target-based approach decision tree |
+| Cranial Nerve Exit Map | CN I-XII: nucleus to cistern to foramen |
+| Anterior Circulation Aneurysms | Bifurcation sites to approach selection |
+| Cavernous Sinus Triangles | 7 surgical windows spatial layout |
 
 ### Study Tools
 
 - **329 Anki-ready flashcards** (`_quizzes/anki-export.csv`)
 - **20 viva-mode oral exam questions** with multi-hop model answers
-- **Approach selection quiz** — 10 case-based scenarios
-- **Tag-based filtering** — generate quizzes for specific topics
+- **Approach selection quiz** with case-based scenarios
 
 ---
 
-## Architecture
+## How It Was Built
 
-See [ARCHITECTURE.md](ARCHITECTURE.md) for the full three-layer design, skill pipeline, and data flow. The short version:
+### Campaign 1 — Page Creation (150 iterations)
+
+Starting from zero, 139 wiki pages compiled from Rhoton chapters 1-15. Each iteration: create or augment pages, verify score, validate frontmatter, keep or discard.
+
+### Campaign 2 — Datalab Augmentation (20 iterations)
+
+All 20 chapters extracted via Datalab (PDF to structured markdown + 884 figures). Each chapter augmented existing pages with new anatomical detail:
+
+- Trigeminal root somatotopy and NVC compression data
+- 3-category approach classification for foramen magnum
+- Inter-cisternal arachnoid membrane taxonomy
+- Transcondylar/paracondylar approach variants
+- Cavernous sinus extradural dissection technique
+
+### Post-Campaign Passes
+
+- **Figure integration:** 787 high/medium-confidence figures embedded across 41 pages
+- **Cross-linking:** 440 new wikilinks via automated registry matching
+- **Alias expansion:** 7 curated aliases validated through adversarial reasoning
+- **Tag normalization:** Non-canonical tags corrected to controlled vocabulary
+
+### Evolution Metric
+
+```
+Score = (pages * 10) + (wikilinks * 2) + (words / 100)
+```
+
+| Milestone | Score |
+|-----------|-------|
+| Campaign 1 complete (150 iterations) | 11,587 |
+| Campaign 2 complete (20 iterations) | 11,947 |
+| Figure integration + cross-linking | 14,434 |
+
+---
+
+## Vault Structure
 
 ```
 rhoton-wiki/vault/
-  concepts/          # 64 anatomical structures, cisterns, regions
+  concepts/          # 69 anatomical structures, cisterns, regions
   entities/          # 52 arteries, veins, nerves
-  synthesis/         # 18 cross-cutting synthesis pages
+  synthesis/         # 20 cross-cutting synthesis pages
   references/        # 14 surgical approaches
-  _meta/             # 3 meta pages (taxonomy, plugin roles, sync config)
+  _meta/             # Taxonomy, plugin roles, sync config
   _canvases/         # 6 teaching canvases (.canvas)
   _quizzes/          # Flashcards, viva questions, Anki CSV
+  _attachments/      # 884 anatomical figures
   .obsidian/         # Pre-configured plugins
-  index.md           # Master index (148 content + 3 meta = 151 total)
-  log.md             # Operation log
-  .manifest.json     # Source tracking ledger
 ```
 
 ---
 
 ## Skills (Agent Capabilities)
 
-This project is a skill-based framework. AI agents (Claude Code, Cursor, Windsurf, Codex, Gemini) read `.skills/` to know how to operate the wiki. No scripts or dependencies are required — the agent **is** the LLM.
-
-### Core Pipeline
+Skill-based framework. AI agents read `.skills/` to operate the wiki. No scripts or dependencies — the agent IS the runtime.
 
 | Skill | Purpose |
 |-------|---------|
-| `wiki-setup` | Initialize vault structure, directories, index, and log |
-| `wiki-ingest` | Distill source documents into wiki pages (append or full mode) |
-| `wiki-status` | Show ingestion delta, recommend actions, graph insights |
+| `wiki-ingest` | Distill source documents into wiki pages |
+| `wiki-status` | Show delta, recommend actions, graph insights |
 | `wiki-query` | Answer questions from compiled wiki with citations |
-| `wiki-lint` | Audit health: orphans, broken links, contradictions, stale content |
-| `wiki-update` | Sync knowledge from any project into the vault |
-| `wiki-rebuild` | Archive current wiki and rebuild from scratch |
-| `wiki-export` | Export graph to JSON, GraphML, Neo4j Cypher, or interactive HTML |
-
-### Content Skills
-
-| Skill | Purpose |
-|-------|---------|
-| `data-ingest` | Ingest any raw text: chat exports, logs, transcripts, images |
-| `claude-history-ingest` | Mine ~/.claude conversations and memories into wiki pages |
+| `wiki-lint` | Audit: orphans, broken links, contradictions |
 | `cross-linker` | Auto-discover and insert missing wikilinks |
-| `tag-taxonomy` | Enforce consistent tag vocabulary via canonical taxonomy |
+| `tag-taxonomy` | Enforce controlled tag vocabulary |
+| `quiz-mode` | Generate flashcards, viva questions, Anki exports |
+| `wiki-export` | Export to JSON, GraphML, Neo4j Cypher, interactive HTML |
 
-### Domain-Specific Skills (Rhoton Wiki)
+### Agent Compatibility
 
-| Skill | Purpose |
-|-------|---------|
-| `quiz-mode` | Generate flashcards, viva questions, and Anki exports |
-| `ncx-bridge` | Bridge wiki to clinical data: operative notes, case logs, journal clubs |
-
-### Meta Skills
-
-| Skill | Purpose |
-|-------|---------|
-| `llm-wiki` | Core pattern reference — three-layer architecture and page templates |
-| `skill-creator` | Create, iterate, and benchmark new skills |
-
----
-
-## Agent Compatibility
-
-| Agent | Bootstrap File | Skills Directory |
-|-------|---------------|-----------------|
-| Claude Code | `CLAUDE.md` | `.claude/skills/` |
-| Cursor | `.cursor/rules/obsidian-wiki.mdc` | `.cursor/skills/` |
-| Windsurf | `.windsurf/rules/obsidian-wiki.md` | `.windsurf/skills/` |
+| Agent | Bootstrap | Skills |
+|-------|-----------|--------|
+| Claude Code | `CLAUDE.md` | `.skills/` |
+| Cursor | `.cursor/rules/` | `.cursor/skills/` |
+| Windsurf | `.windsurf/rules/` | `.windsurf/skills/` |
 | Codex | `AGENTS.md` | `~/.codex/skills/` |
-| Antigravity | `GEMINI.md` | `~/.gemini/antigravity/skills/` |
-| OpenClaw | `AGENTS.md` | `.agents/skills/` |
-
-All bootstrap files (`CLAUDE.md`, `GEMINI.md`) are symlinks to `AGENTS.md`, the single source of truth.
+| Gemini | `GEMINI.md` | `~/.gemini/skills/` |
 
 ---
 
 ## For Neurosurgery Residents
 
-Recommended study workflow:
-
-1. **Browse** the graph view to explore anatomical relationships
-2. **Use ExcaliBrain** to navigate hierarchies (posterior fossa > cerebellum > peduncles)
-3. **Open canvases** for visual decision trees before cases
-4. **Import flashcards** to Anki for spaced repetition
-5. **Run viva questions** with a study partner
+1. **Graph view** (Cmd+G) for anatomical relationship overview
+2. **ExcaliBrain** for hierarchical navigation (posterior fossa > cerebellum > peduncles)
+3. **Canvases** for visual decision trees before cases
+4. **Flashcards** to Anki for spaced repetition
+5. **Viva questions** with a study partner for oral exam prep
 6. **Add your own cases** via the `ncx-bridge` skill after surgeries
 
 ---
 
 ## Built With
 
-- **Source:** Rhoton — Cranial Anatomy and Surgical Approaches, Thieme (2023)
-- **Framework:** [obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) (Karpathy LLM Wiki pattern)
-- **Agent:** [Claude Code](https://claude.ai/code) with [oh-my-claudecode](https://github.com/nicobailey-llc/oh-my-claudecode)
-- **Method:** 150 autoresearch iterations + 8-phase evolution pipeline
-- **Viewer:** [Obsidian](https://obsidian.md)
+| Component | Tool |
+|-----------|------|
+| Source | Rhoton — *Cranial Anatomy and Surgical Approaches*, Thieme (2023) |
+| Extraction | [Datalab](https://github.com/VikParuchuri/marker) PDF to Markdown + Figures |
+| Compilation | [Claude Code](https://claude.ai/code) with autoresearch |
+| Orchestration | [oh-my-claudecode](https://github.com/nicobailey-llc/oh-my-claudecode) |
+| Viewer | [Obsidian](https://obsidian.md) |
+| Pattern | [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) |
 
 ---
 
 ## License
 
-Educational use. Source material: Rhoton — Cranial Anatomy and Surgical Approaches, Thieme (2023).
+Educational use. Source material: Rhoton — *Cranial Anatomy and Surgical Approaches*, Thieme (2023).
