@@ -38,3 +38,14 @@ This project is a **skill-based framework** for building and maintaining an Obsi
 ## Architecture Reference
 
 For the full pattern (three-layer architecture, page templates, project org), read `.skills/llm-wiki/SKILL.md`.
+
+## Karpathy guidelines
+
+Behavioral rules to reduce common LLM coding mistakes in this repo. Derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+1. **Think before coding.** State assumptions. When unclear, ask. When multiple interpretations exist, name them — don't pick silently.
+2. **Simplicity first.** Minimum code that solves the problem. No features beyond what was asked. No abstractions for single-use code. No error handling for impossible scenarios. If 200 lines could be 50, rewrite.
+3. **Surgical changes.** Touch only what you must. No drive-by refactors. Match existing style. Clean up only your own orphans.
+4. **Goal-driven execution.** Define verifiable success criteria. Loop until verified. "Write tests that reproduce the bug, then make them pass." Weak criteria force clarification; strong criteria let the agent work independently.
+
+Tradeoff: these rules bias toward caution over speed. For trivial tasks, use judgment.

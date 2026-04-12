@@ -5,29 +5,4 @@ __pycache__/
 
 # Agent skill symlinks (created by setup.sh) — these are just pointers to .skills/
 # We track them so cloners get the symlinks too, but if your git doesn't
-# preserve symlinks, run `bash setup.sh` after cloning.
-autoresearch-results.tsv
-
-# Added by deploy hardening 2026-04-10
-# Obsidian REST API plugin credentials — contains apiKey, TLS cert, and private key
-rhoton-wiki/vault/.obsidian/plugins/obsidian-local-rest-api/data.json
-
-# Database files (ncx.db and any future SQLite artefacts)
-*.db
-*.sqlite
-
-# Python build artefacts
-*.egg-info/
-dist/
-build/
-.pytest_cache/
-
-# Project-local Python virtualenvs (e.g. rhoton-wiki/tools/datalab/.venv)
-**/.venv/
-
-# Editor directories
-.vscode/
-.idea/
-
-.gemini/
-gha-creds-*.json
+# preserve symlinks, run `bash setup.sh` after cloning.autoresearch-results.tsv
