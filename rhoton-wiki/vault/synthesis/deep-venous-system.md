@@ -17,7 +17,7 @@ drains-to: [[dural-venous-sinuses]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.4"
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-12
 summary: >-
   ICV/basal/galenic architecture, surgical obstacle map
 ---
@@ -83,6 +83,19 @@ The cisternal group of deep veins drains the walls of the cisterns surrounding t
 | [[pterional-approach]] | Anterior segment of [[basal-vein-of-rosenthal|basal vein]] | APS, deep sylvian veins |
 | Transchoroidal | [[internal-cerebral-veins]], [[posterior-choroidal-arteries|MPChA]] | Choroidal fissure opening |
 | Transcallosal | [[internal-cerebral-veins]] | Velum interpositum entry |
+
+## Ventricular Vein Landmarks for Surgical Navigation
+
+The ventricular veins provide critical landmarks when hydrocephalus distorts neural structures:
+
+- **Thalamostriate vein** — courses along the sulcus between [[thalamus]] and caudate; delimits their junction. It and superior choroidal veins converge to form the **venous angle** at the posterior margin of the foramen of Monro
+- **Anterior caudate + anterior septal veins** — drain frontal horn posteriorly toward foramen of Monro (choroidal fissure does not extend into frontal horn)
+- **Medial/lateral atrial veins** — converge on choroidal fissure between crus of [[fornix]] and pulvinar in posterior ventricle
+- **Inferior ventricular vein** — courses in roof of temporal horn, converges on choroidal fissure; drains central core to [[basal-vein-of-rosenthal|basal vein]]
+
+**Transchoroidal principle:** All ventricular veins converge on the [[choroidal-fissure]], which opens to the velum interpositum (body), quadrigeminal cistern (atrium), or crural/ambient cisterns (temporal horn). Opening through the fissure between fornix and thalamus allows displacement rather than division of the fornix (transchoroidal approach, Wen/Rhoton 1998).
+
+**Foramen of Monro exposure:** The [[internal-cerebral-veins|ICV]] is NOT visible from the frontal horn — it courses in the roof of the third ventricle below the body of the [[fornix]]. Access requires opening the choroidal fissure (transchoroidal), splitting the fornix (interforniceal), or sectioning a fornix column. Thalamostriate vein section at the foramen of Monro has been used but risks drowsiness, hemiplegia, mutism, and hemorrhagic infarction of the [[basal-ganglia]].
 
 ## Consequences of Deep Venous Injury
 
