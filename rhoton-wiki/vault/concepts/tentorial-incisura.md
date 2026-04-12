@@ -17,8 +17,9 @@ traverses:
   - "[[oculomotor-nerve]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.14 — Tentorial Incisura"
+  - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Part 3 Ch.5 — Tentorial Incisura, pp. 1262-1313 (Datalab extraction)"
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 summary: >-
   Incisural spaces, transtentorial herniation
 ---
@@ -31,7 +32,7 @@ The tentorial incisura is the opening in the [[tentorium-cerebelli]] through whi
 
 The area between the brainstem and the tentorial free edges is divided into three spaces:
 
-### Anterior Incisural Space
+### [[anterior-incisural-space|Anterior Incisural Space]]
 Located anterior to the midbrain and pons. Contains:
 - [[optic-chiasm]], optic nerves
 - [[internal-carotid-artery]] (supraclinoid segments)
@@ -41,14 +42,14 @@ Located anterior to the midbrain and pons. Contains:
 
 Opens laterally into the medial [[sylvian-fissure]] and posteriorly into the middle incisural space between the [[uncus]] and brainstem.
 
-### Middle Incisural Space (paired)
+### [[middle-incisural-space|Middle Incisural Space]] (paired)
 Located lateral to the brainstem between the cerebral peduncle and tentorial edge. Contains:
 - **[[crural-cistern]]** — between peduncle and uncus; [[posterior-cerebral-artery]] (P2A) and [[anterior-choroidal-artery]] course here
 - **[[ambient-cistern]]** — continuation posteriorly; [[posterior-cerebral-artery]] (P2P), [[basal-vein-of-rosenthal]]
 - Oculomotor nerve (CN III) — passes between [[posterior-cerebral-artery]] and superior cerebellar artery
 - Trochlear nerve (CN IV) — courses in the ambient cistern
 
-### Posterior Incisural Space
+### [[posterior-incisural-space|Posterior Incisural Space]]
 Located behind the midbrain. Contains:
 - **[[quadrigeminal-cistern]]** — between tectum and splenium
 - Pineal gland
@@ -83,6 +84,14 @@ The incisural spaces provide natural corridors for surgical approaches:
 - [[cerebral-veins]] (deep system: vein of Galen) drain through the posterior incisural space
 - See [[surgical-approaches-overview]] for approach selection by incisural space
 
+## Figures (Rhoton 2023)
+
+![[p3c05-tentorial-incisura-p1265-fig-007-2a840f14.jpg]]
+*Fig. 5.1 — Tentorial incisura: anterior, middle, and posterior spaces — p. 1265*
+
+![[p3c05-tentorial-incisura-p1268-fig-003-75883df6.jpg]]
+*Fig. 5.2 — Superior views of the tentorial incisura — p. 1268*
+
 ## References
 
-- Rhoton, Ch.14 — Tentorial Incisura, Figs. 5.1–5.4
+- Rhoton, Part 3 Ch.5 — Tentorial Incisura, pp. 1262-1313, Figs. 5.1–5.4
