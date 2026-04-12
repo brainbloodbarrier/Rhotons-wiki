@@ -18,7 +18,7 @@ contains:
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2, 14, 15"
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 summary: >-
   12 named cisterns, surgical access routes
 ---
@@ -66,6 +66,23 @@ Between the medulla and [[cerebellum]], behind the [[fourth-ventricle]]. Contain
 
 ### Premedullary Cistern
 Between the anterior medulla and lower clivus. Contains the vertebral arteries and [[anterior-spinal-artery]].
+
+## Inter-Cisternal Arachnoid Membranes
+
+The cisterns are separated by distinct arachnoid membranes and septa that must be opened during surgery:
+
+| Membrane | Separates | Surgical Relevance |
+|---|---|---|
+| **[[liliequist-membrane\|Liliequist's membrane]] — diencephalic leaf** | Chiasmatic ↔ interpeduncular cisterns | Thicker, less perforated; barrier to CSF flow; opened for basilar apex exposure |
+| **Liliequist's membrane — mesencephalic leaf** | Interpeduncular ↔ prepontine cisterns | Thinner, often incomplete; basilar artery passes through opening |
+| **Anterior pontine membrane** | Prepontine ↔ cerebellopontine cisterns | Lateral edges attach to [[oculomotor-nerve\|CN III]] sheath |
+| **Lateral pontomesencephalic membrane** | Ambient ↔ cerebellopontine cisterns | |
+| **Medial pontomedullary membrane** | Prepontine ↔ premedullary cisterns | |
+| **Lateral pontomedullary membrane** | Cerebellopontine ↔ cerebellomedullary cisterns | |
+| **Medial/lateral carotid membranes** | Carotid cistern boundaries | Medial separates carotid from chiasmatic cistern |
+| **Crural membrane** | Crural ↔ ambient cisterns | |
+
+The **[[oculomotor-nerve|CN III]]** is the central pillar — six membranes converge on and form a sleeve around it at the junction of supra- and infratentorial subarachnoid spaces. The three cisterns with the densest arachnoid trabeculae (greatest surgical obstacle) are the **interpeduncular cistern**, **quadrigeminal cistern**, and **cisterna magna**.
 
 ## Surgical Significance
 
