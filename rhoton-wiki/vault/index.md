@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Rhoton Neuroanatomy Wiki
 
-*This index is automatically maintained. Last updated: 2026-04-10*
+*This index is automatically maintained. Last updated: 2026-04-12*
 
 ## Concepts
 
@@ -177,4 +177,4 @@ title: Wiki Index
 
 ---
 
-*151 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 15 chapters*
+*159 pages | Source: Rhoton - Cranial Anatomy and Surgical Approaches (2023), 1668 pages, 20 chapters*

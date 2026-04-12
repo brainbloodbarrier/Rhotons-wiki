@@ -16,3 +16,8 @@ title: Activity Log
 | 2026-04-10 | phase-3 | Extended-graph enabled — tags, folders, arrows, shapes, auto-resize |
 | 2026-04-10 | phase-4 | Smart Connections configured, plugin-roles doc created |
 | 2026-04-10 | phase-5 | 5 teaching canvases — circle-of-willis, herniation, PF-approaches, CN-exit, aneurysms, CS-triangles |
+| 2026-04-11 | datalab-extract | Full Datalab extraction — 20 chapters, 3.5 MB markdown, 885 figures, $7.10 |
+| 2026-04-11 | datalab-augment | Phase A chapter mapping + figure attribution; Phase B figure staging script |
+| 2026-04-11 | autoresearch-2 | Campaign 2 started — datalab-augment focus, baseline 148 pages |
+| 2026-04-11 | autoresearch-2 | Iter 1 keep — 3 incisural-space pages from p3c05, augmented tentorial-incisura |
+| 2026-04-12 | audit | Progress audit — 159 pages, score 11598, guard pass, fixed stale metadata |

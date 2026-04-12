@@ -9,11 +9,11 @@ tags:
 aliases:
   - jugular fossa
 sources:
-  - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.6, 9"
+  - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch. 9: Jugular Foramen, pp. 1554-1595"
+  - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch. 6: The Foramen Magnum"
 created: 2026-04-10
-updated: 2026-04-10
-summary: >-
-  Pars nervosa/vascularis, CN IX-XI transit, glomus tumors
+updated: 2026-04-12
+summary: The jugular foramen has three compartments — sigmoid (lateral, receives sigmoid sinus), petrosal (anteromedial, receives inferior petrosal sinus), and intrajugular/neural (CN IX-XI between the intrajugular processes). Right side larger in 68% of cases. Surrounded by ICA anteriorly, facial nerve laterally, hypoglossal nerve medially, vertebral artery inferiorly.
 parent: "[[cranial-base]]"
 ---
 
@@ -32,24 +32,50 @@ The jugular foramen lies at the petro-occipital fissure, between the occipital a
 - **Superior**: inferior petrosal sinus groove
 - **Inferior**: continuous with the internal jugular vein in the neck
 
-## Compartments
+## Three Compartments (Rhoton Model)
 
-The jugular foramen is traditionally divided into two or three compartments:
+The jugular foramen is divided into three compartments, not two. The right foramen is larger than the left in 68% of cases, equal in 12%, and smaller in 20%.
 
-### Pars Nervosa (Anteromedial)
-- **[[lower-cranial-nerves|Glossopharyngeal nerve (CN IX)]]** — separated from CN X/XI by a fibrous or bony [[septum-pellucidum|septum]] (jugular spine)
-- **Inferior petrosal sinus** — enters the jugular bulb
-- **Meningeal branch of [[ascending-pharyngeal-artery]]**
+### Sigmoid Part (Posterolateral)
+The larger venous compartment, receiving the drainage of the [[sigmoid-sinus]]:
+- **Jugular bulb** — the dilated superior end of the internal jugular vein, housed in the jugular fossa (a high-domed recess in the petrous [[temporal-bone]])
+- The dome is usually larger on the right, reflecting right sigmoid sinus dominance
+- The summit may be smooth or ridged/irregular
 
-### Pars Vascularis (Posterolateral)
-- **Jugular bulb** — the dilated superior end of the internal jugular vein
-- **[[lower-cranial-nerves|Vagus nerve (CN X)]]** — courses between the jugular bulb and the glossopharyngeal nerve
-- **[[lower-cranial-nerves|Accessory nerve (CN XI)]]** — ascends through the [[foramen-magnum]] and exits via the jugular foramen lateral to the vagus
+### Petrosal Part (Anteromedial)
+The smaller venous compartment, receiving drainage of the inferior petrosal sinus:
+- Forms a characteristic **venous confluens** by also receiving tributaries from the hypoglossal canal, petroclival fissure, and vertebral venous plexus
+- The petrosal part empties into the sigmoid part through an opening in the medial wall of the jugular bulb, between CN IX anteriorly and CN X/XI posteriorly
+- The **pyramidal fossa** — a small triangular recess on the medial side of the intrajugular process — extends forward along the anterior wall; the cochlear aqueduct opens into its apex
 
-### Tiny Accessory Foramina
-Two small foramina between the jugular foramen and the carotid canal transmit:
-- **Tympanic branch of CN IX** (Jacobson's nerve) — to the middle ear
-- **Auricular branch of CN X** (Arnold's nerve) — to the external ear
+### Intrajugular (Neural) Part
+Located between the sigmoid and petrosal parts at the site of the intrajugular processes:
+- **Intrajugular processes** of the temporal and occipital bones project toward each other, joined by a fibrous (or rarely osseous) bridge — the intrajugular septum
+- The temporal bone process is more prominent and has an **intrajugular ridge** extending forward along the medial side of the jugular bulb
+- **[[lower-cranial-nerves|CN IX]]** — courses along the medial edge of the intrajugular process and ridge; may be enclosed in a bony canal if the ridge reaches the temporal bone
+- **[[lower-cranial-nerves|CN X and XI]]** — penetrate the dura on the medial side of the intrajugular process, then descend immediately (do not course forward like CN IX)
+
+### Accessory Canals
+Two small canals between the jugular foramen and the carotid canal:
+- **Tympanic canaliculus** — transmits the tympanic branch of CN IX (Jacobson's nerve) to the middle ear promontory, continuing as the lesser petrosal nerve to the otic ganglion (parotid parasympathetic innervation)
+- **Mastoid canaliculus** — transmits the auricular branch of CN X (Arnold's nerve) to the external ear
+
+## Osseous Anatomy
+
+The foramen's long axis runs posterolateral to anteromedial, with the [[temporal-bone]] forming the anterolateral margin and the occipital bone the posteromedial margin. The foramen cannot be seen through from directly above or below because of the jugular fossa roof.
+
+**Key osseous relationships:**
+- **Petroclival fissure** — intersects the anteromedial edge of the foramen
+- **Occipitomastoid suture** — intersects the posterolateral edge
+- **Jugular process of occipital bone** — extends laterally from the posterior half of the [[occipital-condyle]], forming the posterior margin; the rectus capitis lateralis muscle attaches here (a landmark for the [[far-lateral-approach]])
+- **Hypoglossal canal** — opens medially above the middle third of the condyle, between the jugular foramen and the carotid canal
+- **Carotid canal** — located directly anterior to the medial half of the foramen, separated by a narrow bony ridge
+
+**Structures blocking surgical access:**
+- Anteriorly: [[internal-carotid-artery]] (carotid canal)
+- Laterally: [[facial-nerve]] (stylomastoid foramen)
+- Medially: hypoglossal nerve (hypoglossal canal)
+- Inferiorly: [[vertebral-artery]] (ascending through C1 transverse process)
 
 ## Neurovascular Contents
 
