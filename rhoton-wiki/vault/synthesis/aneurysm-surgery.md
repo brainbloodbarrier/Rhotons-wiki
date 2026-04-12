@@ -17,7 +17,7 @@ approach-to:
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.3"
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-12
 summary: >-
   Site-approach-perforator map, CN relationships, clipping
 ---
@@ -73,6 +73,18 @@ The most dangerous aspect of aneurysm surgery is injury to perforating arteries,
 | AICA | [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]] | Meatal loop at IAC |
 | PICA | [[lower-cranial-nerves|CN IX-XII]] | Rootlets at brainstem exit |
 | Ophthalmic | [[optic-nerve|CN II]] | Aneurysm projects under optic nerve |
+
+## Rhoton's 9 Anatomic Principles for Aneurysm Surgery
+
+1. **Proximal control first** — expose parent artery proximal to the aneurysm before approaching the neck. For ICA: clinoidectomy + optic canal unroofing for clinoid segment access; consider cervical ICA balloon/exposure if supraclinoid control insufficient. For basilar apex: follow PCA or SCA inferolateral surface to reach basilar trunk
+2. **Expose opposite wall** — expose the side of the parent vessel away from the aneurysm origin before dissecting the neck; carry dissection around to the aneurysm
+3. **Neck before fundus** — dissect the neck first (tolerates more manipulation, least likely to rupture); the dome is most likely to rupture. The neck most commonly incorporates parent trunk or perforator origins — dissect with full visualization
+4. **Separate all perforators before clipping** — use 1-2 mm spatula dissectors (Rhoton No. 6/7) or 40° teardrop dissectors. If perforators are adherent, lower BP or apply temporary clip. If mid-body but not neck can be separated, apply mid-body clip first to reduce neck width, then move clip to neck. Fenestrated clips can accommodate unseparable perforators
+5. **Intraoperative rupture management** — apply small cottonoid to bleeding point + reduce MAP; if persistent, apply temporary proximal clip briefly
+6. **Low bone flap** — place as low as possible to minimize brain retraction. Use cranial-base resection ([[orbitozygomatic-approach|orbitozygomatic]], [[anterior-petrosectomy|Kawase]], presigmoid, [[far-lateral-approach|far lateral]]) when it reduces retraction and broadens the operative angle
+7. **Removable clip** — use a spring mechanism clip that allows repositioning and reapplication
+8. **Post-clip inspection** — always inspect for parent vessel kinking/obstruction and perforator inclusion; intraoperative angiography when available
+9. **Neck coagulation** — for broad-based necks, bipolar coagulation with short bursts of low current can reduce neck width. Protect adjacent perforators with cottonoid during coagulation; relax forceps between applications to prevent adherence
 
 ## Key Surgical Maneuvers
 
