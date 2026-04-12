@@ -12,7 +12,7 @@ aliases:
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.7 — The Orbit"
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 summary: >-
   Osseous walls, annular tendon, optic canal
 parent: "[[cranial-base]]"
@@ -48,10 +48,30 @@ A ring of connective tissue at the orbital apex from which all four rectus muscl
 
 ## Surgical Approaches
 
-- **Transcranial (supraorbital/pterional)** — through superior and lateral walls for lesions at the orbital apex, optic canal, superior orbital fissure
-- **Lateral orbitotomy** — through lateral wall for intraconal lesions
-- **Anterior (transconjunctival/transcutaneous)** — for anterior orbital lesions
-- **Endoscopic endonasal** — through medial wall via ethmoid sinuses for medial orbital lesions
+### Orbitofrontal Craniotomy
+
+Includes superior orbital rim with frontal bone flap. Can be one-piece (rim + flap together) or two-piece (flap first, then rim under direct vision — avoids fracture into cribriform/ethmoid). The **keyhole** burr hole straddles orbit and anterior fossa (periorbita below, frontal dura above).
+
+Three routes through the orbitofrontal exposure:
+
+| Route | Retraction | Target | Best For |
+|---|---|---|---|
+| **Medial** | Sup. oblique medial; levator + sup. rectus lateral | Optic nerve globe-to-canal; most direct to apical ON | Optic nerve/sheath tumors |
+| **Central** | Levator medial; sup. rectus lateral | Middle third intraorbital ON (shortest route) | Optic nerve biopsy |
+| **Lateral** | Lat. rectus lateral; levator + sup. rectus medial | Widest working space; deep apex lateral to ON; SOF + [[cavernous-sinus]] | Apex tumors, SOF/cavernous extension |
+
+**Medial approach structures crossing above ON** (lateral → medial): [[trochlear-nerve|CN IV]] (3.2 mm from canal), [[ophthalmic-artery]] (10.6 mm), nasociliary nerve (10.0 mm), superior ophthalmic vein (23.9 mm). In ~15% of orbits, ophthalmic artery passes below rather than above ON.
+
+### [[orbitozygomatic-approach|Orbitozygomatic Craniotomy]]
+
+Elevates superior + lateral orbital rims with frontotemporal bone flap. Selected for lesions involving middle fossa, superior orbital fissure, [[cavernous-sinus]], and paraclinoid area in addition to orbit. Can extend with zygomatic arch for infratemporal access.
+
+### Extracranial Approaches
+
+- **Lateral orbitotomy** — osteotomy of lateral rim/wall for superior, lateral, or inferior intraconal lesions
+- **Medial orbitotomy** — along medial wall for tumors medial to ON (not deep apex)
+- **Anterior (transconjunctival/transcutaneous)** — anterior orbital lesions
+- **Endoscopic endonasal** — through medial wall via ethmoid sinuses
 
 ## Relations
 
