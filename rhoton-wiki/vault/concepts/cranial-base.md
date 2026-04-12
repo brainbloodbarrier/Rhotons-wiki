@@ -19,7 +19,7 @@ contains:
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.6 — The Anterior and Middle Cranial Base"
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 summary: >-
   Anterior and middle cranial fossae, foramina
 ---
@@ -55,12 +55,32 @@ The exocranial surface connects to:
 - **[[infratemporal-fossa]]** — below the middle base; contains pterygoid muscles, V3 branches, [[maxillary-artery]]
 - **[[pterygopalatine-fossa]]** — deep to infratemporal fossa; crossroads connecting orbit, nasal cavity, middle fossa, and pharynx
 
-## Surgical Significance
+## Skull Base Approach Taxonomy
 
-- Anterior skull base approaches for olfactory groove and planum meningiomas, esthesioneuroblastomas
-- Middle fossa approaches for trigeminal schwannomas, [[petrous-apex]] lesions, superior semicircular canal dehiscence
-- Extended endonasal approaches traverse the anterior base from below for sellar and suprasellar lesions
-- Knowledge of foraminal anatomy is critical for preserving cranial nerves during skull base surgery
+### Approaches from Above (Transcranial)
+
+| Approach | Access | Key Features |
+|---|---|---|
+| **Transcranial-transbasal** | Ethmoid/sphenoid sinuses, sella, clivus | Bifrontal craniotomy preserving supraorbital rim |
+| **Extended transbasal** | Same + frontal, ethmoid sinuses, medial orbit, nasal cavity | Supraorbital rim removed; can span orbital rim to rim |
+| **Orbitofrontal** | [[orbit]] + intracranial area around [[optic-canal]] | Limited superior orbital rim elevation + small frontal flap |
+| **[[orbitozygomatic-approach]]** | Lateral orbit, superior orbital fissure, [[cavernous-sinus]], paraclinoid area | Superior + lateral orbital rims elevated with frontotemporal flap |
+| **Extended orbitozygomatic** | Middle + [[infratemporal-fossa]] | Zygomatic arch elevated with osteotomy |
+| **Preauricular subtemporal** | [[internal-auditory-canal]], [[petrous-apex]] | Temporal craniotomy + extradural middle fossa exposure; used for acoustic neuromas, [[anterior-petrosectomy]] |
+
+### Approaches from Below (Subcranial)
+
+| Approach | Access | Key Features |
+|---|---|---|
+| **[[transsphenoidal-approach]]** | Sella, sphenoid sinus | Sublabial, septal, endonasal, or endoscopic |
+| **Transoral** | Clivus, upper cervical spine | Can extend with palatal split for sphenoid; tongue/mandible split for midcervical |
+| **Lateral rhinotomy** | Nasal cavity, medial orbit, paranasal sinuses, clivus | Nose reflected laterally |
+| **Le Fort I maxillotomy** | Entire central cranial base to foramen magnum | Bilateral maxillary osteotomy above dental apices; bimaxillary segment can be split midline |
+| **Lower subtotal maxillotomy** | Nasal cavity, [[pterygopalatine-fossa]], [[infratemporal-fossa]] | One maxilla below infraorbital canal folded into mouth floor |
+| **Upper subtotal maxillotomy** | Parapharyngeal space, orbit, upper [[infratemporal-fossa]] | Maxilla above dental apex including orbital floor mobilized |
+| **Preauricular infratemporal** | Middle fossa floor, [[infratemporal-fossa]], upper cervical ICA, clivus | Mandibular condyle displaced/resected; petrous ICA reflected forward |
+
+**Key principle:** Approaches should be tailored to pathology — not overly extensive, yet sufficient for optimal access. Transcranial, subcranial, and combined approaches can be innovatively combined for tumors extending along foramina and fissures.
 
 ## Relations
 
