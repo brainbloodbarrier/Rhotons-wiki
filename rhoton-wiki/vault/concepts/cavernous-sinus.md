@@ -14,7 +14,7 @@ aliases:
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.9 — The Cavernous Sinus"
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 summary: >-
   Dural envelope with ICA and cranial nerves III-VI
 parent: "[[skull-base-foramina]]"
@@ -55,13 +55,40 @@ The cavernous sinus receives veins from and communicates with:
 - Intercavernous sinuses (anterior and posterior, connecting bilateral sinuses)
 - Face, nasopharynx, middle ear
 
-## Surgical Significance
+## Nature of the Venous Space
 
-- Tumors (meningiomas, pituitary adenomas, schwannomas) may invade or compress the sinus
-- The ICA within the sinus can be a source of carotid-cavernous fistulas (traumatic or spontaneous)
-- Cavernous sinus thrombosis is a life-threatening complication of facial/orbital infections
-- Surgical approaches include lateral (Dolenc), superior (via anterior clinoidectomy), and endoscopic endonasal routes
-- The relationship of CN VI between V1 and the ICA makes it the most vulnerable nerve during surgery
+The cavernous sinus exists as both a trabeculated venous cavern AND a plexus of variably-sized veins — the predominant morphology varies by region:
+- **Plexus predominates** — in middle fossa dura lateral to the sinus (pericavernous venous plexus), and anteriorly near orbital apex/SOF
+- **Cavern predominates** — at the junction of basilar + superior/inferior petrosal sinuses posteriorly, and on the medial side of the ICA where the intercavernous sinus joins
+
+## Surgical Technique
+
+### Extradural Lateral Wall Dissection
+
+The [[oculomotor-nerve|CN III]], [[trochlear-nerve|CN IV]], and [[trigeminal-nerve|V1]] can be exposed without opening the major venous spaces:
+
+1. Begin lateral/anterior near [[sphenoid-bone|sphenoid]] ridge — elevate outer dural layer from osseous surface
+2. At lateral edge of SOF (where dura blends into periorbita), make shallow sharp cut in fibrous band
+3. Continue posteriorly — thick outer dural layer separates easily from thin inner layer investing the nerves
+4. Upper limit: anterior petroclinoid fold; posterior limit: petrous ridge
+5. Posteromedially: elevate from middle fossa floor to expose V3, [[greater-petrosal-nerve|GSPN]], and lateral wall of [[meckels-cave|Meckel's cave]]
+
+**[[abducens-nerve|CN VI]] hazard:** Unlike CN III/IV/V1, the abducens nerve courses medial to V1 and is adherent to the lateral surface of the horizontal intracavernous ICA — it CANNOT be exposed without entering the venous space.
+
+### [[anterior-clinoid-process|Clinoidectomy]] Hazards
+
+The ICA passes along the medial edge of the clinoid AND grooves the medial half of its lower surface. The posterior clinoid tip may project medially behind the clinoid segment, and osseous bridges may form:
+- **Caroticoclinoid bridge** — anterior to middle clinoid → bony ring around clinoid segment
+- **Interclinoid bridge** — anterior to posterior clinoid → can trap the ICA
+
+### Approach Selection
+
+| Approach | Best For |
+|---|---|
+| **[[pterional-approach]] / [[orbitozygomatic-approach]]** | Roof + lateral wall exposure; orbit, suprasellar area |
+| **Subtemporal** | Lateral wall; limited roof access (requires temporal retraction) |
+| **Endoscopic endonasal** | Medial wall, sella, parasellar region |
+| **Combined** | Lesions spanning multiple compartments |
 
 ## Relations
 
