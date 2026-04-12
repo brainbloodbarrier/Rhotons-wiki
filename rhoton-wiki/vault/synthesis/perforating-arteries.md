@@ -111,3 +111,21 @@ Pontine perforators from the [[basilar-artery]] enter along the entire ventral p
 - Rhoton, Ch.2 — The Supratentorial Arteries (lenticulostriates, Heubner, ACoA/[[posterior-communicating-artery|PCoA]] perforators)
 - Rhoton, Ch.3 — The [[posterior-cerebral-artery]] (thalamoperforating, thalamogeniculate, peduncular)
 - Rhoton, Ch.12 — The [[superior-cerebellar-artery]] (basilar perforators, circumflex perforating)
+
+## Figures (Rhoton 2023)
+
+![[p2c02-the-supratentorial-arteries-p348-fig-039-e0853c28.jpg]]
+*Anatomical diagram of the [[anterior-perforated-substance|anterior perforated substance]] showing territories and zones — p. 348*
+
+![[p2c02-the-supratentorial-arteries-p360-fig-043-6f81b602.jpg]]
+*Anatomical illustration B showing a coronal section of the brain with various structures labeled — p. 360*
+
+![[p2c02-the-supratentorial-arteries-p360-fig-070-22250169.jpg]]
+*Anatomical illustration A showing a coronal section of the brain with various structures labeled — p. 360*
+
+![[p2c02-the-supratentorial-arteries-p361-fig-010-7f23db21.jpg]]
+*Two anatomical illustrations, C and D, showing the arterial supply of the anterior perforated substa... — p. 361*
+
+![[p3c02-the-cerebellar-arteries-p1100-fig-030-8e1afb57.jpg]]
+*Fig. 2.22 — Six panels (A-F) showing the posterior inferior cerebellar artery (PICA) and its relationships to the [[cerebellum|cerebellum]], ton... — p. 1100*
+

@@ -44,7 +44,7 @@ Subclavian arteries
               ├── AICA (middle neurovascular complex)
               ├── SCA (upper neurovascular complex)
               └── PCA (terminal bifurcation)
-                    └── PCoA → connects to ICA (circle of Willis)
+                    └── PCoA → connects to [[internal-carotid-artery|ICA]] (circle of Willis)
 ```
 
 ## Vertebral Artery ([[vertebral-artery]])
@@ -108,7 +108,7 @@ The most surgically critical feature of the posterior circulation — tiny branc
 |---|---|
 | [[vertebral-artery]] aneurysm / [[foramen-magnum]] | [[far-lateral-approach]] |
 | [[pica]] aneurysm | [[far-lateral-approach]], midline suboccipital |
-| [[aica]] aneurysm / CPA lesion | [[retrosigmoid-approach]] |
+| [[aica]] aneurysm / [[cerebellopontine-cistern|CPA]] lesion | [[retrosigmoid-approach]] |
 | [[basilar-artery]] apex aneurysm | [[pterional-approach]] (high), [[subtemporal-approach]] (low) |
 | [[superior-cerebellar-artery|SCA]] / trigeminal decompression | [[retrosigmoid-approach]], [[subtemporal-approach]] |
 | [[posterior-cerebral-artery|PCA]] aneurysm | [[subtemporal-approach]], [[pterional-approach]] |

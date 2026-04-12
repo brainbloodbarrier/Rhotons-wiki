@@ -45,7 +45,7 @@ Twelve paired cranial nerves emerge from the brain and [[brainstem]], traverse t
 | IX | Glossopharyngeal | Postolivary medulla | [[jugular-foramen]] | [[pica|PICA]] | [[lower-cranial-nerves]] |
 | X | Vagus | Postolivary medulla | Jugular foramen | [[pica|PICA]] | [[lower-cranial-nerves]] |
 | XI | Accessory | Medulla + cervical cord | Jugular foramen (+ [[foramen-magnum]]) | [[vertebral-artery]] | [[lower-cranial-nerves]] |
-| XII | Hypoglossal | Preolivary medulla | Hypoglossal canal | [[vertebral-artery]] | [[lower-cranial-nerves]] |
+| XII | Hypoglossal | Preolivary medulla | [[hypoglossal-canal|Hypoglossal canal]] | [[vertebral-artery]] | [[lower-cranial-nerves]] |
 
 ## Brainstem Organization
 

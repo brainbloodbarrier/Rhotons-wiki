@@ -76,3 +76,57 @@ The [[oculomotor-nerve]] (CN III) passes between the PCA above and the [[superio
 - Rhoton, Ch.2–3, Figs. 2.1, 2.3, 2.7–2.9, 2.12–2.14, 2.33–2.34
 - Saeki N, Rhoton AL Jr: Microsurgical anatomy of the upper basilar artery and the posterior circle of Willis. J Neurosurg 46:563–578, 1977
 - Zeal AA, Rhoton AL Jr: Microsurgical anatomy of the posterior cerebral artery. J Neurosurg 48:534–559, 1978
+
+## Figures (Rhoton 2023)
+
+![[p2c02-the-supratentorial-arteries-p369-fig-068-101ed8c3.jpg]]
+*Six anatomical diagrams (A-F) showing the arterial supply of the brain from a superior view — p. 369*
+
+![[p2c02-the-supratentorial-arteries-p375-fig-020-a9abe626.jpg]]
+*Four anatomical photographs (A, B, C, D) showing the arterial supply of the brain, specifically the ... — p. 375*
+
+![[p2c02-the-supratentorial-arteries-p376-fig-030-735952c7.jpg]]
+*Fig. 2.35 — Four panels (E, F, G, H) showing anatomical dissections of the brain with labels for various arteries and nerves — p. 376*
+
+![[p2c02-the-supratentorial-arteries-p383-fig-097-c28ced74.jpg]]
+*Fig. 2.36 — Posterior cerebral arteries — p. 383*
+
+![[p2c02-the-supratentorial-arteries-p385-fig-005-bf3fec75.jpg]]
+*Medial view of the right hemisphere of the brain with colored regions on the occipital and parietal ... — p. 385*
+
+![[p2c02-the-supratentorial-arteries-p385-fig-027-50139a43.jpg]]
+*Lateral view of the right hemisphere of the brain with colored regions on the occipital and parietal... — p. 385*
+
+![[p2c02-the-supratentorial-arteries-p385-fig-055-75bef526.jpg]]
+*Lateral view of the left hemisphere of the brain with colored regions on the occipital and parietal ... — p. 385*
+
+![[p2c02-the-supratentorial-arteries-p385-fig-075-c9ac2bb2.jpg]]
+*Superior view of the brain with colored regions on the occipital and parietal lobes — p. 385*
+
+![[p2c02-the-supratentorial-arteries-p385-fig-079-3dd51af7.jpg]]
+*Lateral view of the left hemisphere of the brain with colored regions on the occipital and parietal ... — p. 385*
+
+![[p2c02-the-supratentorial-arteries-p385-fig-104-a856fe37.jpg]]
+*Medial view of the left hemisphere of the brain with colored regions on the occipital and parietal l... — p. 385*
+
+![[p2c02-the-supratentorial-arteries-p386-fig-007-5f010068.jpg]]
+*Medial view of the left hemisphere of the brain with the [[cerebral-lobes|occipital lobe]] highlighted in blue, green, ... — p. 386*
+
+![[p2c02-the-supratentorial-arteries-p386-fig-032-51e4c624.jpg]]
+*Medial view of the right hemisphere of the brain with the [[cerebral-lobes|occipital lobe]] highlighted in blue, green,... — p. 386*
+
+![[p2c02-the-supratentorial-arteries-p386-fig-036-8402eaa8.jpg]]
+*Lateral view of the right hemisphere of the brain with the [[cerebral-lobes|occipital lobe]] highlighted in blue, green... — p. 386*
+
+![[p2c02-the-supratentorial-arteries-p386-fig-041-871f31d0.jpg]]
+*Superior view of the brain with the occipital lobes highlighted in yellow, green, and red — p. 386*
+
+![[p2c02-the-supratentorial-arteries-p386-fig-054-9fd4cf95.jpg]]
+*Lateral view of the right hemisphere of the brain with the [[cerebral-lobes|occipital lobe]] highlighted in blue, green... — p. 386*
+
+![[p2c02-the-supratentorial-arteries-p386-fig-077-93ea5278.jpg]]
+*Lateral view of the left hemisphere of the brain with the [[cerebral-lobes|occipital lobe]] highlighted in blue, green,... — p. 386*
+
+![[p2c02-the-supratentorial-arteries-p387-fig-034-ff31acb8.jpg]]
+*Fig. 2.37 — Three anatomical illustrations of the human brain showing different arterial distribution patterns — p. 387*
+

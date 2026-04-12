@@ -84,7 +84,7 @@ The MCA bifurcation sits at the lateral edge of the [[anterior-perforated-substa
 3. After clipping, confirm flow in lenticulostriates (micro-Doppler, ICG angiography)
 
 ### ICA bifurcation aneurysm
-Lenticulostriates from M1 and medial lenticulostriates from A1 surround the ICA bifurcation. The Heubner artery courses near A1.
+Lenticulostriates from M1 and medial lenticulostriates from A1 surround the [[internal-carotid-artery|ICA]] bifurcation. The Heubner artery courses near A1.
 
 ### Insular glioma surgery
 Resection of [[insula|insular tumors]] through the [[sylvian-fissure]] encounters the lenticulostriates at the limen insulae. They define the **medial limit of safe resection** — resecting beyond them enters the internal capsule.

@@ -30,7 +30,7 @@ The [[hypoglossal-canal]] is located above the middle third of the occipital con
 - **Extracranial end:** ~5 mm above the junction of the anterior and middle thirds
 - The canal is directed from posterior to anterior and medial to lateral, passing forward approximately 45 degrees from the midsagittal plane
 
-> The portion of the occipital condyle that can be removed without exposing the hypoglossal nerve in the hypoglossal canal corresponds to the posterior third of the condyle. (Rhoton 2023, p. 1402)
+> The portion of the occipital condyle that can be removed without exposing the [[lower-cranial-nerves|hypoglossal nerve]] in the hypoglossal canal corresponds to the posterior third of the condyle. (Rhoton 2023, p. 1402)
 
 ## Surgical Extensions of the Far-lateral Approach
 

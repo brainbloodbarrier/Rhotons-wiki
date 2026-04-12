@@ -26,7 +26,7 @@ The posterior incisural space is located between the posterior surface of the [[
 
 The anterior wall is formed by the posterior midbrain surface (the [[tectum]] and tegmentum). The superior wall is the splenium of the [[corpus-callosum]]. The posterior wall is formed by the tentorial apex where the [[falx-cerebri]] joins the [[tentorium-cerebelli]].
 
-> The posterior incisural space contains the convergence of the internal cerebral and basal veins and many of their tributaries on the vein of Galen. (Rhoton 2023, p. 1262)
+> The posterior incisural space contains the convergence of the internal cerebral and basal veins and many of their tributaries on the [[vein-of-galen|vein of Galen]]. (Rhoton 2023, p. 1262)
 
 ## Venous Relationships
 
@@ -40,7 +40,7 @@ The venous anatomy is extremely complex in this space:
 
 - The [[posterior-cerebral-artery]] P3-P4 segments
 - The [[superior-cerebellar-artery]] (SCA) wraps around to reach this space
-- Perforating arteries to the colliculi and posterior thalamus
+- [[perforating-arteries|Perforating arteries]] to the colliculi and posterior [[thalamus|thalamus]]
 
 ## Surgical Relevance
 

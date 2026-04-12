@@ -67,7 +67,7 @@ The V4 segment has critical relations at the [[craniocervical-junction]]:
 - **Dentate ligament** — the most rostral attachment passes between the vertebral artery anteriorly and the spinal accessory nerve posteriorly; often incorporated into the dural cuff around the artery
 - **C1 nerve** — penetrates the dura with the vertebral artery and courses along its posteroinferior surface
 - **[[oculomotor-nerve|CN XI (accessory nerve)]]** — ascends posterior to both the PICA and vertebral artery through the foramen magnum; its spinal rootlets arise from C1–C7 and ascend behind the dentate ligament
-- **CN XII ([[lower-cranial-nerves|hypoglossal nerve]])** — rootlets pass behind the vertebral artery to enter the hypoglossal canal above the occipital condyle
+- **CN XII ([[lower-cranial-nerves|hypoglossal nerve]])** — rootlets pass behind the vertebral artery to enter the [[hypoglossal-canal|hypoglossal canal]] above the [[occipital-condyle|occipital condyle]]
 - **CN IX, X** — the [[trigeminal-nerve|glossopharyngeal]], vagus, and accessory nerves pass through the [[jugular-foramen]], located lateral and slightly superior to the anterior foramen magnum
 - **Cerebellar tonsils** — sit above the posterior edge of the foramen magnum; [[herniation-syndromes|tonsillar herniation]] compresses the vertebral artery and [[pica]]
 

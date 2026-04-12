@@ -27,7 +27,7 @@ The cerebellopontine cistern lies between the anterolateral surface of the pons 
 
 ## Boundaries
 
-- **Superior** — separated from [[ambient-cistern]] by the lateral pontomesencephalic membrane (spans between PCA and SCA, attached at midbrain-pons junction)
+- **Superior** — separated from [[ambient-cistern]] by the lateral pontomesencephalic membrane (spans between [[posterior-cerebral-artery|PCA]] and SCA, attached at midbrain-pons junction)
 - **Inferior** — separated from cerebellomedullary cistern by the lateral pontomedullary membrane (crosses between CN VIII and [[lower-cranial-nerves|CN IX]])
 - **Medial** — separated from [[prepontine-cistern]] by the anterior pontine membrane
 - **Lateral** — cerebellar surface wrapping around pons (cerebellopontine fissure)
@@ -75,3 +75,9 @@ The [[retrosigmoid-approach]] is the standard corridor to this cistern.
 ## References
 
 - Rhoton, Ch.15 — Cerebellopontine Cistern, Figs. 10.1–10.4
+
+## Figures (Rhoton 2023)
+
+![[p3c10-the-posterior-fossa-cisterns-p1606-fig-004-b6519445.jpg]]
+*Anatomical illustration of the cisterns in the [[tentorial-incisura|tentorial incisura]], viewed through a right frontotemp... — p. 1606*
+

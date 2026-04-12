@@ -32,14 +32,14 @@ The craniocervical junction (CVJ) is the transitional zone between the [[cranial
 
 | Structure | Key Features |
 |---|---|
-| **Occipital bone** (basiocciput) | [[foramen-magnum]], occipital condyles, jugular tubercle |
+| **Occipital bone** (basiocciput) | [[foramen-magnum]], [[occipital-condyle|occipital condyles]], jugular tubercle |
 | **Atlas (C1)** | Ring vertebra, no body; lateral masses articulate with occipital condyles (atlantooccipital joint) |
 | **Axis (C2)** | Odontoid process (dens) projects superiorly through C1 ring; atlantoaxial joint allows rotation |
 
 ### Occipital Condyles
 The occipital condyles flank the [[foramen-magnum]] anterolaterally. They articulate with the C1 lateral masses and are:
 - The **lateral limits** of the [[far-lateral-approach]] (partial condylectomy extends ventral exposure)
-- Drilled in the **transcondylar approach** (posterior third can be removed without entering the hypoglossal canal)
+- Drilled in the **transcondylar approach** (posterior third can be removed without entering the [[hypoglossal-canal|hypoglossal canal]])
 - The hypoglossal canal passes through/above the condyle
 
 ## Ligaments

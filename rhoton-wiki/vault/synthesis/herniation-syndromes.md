@@ -42,7 +42,7 @@ The most common and clinically important herniation. The medial uncus of the tem
 4. **Midbrain** — progressive compression → loss of consciousness, decerebrate posturing
 5. **Posterior communicating and anterior choroidal arteries** — stretched → additional ischemia
 
-**Anatomical basis:** The [[tentorial-incisura]] is ~30 mm wide; the midbrain fills most of it. The uncus (part of the [[hippocampus|parahippocampal gyrus]]) is the most medial temporal structure, directly above the free edge. [[oculomotor-nerve|CN III]] courses in the middle incisural space between the PCA and [[superior-cerebellar-artery|SCA]], making it the first structure compressed.
+**Anatomical basis:** The [[tentorial-incisura]] is ~30 mm wide; the midbrain fills most of it. The uncus (part of the [[hippocampus|parahippocampal gyrus]]) is the most medial temporal structure, directly above the free edge. [[oculomotor-nerve|CN III]] courses in the [[middle-incisural-space|middle incisural space]] between the PCA and [[superior-cerebellar-artery|SCA]], making it the first structure compressed.
 
 ### 2. Central (Descending Transtentorial) Herniation
 

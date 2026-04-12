@@ -26,7 +26,7 @@ approach-to:
 
 # Supracerebellar Infratentorial Approach
 
-The supracerebellar infratentorial approach accesses the **posterior incisural space** of the [[tentorial-incisura]] by retracting the cerebellar surface downward from the [[tentorium-cerebelli|tentorium]]. It is the primary corridor to the [[pineal-region]], [[quadrigeminal-cistern]], and the posterior midbrain (tectum), approaching these structures from below the [[vein-of-galen|vein of Galen complex]].
+The supracerebellar infratentorial approach accesses the **[[posterior-incisural-space|posterior incisural space]]** of the [[tentorial-incisura]] by retracting the cerebellar surface downward from the [[tentorium-cerebelli|tentorium]]. It is the primary corridor to the [[pineal-region]], [[quadrigeminal-cistern]], and the posterior midbrain (tectum), approaching these structures from below the [[vein-of-galen|vein of Galen complex]].
 
 ## Indications
 

@@ -57,7 +57,7 @@ The MCA supplies most of the lateral cerebral surface, all insular and opercular
 
 The 12 cortical areas supplied by the MCA:
 1. Orbitofrontal — lateral orbital surface
-2. Prefrontal — anterior lateral frontal lobe
+2. Prefrontal — anterior lateral [[cerebral-lobes|frontal lobe]]
 3. Precentral (prerolandic) — precentral gyrus
 4. Central (rolandic) — central sulcus region
 5. Anterior parietal (postrolandic) — postcentral gyrus
@@ -90,3 +90,69 @@ MCA branches are exposed in most supratentorial operations. Key considerations:
 
 - Rhoton, Ch.2 — The Supratentorial Arteries, Figs. 2.1, 2.3, 2.7, 2.11–2.20
 - Gibo H, Carver CC, Rhoton AL Jr et al: Microsurgical anatomy of the middle cerebral artery. J Neurosurg 54:151–169, 1981
+
+## Figures (Rhoton 2023)
+
+![[p2c02-the-supratentorial-arteries-p286-fig-003-50308c82.jpg]]
+*Fig. 2.11 — Relationship of the M1 (blue), M2 (green), M3 (yellow), and M4 (red) segments of the middle cerebral arteries to the ... — p. 286*
+
+![[p2c02-the-supratentorial-arteries-p291-fig-001-039986cd.jpg]]
+*Anatomical dissection of the brain, medial view, showing the [[corpus-callosum|corpus callosum]] and internal structures — p. 291*
+
+![[p2c02-the-supratentorial-arteries-p291-fig-056-bd51f7ec.jpg]]
+*Anatomical dissection of the brain, inferior view, showing the base of the brain and major vessels — p. 291*
+
+![[p2c02-the-supratentorial-arteries-p291-fig-059-2f7d2d58.jpg]]
+*Anatomical dissection of the brain, anterior view, showing the [[cerebral-lobes|frontal lobe]] and associated structure... — p. 291*
+
+![[p2c02-the-supratentorial-arteries-p291-fig-065-da03df6a.jpg]]
+*Anatomical dissection of the brain, lateral view, showing the [[sylvian-fissure|Sylvian fissure]] and associated vessels — p. 291*
+
+![[p2c02-the-supratentorial-arteries-p291-fig-083-d5952136.jpg]]
+*Anatomical dissection of the brain, posterior view, showing the [[cerebral-lobes|occipital lobe]] and associated struct... — p. 291*
+
+![[p2c02-the-supratentorial-arteries-p292-fig-009-0eaef2f8.jpg]]
+*Anatomical photograph of the brain showing arterial blood supply — p. 292*
+
+![[p2c02-the-supratentorial-arteries-p292-fig-013-43c25590.jpg]]
+*Anatomical photograph of the brain showing arterial segments and the [[uncus|uncus]] — p. 292*
+
+![[p2c02-the-supratentorial-arteries-p292-fig-019-d2e33b76.jpg]]
+*Anatomical photograph of the brain showing arterial segments — p. 292*
+
+![[p2c02-the-supratentorial-arteries-p292-fig-063-28da1d84.jpg]]
+*Anatomical photograph of the brain showing venous and arterial structures — p. 292*
+
+![[p2c02-the-supratentorial-arteries-p296-fig-008-44d62793.jpg]]
+*Anatomical photograph of the brain showing the middle cerebral artery (M.C.A.) and its branches — p. 296*
+
+![[p2c02-the-supratentorial-arteries-p296-fig-066-520c001f.jpg]]
+*Anatomical photograph of the brain showing arterial blood supply — p. 296*
+
+![[p2c02-the-supratentorial-arteries-p296-fig-091-2ee65b00.jpg]]
+*Anatomical photograph of the brain showing the [[posterior-cerebral-artery|posterior cerebral artery]] (P.C.A.) and its branches — p. 296*
+
+![[p2c02-the-supratentorial-arteries-p296-fig-095-ef40e885.jpg]]
+*Anatomical photograph of the brain showing the [[posterior-cerebral-artery|posterior cerebral artery]] (P.C.A.) and its branches — p. 296*
+
+![[p2c02-the-supratentorial-arteries-p297-fig-022-a56dd813.jpg]]
+*Four anatomical photographs (E, F, G, H) showing the arterial supply of the brain's basal surface — p. 297*
+
+![[p2c02-the-supratentorial-arteries-p300-fig-080-6759e0f8.jpg]]
+*Fig. 2.14 — Superior views of the cerebral arteries — p. 300*
+
+![[p2c02-the-supratentorial-arteries-p304-fig-062-84779cf7.jpg]]
+*Fig. 2.15 — Six panels (A-F) showing the [[insula|insula]] and middle cerebral arteries (MCA) in various dissections — p. 304*
+
+![[p2c02-the-supratentorial-arteries-p306-fig-078-18e111b3.jpg]]
+*Anatomical dissection A showing the anterior view of the brain with various arteries and cranial ner... — p. 306*
+
+![[p2c02-the-supratentorial-arteries-p307-fig-058-a452c5c8.jpg]]
+*Fig. 2.16 — Six anatomical photographs (E-I) showing the perforating branches of the anterior part of the [[circle-of-willis|circle of Willis]] — p. 307*
+
+![[p2c02-the-supratentorial-arteries-p310-fig-073-1766ca76.jpg]]
+*A lateral view of a human brain with the territory of the middle cerebral artery (MCA) divided into ... — p. 310*
+
+![[p2c03-aneurysms-p424-fig-023-c7300388.jpg]]
+*Fig. 3.10 — Middle cerebral aneurysms — p. 424*
+

@@ -33,8 +33,8 @@ Arises from the PCA P2A segment (anterior portion of the [[ambient-cistern]]). O
 
 ### Course
 1. Courses posteriorly through the ambient cistern, paralleling the [[posterior-cerebral-artery|PCA]] but more medially
-2. Passes around the [[brainstem]] (midbrain) through the middle incisural space of the [[tentorial-incisura]]
-3. Enters the [[quadrigeminal-cistern]], reaching the posterior incisural space
+2. Passes around the [[brainstem]] (midbrain) through the [[middle-incisural-space|middle incisural space]] of the [[tentorial-incisura]]
+3. Enters the [[quadrigeminal-cistern]], reaching the [[posterior-incisural-space|posterior incisural space]]
 4. Reaches the roof of the third ventricle and the pineal region
 5. Courses in the [[velum-interpositum]] between the [[internal-cerebral-veins]] ([[vein-of-galen]])
 6. Supplies the [[choroid-plexus]] of the third ventricle and the medial part of the [[lateral-and-third-ventricles|lateral ventricle]] body

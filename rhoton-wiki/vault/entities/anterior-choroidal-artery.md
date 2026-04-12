@@ -60,3 +60,24 @@ The AChA supplies a remarkably extensive territory for its small caliber:
 ## References
 
 - Rhoton, Ch.2 — The Supratentorial Arteries, Figs. 2.1, 2.9, 2.10
+
+## Figures (Rhoton 2023)
+
+![[p2c02-the-supratentorial-arteries-p268-fig-025-f9a0180c.jpg]]
+*Fig. 2.5 — Four anatomical illustrations (A, B, C, D) showing anterior and anteroinferior views of the supraclinoid portion of t... — p. 268*
+
+![[p2c02-the-supratentorial-arteries-p270-fig-015-5e7d03c5.jpg]]
+*Anatomical illustration showing the inferior view of the [[perforating-arteries|perforating branches]] of the supraclinoid po... — p. 270*
+
+![[p2c02-the-supratentorial-arteries-p273-fig-000-5e5c6b42.jpg]]
+*Fig. 2.7 — Six panels (A-F) showing neuroanatomical dissections of the [[circle-of-willis|circle of Willis]] and surrounding structures — p. 273*
+
+![[p2c02-the-supratentorial-arteries-p275-fig-060-d6b2efde.jpg]]
+*Fig. 2.8 — Variations in the posterior [[circle-of-willis|circle of Willis]] — p. 275*
+
+![[p2c02-the-supratentorial-arteries-p277-fig-002-12ec6986.jpg]]
+*Four anatomical photographs (A, B, C, D) showing inferior views of the right anterior choroidal arte... — p. 277*
+
+![[p2c02-the-supratentorial-arteries-p279-fig-069-8ec9db49.jpg]]
+*Fig. 2.10 — Six panels (A-F) showing the anterior choroidal artery (AChA) and its relationship to the brain's structures — p. 279*
+

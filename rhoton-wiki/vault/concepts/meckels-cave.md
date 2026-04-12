@@ -84,5 +84,5 @@ Two triangles on the posterior clival/petrous surface relate to Meckel's cave:
 ## References
 
 - Rhoton, Ch.9 — The Cavernous Sinus (Meckel's cave, paraclival triangles, trigeminal relation)
-- Rhoton, Ch.14 — [[tentorial-incisura]] (middle incisural space, trigeminal nerve course)
+- Rhoton, Ch.14 — [[tentorial-incisura]] ([[middle-incisural-space|middle incisural space]], trigeminal nerve course)
 - Rhoton, Ch.15 — Cerebellopontine Cistern (posterior root, porus trigeminus)

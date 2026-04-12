@@ -67,3 +67,18 @@ The retrosigmoid approach provides access to the [[cerebellopontine-cistern]] an
 
 - Rhoton, Ch.10 — The Posterior Cranial Fossa, Fig. 1.3
 - Rhoton, Ch.15 — Cerebellopontine Cistern
+
+## Figures (Rhoton 2023)
+
+![[p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve-p1198-fig-043-7e0cdd49.jpg]]
+*Fig. 4.11 — Sites of arterial compression of the [[trigeminal-nerve|trigeminal nerve]] — p. 1198*
+
+![[p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve-p1200-fig-021-283ea58d.jpg]]
+*Fig. 4.12 — Sites of arterial compression of the [[trigeminal-nerve|trigeminal nerve]] as seen through a suboccipital craniotomy — p. 1200*
+
+![[p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve-p1202-fig-022-399cfa69.jpg]]
+*Anatomical diagram showing sites of venous compression of the [[trigeminal-nerve|trigeminal nerve]] — p. 1202*
+
+![[p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve-p1204-fig-024-91a9e4c1.jpg]]
+*Fig. 4.14 — Sites of venous compression of the [[trigeminal-nerve|trigeminal nerve]] as seen through a retrosigmoid craniotomy — p. 1204*
+

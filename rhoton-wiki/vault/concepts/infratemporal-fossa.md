@@ -20,7 +20,7 @@ parent: "[[cranial-base]]"
 
 # Infratemporal Fossa
 
-The infratemporal fossa is an irregularly shaped deep space below the middle cranial fossa, posterior to the maxilla, and medial to the ramus of the mandible. It is a critical corridor in lateral skull base approaches and contains the pterygoid muscles, mandibular nerve (V3), [[maxillary-artery]], and pterygoid venous plexus.
+The infratemporal fossa is an irregularly shaped deep space below the middle cranial fossa, posterior to the maxilla, and medial to the ramus of the mandible. It is a critical corridor in [[transtemporal-approaches|lateral skull base approaches]] and contains the pterygoid muscles, mandibular nerve (V3), [[maxillary-artery]], and pterygoid venous plexus.
 
 ## Boundaries
 
@@ -52,7 +52,7 @@ The infratemporal fossa is an irregularly shaped deep space below the middle cra
 | Connection | Via | Leads to |
 |---|---|---|
 | Middle cranial fossa | Foramen ovale, foramen spinosum | [[sphenoid-bone]], [[cranial-base]] |
-| Pterygopalatine fossa | Pterygomaxillary fissure | Nasal cavity, [[orbit]], palate |
+| Pterygopalatine fossa | Pterygomaxillary fissure | [[sellar-region|Nasal cavity]], [[orbit]], palate |
 | [[orbit]] | Inferior orbital fissure | Orbital floor |
 | Pharynx/parapharyngeal space | Posterior opening | [[internal-carotid-artery]], [[foramen-magnum]] |
 | [[cavernous-sinus]] | Emissary veins (foramen ovale) | Pterygoid venous plexus |

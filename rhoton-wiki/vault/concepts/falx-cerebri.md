@@ -41,7 +41,7 @@ The falx contains or borders three major [[dural-venous-sinuses]]:
 
 | Sinus | Location | Drainage |
 |---|---|---|
-| **Superior sagittal sinus** | Upper attached margin of the falx | Receives [[bridging-veins]] from the superior sagittal group; drains to torcular Herophili |
+| **Superior [[cerebral-veins|sagittal sinus]]** | Upper attached margin of the falx | Receives [[bridging-veins]] from the superior sagittal group; drains to torcular Herophili |
 | **Inferior sagittal sinus** | Lower free edge of the falx | Receives medial hemispheric veins; drains into the straight sinus |
 | **Straight sinus** | Junction of falx and [[tentorium-cerebelli]] | Formed by the union of inferior sagittal sinus and [[vein-of-galen]] |
 
@@ -51,7 +51,7 @@ The falx contains or borders three major [[dural-venous-sinuses]]:
 The falx is the medial boundary during interhemispheric approaches. The surgeon works lateral to the falx in the longitudinal fissure. Key considerations:
 
 - **[[bridging-veins]]** crossing from the cortical surface to the superior sagittal sinus must be preserved when possible
-- **Vein-free zone** — an area devoid of bridging veins commonly exists just anterior to the coronal suture, the preferred craniotomy site
+- **Vein-free zone** — an area devoid of bridging veins commonly exists just anterior to the coronal suture, the preferred [[surgical-approaches-overview|craniotomy]] site
 - The [[anterior-cerebral-artery|pericallosal arteries]] course beneath the free edge
 
 ### Falcine Meningiomas

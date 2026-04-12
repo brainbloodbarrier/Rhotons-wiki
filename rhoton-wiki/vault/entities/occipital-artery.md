@@ -52,7 +52,7 @@ Several meningeal branches of the occipital artery ascend to pass through the [[
 ## Surgical Significance
 
 ### Far-Lateral Approach
-The occipital artery is encountered early during the [[far-lateral-approach]] as the superficial and deep muscular layers are dissected. It is exposed passing behind the superior oblique and semispinalis capitis. The artery must be identified and preserved or controlled during the suboccipital muscle dissection.
+The occipital artery is encountered early during the [[far-lateral-approach]] as the superficial and deep muscular layers are dissected. It is exposed passing behind the superior oblique and semispinalis capitis. The artery must be identified and preserved or controlled during the [[foramen-magnum|suboccipital]] muscle dissection.
 
 ### Suboccipital Triangle
 In the [[suboccipital-triangle]], the occipital artery courses superficial to the triangle boundaries (superior oblique, inferior oblique, rectus capitis posterior major). The [[vertebral-artery]] courses in the depths of the triangle — the occipital artery is a superficial landmark on the way to the deeper vertebral artery.

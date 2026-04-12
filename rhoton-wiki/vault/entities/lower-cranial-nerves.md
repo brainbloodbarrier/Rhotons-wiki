@@ -91,10 +91,10 @@ Passes through the intrajugular part with CN X. The cranial part joins the vagus
 ## CN XII — Hypoglossal Nerve
 
 ### Origin and course
-Arises from the anterolateral medulla, between the pyramids and inferior olives, in the **premedullary cistern**. Multiple rootlets (typically 10–15) emerge in a linear series and converge toward the hypoglossal canal.
+Arises from the anterolateral medulla, between the pyramids and inferior olives, in the **premedullary cistern**. Multiple rootlets (typically 10–15) emerge in a linear series and converge toward the [[hypoglossal-canal|hypoglossal canal]].
 
 ### Hypoglossal canal
-Passes through the hypoglossal canal, which is situated above the occipital condyle in the condylar part of the occipital bone. The canal is directed forward and laterally from the [[posterior-fossa]]. It may be partially or completely divided by a bony septum (septated in 6% of skulls).
+Passes through the hypoglossal canal, which is situated above the [[occipital-condyle|occipital condyle]] in the condylar part of the occipital bone. The canal is directed forward and laterally from the [[posterior-fossa]]. It may be partially or completely divided by a bony septum (septated in 6% of skulls).
 
 ### Relations
 - Rootlets pass **behind** the [[vertebral-artery]] — they are stretched over the posterior aspect of the artery at the foramen magnum level

@@ -105,7 +105,7 @@ The brainstem has recognized "safe entry zones" where surgical access causes min
 
 ### Approaches
 - [[pterional-approach]] — anterior and middle incisural spaces, basilar apex
-- [[subtemporal-approach]] — middle incisural space, ambient cistern
+- [[subtemporal-approach]] — [[middle-incisural-space|middle incisural space]], ambient cistern
 - [[supracerebellar-infratentorial-approach]] — posterior midbrain and tectum
 - [[retrosigmoid-approach]] — cerebellopontine angle, lateral pons
 - [[far-lateral-approach]] — anterolateral medulla, [[foramen-magnum]]
@@ -133,3 +133,15 @@ The brainstem has recognized "safe entry zones" where surgical access causes min
 - Rhoton, Ch.11 — Fourth Ventricle and Cerebellar-Brainstem Fissures
 - Rhoton, Ch.12 — The Superior Cerebellar Artery (neurovascular complexes)
 - Rhoton, Ch.14 — Tentorial Incisura (incisural spaces, midbrain relations); The Foramen Magnum (medulla)
+
+## Figures (Rhoton 2023)
+
+![[p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve-p1218-fig-028-b73e1545.jpg]]
+*Four anatomical diagrams (A, B, C, D) showing neurovascular relationships on the brainstem side of a... — p. 1218*
+
+![[p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve-p1221-fig-005-6243ee4e.jpg]]
+*Four anatomical diagrams (A, B, C, D) showing the relationship of the foramen of Luschka and the lat... — p. 1221*
+
+![[p3c04-the-cerebellopontine-angle-and-posterior-fossa-cranial-nerve-p1223-fig-018-b346a2f7.jpg]]
+*Four anatomical illustrations (A, B, C, D) showing neurovascular relationships on the brainstem side... — p. 1223*
+

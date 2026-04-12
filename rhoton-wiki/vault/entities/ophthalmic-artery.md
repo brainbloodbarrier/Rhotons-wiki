@@ -42,7 +42,7 @@ The ophthalmic artery is the first major intradural branch of the [[internal-car
 - **Lacrimal artery** — to the lacrimal gland and upper eyelid; gives the recurrent meningeal artery that anastomoses with the [[middle-meningeal-artery]]
 - **Muscular branches** — to [[extraocular-muscles]]
 - **Supraorbital artery** — exits supraorbital foramen to the forehead
-- **Posterior and anterior ethmoidal arteries** — pass through the ethmoidal foramina in the medial orbital wall to supply the [[paranasal-sinuses|ethmoid sinuses]], nasal cavity, and dura of the anterior cranial fossa. The [[ethmoidal-arteries|anterior ethmoidal artery]] is a landmark for the frontoethmoidal suture line
+- **Posterior and anterior ethmoidal arteries** — pass through the ethmoidal foramina in the medial orbital wall to supply the [[paranasal-sinuses|ethmoid sinuses]], [[sellar-region|nasal cavity]], and dura of the anterior cranial fossa. The [[ethmoidal-arteries|anterior ethmoidal artery]] is a landmark for the frontoethmoidal suture line
 
 ### Meningeal branch
 - **Recurrent meningeal artery** — passes back through the superior orbital fissure to supply the dura of the anterior cranial fossa; located anterior to the [[optic-nerve]] in the optic canal
@@ -80,3 +80,27 @@ The ophthalmic artery ([[superficial-temporal-artery]] → ophthalmic artery byp
 
 - Rhoton, Ch.2 — The Supratentorial Arteries (ICA branches)
 - Rhoton, Ch.7 — The Orbit (ophthalmic artery orbital course, branches, surgical relations)
+
+## Figures (Rhoton 2023)
+
+![[p2c02-the-supratentorial-arteries-p260-fig-047-19196dd3.jpg]]
+*Anatomical dissection of the brain showing the carotid artery, cranial nerve III, and various branch... — p. 260*
+
+![[p2c02-the-supratentorial-arteries-p260-fig-072-0e694aea.jpg]]
+*Anatomical dissection of the brain showing the carotid artery, cranial nerve III, and various branch... — p. 260*
+
+![[p2c02-the-supratentorial-arteries-p260-fig-082-29ed6230.jpg]]
+*Anatomical dissection of the brain showing the carotid artery, basal artery, and various branches of... — p. 260*
+
+![[p2c02-the-supratentorial-arteries-p260-fig-084-9a5a5ef5.jpg]]
+*Anatomical dissection of the brain showing the carotid artery, cranial nerve III, and the anterior c... — p. 260*
+
+![[p2c02-the-supratentorial-arteries-p260-fig-100-9f117b65.jpg]]
+*Anatomical dissection of the brain showing the carotid artery, [[optic-chiasm|optic chiasm]], and various branches of... — p. 260*
+
+![[p2c02-the-supratentorial-arteries-p260-fig-105-4a929011.jpg]]
+*Anatomical dissection of the brain showing the [[anterior-clinoid-process|anterior clinoid process]], carotid artery, and cranial... — p. 260*
+
+![[p2c02-the-supratentorial-arteries-p261-fig-018-ed841dda.jpg]]
+*Four anatomical photographs (G, H, I, J) showing pterional exposure of the [[circle-of-willis|circle of Willis]] — p. 261*
+

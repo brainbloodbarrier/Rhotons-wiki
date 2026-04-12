@@ -44,7 +44,7 @@ The far-lateral approach extends a standard suboccipital craniotomy laterally to
 Directed **through** the [[occipital-condyle]] or atlanto-occipital joint. Drilling the posterior condyle increases the ventral approach angle, providing access to the lower [[clivus]] and premedullary area. The posterior third of the condyle can be removed without exposing the hypoglossal nerve in its canal; removing more than half risks [[craniocervical-junction]] instability requiring fusion.
 
 ### Supracondylar
-Directed **above** the [[occipital-condyle]], through the area between the condyle and the [[jugular-foramen]]. Accesses the region of the hypoglossal canal and jugular tubercle — the bony prominence that often blocks visualization of the pontomedullary junction and middle-lower clivus junction. Drilling below the hypoglossal canal exposes the lateral clivus; drilling above it exposes the jugular tubercle.
+Directed **above** the [[occipital-condyle]], through the area between the condyle and the [[jugular-foramen]]. Accesses the region of the [[hypoglossal-canal|hypoglossal canal]] and jugular tubercle — the bony prominence that often blocks visualization of the pontomedullary junction and middle-lower clivus junction. Drilling below the hypoglossal canal exposes the lateral clivus; drilling above it exposes the jugular tubercle.
 
 ### Paracondylar
 Directed **lateral** to the [[occipital-condyle]], through the jugular process of the occipital bone. Accesses the posterior margin of the [[jugular-foramen]], the jugular bulb (sigmoid portion), and the posterior aspect of the [[facial-nerve]] canal and mastoid lateral to the jugular foramen.
@@ -129,4 +129,37 @@ The V3 segment courses between the C1 transverse process and the dural entrance:
 - [[retrosigmoid-approach]] — Complementary lateral approach
 - [[combined-petrosal-approach]] — For more rostral petroclival lesions
 - [[surgical-approaches-overview]] — Approach selection matrix
-- [[operative-techniques]] — Microsurgical principles
+- [[operative-techniques]] — [[microsurgical-anatomy-principles|Microsurgical principles]]
+
+## Figures (Rhoton 2023)
+
+![[p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar-p1402-fig-005-c2fd8707.jpg]]
+*Fig. 7.1 — Osseous relationships — p. 1402*
+
+![[p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar-p1406-fig-000-c7c53e57.jpg]]
+*Fig. 7.2 — Far-lateral and transcondylar approach — p. 1406*
+
+![[p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar-p1408-fig-003-ffe9f769.jpg]]
+*Six anatomical photographs (E-J) showing the far-lateral and transcondylar approach to the suboccipi... — p. 1408*
+
+![[p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar-p1410-fig-008-7f8557f4.jpg]]
+*Fig. 7.2 — Far-lateral and transcondylar approach — p. 1410*
+
+![[p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar-p1414-fig-001-3d440a2b.jpg]]
+*Fig. 7.3 — Relationships in the transcondylar, supracondylar, and paracondylar exposures — p. 1414*
+
+![[p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar-p1418-fig-007-605118bc.jpg]]
+*Four panels (A, B, C, D) showing surgical exposures of the [[jugular-foramen|jugular foramen]] and surrounding structure... — p. 1418*
+
+![[p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar-p1420-fig-004-d84d4326.jpg]]
+*Fig. 7.5 — Four panels (A, B, C, D) showing posterior and anterior views of the left [[cerebellopontine-cistern|cerebellopontine angle]] with various anatomi... — p. 1420*
+
+![[p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar-p1422-fig-009-ec5b590f.jpg]]
+*Fig. 7.6 — Four panels (A, B, C, D) showing anatomical dissections of the [[jugular-foramen|jugular foramen]] and surrounding structures — p. 1422*
+
+![[p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar-p1429-fig-002-dbe80806.jpg]]
+*Anatomical engraving of a human cranium showing internal structures — p. 1429*
+
+![[p3c07-the-far-lateral-approach-and-its-transcondylar-supracondylar-p1430-fig-006-fdffe97e.jpg]]
+*Anatomical illustration of the human head and neck showing the course of nerve fibers for taste — p. 1430*
+

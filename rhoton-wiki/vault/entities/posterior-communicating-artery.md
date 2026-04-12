@@ -62,3 +62,15 @@ The **premamillary artery** is the largest PCoA branch — it enters the floor o
 ## References
 
 - Rhoton, Ch.2 — The Supratentorial Arteries, Figs. 2.1, 2.3, 2.6–2.8
+
+## Figures (Rhoton 2023)
+
+![[p2c02-the-supratentorial-arteries-p263-fig-033-c90b1414.jpg]]
+*Anatomical diagram A: Superior view of the brain showing the [[circle-of-willis|Circle of Willis]] and its branches — p. 263*
+
+![[p2c02-the-supratentorial-arteries-p263-fig-092-76f0b327.jpg]]
+*Anatomical diagram B: Lateral view of the brain showing the [[circle-of-willis|Circle of Willis]] and its relationship to... — p. 263*
+
+![[p2c02-the-supratentorial-arteries-p264-fig-029-89d3d769.jpg]]
+*Anatomical illustration of the perforating branches of the [[internal-carotid-artery|internal carotid artery]] (ICA) from an inf... — p. 264*
+

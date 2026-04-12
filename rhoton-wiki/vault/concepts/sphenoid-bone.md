@@ -9,8 +9,9 @@ tags:
 aliases:
   - sphenoid
   - "os sphenoidale"
-  - greater sphenoid wing
-  - lesser sphenoid wing
+  - "greater sphenoid wing"
+  - "lesser sphenoid wing"
+  - "sphenoid sinus"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.6, 7, 8, 9"
 created: 2026-04-09
@@ -18,9 +19,7 @@ updated: 2026-04-09
 summary: >-
   Sella turcica, wings, foramina, sphenoid sinus
 parent: "[[cranial-base]]"
----
-
-# Sphenoid Bone
+---Sphenoid Bone
 
 The sphenoid bone is the most complex bone of the [[cranial-base]], articulating with all other cranial bones. It spans all three cranial fossae and contains or borders the optic canals, superior orbital fissures, foramen rotundum, foramen ovale, foramen spinosum, and the sella turcica. Its central position makes it relevant to virtually every skull base surgical approach.
 
@@ -76,7 +75,7 @@ The sphenoid ridge (junction of lesser and greater wings) is the bone removed du
 The greater wing floor is elevated to expose the middle cranial fossa contents: [[trigeminal-nerve|trigeminal ganglion]] in [[meckels-cave|Meckel's cave]], petrous [[internal-carotid-artery|ICA]], and [[greater-petrosal-nerve]].
 
 ### [[orbitozygomatic-approach]]
-Extended [[pterional-approach]] removing the supraorbital rim and zygomatic arch — provides lower angle of exposure to the [[basilar-artery]] apex through the anterior incisural space.
+Extended [[pterional-approach]] removing the supraorbital rim and zygomatic arch — provides lower angle of exposure to the [[basilar-artery]] apex through the [[anterior-incisural-space|anterior incisural space]].
 
 ## Foramina Map
 

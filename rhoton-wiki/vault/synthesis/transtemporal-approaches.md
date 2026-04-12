@@ -2,10 +2,9 @@
 title: Transtemporal Approaches
 category: synthesis
 tags:
-  - surgical-approach
+  - approaches
   - skull-base
   - temporal-bone
-  - lateral-skull-base
   - posterior-fossa
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch. 8: The Temporal Bone and Transtemporal Approaches, pp. 1431-1553"
@@ -15,9 +14,7 @@ summary: Complete taxonomy of surgical approaches directed through the temporal 
 aliases:
   - temporal bone approaches
   - lateral skull base approaches
----
-
-# Transtemporal Approaches
+---Transtemporal Approaches
 
 All approaches directed through the [[temporal-bone]] to reach the [[posterior-fossa]], [[clivus]], and petroclival region. Selection depends on hearing status, tumor size, target location, and the acceptable extent of temporal bone removal.
 
@@ -25,7 +22,7 @@ All approaches directed through the [[temporal-bone]] to reach the [[posterior-f
 
 ### Through the Middle Fossa Floor
 
-Directed through the superior surface of the [[temporal-bone]] by elevating the temporal lobe:
+Directed through the superior surface of the [[temporal-bone]] by elevating the [[cerebral-lobes|temporal lobe]]:
 
 1. **[[middle-fossa-approach]]** — Limited IAC exposure from above. Hearing preservation for small intracanalicular schwannomas. Requires identification of the arcuate eminence, [[greater-petrosal-nerve]] hiatus, and tegmen landmarks.
 
@@ -41,7 +38,7 @@ Directed through the mastoid portion anterior to the [[sigmoid-sinus]], with pro
 
 1. **Minimal mastoidectomy** — Exposes only enough presigmoid dura to open anterior to the sigmoid sinus without exposing the labyrinth. Most conservative variant.
 
-2. **Retrolabyrinthine** — Exposes the bony capsule of the labyrinth without violating it. Preserves both hearing and vestibular function. Access to the cerebellopontine angle is limited.
+2. **Retrolabyrinthine** — Exposes the bony capsule of the labyrinth without violating it. Preserves both hearing and vestibular function. Access to the [[cerebellopontine-cistern|cerebellopontine angle]] is limited.
 
 3. **Partial labyrinthectomy** — Removal of one or more semicircular canals. Sacrifices vestibular function but may preserve cochlear function depending on extent.
 
@@ -114,4 +111,4 @@ The cochlea, vestibule, and semicircular canals form an ascending hierarchy of s
 - [[far-lateral-approach]] — [[foramen-magnum]] region
 - [[facial-nerve]] — Intratemporal course, surgical identification
 - [[internal-auditory-canal]] — Fundus quadrants, Bill's bar
-- [[jugular-foramen]] — CN IX-XI, glomus tumors
+- [[jugular-foramen]] — [[lower-cranial-nerves|CN IX]]-XI, glomus tumors

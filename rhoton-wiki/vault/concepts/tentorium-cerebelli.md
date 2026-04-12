@@ -64,7 +64,7 @@ Dividing the tentorium is a key step in several surgical approaches to expand ex
 
 | Approach | Tentorial Division Purpose |
 |---|---|
-| [[subtemporal-approach]] | Division behind the [[trochlear-nerve]] entry exposes the middle incisural space and upper [[basilar-artery]] |
+| [[subtemporal-approach]] | Division behind the [[trochlear-nerve]] entry exposes the [[middle-incisural-space|middle incisural space]] and upper [[basilar-artery]] |
 | [[anterior-petrosectomy]] (Kawase) | Tentorial division extends petroclival exposure |
 | [[posterior-petrosectomy]] | Combined with tentorial division for full petroclival access |
 | Combined petrosal | Both anterior and posterior petrosectomy with tentorial division |

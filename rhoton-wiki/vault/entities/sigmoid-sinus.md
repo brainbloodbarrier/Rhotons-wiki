@@ -22,7 +22,7 @@ drains-to:
 
 # Sigmoid Sinus
 
-The sigmoid sinus is an S-shaped [[dural-venous-sinuses|dural venous sinus]] that descends from the transverse-sigmoid junction on the inner surface of the mastoid portion of the [[temporal-bone]] to the [[jugular-foramen]], where it becomes the jugular bulb. It is a critical landmark for [[posterior-fossa]] craniotomy placement and a boundary for multiple surgical approaches.
+The sigmoid sinus is an S-shaped [[dural-venous-sinuses|dural venous sinus]] that descends from the transverse-sigmoid junction on the inner surface of the mastoid portion of the [[temporal-bone]] to the [[jugular-foramen]], where it becomes the jugular bulb. It is a critical landmark for [[posterior-fossa]] [[surgical-approaches-overview|craniotomy]] placement and a boundary for multiple surgical approaches.
 
 ## Course
 
@@ -43,7 +43,7 @@ The sigmoid sinus is an S-shaped [[dural-venous-sinuses|dural venous sinus]] tha
 
 | Tributary | Source |
 |---|---|
-| **[[transverse-sinus]]** | Main inflow; drains the [[vein-of-galen]] → straight sinus and superior sagittal sinus via torcular |
+| **[[transverse-sinus]]** | Main inflow; drains the [[vein-of-galen]] → straight sinus and superior [[cerebral-veins|sagittal sinus]] via torcular |
 | **[[superior-petrosal-vein]]** | Drains the [[cerebellopontine-cistern]]; enters at the transverse-sigmoid junction |
 | **Superior petrosal sinus** | Drains the [[cavernous-sinus]]; enters along the [[tentorium-cerebelli|tentorial]] attachment at the petrous ridge |
 | **Mastoid emissary vein** | Connects to extracranial occipital veins |

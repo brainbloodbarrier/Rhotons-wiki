@@ -81,3 +81,12 @@ During any paraclinoid aneurysm surgery, the superior hypophyseal arteries must 
 - Forms: circuminfundibular anastomosis (portal system)
 - Adjacent to: [[anterior-clinoid-process]], [[sellar-region]], diaphragma sellae
 - Aneurysm approach: [[pterional-approach]], [[orbitozygomatic-approach]]
+
+## Figures (Rhoton 2023)
+
+![[p2c02-the-supratentorial-arteries-p256-fig-014-92f9f9cc.jpg]]
+*Anatomical diagrams of the [[internal-carotid-artery|internal carotid artery]] (ICA) showing its segments (C1-C4) and terminal b... — p. 256*
+
+![[p2c02-the-supratentorial-arteries-p257-fig-087-6d939b48.jpg]]
+*Fig. 2.2 — Lateral (A) and anterior (B) views of the left [[internal-carotid-artery|internal carotid artery]] (ICA) and its segments — p. 257*
+

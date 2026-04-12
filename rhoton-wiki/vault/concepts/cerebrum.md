@@ -126,7 +126,7 @@ The medial temporal lobe is the most common resection target for epilepsy surger
 
 **Standard temporal lobectomy steps:**
 1. Lateral neocortical exposure and removal
-2. Medial disconnection via opening [[choroidal-fissure]] (divide taenia fimbria; choroid plexus stays with [[thalamus]])
+2. Medial disconnection via opening [[choroidal-fissure]] (divide taenia fimbria; [[choroid-plexus|choroid plexus]] stays with [[thalamus]])
 3. Anterior disconnection — separate hippocampal head from amygdala using uncal recess
 4. Posterior disconnection — section [[hippocampus]] and parahippocampal gyrus to extent indicated by electrophysiology
 5. Remove remaining amygdala anterior to uncal recess; preserve small superior portion near [[optic-tract]], [[anterior-choroidal-artery|AChA]], and lentiform nucleus
@@ -136,3 +136,195 @@ The medial temporal lobe is the most common resection target for epilepsy surger
 ## References
 
 - Rhoton, Ch.1 — The Cerebrum, Figs. 1.1–1.19
+
+## Figures (Rhoton 2023)
+
+![[p2c01-the-cerebrum-p151-fig-040-988f2b0a.jpg]]
+*Fig. 1.1 — Lateral view of the right cerebral hemisphere — p. 151*
+
+![[p2c01-the-cerebrum-p153-fig-015-8d21ec03.jpg]]
+*Six panels (A-F) showing anatomical structures of the human brain with labels — p. 153*
+
+![[p2c01-the-cerebrum-p154-fig-001-1c4a3274.jpg]]
+*Anatomical specimen I: Medial view of the brain showing the central sulcus, atrium of the lateral ve... — p. 154*
+
+![[p2c01-the-cerebrum-p154-fig-004-bcae892c.jpg]]
+*Anatomical specimen J: Lateral view of the brain showing the central sulcus, intraparietal sulcus, s... — p. 154*
+
+![[p2c01-the-cerebrum-p154-fig-009-1aeb1d8e.jpg]]
+*Anatomical specimen H: Deep medial view of the brain showing the [[septum-pellucidum|septum pellucidum]], choroid fissure,... — p. 154*
+
+![[p2c01-the-cerebrum-p154-fig-017-1fac367c.jpg]]
+*Anatomical specimen L: Lateral view of the brain showing the central sulcus, [[falx-cerebri|falx]], calcar sulcus, at... — p. 154*
+
+![[p2c01-the-cerebrum-p154-fig-029-d796aff5.jpg]]
+*Anatomical specimen G: Medial view of the brain showing the cingulate gyrus, [[corpus-callosum|corpus callosum]], anteri... — p. 154*
+
+![[p2c01-the-cerebrum-p154-fig-052-6798643f.jpg]]
+*Anatomical specimen K: Posterior view of the brain showing the parieto-occipital sulcus, cuneus, cal... — p. 154*
+
+![[p2c01-the-cerebrum-p155-fig-011-6d234c3d.jpg]]
+*Anatomical dissection of the brain, medial view, showing the splenium, [[hippocampus|hippocampus]], and choroid plex... — p. 155*
+
+![[p2c01-the-cerebrum-p155-fig-020-24bd870e.jpg]]
+*Anatomical dissection of the brain, medial view, showing the cingulate gyrus, [[septum-pellucidum|septum pellucidum]], and... — p. 155*
+
+![[p2c01-the-cerebrum-p155-fig-023-9d6d7452.jpg]]
+*Anatomical dissection of the brain, medial view, showing the genu, [[basal-ganglia|caudate nucleus]], and thalamus — p. 155*
+
+![[p2c01-the-cerebrum-p155-fig-028-25396460.jpg]]
+*Anatomical dissection of the brain, medial view, showing the cingulate sulcus, frontal horn, and tem... — p. 155*
+
+![[p2c01-the-cerebrum-p155-fig-041-21b68dd8.jpg]]
+*Anatomical dissection of the brain, medial view, showing the [[septum-pellucidum|septum pellucidum]], foramen of Monro, an... — p. 155*
+
+![[p2c01-the-cerebrum-p155-fig-053-8672dacb.jpg]]
+*Anatomical dissection of the brain, medial view, showing the body of the [[fornix|fornix]], septum pellucidum, ... — p. 155*
+
+![[p2c01-the-cerebrum-p156-fig-024-53b70c2f.jpg]]
+*Fig. 1.2 — Stepwise dissection of the left cerebral hemisphere — p. 156*
+
+![[p2c01-the-cerebrum-p161-fig-034-64f788a6.jpg]]
+*Six anatomical diagrams (A-F) showing different views of the human brain: A (lateral view), B (anter... — p. 161*
+
+![[p2c01-the-cerebrum-p165-fig-022-32ade4bb.jpg]]
+*Six panels (A-F) showing anatomical structures of the human brain with labels such as Olf — p. 165*
+
+![[p2c01-the-cerebrum-p166-fig-036-09bdbcbb.jpg]]
+*Four panels (G, H, I, J) showing anatomical structures of the brain, including the anterior perforat... — p. 166*
+
+![[p2c01-the-cerebrum-p173-fig-038-5099d1e0.jpg]]
+*Fig. 1.5 — Relationships between the medial and lateral surface of the right cerebrum — p. 173*
+
+![[p2c01-the-cerebrum-p175-fig-005-1cb0004d.jpg]]
+*Anatomical photograph of the human brain, lateral view of the left hemisphere, showing the precentra... — p. 175*
+
+![[p2c01-the-cerebrum-p175-fig-014-23ec0238.jpg]]
+*Anatomical photograph of the human brain, lateral view of the left hemisphere, showing the central s... — p. 175*
+
+![[p2c01-the-cerebrum-p175-fig-016-d42c124b.jpg]]
+*Anatomical photograph of the human brain, anterior view of the frontal lobes, showing the superior, ... — p. 175*
+
+![[p2c01-the-cerebrum-p175-fig-027-6a0de365.jpg]]
+*Anatomical photograph of the human brain, lateral view of the left hemisphere, showing the frontal l... — p. 175*
+
+![[p2c01-the-cerebrum-p175-fig-035-3d143942.jpg]]
+*Anatomical photograph of the human brain, lateral view of the right hemisphere, showing the central ... — p. 175*
+
+![[p2c01-the-cerebrum-p175-fig-046-b08d21e5.jpg]]
+*Anatomical photograph of the human brain, medial view of the left hemisphere, showing the cingulate ... — p. 175*
+
+![[p2c01-the-cerebrum-p176-fig-050-caad5043.jpg]]
+*Four panels (G, H, I, J) showing different views of the human brain with anatomical labels — p. 176*
+
+![[p2c01-the-cerebrum-p181-fig-032-951e18fe.jpg]]
+*Six panels (A-F) showing anatomical structures of the human brain, including the cingulate gyrus, pa... — p. 181*
+
+![[p2c01-the-cerebrum-p182-fig-045-4617a806.jpg]]
+*Fig. 1.7 — Five anatomical photographs (G-K) showing the medial surface of the right cerebral hemisphere with various structures... — p. 182*
+
+![[p2c01-the-cerebrum-p190-fig-059-f20f392f.jpg]]
+*Six panels (A-F) showing coronal sections of the human brain with anatomical labels — p. 190*
+
+![[p2c01-the-cerebrum-p191-fig-008-08b50a37.jpg]]
+*Anatomical dissection K showing the lateral view of the brain with labels for Quad — p. 191*
+
+![[p2c01-the-cerebrum-p191-fig-018-265a328d.jpg]]
+*Anatomical dissection H showing the medial view of the brain with labels for [[thalamus|Thalamus]], Med — p. 191*
+
+![[p2c01-the-cerebrum-p191-fig-051-a34b5c10.jpg]]
+*Anatomical dissection L showing the medial view of the brain with labels for Bulb, Calcar Avis, Crus... — p. 191*
+
+![[p2c01-the-cerebrum-p191-fig-054-14fe8760.jpg]]
+*Anatomical dissection J showing the medial view of the brain with labels for Bulb, Calcar Avis, Dent — p. 191*
+
+![[p2c01-the-cerebrum-p191-fig-055-84945670.jpg]]
+*Anatomical dissection I showing the lateral view of the brain with labels for Crus, Dent — p. 191*
+
+![[p2c01-the-cerebrum-p191-fig-057-e7441579.jpg]]
+*Anatomical dissection G showing the lateral view of the brain with labels for [[insula|Insula]], Putamen, Ext — p. 191*
+
+![[p2c01-the-cerebrum-p192-fig-012-14ab0cc5.jpg]]
+*Four panels (M, N, O, P) showing a stepwise dissection of the cerebral hemispheres — p. 192*
+
+![[p2c01-the-cerebrum-p196-fig-003-60ab7584.jpg]]
+*Anatomical dissection of the brain showing the left hemisphere and the medial view of the right hemi... — p. 196*
+
+![[p2c01-the-cerebrum-p196-fig-021-8b033654.jpg]]
+*Anatomical dissection of the brain showing the medial view of both hemispheres — p. 196*
+
+![[p2c01-the-cerebrum-p196-fig-049-d2c023c1.jpg]]
+*Anatomical dissection of the brain showing the medial view of both hemispheres — p. 196*
+
+![[p2c01-the-cerebrum-p196-fig-056-2f84756a.jpg]]
+*Anatomical dissection of the brain showing the lateral view of the left hemisphere and the medial vi... — p. 196*
+
+![[p2c01-the-cerebrum-p197-fig-026-31b44404.jpg]]
+*Four panels (E, F, G, H) showing anatomical structures of the brain, including the [[thalamus|thalamus]], amygdal... — p. 197*
+
+![[p2c01-the-cerebrum-p202-fig-007-9b997372.jpg]]
+*Fig. 1.10 — Medial surface of the [[cerebral-lobes|temporal lobe]] and uncus — p. 202*
+
+![[p2c01-the-cerebrum-p206-fig-013-d2989d82.jpg]]
+*Fig. 1.11 — Five panels (A-E) showing the orbital surface of the [[cerebral-lobes|frontal lobe]] with anatomical labels — p. 206*
+
+![[p2c01-the-cerebrum-p209-fig-037-4cfdb526.jpg]]
+*Fig. 1.12 — Central core of the hemisphere — p. 209*
+
+![[p2c01-the-cerebrum-p211-fig-031-5f56221e.jpg]]
+*Six panels (A-F) showing anatomical structures of the human brain with labels such as Precent — p. 211*
+
+![[p2c01-the-cerebrum-p212-fig-033-1064f27a.jpg]]
+*Fig. 1.13 — Stepwise dissection of the central core of the hemisphere — p. 212*
+
+![[p2c01-the-cerebrum-p217-fig-006-c1bbfcb3.jpg]]
+*Anatomical dissection of the brain, medial view of the right hemisphere (B) — p. 217*
+
+![[p2c01-the-cerebrum-p217-fig-042-cf00634b.jpg]]
+*Anatomical dissection of the brain, medial view of the left hemisphere (A) — p. 217*
+
+![[p2c01-the-cerebrum-p217-fig-048-294f895f.jpg]]
+*Anatomical dissection of the brain, coronal section (D) — p. 217*
+
+![[p2c01-the-cerebrum-p217-fig-058-60e3e11f.jpg]]
+*Anatomical dissection of the brain, coronal section (C) — p. 217*
+
+![[p2c01-the-cerebrum-p218-fig-030-21e72fb0.jpg]]
+*Four axial cross-sections of the brain (E, F, G, H) showing various structures — p. 218*
+
+![[p2c01-the-cerebrum-p220-fig-000-7e8bd226.jpg]]
+*Lateral view of the brain with labels: Cent — p. 220*
+
+![[p2c01-the-cerebrum-p220-fig-039-1ddc0945.jpg]]
+*Medial view of the brain showing internal structures: Cent — p. 220*
+
+![[p2c01-the-cerebrum-p220-fig-043-6efc9c0b.jpg]]
+*Lateral view of the human brain with labels: Precent — p. 220*
+
+![[p2c01-the-cerebrum-p220-fig-060-f1e23818.jpg]]
+*Coronal section of the brain with labels: Corona Rad., Front — p. 220*
+
+![[p2c01-the-cerebrum-p221-fig-002-5bd22c10.jpg]]
+*Four panels (E, F, G, H) showing stepwise [[white-matter-tracts|fiber dissection]] of the left cerebral hemisphere — p. 221*
+
+![[p2c01-the-cerebrum-p224-fig-044-1712bf6a.jpg]]
+*Six panels (A-F) showing coronal sections of the human brain with anatomical labels — p. 224*
+
+![[p2c01-the-cerebrum-p225-fig-019-51ca2265.jpg]]
+*Fig. 1.16 — Stepwise [[white-matter-tracts|fiber dissection]] of the left cerebral hemisphere — p. 225*
+
+![[p2c01-the-cerebrum-p230-fig-061-e5aeeb3d.jpg]]
+*Fig. 1.17 — Relationship of the cranial sutures and the cortical surfaces — p. 230*
+
+![[p2c01-the-cerebrum-p234-fig-047-541d8f40.jpg]]
+*Anatomical diagram of a human head in profile, showing various landmarks for scalp marking — p. 234*
+
+![[p2c01-the-cerebrum-p239-fig-010-f675ed84.jpg]]
+*Six panels (A-F) showing anatomical structures of the brain, including [[cerebral-lobes|temporal lobe]], hippocampus, c... — p. 239*
+
+![[p2c01-the-cerebrum-p240-fig-025-4d6b771d.jpg]]
+*Four panels (G, H, I, J) showing surgical dissection of the brain during temporal lobectomy — p. 240*
+
+![[p2c01-the-cerebrum-p247-fig-062-bc9fb4d4.jpg]]
+*Anatomical engraving of the inferior surface of the human brain from Thomas Willis's 1664 'Cerebri A... — p. 247*
+

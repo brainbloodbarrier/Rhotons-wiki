@@ -31,7 +31,7 @@ The ascending pharyngeal artery (APhA) is the smallest named branch of the [[ext
 
 ### Neuromeningeal Trunk
 - **Jugular branch** — enters the [[jugular-foramen]] to supply dura, CN IX-XI vasa nervorum, and the jugular bulb wall
-- **Hypoglossal branch** — enters the hypoglossal canal alongside CN XII
+- **Hypoglossal branch** — enters the [[hypoglossal-canal|hypoglossal canal]] alongside CN XII
 - **Clival branches** — supply [[clivus|clival]] and [[foramen-magnum|foramen magnum]] dura
 
 ### Inferior Tympanic Artery

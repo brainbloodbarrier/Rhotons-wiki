@@ -36,7 +36,7 @@ The skull base contains numerous foramina through which cranial nerves, arteries
 | **Cribriform plate foramina** | Ethmoid | [[olfactory-nerve|CN I]] (olfactory nerve filaments) | [[cranial-base]] |
 | **Anterior ethmoidal foramen** | Frontoethmoidal suture | Anterior ethmoidal artery ([[ophthalmic-artery]]), anterior ethmoidal nerve | [[paranasal-sinuses]] |
 | **Posterior ethmoidal foramen** | Frontoethmoidal suture | [[ethmoidal-arteries|Posterior ethmoidal artery]] ([[ophthalmic-artery]]), posterior ethmoidal nerve | [[paranasal-sinuses]] |
-| **Foramen cecum** | Frontal/ethmoid junction | Emissary vein (nasal → superior sagittal sinus) | [[dural-venous-sinuses]] |
+| **Foramen cecum** | Frontal/ethmoid junction | Emissary vein (nasal → superior [[cerebral-veins|sagittal sinus]]) | [[dural-venous-sinuses]] |
 
 ## Middle Cranial Fossa
 
@@ -59,7 +59,7 @@ The skull base contains numerous foramina through which cranial nerves, arteries
 | **[[jugular-foramen]] — petrous part** | Temporal/occipital | [[lower-cranial-nerves|CN IX]], inferior petrosal sinus | [[lower-cranial-nerves]] |
 | **Jugular foramen — intrajugular part** | Temporal/occipital | [[lower-cranial-nerves|CN X, XI]] | [[lower-cranial-nerves]] |
 | **Jugular foramen — sigmoid part** | Temporal/occipital | [[sigmoid-sinus]] → internal jugular vein ([[dural-venous-sinuses]]) | [[dural-venous-sinuses]] |
-| **Hypoglossal canal** | Occipital (condylar part) | [[lower-cranial-nerves|CN XII]] | [[foramen-magnum]] |
+| **[[hypoglossal-canal|Hypoglossal canal]]** | Occipital (condylar part) | [[lower-cranial-nerves|CN XII]] | [[foramen-magnum]] |
 | **[[foramen-magnum]]** | Occipital | Medulla ([[brainstem]]), [[vertebral-artery|vertebral arteries]], [[lower-cranial-nerves|CN XI]] (spinal part), [[meninges]] | [[foramen-magnum]] |
 | **Posterior condylar canal** | Occipital (behind condyle) | Emissary vein (vertebral plexus → sigmoid sinus) | [[foramen-magnum]] |
 | **Mastoid foramen** | [[temporal-bone]] (mastoid) | Emissary vein (sigmoid sinus → occipital vein) | [[temporal-bone]] |

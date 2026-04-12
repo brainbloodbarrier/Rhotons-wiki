@@ -62,7 +62,7 @@ The optic nerve is one of the first structures identified. The **opticocarotid t
 The optic nerves and chiasm form the superior boundary of the [[sellar-region]]. Suprasellar extension of pituitary adenomas compresses the chiasm from below, producing bitemporal hemianopia.
 
 ### Anterior clinoidectomy
-Removing the anterior clinoid process unroofs the optic canal, decompressing the nerve. Required for paraclinoid ICA aneurysms and some [[cavernous-sinus]] lesions.
+Removing the anterior clinoid process unroofs the optic canal, decompressing the nerve. Required for [[paraclinoid-ica|paraclinoid ICA]] aneurysms and some [[cavernous-sinus]] lesions.
 
 ### Interhemispheric approach ([[interhemispheric-approach]])
 The anterior variant provides access to the suprasellar region where the optic nerves converge at the [[optic-chiasm]].

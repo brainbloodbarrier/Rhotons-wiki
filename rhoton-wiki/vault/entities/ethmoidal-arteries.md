@@ -33,8 +33,8 @@ Both arteries arise from the [[ophthalmic-artery]] beneath the [[extraocular-mus
 - **Larger** of the two
 - Passes through the **anterior ethmoidal canal** with the anterior ethmoidal nerve (branch of V1 nasociliary)
 - Crosses near the **anterior edge** of the cribriform plate on the floor of the anterior cranial fossa
-- Gives rise to the **anterior falx artery** — runs between and supplies the anterior portion of the [[falx-cerebri]] and walls of the superior sagittal sinus
-- Passes through the cribriform plate to supply the anterior nasal cavity, ethmoidal sinuses, and frontal sinus infundibulum
+- Gives rise to the **anterior falx artery** — runs between and supplies the anterior portion of the [[falx-cerebri]] and walls of the superior [[cerebral-veins|sagittal sinus]]
+- Passes through the cribriform plate to supply the anterior [[sellar-region|nasal cavity]], ethmoidal sinuses, and frontal sinus infundibulum
 
 ### Posterior Ethmoidal Artery (PEA)
 - Usually **smaller** than the AEA
@@ -71,7 +71,7 @@ The interval between the ethmoidal arteries defines the extent of the ethmoidal 
 The ethmoidal arteries must be identified and controlled during:
 
 - **[[endoscopic-endonasal-approach]] (transcribriform module)** — the AEA marks the posterior limit of the frontal sinus and the anterior limit of the cribriform plate; it must be coagulated and divided for olfactory groove meningioma resection
-- **Subfrontal craniotomy** — the ethmoidal arteries cross the floor of the anterior fossa at the level of the cribriform plate
+- **Subfrontal [[surgical-approaches-overview|craniotomy]]** — the ethmoidal arteries cross the floor of the anterior fossa at the level of the cribriform plate
 - **Orbital decompression** — the ethmoidal foramina mark the level of the anterior fossa floor
 
 ### Epistaxis
@@ -91,3 +91,9 @@ The ethmoidal arteries cross the cribriform plate adjacent to the [[olfactory-ne
 - Landmark for: [[endoscopic-endonasal-approach]], anterior skull base surgery
 - Adjacent to: [[olfactory-nerve]], cribriform plate, lamina papyracea
 - Accompanies: anterior/posterior ethmoidal nerves (V1)
+
+## Figures (Rhoton 2023)
+
+![[p2c02-the-supratentorial-arteries-p394-fig-004-723f3d57.jpg]]
+*Anatomical illustration of a human head and neck showing internal structures like the brain, muscles... — p. 394*
+

@@ -33,7 +33,7 @@ The pineal gland (epiphysis cerebri) is a small neuroendocrine structure attache
 - **Anterior**: posterior commissure, third ventricle
 - **Lateral**: pulvinar of the [[thalamus]]
 
-The pineal gland sits at the junction of the posterior incisural space and serves as a surface landmark for the posterior [[thalamus]] margin — the foramen of Monro at one end and the pineal at the other approximate the deep anteroposterior extent of the thalamus.
+The pineal gland sits at the junction of the [[posterior-incisural-space|posterior incisural space]] and serves as a surface landmark for the posterior [[thalamus]] margin — the foramen of Monro at one end and the pineal at the other approximate the deep anteroposterior extent of the thalamus.
 
 ## Quadrigeminal Cistern
 

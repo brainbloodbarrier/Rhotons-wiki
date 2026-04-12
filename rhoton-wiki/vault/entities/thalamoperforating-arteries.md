@@ -79,8 +79,8 @@ The thalamoperforating arteries are part of the broader [[perforating-arteries]]
 | **Thalamoperforating** | P1, basilar tip | Medial thalamus, midbrain |
 | **Thalamogeniculate** | P2 segment of PCA | Lateral thalamus, geniculate bodies |
 | Premamillary (anterior thalamoperforating) | [[posterior-communicating-artery]] | Anterior/ventrolateral thalamus |
-| [[lenticulostriate-arteries]] | MCA M1 | [[basal-ganglia]], internal capsule |
-| [[recurrent-artery-of-heubner]] | ACA A2 | Caudate head, anterior limb |
+| [[lenticulostriate-arteries]] | [[middle-cerebral-artery|MCA]] M1 | [[basal-ganglia]], internal capsule |
+| [[recurrent-artery-of-heubner]] | [[anterior-cerebral-artery|ACA]] A2 | Caudate head, anterior limb |
 
 ## Connections
 

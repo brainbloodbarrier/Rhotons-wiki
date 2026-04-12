@@ -77,8 +77,8 @@ Alternative pathway: thalamic surface veins → [[basal-vein-of-rosenthal]] dire
 | Feature | [[retrosigmoid-approach]] | [[middle-fossa-approach]] |
 |---|---|---|
 | Direction | Posterior → anterior | Superior → inferior |
-| Bone removed | Retrosigmoid craniotomy | [[temporal-bone|Tegmen]] elevation |
-| IAC exposure | Posterior wall drilled; full length | Roof drilled; fundus to porus |
+| Bone removed | Retrosigmoid [[surgical-approaches-overview|craniotomy]] | [[temporal-bone|Tegmen]] elevation |
+| [[internal-auditory-canal|IAC]] exposure | Posterior wall drilled; full length | Roof drilled; fundus to porus |
 | Hearing preservation | Good (BAEP monitoring) | Best (<2 cm tumor) |
 | CN VII relation | CN VII anterior in IAC | Bill's bar separates VII from VIII |
 | Key risk | [[superior-petrosal-vein]] sacrifice | [[greater-petrosal-nerve|GSPN]] and [[facial-nerve|geniculate ganglion]] injury |

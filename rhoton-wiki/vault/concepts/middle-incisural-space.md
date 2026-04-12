@@ -24,16 +24,16 @@ The middle incisural space is a paired compartment located lateral to the [[brai
 
 ## Neural Relationships
 
-The medial wall is formed by the midbrain and the lateral wall by the medial surface of the temporal lobe, specifically the [[hippocampus]], [[parahippocampal-gyrus]], and [[dentate-gyrus]]. The [[internal-capsule]] posterior limb and [[lentiform-nucleus]] are located directly above this space.
+The medial wall is formed by the midbrain and the lateral wall by the medial surface of the [[cerebral-lobes|temporal lobe]], specifically the [[hippocampus]], [[parahippocampal-gyrus]], and [[dentate-gyrus]]. The [[internal-capsule]] posterior limb and [[lentiform-nucleus]] are located directly above this space.
 
-> The middle incisural space is located between the midbrain and tentorial edge, opens upward into the ambient and crural cisterns, and extends inferiorly into the anterior part of the cerebellomesencephalic fissure. (Rhoton 2023, p. 1262)
+> The middle incisural space is located between the midbrain and tentorial edge, opens upward into the ambient and crural [[basal-cisterns|cisterns]], and extends inferiorly into the anterior part of the cerebellomesencephalic fissure. (Rhoton 2023, p. 1262)
 
 ## Arterial Relationships
 
 - The [[posterior-cerebral-artery]] P2 segment courses through this space
 - The [[superior-cerebellar-artery]] passes below the free edge
 - The [[anterior-choroidal-artery]] runs along the medial temporal lobe
-- Perforating branches to the [[thalamus]] and midbrain arise here
+- [[perforating-arteries|Perforating branches]] to the [[thalamus]] and midbrain arise here
 
 ## Cranial Nerve Relationships
 

@@ -29,7 +29,7 @@ The clivus is formed by two bones joined at the spheno-occipital synchondrosis:
 | Segment | Bone | Relations |
 |---|---|---|
 | **Upper clivus** | Body of [[sphenoid-bone]] | Continuous with dorsum sellae, posterior clinoid processes; [[sellar-region]] above |
-| **Lower clivus** | Basal part of occipital bone | Slopes to [[foramen-magnum]]; occipital condyles laterally |
+| **Lower clivus** | Basal part of occipital bone | Slopes to [[foramen-magnum]]; [[occipital-condyle|occipital condyles]] laterally |
 
 The spheno-occipital synchondrosis fuses between ages 12–20 and is a common site for chordomas.
 

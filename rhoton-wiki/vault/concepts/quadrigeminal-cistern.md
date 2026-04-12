@@ -21,7 +21,7 @@ parent: "[[basal-cisterns]]"
 
 # Quadrigeminal Cistern
 
-The quadrigeminal cistern (cistern of the great cerebral vein) occupies the posterior incisural space behind the [[brainstem|midbrain]] tectum, between the [[cerebellum]] (superior vermis) and the splenium of the [[corpus-callosum]]. It is the convergence point of the [[deep-venous-system]]: the [[internal-cerebral-veins]] and [[basal-vein-of-rosenthal]] join to form the [[vein-of-galen]] within this cistern. The [[pineal-region|pineal gland]] projects into it. The [[supracerebellar-infratentorial-approach]] reaches this cistern from below.
+The quadrigeminal cistern (cistern of the great cerebral vein) occupies the [[posterior-incisural-space|posterior incisural space]] behind the [[brainstem|midbrain]] tectum, between the [[cerebellum]] (superior vermis) and the splenium of the [[corpus-callosum]]. It is the convergence point of the [[deep-venous-system]]: the [[internal-cerebral-veins]] and [[basal-vein-of-rosenthal]] join to form the [[vein-of-galen]] within this cistern. The [[pineal-region|pineal gland]] projects into it. The [[supracerebellar-infratentorial-approach]] reaches this cistern from below.
 
 ## Boundaries
 - **Anterior** — [[brainstem|tectal plate]] (superior and inferior colliculi)
@@ -73,3 +73,9 @@ The quadrigeminal cistern (cistern of the great cerebral vein) occupies the post
 - [[cerebral-aqueduct]] — Compressed by pineal tumors
 - [[trochlear-nerve]] — Exits dorsal midbrain here
 - [[cistern-approach-map]] — Quadrigeminal cistern corridors
+
+## Figures (Rhoton 2023)
+
+![[p3c10-the-posterior-fossa-cisterns-p1613-fig-002-4fc2831a.jpg]]
+*Fig. 10.4 — Four anatomical illustrations (A, B, C, D) showing the preoptine, cerebellopontine, cerebellomedullary, and premedull... — p. 1613*
+

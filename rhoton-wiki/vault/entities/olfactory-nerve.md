@@ -52,7 +52,7 @@ At the posterior end of the tract, it expands into the olfactory trigone and div
 
 ### Olfactory groove meningiomas
 Arise from the dura over the cribriform plate and planum sphenoidale ([[sphenoid-bone]]). They grow between the frontal lobes, displacing the olfactory tracts laterally. Often large at diagnosis due to "silent" location. Approaches:
-- **Bifrontal craniotomy** — bilateral subfrontal exposure; the olfactory tracts are usually sacrificed (bilateral anosmia)
+- **Bifrontal [[surgical-approaches-overview|craniotomy]]** — bilateral subfrontal exposure; the olfactory tracts are usually sacrificed (bilateral anosmia)
 - **[[pterional-approach]]** — unilateral subfrontal exposure; may preserve contralateral olfaction
 - **Endoscopic endonasal** ([[transsphenoidal-approach]] extended) — approaching from below through the [[paranasal-sinuses]] and cribriform plate
 

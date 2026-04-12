@@ -55,7 +55,7 @@ Formed near the [[anterior-perforated-substance]] by the junction of:
 - **Deep middle cerebral (insular) veins** — from the [[insula]] and [[sylvian-fissure]]
 - **Inferior striate veins** — from the [[basal-ganglia]]
 
-The basal vein courses posteriorly around the [[brainstem]] through the crural and ambient cisterns (middle incisural space of the [[tentorial-incisura]]), paralleling the [[posterior-cerebral-artery|PCA]], before joining the vein of Galen.
+The basal vein courses posteriorly around the [[brainstem]] through the crural and ambient cisterns ([[middle-incisural-space|middle incisural space]] of the [[tentorial-incisura]]), paralleling the [[posterior-cerebral-artery|PCA]], before joining the vein of Galen.
 
 ## Drainage
 
@@ -98,4 +98,4 @@ Thrombosis of the internal cerebral veins or vein of Galen causes bilateral thal
 
 - Rhoton, Ch.4 — The Cerebral Veins (internal cerebral veins, basal vein, [[deep-venous-system]])
 - Rhoton, Ch.5 — The Lateral and Third Ventricles (velum interpositum, transchoroidal approach)
-- Rhoton, Ch.14 — Tentorial Incisura (posterior incisural space, pineal region venous anatomy)
+- Rhoton, Ch.14 — Tentorial Incisura ([[posterior-incisural-space|posterior incisural space]], pineal region venous anatomy)

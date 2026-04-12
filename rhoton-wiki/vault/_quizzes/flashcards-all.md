@@ -3,10 +3,7 @@ title: Rhoton Flashcards
 category: meta
 tags:
   - quiz
-  - flashcards
----
-
-# Rhoton Neuroanatomy Flashcards
+---Rhoton Neuroanatomy Flashcards
 
 *329 cards generated from 144 vault pages*
 
@@ -265,7 +262,7 @@ tags:
 ### Card 37
 **Q:** What is the Subtemporal Approach?
 
-**A:** Middle incisural space, basilar apex, tentorial division
+**A:** [[middle-incisural-space|Middle incisural space]], basilar apex, tentorial division
 
 ---
 
@@ -930,7 +927,7 @@ tags:
 ### Card 132
 **Q:** Surgical significance of the Choroidal Fissure?
 
-**A:** - **The single most important natural corridor to the third ventricle**
+**A:** - **The single most important natural corridor to the [[lateral-and-third-ventricles|third ventricle]]**
 
 ---
 
@@ -1602,7 +1599,7 @@ tags:
 ### Card 228
 **Q:** What is the [[occipital-artery]]?
 
-**A:** ECA branch, far-lateral landmark, EC-IC bypass donor
+**A:** [[external-carotid-artery|ECA]] branch, far-lateral landmark, EC-IC bypass donor
 
 ---
 

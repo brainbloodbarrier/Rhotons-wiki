@@ -44,13 +44,13 @@ The larger venous compartment, receiving the drainage of the [[sigmoid-sinus]]:
 
 ### Petrosal Part (Anteromedial)
 The smaller venous compartment, receiving drainage of the inferior petrosal sinus:
-- Forms a characteristic **venous confluens** by also receiving tributaries from the hypoglossal canal, petroclival fissure, and vertebral venous plexus
+- Forms a characteristic **venous confluens** by also receiving tributaries from the [[hypoglossal-canal|hypoglossal canal]], petroclival fissure, and vertebral venous plexus
 - The petrosal part empties into the sigmoid part through an opening in the medial wall of the jugular bulb, between CN IX anteriorly and CN X/XI posteriorly
 - The **pyramidal fossa** — a small triangular recess on the medial side of the intrajugular process — extends forward along the anterior wall; the cochlear aqueduct opens into its apex
 
 ### Intrajugular (Neural) Part
 Located between the sigmoid and petrosal parts at the site of the intrajugular processes:
-- **Intrajugular processes** of the temporal and occipital bones project toward each other, joined by a fibrous (or rarely osseous) bridge — the intrajugular septum
+- **Intrajugular processes** of the temporal and occipital bones project toward each other, joined by a fibrous (or rarely osseous) bridge — the intrajugular [[septum-pellucidum|septum]]
 - The temporal bone process is more prominent and has an **intrajugular ridge** extending forward along the medial side of the jugular bulb
 - **[[lower-cranial-nerves|CN IX]]** — courses along the medial edge of the intrajugular process and ridge; may be enclosed in a bony canal if the ridge reaches the temporal bone
 - **[[lower-cranial-nerves|CN X and XI]]** — penetrate the dura on the medial side of the intrajugular process, then descend immediately (do not course forward like CN IX)
@@ -86,7 +86,7 @@ The foramen's long axis runs posterolateral to anteromedial, with the [[temporal
 | CN XI (accessory) | Pars vascularis | Sternocleidomastoid, trapezius |
 | Jugular bulb | Pars vascularis | Internal jugular vein → neck |
 | Inferior petrosal sinus | Pars nervosa | Drains [[cavernous-sinus]] to jugular bulb |
-| Ascending pharyngeal artery (meningeal branches) | Both | Posterior fossa dura |
+| [[ascending-pharyngeal-artery|Ascending pharyngeal artery]] (meningeal branches) | Both | Posterior fossa dura |
 
 ## Extracranial Relations
 
@@ -134,3 +134,45 @@ High-riding jugular bulb — a common anatomical variant where the bulb extends 
 - Drains: [[dural-venous-sinuses|sigmoid sinus]] → jugular bulb → internal jugular vein
 - Receives: inferior petrosal sinus from [[cavernous-sinus]]
 - Part of: [[skull-base-foramina]] (posterior fossa group)
+
+## Figures (Rhoton 2023)
+
+![[p3c09-jugular-foramen-p1557-fig-003-406fb8b7.jpg]]
+*Fig. 9.1 — Four views (A, B, C, D) of the jugular foramen and surrounding osseous structures — p. 1557*
+
+![[p3c09-jugular-foramen-p1559-fig-009-eceb2af0.jpg]]
+*Fig. 9.1 — Four anatomical photographs (E-H) of the jugular foramen — p. 1559*
+
+![[p3c09-jugular-foramen-p1561-fig-004-3360c8ba.jpg]]
+*Fig. 9.2 — Osseous relationships — p. 1561*
+
+![[p3c09-jugular-foramen-p1566-fig-006-ddaeb851.jpg]]
+*Fig. 9.3 — Six panels (A-F) showing anatomical views of the jugular foramen and surrounding structures — p. 1566*
+
+![[p3c09-jugular-foramen-p1570-fig-005-6ce7d820.jpg]]
+*Four panels (A-D) showing a stepwise dissection of the jugular foramen area — p. 1570*
+
+![[p3c09-jugular-foramen-p1572-fig-002-e7e87e5f.jpg]]
+*Four anatomical photographs (E, F, G, H) showing the [[foramen-magnum|suboccipital]] region with various structures lab... — p. 1572*
+
+![[p3c09-jugular-foramen-p1574-fig-007-33f42baf.jpg]]
+*Fig. 9.4 — Six anatomical photographs (I-N) showing the middle ear and mastoid cavity — p. 1574*
+
+![[p3c09-jugular-foramen-p1578-fig-001-aac011df.jpg]]
+*Fig. 9.5 — Four panels (A, B, C, D) showing anatomical views of the jugular foramen and surrounding structures — p. 1578*
+
+![[p3c09-jugular-foramen-p1580-fig-012-bf33d895.jpg]]
+*Fig. 9.6 — [[retrosigmoid-approach|Retrosigmoid approach]] to jugular foramen — p. 1580*
+
+![[p3c09-jugular-foramen-p1585-fig-008-1eab1193.jpg]]
+*Fig. 9.7 — Four panels (A-D) showing the postauricular exposure of the jugular foramen — p. 1585*
+
+![[p3c09-jugular-foramen-p1587-fig-010-70227caf.jpg]]
+*Four anatomical photographs (E-H) showing the internal jugular foramen and surrounding structures — p. 1587*
+
+![[p3c09-jugular-foramen-p1594-fig-000-0f0d15a3.jpg]]
+*Anatomical engraving of the human cranial cavity, viewed from above, showing the [[posterior-fossa|posterior fossa]] str... — p. 1594*
+
+![[p3c09-jugular-foramen-p1595-fig-011-dafe0301.jpg]]
+*A detailed anatomical drawing by Leonardo da Vinci, showing a sagittal section of the human head — p. 1595*
+

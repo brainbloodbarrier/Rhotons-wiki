@@ -7,8 +7,9 @@ tags:
   - synthesis
   - rhoton
 aliases:
-  - approach selection
-  - surgical corridors
+  - "approach selection"
+  - "surgical corridors"
+  - craniotomy
 parent: [[microsurgical-anatomy-principles]]
 contains:
   - "[[pterional-approach]]"
@@ -22,9 +23,7 @@ created: 2026-04-09
 updated: 2026-04-09
 summary: >-
   Approach-target matrix, selection principles
----
-
-# Surgical Approaches Overview
+---Surgical Approaches Overview
 
 This page synthesizes the surgical approaches described in Rhoton's work, organizing them by target region to guide approach selection. Each approach exploits natural corridors — fissures, cisterns, and anatomical planes — to minimize brain retraction and preserve neurovascular structures.
 
@@ -98,7 +97,7 @@ All approaches follow subarachnoid cisterns ([[basal-cisterns]]). Opening cister
 ### 4. Skull base modifications
 Cranial base resection (orbitozygomatic, petrosectomy, condylectomy) provides lower angles of exposure that reduce brain retraction:
 - **Orbitozygomatic** — extends [[pterional-approach]] inferiorly for basilar apex
-- **Anterior petrosectomy (Kawase)** — extends [[subtemporal-approach]] to the [[clivus]] and [[abducens-nerve|CN VI]]
+- **[[anterior-petrosectomy|Anterior petrosectomy]] (Kawase)** — extends [[subtemporal-approach]] to the [[clivus]] and [[abducens-nerve|CN VI]]
 - **Condylectomy** — extends [[far-lateral-approach]] for ventral [[foramen-magnum]] access
 
 ## Relations
@@ -113,3 +112,33 @@ Cranial base resection (orbitozygomatic, petrosectomy, condylectomy) provides lo
 ## References
 
 - Rhoton — all chapters (approach-specific anatomy integrated throughout the work)
+
+## Figures (Rhoton 2023)
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1501-fig-040-2fdb8de5.jpg]]
+*Four panels (E-H) showing the presigmoid approach to the [[internal-auditory-canal|internal acoustic meatus]] — p. 1501*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1503-fig-046-9abd2a4a.jpg]]
+*Four panels (A-D) showing surgical views of the [[internal-auditory-canal|internal auditory canal]] and surrounding structures — p. 1503*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1505-fig-043-651f4b56.jpg]]
+*Four panels (E-H) showing surgical exposures of the [[internal-auditory-canal|internal acoustic meatus]] and surrounding structu... — p. 1505*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1508-fig-051-ae8b6bdf.jpg]]
+*Fig. 8.15 — Comparison of surgical approaches — p. 1508*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1510-fig-035-d9559449.jpg]]
+*Fig. 8.16 — Comparison of the retrosigmoid and the various modifications of the presigmoid exposure — p. 1510*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1516-fig-003-dcbef136.jpg]]
+*Fig. 8.16 — G–N — p. 1516*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1520-fig-006-885d50ec.jpg]]
+*Fig. 8.17 — Combined presigmoid and [[far-lateral-approach|far-lateral]] approach — p. 1520*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1522-fig-001-289299b6.jpg]]
+*Four anatomical photographs (E-H) showing a combined presigmoid and [[far-lateral-approach|far-lateral]] approach to the inte... — p. 1522*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1524-fig-018-ac642331.jpg]]
+*Four anatomical photographs (I, J, K, L) showing the combined presigmoid and [[far-lateral-approach|far-lateral]] approach to... — p. 1524*
+

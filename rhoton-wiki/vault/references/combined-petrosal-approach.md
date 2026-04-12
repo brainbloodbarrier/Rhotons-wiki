@@ -37,7 +37,7 @@ Large petroclival lesions (meningiomas, chordomas, chondrosarcomas) extend acros
 ## Components
 
 ### 1. Temporal Craniotomy
-A frontotemporal craniotomy exposes the middle fossa floor and the subtemporal dura.
+A frontotemporal [[surgical-approaches-overview|craniotomy]] exposes the middle fossa floor and the subtemporal dura.
 
 ### 2. [[anterior-petrosectomy]] (Kawase)
 - Drill the [[petrous-apex]] at the Kawase triangle (see [[cavernous-sinus-triangles]])
@@ -66,7 +66,7 @@ The combined approach provides a panoramic view of:
 | [[brainstem]] (pons, upper medulla) | Anterolateral surface |
 | [[abducens-nerve|CN VI]] | Entire course from brainstem to [[cavernous-sinus]] |
 | [[trigeminal-nerve|CN V]] | Root entry zone and [[meckels-cave]] |
-| [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]] | IAC to brainstem |
+| [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]] | [[internal-auditory-canal|IAC]] to brainstem |
 | [[clivus]] (petroclival surface) | Upper and middle clivus |
 | [[posterior-cerebral-artery]], [[superior-cerebellar-artery]] | At tentorial level |
 | [[internal-carotid-artery]] (petrous, cavernous) | Within carotid canal |

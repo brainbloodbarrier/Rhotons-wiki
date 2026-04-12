@@ -63,7 +63,7 @@ The primary microsurgical corridor. Opens the [[cerebellomedullary-fissure]] bet
 2. If more exposure needed, open inferior medullary velum (paper-thin, semi-translucent) — accesses fastigium, superolateral recess, and superior roof
 3. Extend telar opening laterally toward foramen of Luschka to open lateral recess and peduncular surfaces
 
-**Critical landmarks during telovelar approach:**
+**Critical landmarks during [[telovelar-approach|telovelar approach]]:**
 - **Dentate nuclei** — located just rostral to the superior pole of the tonsils, wrapped around the superolateral recess near the lateral edges of the inferior medullary velum (dentate tubercles)
 - **Cerebellar peduncles** — all three converge on the lateral wall/roof: superior peduncle vulnerable in upper roof lesions, inferior peduncle in lateral recess lesions, middle peduncle in CPA-facing lesions
 - **[[pica|PICA]]** — exposed in the telovelar approach; occlusion distal to medullary branches causes labyrinthitis-like syndrome (rotatory dizziness, nausea, gait ataxia) without medullary infarction
@@ -109,3 +109,63 @@ Via the [[retrosigmoid-approach]] — provides access to tumors extending into t
 ## References
 
 - Rhoton, Ch.11 — Fourth Ventricle and Cerebellar-Brainstem Fissures
+
+## Figures (Rhoton 2023)
+
+![[p3c01-cerebellum-and-fourth-ventricle-p983-fig-002-ae15797f.jpg]]
+*Fig. 1.1 — A, superior view of the [[posterior-fossa|posterior cranial fossa]]; B, inferior view of the posterior cranial fossa with cranial nerves ... — p. 983*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p986-fig-004-52cc0ef3.jpg]]
+*Anatomical view of the [[cerebellum|cerebellum]] from an anterior perspective, showing the petrosal surface — p. 986*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p986-fig-017-f3886b5c.jpg]]
+*Anatomical view of the [[cerebellum|cerebellum]] from a posterior perspective, showing the tentorial surface — p. 986*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p986-fig-018-ce7d82fc.jpg]]
+*Anatomical view of the [[cerebellum|cerebellum]] from a posterior perspective, showing the petrosal surface — p. 986*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p987-fig-010-92715279.jpg]]
+*Anatomical photograph of the [[cerebellum|cerebellum]] showing the tentorial, suboccipital, and petrosal surfaces — p. 987*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p989-fig-007-fed74002.jpg]]
+*Fig. 1.3 — Six panels (A-F) showing the tentorial surface and cerebellomesencephalic fissure of the brain — p. 989*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p993-fig-008-3908cb0b.jpg]]
+*Fig. 1.4 — Six panels (A-F) showing the tentorial surface and cerebellomesencephalic fissure of the brain — p. 993*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p995-fig-000-a3250f4c.jpg]]
+*Fig. 1.5 — Suboccipital surface of the cerebellum and the [[cerebellomedullary-fissure|cerebellomedullary fissure]] — p. 995*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p997-fig-005-759ad75f.jpg]]
+*Fig. 1.6 — Suboccipital surface and [[cerebellomedullary-fissure|cerebellomedullary fissure]] — p. 997*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p999-fig-015-0d38be3b.jpg]]
+*Fig. 1.7 — Four panels (A, B, C, D) showing the [[brainstem|brainstem]], petrosal surface, and cerebellar-pontine fissure — p. 999*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p1001-fig-012-61b2a807.jpg]]
+*Fig. 1.8 — Six panels (A-F) showing the [[brainstem|brainstem]], fourth ventricle, and petrosal cerebellar surface — p. 1001*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p1003-fig-014-9c63a736.jpg]]
+*Four anatomical photographs (G, H, I, J) showing the [[brainstem|brainstem]], fourth ventricle, and cerebellar sur... — p. 1003*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p1004-fig-009-9ff2f8ec.jpg]]
+*Fig. 1.9 — Six panels (A-F) showing posterior views of a brain dissection — p. 1004*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p1006-fig-006-f53b443e.jpg]]
+*Fig. 1.9 — Four panels (G-J) showing posterior views of the cerebellar floor — p. 1006*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p1008-fig-011-a9737d65.jpg]]
+*Fig. 1.9 — Posterior views of the floor of the fourth ventricle — p. 1008*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p1020-fig-003-5bf1c65c.jpg]]
+*Fig. 1.10 — [[telovelar-approach|Telovelar approach]] to the fourth ventricle — p. 1020*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p1021-fig-001-ae11b54d.jpg]]
+*Fig. 1.10 — Four panels (E-H) showing the [[telovelar-approach|telovelar approach]] to the fourth ventricle — p. 1021*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p1026-fig-016-c16f85ac.jpg]]
+*Anatomical woodcut showing the cranial floor and contents of the [[posterior-fossa|posterior fossa]], including the brai... — p. 1026*
+
+![[p3c01-cerebellum-and-fourth-ventricle-p1027-fig-013-0b27a332.jpg]]
+*Anatomical engraving of a human figure showing posterior skeletal and neural structures — p. 1027*
+

@@ -20,7 +20,7 @@ parent: "[[anterior-circulation]]"
 
 # Maxillary Artery
 
-The maxillary artery is the larger terminal branch of the [[external-carotid-artery]], coursing through the [[infratemporal-fossa]] and [[pterygopalatine-fossa]] to supply the deep face, nasal cavity, palate, dura, and upper teeth. It is the dominant extracranial artery encountered in lateral [[cranial-base|skull base]] surgery and the source of the [[middle-meningeal-artery]], [[sphenopalatine-artery]], and the descending palatine artery. In [[endoscopic-endonasal-approach|endoscopic endonasal surgery]], the maxillary artery is a critical landmark and potential source of catastrophic hemorrhage.
+The maxillary artery is the larger terminal branch of the [[external-carotid-artery]], coursing through the [[infratemporal-fossa]] and [[pterygopalatine-fossa]] to supply the deep face, [[sellar-region|nasal cavity]], palate, dura, and upper teeth. It is the dominant extracranial artery encountered in lateral [[cranial-base|skull base]] surgery and the source of the [[middle-meningeal-artery]], [[sphenopalatine-artery]], and the descending palatine artery. In [[endoscopic-endonasal-approach|endoscopic endonasal surgery]], the maxillary artery is a critical landmark and potential source of catastrophic hemorrhage.
 
 ## Anatomy
 

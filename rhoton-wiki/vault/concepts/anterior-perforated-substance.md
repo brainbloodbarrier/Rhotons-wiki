@@ -63,7 +63,7 @@ The MCA bifurcation sits at or near the lateral edge of the APS (limen insulae).
 The recurrent artery of Heubner courses from A2 back along A1 to enter the anteromedial APS. It is the perforator most frequently injured in [[anterior-communicating-artery|ACoA]] aneurysm surgery. The ACoA complex perforators enter the medial APS near the lamina terminalis.
 
 ### ICA bifurcation aneurysm
-The ICA bifurcation sits at the medial edge of the APS. Perforators from A1 and M1 surround the aneurysm neck.
+The [[internal-carotid-artery|ICA]] bifurcation sits at the medial edge of the APS. Perforators from A1 and M1 surround the aneurysm neck.
 
 ### Insular glioma surgery
 Resection of [[insula|insular tumors]] through the [[sylvian-fissure]] encounters the lenticulostriates at the limen insulae — the lateral boundary of the APS. The perforators define the medial limit of safe resection.

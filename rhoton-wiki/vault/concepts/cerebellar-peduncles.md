@@ -79,7 +79,7 @@ The peduncles define several safe entry zones into the [[brainstem]]:
 |---|---|
 | [[telovelar-approach]] | Inferior peduncle (lateral wall of lower fourth ventricle) |
 | [[supracerebellar-infratentorial-approach]] | Superior peduncle (at cerebellomesencephalic fissure) |
-| [[retrosigmoid-approach]] | Middle peduncle (at CPA, CN V root entry) |
+| [[retrosigmoid-approach]] | Middle peduncle (at [[cerebellopontine-cistern|CPA]], CN V root entry) |
 | [[subtemporal-approach]] | Superior peduncle (lateral mesencephalic sulcus) |
 
 ### Tumor Surgery
@@ -107,3 +107,9 @@ The peduncles are related to the three major cerebellar fissures:
 - Define: brainstem safe entry zones
 - Related fissure: [[cerebellomedullary-fissure]]
 - CN landmark: [[trigeminal-nerve]] at middle peduncle-pons junction
+
+## Figures (Rhoton 2023)
+
+![[p3c02-the-cerebellar-arteries-p1118-fig-027-f8b2a807.jpg]]
+*Anatomical illustration of the cranial floor, cerebellum, and [[brainstem|brain stem]] from Andreas Vesalius's De ... — p. 1118*
+

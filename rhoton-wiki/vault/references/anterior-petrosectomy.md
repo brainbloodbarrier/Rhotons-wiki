@@ -77,7 +77,7 @@ The long axis of the [[internal-auditory-canal|internal acoustic meatus]] is ~61
 ### With tentorial section
 - [[superior-cerebellar-artery|SCA]] and [[posterior-cerebral-artery|PCA]] in the [[tentorial-incisura]]
 - [[trochlear-nerve|CN IV]] at the tentorial edge (at risk during section)
-- [[oculomotor-nerve|CN III]] in the anterior incisural space
+- [[oculomotor-nerve|CN III]] in the [[anterior-incisural-space|anterior incisural space]]
 
 ## Combination Approaches
 

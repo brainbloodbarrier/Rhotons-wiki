@@ -69,11 +69,11 @@ The transverse sinus is a paired dural venous channel coursing along the attachm
 
 ### Craniotomy Planning
 - The transverse sinus defines the **inferior limit** of occipital and parietal craniotomies
-- The **asterion** marks the transverse-sigmoid junction — critical for positioning the [[retrosigmoid-approach]] and suboccipital craniotomies
+- The **asterion** marks the transverse-sigmoid junction — critical for positioning the [[retrosigmoid-approach]] and [[foramen-magnum|suboccipital]] craniotomies
 - Pre-operative CT venography or MR venography is essential to assess dominance and asymmetry
 
 ### Posterior Fossa Surgery
-- [[retrosigmoid-approach]] — craniotomy placed just inferior to the transverse-sigmoid junction
+- [[retrosigmoid-approach]] — [[surgical-approaches-overview|craniotomy]] placed just inferior to the transverse-sigmoid junction
 - Suboccipital craniotomy — superior limit is the transverse sinus
 - Sinus injury during occipital burr holes → significant hemorrhage
 

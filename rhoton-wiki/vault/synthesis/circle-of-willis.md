@@ -87,3 +87,21 @@ Key landmarks:
 
 - Rhoton, Ch.2 — The Supratentorial Arteries, Figs. 2.1, 2.3–2.8
 - Rhoton, Ch.3 — The Posterior Cerebral Artery
+
+## Figures (Rhoton 2023)
+
+![[p2c02-the-supratentorial-arteries-p365-fig-031-97a447b3.jpg]]
+*Anatomical dissection A showing the posterior part of the brain with labels for M.C.A., P.Co.A., CN ... — p. 365*
+
+![[p2c02-the-supratentorial-arteries-p365-fig-040-cd43e19c.jpg]]
+*Anatomical dissection C showing the anterior part of the brain with labels for CN II, [[optic-chiasm|Chiasm]], Car — p. 365*
+
+![[p2c02-the-supratentorial-arteries-p365-fig-042-8d86d6ba.jpg]]
+*Anatomical dissection D showing the anterior part of the brain with labels for P.Co.A., A.Ch.A., For — p. 365*
+
+![[p2c02-the-supratentorial-arteries-p365-fig-102-ff009c76.jpg]]
+*Anatomical dissection B showing the posterior part of the brain with labels for [[oculomotor-nerve|CN III]], M.P.Ch.A., P... — p. 365*
+
+![[p2c02-the-supratentorial-arteries-p366-fig-011-30650d7b.jpg]]
+*Four panels (E, F, G, H) showing the [[posterior-choroidal-arteries|posterior choroidal arteries]] and their relationship to the brai... — p. 366*
+

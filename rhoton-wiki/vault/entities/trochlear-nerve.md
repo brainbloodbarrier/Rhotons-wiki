@@ -26,15 +26,15 @@ The trochlear nerve (CN IV) is the **only cranial nerve that emerges from the do
 
 ## Origin
 
-CN IV arises below the inferior colliculus on the dorsal surface of the midbrain in the **posterior incisural space**. After emerging, it immediately decussates — each nerve crosses to supply the contralateral superior oblique muscle. This dorsal origin and decussation are unique among cranial nerves.
+CN IV arises below the inferior colliculus on the dorsal surface of the midbrain in the **[[posterior-incisural-space|posterior incisural space]]**. After emerging, it immediately decussates — each nerve crosses to supply the contralateral superior oblique muscle. This dorsal origin and decussation are unique among cranial nerves.
 
 ## Course through the Tentorial Incisura
 
 The trochlear nerve has the most extensive incisural course of any cranial nerve, traversing all three incisural spaces:
 
 1. **Posterior incisural space** — emerges below the inferior colliculus in the [[quadrigeminal-cistern]], between the [[superior-cerebellar-artery|SCA]] branches and the [[cerebellum]]
-2. **Middle incisural space** — passes forward between the [[posterior-cerebral-artery|PCA]] (above) and [[superior-cerebellar-artery|SCA]] (below), with SCA branches coursing alongside it around the brainstem. Its initial course is medial to the free edge, in the space between the tectum and cerebellum
-3. **Anterior incisural space** — reaches the lower margin of the free edge at the posterior edge of the cerebral peduncle, then pierces the free edge in the posterior part of the **oculomotor trigone**
+2. **[[middle-incisural-space|Middle incisural space]]** — passes forward between the [[posterior-cerebral-artery|PCA]] (above) and [[superior-cerebellar-artery|SCA]] (below), with SCA branches coursing alongside it around the brainstem. Its initial course is medial to the free edge, in the space between the tectum and cerebellum
+3. **[[anterior-incisural-space|Anterior incisural space]]** — reaches the lower margin of the free edge at the posterior edge of the cerebral peduncle, then pierces the free edge in the posterior part of the **oculomotor trigone**
 
 After piercing the tentorial edge, CN IV runs for a short distance in the **anterior petroclinoid fold** before entering the lateral wall of the [[cavernous-sinus]].
 

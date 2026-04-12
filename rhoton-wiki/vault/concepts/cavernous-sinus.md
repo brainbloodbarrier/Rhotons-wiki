@@ -103,3 +103,159 @@ The ICA passes along the medial edge of the clinoid AND grooves the medial half 
 ## References
 
 - Rhoton, Ch.9 — The Cavernous Sinus, Figs. 9.1–9.3
+
+## Figures (Rhoton 2023)
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p911-fig-002-936bf270.jpg]]
+*Anatomical dissection D showing cranial nerves III, IV, VI, V (V1) and structures like the superior ... — p. 911*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p911-fig-012-9fe1c885.jpg]]
+*Anatomical dissection F showing cranial nerves II, III, IV, VI, V (V1, V2) and structures like the b... — p. 911*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p911-fig-017-fdd34d53.jpg]]
+*Anatomical dissection B showing cranial nerves II, III, IV, V (V1, V2, V3) and structures like the c... — p. 911*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p911-fig-045-17ae167a.jpg]]
+*Anatomical dissection E showing cranial nerves IV, VI, V (V1, V2, Post — p. 911*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p911-fig-047-e59581cb.jpg]]
+*Anatomical dissection A showing cranial nerves II, III, IV, V, and structures like the cavernous sin... — p. 911*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p911-fig-054-ab3aacc2.jpg]]
+*Anatomical dissection C showing cranial nerves VI, V (V1, V2, V3) and structures like the trochlear ... — p. 911*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p912-fig-007-6fb0006b.jpg]]
+*Anatomical dissection K showing cranial nerves II, III, IV, and VI — p. 912*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p912-fig-015-5c188a42.jpg]]
+*Anatomical dissection L showing cranial nerves and ganglia — p. 912*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p912-fig-023-9b17624c.jpg]]
+*Anatomical dissection I showing cranial nerves III, VI, and V1 with associated rings — p. 912*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p912-fig-040-99dd8e5f.jpg]]
+*Anatomical dissection H showing cranial nerves III, VI, and V1-V3 — p. 912*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p912-fig-052-8c845666.jpg]]
+*Anatomical dissection G showing cranial nerves and foramina — p. 912*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p912-fig-056-c246e6a8.jpg]]
+*Anatomical dissection J showing cranial nerves and trigeminal ganglion — p. 912*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p913-fig-009-b5a0bbc3.jpg]]
+*Anatomical dissection M showing cranial nerves and vessels — p. 913*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p913-fig-010-4ad17886.jpg]]
+*Anatomical dissection P showing cranial nerves and vessels — p. 913*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p913-fig-016-4f4cac5b.jpg]]
+*Anatomical dissection N showing cranial nerves and ligaments — p. 913*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p913-fig-020-52cbb95a.jpg]]
+*Anatomical dissection O showing cranial nerves and muscles — p. 913*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p914-fig-011-86fdea37.jpg]]
+*Fig. 9.1 — Stepwise dissection of the right cavernous sinus — p. 914*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p917-fig-000-34e2f697.jpg]]
+*Anatomical diagram of the cavernous sinus and its contents — p. 917*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p917-fig-035-000a2719.jpg]]
+*Anatomical diagram of the anterior and middle cranial fossa with dural folds — p. 917*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p917-fig-050-ac0a9323.jpg]]
+*Anatomical diagram of the internal venous sinuses and veins of the [[cranial-base|skull base]] — p. 917*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p918-fig-028-75a2f5c6.jpg]]
+*Four anatomical photographs (D, E, F, G) showing the [[cranial-base|cranial base]] and cavernous sinus region with va... — p. 918*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p920-fig-053-faa2a4ec.jpg]]
+*Fig. 9.3 — Stepwise dissection of the roof of the cavernous sinus — p. 920*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p924-fig-019-01fe0aa5.jpg]]
+*Fig. 9.4 — Osseous relationships of the cavernous sinus and carotid collar — p. 924*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p931-fig-025-8d4ba5f3.jpg]]
+*Anatomical dissection A showing cranial nerves and trigeminal ganglion branches — p. 931*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p931-fig-057-f76f0885.jpg]]
+*Anatomical dissection B showing cranial nerves and trigeminal ganglion branches from a different per... — p. 931*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p932-fig-006-02ab0120.jpg]]
+*Fig. 9.5 — Eight panels (A-H) showing anatomical structures of the cavernous sinus and middle fossa — p. 932*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p947-fig-003-134add33.jpg]]
+*Anatomical dissection A showing cranial nerves and vessels — p. 947*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p947-fig-022-1a420db4.jpg]]
+*Anatomical dissection D showing the [[paranasal-sinuses|sphenoid sinus]] and cranial nerves — p. 947*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p947-fig-024-3f2c2bbe.jpg]]
+*Anatomical dissection F showing the oculomotor triangle with highlighted structures — p. 947*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p947-fig-026-5111945a.jpg]]
+*Anatomical dissection E showing the oculomotor triangle and cyst — p. 947*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p947-fig-043-c0e3099e.jpg]]
+*Anatomical dissection C showing the cavernous sinus and cranial nerves — p. 947*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p947-fig-048-08dee616.jpg]]
+*Anatomical dissection B showing cranial nerves and the [[pituitary-gland|pituitary gland]] — p. 947*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p948-fig-049-a507970c.jpg]]
+*Six panels (G-L) showing the intradural approach to the cavernous sinus — p. 948*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p955-fig-004-0de4eba2.jpg]]
+*Anatomical dissection of the brain showing the Optic Sheath, [[oculomotor-nerve|CN III]], CN IV, Petrosphen — p. 955*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p955-fig-013-ec34f819.jpg]]
+*Anatomical dissection of the brain showing the A.I.C.A., [[facial-nerve|CN VII]], Trig — p. 955*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p955-fig-021-b52c52a7.jpg]]
+*Anatomical dissection of the brain showing the [[orbit|Orbit]] Roof, Dura, Less — p. 955*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p955-fig-027-7da594a8.jpg]]
+*Anatomical dissection of the brain showing the [[orbit|Orbit]] Roof, Ant — p. 955*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p955-fig-029-c2d8f006.jpg]]
+*Anatomical dissection of the brain showing the Sylvian Fissure, Frontal Lobe, [[middle-cerebral-artery|Middle Cerebral Artery]]... — p. 955*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p955-fig-030-f3886edf.jpg]]
+*Anatomical dissection of the brain showing the Optic Sheath, [[oculomotor-nerve|CN III]], CN IV, Cav — p. 955*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p956-fig-031-01ecb2f1.jpg]]
+*Six panels (G-L) showing microsurgical dissection of the cavernous sinus — p. 956*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p960-fig-008-287f24ee.jpg]]
+*Fig. 9.9 — Six panels (A-F) showing the lateral aspect of the left cavernous sinus, superior orbital fissure, and [[orbit|orbit]] — p. 960*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p964-fig-055-d4718be9.jpg]]
+*Fig. 9.10 — Six panels (A-F) illustrating a [[pterional-approach|pterional craniotomy]] and extradural approach to the cavernous sinus — p. 964*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p968-fig-042-cddf007f.jpg]]
+*Fig. 9.11 — One-piece [[orbitozygomatic-approach|orbitozygomatic craniotomy]] and intradural approach to the cavernous sinus — p. 968*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p972-fig-005-d6975680.jpg]]
+*Anatomical dissection B showing the middle fossa floor with labels: Osteotomy, Mid — p. 972*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p972-fig-018-e027ea89.jpg]]
+*Anatomical dissection E showing the pterygoid region with labels: Max — p. 972*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p972-fig-032-fd00693b.jpg]]
+*Anatomical dissection C showing the cavernous sinus region with labels: Mid — p. 972*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p972-fig-034-87fc1871.jpg]]
+*Anatomical dissection D showing the cavernous sinus region with labels: [[abducens-nerve|CN VI]], Petrosphen — p. 972*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p972-fig-036-9699c30e.jpg]]
+*Anatomical dissection A showing the temporal region with labels: Temp — p. 972*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p972-fig-037-5cd97687.jpg]]
+*Anatomical dissection F showing the petrous segment of the [[internal-carotid-artery|internal carotid artery]] with labels: Mid — p. 972*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p973-fig-039-f4a1b9a6.jpg]]
+*Six anatomical photographs (G, H, I, J, K, and an unlabeled one) showing various cranial structures ... — p. 973*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p976-fig-001-0bd951a1.jpg]]
+*Anatomical illustration from D'Agoty Gautier's Essai d'anatomie, 1748 — p. 976*
+

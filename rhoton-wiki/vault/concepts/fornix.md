@@ -102,3 +102,27 @@ The fornix is the principal efferent pathway of the [[hippocampus]], arching ben
 - [[internal-cerebral-veins]] — Velum interpositum course
 - [[anterior-choroidal-artery]] — Choroidal fissure supply
 - [[pineal-region]] — Approaches crossing forniceal territory
+
+## Figures (Rhoton 2023)
+
+![[p2c05-the-lateral-and-third-ventricles-p575-fig-043-1b1ab0d9.jpg]]
+*Anatomical diagram of the brain in a lower coronal section — p. 575*
+
+![[p2c05-the-lateral-and-third-ventricles-p575-fig-048-30844dad.jpg]]
+*Anatomical diagram of the brain in coronal section — p. 575*
+
+![[p2c05-the-lateral-and-third-ventricles-p575-fig-089-15e2e9a5.jpg]]
+*Anatomical diagram of the brain in sagittal section, labeled A — p. 575*
+
+![[p2c05-the-lateral-and-third-ventricles-p576-fig-071-62899fe3.jpg]]
+*A close-up photograph of a horn-like structure on a yellowish surface, with a line pointing to it fr... — p. 576*
+
+![[p2c05-the-lateral-and-third-ventricles-p577-fig-017-f4ed10b5.jpg]]
+*Anatomical illustration of the brain in a superior view, showing internal structures like the corpus... — p. 577*
+
+![[p2c05-the-lateral-and-third-ventricles-p577-fig-045-7d2d73e3.jpg]]
+*Anatomical illustration of the brain in an anterior view, showing internal structures like the corpu... — p. 577*
+
+![[p2c05-the-lateral-and-third-ventricles-p577-fig-061-6df713c3.jpg]]
+*Anatomical illustration of the brain in a lateral view, showing internal structures like the corpus ... — p. 577*
+

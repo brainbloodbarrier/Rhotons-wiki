@@ -25,7 +25,7 @@ approach-to:
 
 # Middle Fossa Approach
 
-The middle fossa approach elevates the [[cerebral-lobes|temporal lobe]] from the floor of the middle cranial fossa to access the internal acoustic canal (IAC), [[petrous-apex]], and the superior surface of the [[temporal-bone|petrous bone]] from above. It is the only approach that provides direct access to the IAC fundus while preserving both hearing and facial nerve function.
+The middle fossa approach elevates the [[cerebral-lobes|temporal lobe]] from the floor of the middle cranial fossa to access the internal acoustic canal ([[internal-auditory-canal|IAC]]), [[petrous-apex]], and the superior surface of the [[temporal-bone|petrous bone]] from above. It is the only approach that provides direct access to the IAC fundus while preserving both hearing and facial nerve function.
 
 ## Indications
 
@@ -110,3 +110,24 @@ Drilling proceeds medially to laterally, following the superior petrosal surface
 - Rhoton, Ch.6 — The [[cranial-base|Anterior and Middle Cranial Base]] (middle fossa floor anatomy)
 - Rhoton, Ch.9 — The [[cavernous-sinus]] (middle fossa triangles, greater petrosal nerve)
 - Rhoton, Ch.14 — The Temporal Bone (IAC anatomy, drilling landmarks, angular relationships)
+
+## Figures (Rhoton 2023)
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1488-fig-017-79d1fc5d.jpg]]
+*Fig. 8.11 — Middle fossa approach to the [[internal-auditory-canal|internal acoustic meatus]] — p. 1488*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1490-fig-002-93bb76af.jpg]]
+*Fig. 8.12 — Four panels (A-D) showing the anterior petrosectomy and [[anterior-petrosectomy|extended middle fossa approach]] — p. 1490*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1492-fig-024-73b1fa80.jpg]]
+*Four anatomical photographs (E-H) showing the [[anterior-petrosectomy|anterior petrosectomy]] and extended middle fossa approa... — p. 1492*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1494-fig-009-90857f42.jpg]]
+*Fig. 8.13 — Six panels (A-F) showing subtemporal exposure of the right middle, infratemporal, and posterior fossae — p. 1494*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1496-fig-049-85f944e2.jpg]]
+*Six anatomical photographs (G-L) showing subtemporal exposure of the right middle, infratemporal, an... — p. 1496*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1498-fig-050-3d7b1b02.jpg]]
+*Fig. 8.14 — Four panels (A-D) illustrating the [[posterior-petrosectomy|presigmoid approach]] to the internal auditory canal — p. 1498*
+

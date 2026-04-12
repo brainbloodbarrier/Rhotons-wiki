@@ -65,7 +65,7 @@ Accesses the body and posterior third ventricle, splenium, and pineal region.
 ## Technique
 
 ### Positioning and craniotomy
-- Parasagittal craniotomy straddling the midline, centered over the coronal suture (anterior) or lambdoid region (posterior)
+- Parasagittal [[surgical-approaches-overview|craniotomy]] straddling the midline, centered over the coronal suture (anterior) or lambdoid region (posterior)
 - Craniotomy extends across the superior sagittal sinus to allow interhemispheric retraction
 
 ### Key steps

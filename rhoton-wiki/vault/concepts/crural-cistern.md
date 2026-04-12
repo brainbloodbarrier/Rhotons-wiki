@@ -20,7 +20,7 @@ parent: "[[basal-cisterns]]"
 
 # Crural Cistern
 
-The crural cistern occupies the anterior incisural space between the [[uncus]] of the [[cerebral-lobes|temporal lobe]] laterally and the [[brainstem|cerebral peduncle]] (crus cerebri) medially. It connects the chiasmatic/carotid cisterns anteriorly to the [[ambient-cistern]] posteriorly and is the corridor through which the [[oculomotor-nerve|CN III]], [[anterior-choroidal-artery]], and [[posterior-cerebral-artery|PCA]] P2A segment course around the [[brainstem|midbrain]].
+The crural cistern occupies the [[anterior-incisural-space|anterior incisural space]] between the [[uncus]] of the [[cerebral-lobes|temporal lobe]] laterally and the [[brainstem|cerebral peduncle]] (crus cerebri) medially. It connects the chiasmatic/carotid cisterns anteriorly to the [[ambient-cistern]] posteriorly and is the corridor through which the [[oculomotor-nerve|CN III]], [[anterior-choroidal-artery]], and [[posterior-cerebral-artery|PCA]] P2A segment course around the [[brainstem|midbrain]].
 
 ## Boundaries
 - **Medial** — [[brainstem|cerebral peduncle]] (crus cerebri)

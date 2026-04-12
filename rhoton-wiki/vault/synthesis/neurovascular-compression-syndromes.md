@@ -98,7 +98,7 @@ Neurovascular compression (NVC) syndromes occur when an artery or vein compresse
 
 ### Retrosigmoid Approach
 - [[retrosigmoid-approach]] provides access to all NVC syndromes
-- Craniotomy placed behind the [[sigmoid-sinus]] and below the [[transverse-sinus]]
+- [[surgical-approaches-overview|Craniotomy]] placed behind the [[sigmoid-sinus]] and below the [[transverse-sinus]]
 - The [[cerebellopontine-cistern]] is opened to release CSF and expose the cranial nerves
 
 ### Landmarks by Syndrome

@@ -35,7 +35,7 @@ Faces the occipital bone posteriorly. Supplied by the [[pica|PICA]]. The tonsils
 ## Fissures
 
 ### Cerebellomesencephalic fissure
-Between the cerebellum and the midbrain ([[brainstem]]). Contains the [[superior-cerebellar-artery|SCA]] branches and precerebellar arteries passing to the dentate nucleus. The [[cerebellar-peduncles|superior cerebellar peduncle]] forms its anterior wall. This fissure lies in the posterior incisural space of the [[tentorial-incisura]].
+Between the cerebellum and the midbrain ([[brainstem]]). Contains the [[superior-cerebellar-artery|SCA]] branches and precerebellar arteries passing to the dentate nucleus. The [[cerebellar-peduncles|superior cerebellar peduncle]] forms its anterior wall. This fissure lies in the [[posterior-incisural-space|posterior incisural space]] of the [[tentorial-incisura]].
 
 ### [[cerebellomedullary-fissure]]
 Between the cerebellum and the medulla. Contains the [[pica|PICA]] (telovelotonsillar segment), the tela choroidea, and the inferior medullary velum. The **[[telovelar-approach]]** opens this fissure to access the [[fourth-ventricle]] floor without splitting the vermis.

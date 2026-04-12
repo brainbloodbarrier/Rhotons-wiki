@@ -64,7 +64,7 @@ Alternative: [[interhemispheric-approach]] occipital transtentorial for tumors e
 
 ### Q8: Foramen magnum meningioma, anterolateral
 
-**Answer:** [[far-lateral-approach]]. Lateral suboccipital craniotomy + condylar resection (posterior 1/3 of occipital condyle). Identify [[vertebral-artery]] V3 segment in the [[suboccipital-triangle]] (between obliquus capitis superior/inferior and rectus capitis posterior major). Follow V4 intradurally. Tumor attached to [[foramen-magnum]] anterolateral dura. Preserve [[anterior-spinal-artery]], [[pica]], and [[lower-cranial-nerves|CN IX-XII]].
+**Answer:** [[far-lateral-approach]]. Lateral suboccipital craniotomy + condylar resection (posterior 1/3 of [[occipital-condyle|occipital condyle]]). Identify [[vertebral-artery]] V3 segment in the [[suboccipital-triangle]] (between obliquus capitis superior/inferior and rectus capitis posterior major). Follow V4 intradurally. Tumor attached to [[foramen-magnum]] anterolateral dura. Preserve [[anterior-spinal-artery]], [[pica]], and [[lower-cranial-nerves|CN IX-XII]].
 
 ---
 

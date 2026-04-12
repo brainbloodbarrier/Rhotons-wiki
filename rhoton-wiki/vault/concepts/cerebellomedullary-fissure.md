@@ -56,7 +56,7 @@ The PICA serves as a **guide artery** for opening the fissure — following the 
 The [[telovelar-approach]] exploits the cerebellomedullary fissure to access the [[fourth-ventricle]]:
 
 ### Steps
-1. **Suboccipital craniotomy/craniectomy** — expose the cerebellar tonsils and cisterna magna
+1. **Suboccipital [[surgical-approaches-overview|craniotomy]]/craniectomy** — expose the cerebellar tonsils and cisterna magna
 2. **Tonsillar retraction** — gently separate the tonsils laterally
 3. **Fissure opening** — dissect into the cerebellomedullary fissure, following the PICA
 4. **Tela choroidea opening** — incise the tela choroidea and inferior medullary velum to enter the fourth ventricle
@@ -101,3 +101,9 @@ Tumors within the cerebellomedullary fissure or fourth ventricle can obstruct th
 - Superior: inferior medullary velum → [[fourth-ventricle]] roof
 - Lateral: lateral recesses → [[cerebellopontine-cistern]]
 - Related: [[foramen-magnum]] (below), [[cerebral-aqueduct]] (above)
+
+## Figures (Rhoton 2023)
+
+![[p3c03-the-posterior-fossa-veins-p1148-fig-003-795bb0cf.jpg]]
+*Fig. 3.8 — [[foramen-magnum|Suboccipital]] surface and the cerebellomedullary fissure — p. 1148*
+

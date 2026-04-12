@@ -20,7 +20,7 @@ parent: "[[cerebral-veins]]"
 
 # Bridging Veins
 
-Bridging veins are the superficial cortical veins that traverse the subdural space — a free segment of 1–2 cm — from their bed in the pia-arachnoid to their entry point into the [[dural-venous-sinuses]]. They are a principal surgical obstacle in craniotomy approaches and a major source of subdural hematomas when torn.
+Bridging veins are the superficial cortical veins that traverse the subdural space — a free segment of 1–2 cm — from their bed in the pia-arachnoid to their entry point into the [[dural-venous-sinuses]]. They are a principal surgical obstacle in [[surgical-approaches-overview|craniotomy]] approaches and a major source of subdural hematomas when torn.
 
 ## Four Drainage Groups
 

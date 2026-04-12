@@ -102,3 +102,60 @@ Removal of mastoid bone behind the labyrinth and anterior to the sigmoid sinus. 
 - Rhoton, Ch.9 — The Cavernous Sinus (petrous apex, Meckel's cave)
 - Rhoton, Ch.14 — [[tentorial-incisura]]; The Temporal Bone (detailed petrous anatomy, approaches)
 - Rhoton, Ch.15 — Cerebellopontine Cistern (IAC, facial/vestibulocochlear relations)
+
+## Figures (Rhoton 2023)
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1434-fig-042-4fefa311.jpg]]
+*Four anatomical photographs (A, B, C, D) of the temporal bone from inferior and internal views, with... — p. 1434*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1436-fig-032-0fda45d2.jpg]]
+*Fig. 8.2 — Temporal bone — p. 1436*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1438-fig-041-b0d7acd5.jpg]]
+*Four anatomical photographs (E, F, G, H) of the temporal bone — p. 1438*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1440-fig-023-9541b4ac.jpg]]
+*Fig. 8.3 — Four panels (A-D) showing the posterior surface of the temporal bone with anatomical labels — p. 1440*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1442-fig-005-d386342b.jpg]]
+*Four anatomical photographs (E-H) showing the posterior surface of the temporal bone — p. 1442*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1447-fig-007-059b31de.jpg]]
+*Fig. 8.4 — Six panels (A-F) showing anatomical structures of the middle ear and mastoid antrum — p. 1447*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1451-fig-016-5545718b.jpg]]
+*Six anatomical photographs (A-F) showing the muscular and osseous relationships of the head and neck... — p. 1451*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1455-fig-044-2dbd4a9b.jpg]]
+*Six anatomical photographs (G-L) showing the relationships between muscles, nerves, and blood vessel... — p. 1455*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1457-fig-038-e5253bcc.jpg]]
+*Fig. 8.6 — Four panels (A-D) showing the translabyrinthine exposure of the [[internal-auditory-canal|internal acoustic meatus]] and surrounding structures — p. 1457*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1459-fig-039-bce354cd.jpg]]
+*Four panels (E-H) showing surgical exposures of cranial nerves in the [[cerebellopontine-cistern|cerebellopontine angle]] and int... — p. 1459*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1461-fig-037-efc1ff54.jpg]]
+*Four panels (A, B, C, D) showing surgical exposures of the middle fossa of the temporal bone — p. 1461*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1463-fig-022-ebf4e25b.jpg]]
+*Four anatomical photographs (E, F, G, H) showing the middle fossa exposure of the temporal bone — p. 1463*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1465-fig-014-a6e82b09.jpg]]
+*Anatomical dissection A: Superior view of the temporal bone and [[infratemporal-fossa|infratemporal fossa]] and orbit — p. 1465*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1465-fig-048-ee9998af.jpg]]
+*Anatomical dissection B: Lateral view of the temporal bone and [[infratemporal-fossa|infratemporal fossa]] — p. 1465*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1468-fig-026-adad4174.jpg]]
+*Four panels (A, B, C, D) showing inferior views of an axial section of the [[cranial-base|skull base]] with anatomica... — p. 1468*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1470-fig-000-6670f357.jpg]]
+*Four panels (A-D) showing the preauricular subtemporal-[[infratemporal-fossa|infratemporal fossa]] approach — p. 1470*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1472-fig-031-f3dd145f.jpg]]
+*Fig. 8.10 — Two anatomical photographs, E and F, showing the results of a frontotemporal [[surgical-approaches-overview|craniotomy]] — p. 1472*
+
+![[p3c08-the-temporal-bone-and-transtemporal-approaches-p1475-fig-004-40766476.jpg]]
+*Four anatomical photographs (G, H, I, J) showing the preauricular subtemporal-[[infratemporal-fossa|infratemporal fossa]] ap... — p. 1475*
+

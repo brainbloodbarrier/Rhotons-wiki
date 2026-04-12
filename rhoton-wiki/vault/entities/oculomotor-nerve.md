@@ -27,7 +27,7 @@ The oculomotor nerve controls most [[extraocular-muscles]] (superior, medial, in
 
 1. **Origin** — midbrain, ventral to the [[cerebral-aqueduct]] at the level of the superior colliculus
 2. **Cisternal segment** — emerges from the interpeduncular fossa between the [[posterior-cerebral-artery]] (above) and [[superior-cerebellar-artery]] (below) — the classic neurovascular sandwich
-3. **Tentorial passage** — courses through the [[tentorial-incisura]] (middle incisural space), lateral to the [[posterior-communicating-artery]]
+3. **Tentorial passage** — courses through the [[tentorial-incisura]] ([[middle-incisural-space|middle incisural space]]), lateral to the [[posterior-communicating-artery]]
 4. **Cavernous segment** — enters the roof of the [[cavernous-sinus]] through the oculomotor triangle, courses in the superolateral wall
 5. **Orbital segment** — enters [[orbit]] through the superior orbital fissure within the annular tendon; divides into superior (levator, superior rectus) and inferior (medial rectus, inferior rectus, inferior oblique, pupillary parasympathetics) divisions
 

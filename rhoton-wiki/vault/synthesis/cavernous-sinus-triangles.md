@@ -103,3 +103,27 @@ The [[abducens-nerve|CN VI]] courses **within** the sinus itself (not in the wal
 - Bony landmarks: [[anterior-clinoid-process]], [[sphenoid-bone]], [[temporal-bone|petrous apex]]
 - Contains: [[internal-carotid-artery]] (intracavernous segments)
 - Approached via: [[pterional-approach]], [[orbitozygomatic-approach]], [[subtemporal-approach]], [[anterior-petrosectomy]], [[middle-fossa-approach]]
+
+## Figures (Rhoton 2023)
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p939-fig-014-a0b5ae30.jpg]]
+*Anatomical dissection F showing the [[cavernous-sinus|cavernous sinus]] and multiple cranial nerves — p. 939*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p939-fig-033-d40bdc06.jpg]]
+*Anatomical dissection A showing cranial nerves II and III, and associated vessels — p. 939*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p939-fig-038-848448f2.jpg]]
+*Anatomical dissection C showing the optic strut and [[meninges|meninges]] — p. 939*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p939-fig-041-e8e82a6c.jpg]]
+*Anatomical dissection D showing the optic strut removed — p. 939*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p939-fig-044-86d1ab98.jpg]]
+*Anatomical dissection B showing the optic sheath and venous plexus — p. 939*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p939-fig-046-9335e18d.jpg]]
+*Anatomical dissection E showing the [[cavernous-sinus|cavernous sinus]] and cranial nerves — p. 939*
+
+![[p2c09-the-cavernous-sinus-the-cavernous-venous-plexus-and-the-caro-p940-fig-051-7f39530e.jpg]]
+*Fig. 9.6 — Stepwise dissection of the carotid collar — p. 940*
+

@@ -19,7 +19,7 @@ parent: "[[anterior-circulation]]"
 
 # External Carotid Artery
 
-The external carotid artery (ECA) is the lateral terminal branch of the common carotid artery at the level of the upper thyroid cartilage (C3-C4). It supplies the face, scalp, [[meninges|dura]], and extracranial structures through 8 named branches. In neurosurgery, ECA branches are encountered during every craniotomy approach, serve as bypass donors ([[superficial-temporal-artery|STA]]-[[middle-cerebral-artery|MCA]]), and are targets for preoperative embolization of vascular tumors and [[dural-venous-sinuses|dural arteriovenous fistulae]].
+The external carotid artery (ECA) is the lateral terminal branch of the common carotid artery at the level of the upper thyroid cartilage (C3-C4). It supplies the face, scalp, [[meninges|dura]], and extracranial structures through 8 named branches. In neurosurgery, ECA branches are encountered during every [[surgical-approaches-overview|craniotomy]] approach, serve as bypass donors ([[superficial-temporal-artery|STA]]-[[middle-cerebral-artery|MCA]]), and are targets for preoperative embolization of vascular tumors and [[dural-venous-sinuses|dural arteriovenous fistulae]].
 
 ## Branches (mnemonic: "Some Anatomists Like Freaking Out Poor Medical Students")
 

@@ -39,16 +39,16 @@ Surrounds the [[internal-carotid-artery]] as it enters the subarachnoid space. B
 Surrounds the [[optic-chiasm]]. Contains the [[anterior-cerebral-artery]] (A1), [[anterior-communicating-artery]], and [[superior-hypophyseal-artery|superior hypophyseal arteries]].
 
 ### [[interpeduncular-cistern]]
-Between the cerebral peduncles. Contains the basilar apex, [[posterior-cerebral-artery]] (P1), [[oculomotor-nerve]] (CN III), and [[perforating-arteries]] to the posterior perforated substance. Part of the anterior incisural space in the [[tentorial-incisura]].
+Between the cerebral peduncles. Contains the basilar apex, [[posterior-cerebral-artery]] (P1), [[oculomotor-nerve]] (CN III), and [[perforating-arteries]] to the posterior perforated substance. Part of the [[anterior-incisural-space|anterior incisural space]] in the [[tentorial-incisura]].
 
 ### [[crural-cistern]]
-Between the cerebral peduncle and [[uncus]]/[[hippocampus|parahippocampal gyrus]]. Contains the [[posterior-cerebral-artery]] (P2A), [[anterior-choroidal-artery]], and basal vein. Part of the middle incisural space.
+Between the cerebral peduncle and [[uncus]]/[[hippocampus|parahippocampal gyrus]]. Contains the [[posterior-cerebral-artery]] (P2A), [[anterior-choroidal-artery]], and basal vein. Part of the [[middle-incisural-space|middle incisural space]].
 
 ### [[ambient-cistern]]
 Continuation of the crural cistern posteriorly, between the midbrain and parahippocampal gyrus. Contains [[posterior-cerebral-artery]] (P2P), [[superior-cerebellar-artery]], [[basal-vein-of-rosenthal]], and [[trochlear-nerve]] (CN IV).
 
 ### [[quadrigeminal-cistern]]
-Behind the midbrain tectum. Contains the [[vein-of-galen]], [[internal-cerebral-veins]], [[pineal-region|pineal gland]], [[posterior-cerebral-artery]] (P3), and [[superior-cerebellar-artery]] branches. Part of the posterior incisural space.
+Behind the midbrain tectum. Contains the [[vein-of-galen]], [[internal-cerebral-veins]], [[pineal-region|pineal gland]], [[posterior-cerebral-artery]] (P3), and [[superior-cerebellar-artery]] branches. Part of the [[posterior-incisural-space|posterior incisural space]].
 
 ### [[lamina-terminalis]] Cistern
 Above the [[optic-chiasm]], anterior to the lamina terminalis. Contains [[anterior-communicating-artery]] perforators. Can be opened for CSF drainage during [[aneurysm-surgery]].

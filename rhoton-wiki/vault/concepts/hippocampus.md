@@ -52,7 +52,7 @@ The cortical surface visible on the medial temporal lobe inferior surface. Its a
 
 The choroidal fissure is the cleft between the fimbria of the hippocampus and the inferior surface of the [[thalamus]]. The choroid plexus of the temporal horn attaches along this fissure. The [[anterior-choroidal-artery]] enters the ventricle at the **inferior choroidal point** — the posterior limit of the fissure accessible without disrupting the hippocampus.
 
-Opening the choroidal fissure from below (transchoroidal approach) provides access to the ambient cistern and the middle incisural space without splitting cortex.
+Opening the choroidal fissure from below (transchoroidal approach) provides access to the ambient cistern and the [[middle-incisural-space|middle incisural space]] without splitting cortex.
 
 ## Surgical Significance
 

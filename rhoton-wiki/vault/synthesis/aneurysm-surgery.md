@@ -67,10 +67,10 @@ The most dangerous aspect of aneurysm surgery is injury to perforating arteries,
 
 | Aneurysm | CN at Risk | Mechanism |
 |---|---|---|
-| PCoA | [[oculomotor-nerve|CN III]] | Aneurysm compresses CN III at PCA-SCA interval (classic "pupil-involving third nerve palsy") |
+| PCoA | [[oculomotor-nerve|CN III]] | Aneurysm compresses CN III at [[posterior-cerebral-artery|PCA]]-SCA interval (classic "pupil-involving third nerve palsy") |
 | Basilar apex | [[oculomotor-nerve|CN III]] | Between PCA and SCA |
 | SCA | [[trochlear-nerve|CN IV]], [[trigeminal-nerve|CN V]] | SCA-[[trigeminal-nerve|CN V]] relationship |
-| AICA | [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]] | Meatal loop at IAC |
+| AICA | [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]] | Meatal loop at [[internal-auditory-canal|IAC]] |
 | PICA | [[lower-cranial-nerves|CN IX-XII]] | Rootlets at brainstem exit |
 | Ophthalmic | [[optic-nerve|CN II]] | Aneurysm projects under optic nerve |
 
@@ -119,3 +119,12 @@ Temporary occlusion of the parent artery softens the aneurysm for definitive cli
 - Approaches: [[pterional-approach]], [[orbitozygomatic-approach]], [[subtemporal-approach]], [[retrosigmoid-approach]], [[far-lateral-approach]]
 - Landmarks: [[anterior-clinoid-process]], [[optic-canal]], [[lamina-terminalis]], [[sylvian-fissure]]
 - CN relations: [[oculomotor-nerve]], [[optic-nerve]], [[facial-nerve]], [[lower-cranial-nerves]]
+
+## Figures (Rhoton 2023)
+
+![[p2c03-aneurysms-p428-fig-005-ba9e6601.jpg]]
+*Fig. 3.11 — Instruments for aneurysm dissection — p. 428*
+
+![[p2c03-aneurysms-p430-fig-040-95d01ce2.jpg]]
+*Fig. 3.12 — [[anterior-communicating-artery|Anterior communicating artery]] aneurysms — p. 430*
+

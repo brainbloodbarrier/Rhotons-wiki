@@ -93,3 +93,15 @@ The interpeduncular cistern (interpeduncular fossa) is the midline CSF space bet
 - [[ambient-cistern]] — Lateral continuation
 - [[aneurysm-surgery]] — Basilar apex approach-target map
 - [[perforating-arteries]] — Critical perforator system
+
+## Figures (Rhoton 2023)
+
+![[p3c10-the-posterior-fossa-cisterns-p1599-fig-001-bee64be5.jpg]]
+*Fig. 10.1 — Four anatomical diagrams (A-D) showing the [[posterior-fossa|posterior fossa]] cisterns — p. 1599*
+
+![[p3c10-the-posterior-fossa-cisterns-p1601-fig-003-9a2ea1c6.jpg]]
+*Anatomical diagram of the anterior view of the brain showing the [[meninges|arachnoid membrane]] and various cist... — p. 1601*
+
+![[p3c10-the-posterior-fossa-cisterns-p1603-fig-000-279fd364.jpg]]
+*Anatomical illustration of the [[basal-cisterns|cisterns]] exposed through a unilateral suboccipital craniectomy — p. 1603*
+

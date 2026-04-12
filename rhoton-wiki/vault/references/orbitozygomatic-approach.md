@@ -103,4 +103,4 @@ The key benefit is geometric — removing the orbital rim and zygomatic arch ope
 ## References
 
 - Rhoton, Ch.6 — The [[cranial-base|Anterior and Middle Cranial Base]] (orbital and zygomatic anatomy)
-- Rhoton, Ch.14 — Tentorial Incisura (anterior incisural space, cranial base resection approaches)
+- Rhoton, Ch.14 — Tentorial Incisura ([[anterior-incisural-space|anterior incisural space]], cranial base resection approaches)

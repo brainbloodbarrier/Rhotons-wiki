@@ -106,7 +106,7 @@ Ventral skull base defects require multilayer reconstruction to prevent CSF leak
 |---|---|---|
 | Brain retraction | None | Required |
 | Midline ventral access | Direct | Indirect |
-| Cosmesis | No external incision | Craniotomy scar |
+| Cosmesis | No external incision | [[surgical-approaches-overview|Craniotomy]] scar |
 | Bilateral access | Natural bilateral corridor | Limited by brain |
 
 ## Limitations

@@ -105,3 +105,15 @@ The basilar artery traverses several [[basal-cisterns]]:
 
 - Rhoton, Ch.12 — The Superior Cerebellar Artery (basilar artery morphology, bifurcation, AICA and SCA origins)
 - Rhoton, Ch.14 — The [[foramen-magnum]] (vertebrobasilar junction, clival exposure)
+
+## Figures (Rhoton 2023)
+
+![[p2c03-aneurysms-p432-fig-014-67b39528.jpg]]
+*Fig. 3.13 — Four anatomical diagrams (A, B, C, D) illustrating variants in the origin and course of the recurrent artery (Rec — p. 432*
+
+![[p2c03-aneurysms-p434-fig-042-11270906.jpg]]
+*Fig. 3.14 — Lateral and operative views of the most common aneurysm site on the distal part of the [[anterior-cerebral-artery|anterior cerebral artery]] — p. 434*
+
+![[p2c03-aneurysms-p436-fig-022-381ec3c4.jpg]]
+*Fig. 3.15 — Aneurysm sites on the vertebral and basilar arteries — p. 436*
+

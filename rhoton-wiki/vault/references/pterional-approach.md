@@ -26,7 +26,7 @@ approach-to:
 
 # Pterional Approach
 
-The pterional (frontotemporal) approach is the most versatile and frequently used craniotomy in neurosurgery. Popularized by Yasargil, it provides access to the anterior and middle cranial fossae, the [[sylvian-fissure]], and the anterior [[circle-of-willis]] through a single corridor.
+The pterional (frontotemporal) approach is the most versatile and frequently used [[surgical-approaches-overview|craniotomy]] in neurosurgery. Popularized by Yasargil, it provides access to the anterior and middle cranial fossae, the [[sylvian-fissure]], and the anterior [[circle-of-willis]] through a single corridor.
 
 ## Indications
 

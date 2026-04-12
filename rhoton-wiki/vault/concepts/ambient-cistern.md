@@ -35,7 +35,7 @@ The ambient cistern is the lateral extension of the perimesencephalic cisterns, 
 - **Posterior** — continuous with the quadrigeminal cistern at the [[pineal-region]]
 
 ### Incisural Space
-The ambient cistern occupies the **middle incisural space** — the lateral compartment of the [[tentorial-incisura]]. The three incisural spaces (anterior, middle, posterior) are defined by Rhoton as the key anatomical framework for understanding transtentorial herniation and surgical access.
+The ambient cistern occupies the **[[middle-incisural-space|middle incisural space]]** — the lateral compartment of the [[tentorial-incisura]]. The three incisural spaces (anterior, middle, posterior) are defined by Rhoton as the key anatomical framework for understanding transtentorial herniation and surgical access.
 
 ## Contents
 
@@ -47,7 +47,7 @@ The ambient cistern occupies the **middle incisural space** — the lateral comp
 - **[[anterior-choroidal-artery]]** — crosses the anterior portion of the cistern before entering the [[choroidal-fissure]]
 
 ### Veins
-- **[[basal-vein-of-rosenthal]]** — courses posteriorly through the ambient cistern from the anterior incisural space to the [[vein-of-galen]] at the quadrigeminal cistern
+- **[[basal-vein-of-rosenthal]]** — courses posteriorly through the ambient cistern from the [[anterior-incisural-space|anterior incisural space]] to the [[vein-of-galen]] at the quadrigeminal cistern
 - **Peduncular veins** — drain the cerebral peduncle into the basal vein
 
 ### Nerves

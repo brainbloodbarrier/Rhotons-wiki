@@ -24,7 +24,7 @@ approach-to:
 
 # Subtemporal Approach
 
-The subtemporal approach exposes the **middle incisural space** of the [[tentorial-incisura]] by elevating the [[cerebral-lobes|temporal lobe]] from the floor of the middle cranial fossa. It is a workhorse corridor for lesions of the medial temporal region, the [[posterior-cerebral-artery|PCA]], [[superior-cerebellar-artery|SCA]], [[basilar-artery]] apex, and the upper [[posterior-fossa]].
+The subtemporal approach exposes the **[[middle-incisural-space|middle incisural space]]** of the [[tentorial-incisura]] by elevating the [[cerebral-lobes|temporal lobe]] from the floor of the middle cranial fossa. It is a workhorse corridor for lesions of the medial temporal region, the [[posterior-cerebral-artery|PCA]], [[superior-cerebellar-artery|SCA]], [[basilar-artery]] apex, and the upper [[posterior-fossa]].
 
 ## Indications
 
@@ -40,7 +40,7 @@ The subtemporal approach exposes the **middle incisural space** of the [[tentori
 ## Technique
 
 ### Positioning and craniotomy
-- Temporal craniotomy with the lower margin at the [[cranial-base]] (floor of middle fossa)
+- Temporal [[surgical-approaches-overview|craniotomy]] with the lower margin at the [[cranial-base]] (floor of middle fossa)
 - Placing the bone flap at the skull base minimizes brain retraction
 - The temporal lobe is elevated to expose the cisterns around the incisura
 
@@ -50,7 +50,7 @@ The subtemporal approach exposes the **middle incisural space** of the [[tentori
 3. **Cisternal dissection** — opening the [[ambient-cistern]] and [[crural-cistern]] exposes the PCA, SCA, and [[oculomotor-nerve|CN III]]
 
 ### Tentorial section
-The [[tentorium-cerebelli|tentorium]] may be divided to combine the subtemporal exposure with a suboccipital craniectomy, providing access to the prepontine and cerebellopontine cisterns. **Critical:** The [[trochlear-nerve|trochlear nerve (CN IV)]] enters the anterior edge of the tentorium and is at risk when dividing the free edge. It is the cranial nerve most frequently injured in the middle incisural space — so thin and friable that gentle retraction may rupture it.
+The [[tentorium-cerebelli|tentorium]] may be divided to combine the subtemporal exposure with a [[foramen-magnum|suboccipital]] craniectomy, providing access to the prepontine and cerebellopontine cisterns. **Critical:** The [[trochlear-nerve|trochlear nerve (CN IV)]] enters the anterior edge of the tentorium and is at risk when dividing the free edge. It is the cranial nerve most frequently injured in the middle incisural space — so thin and friable that gentle retraction may rupture it.
 
 ## Exposed Structures
 

@@ -3,9 +3,6 @@ title: Operative Techniques and Instrumentation
 category: synthesis
 tags:
   - surgical-technique
-  - microsurgery
-  - instrumentation
-  - operative-principles
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch. 1: Operative Techniques and Instrumentation for Neurosurgery, pp. 66-143"
 created: 2026-04-12
@@ -15,9 +12,7 @@ aliases:
   - microsurgical instrumentation
   - Rhoton instruments
   - operative principles
----
-
-# Operative Techniques and Instrumentation
+---Operative Techniques and Instrumentation
 
 The introduction of the operating microscope converted nearly all of neurosurgery into a microsurgical specialty. Rhoton's systematic approach to instrumentation and technique forms the foundation upon which all [[surgical-approaches-overview|surgical approaches]] are built.
 
@@ -52,9 +47,9 @@ Instruments must have a dull finish — brilliant light reflected from polished 
 
 | Position | Indication | Key details |
 |---|---|---|
-| Supine | Frontal, temporal, anterior parietal, most cranial base approaches | Head turning + shoulder elevation to rotate torso |
-| Three-quarter prone (park-bench) | Posterior parietal, occipital, suboccipital | Table tilted to elevate head; reduces venous engorgement |
-| Semi-sitting | Posterior fossa, cervical (selected surgeons) | Best venous drainage; air embolism risk requires Doppler + right atrial catheter |
+| Supine | Frontal, temporal, anterior parietal, most [[cranial-base|cranial base]] approaches | Head turning + shoulder elevation to rotate torso |
+| Three-quarter prone (park-bench) | Posterior parietal, occipital, [[foramen-magnum|suboccipital]] | Table tilted to elevate head; reduces venous engorgement |
+| Semi-sitting | [[posterior-fossa|Posterior fossa]], cervical (selected surgeons) | Best venous drainage; air embolism risk requires Doppler + right atrial catheter |
 | Prone | Midline posterior approaches | Surgeon seated at head |
 
 **Positioning principles:**
@@ -72,7 +67,7 @@ The pinion headholder with three pins provides rigid fixation while allowing int
 - Avoid CSF shunts
 - Avoid thin bone (frontal sinus, mastoid air cells)
 - Avoid thick temporalis muscle (unstable grip)
-- Position away from incision and orbit
+- Position away from incision and [[orbit|orbit]]
 - Use shorter pediatric pins for thin crania
 - Use radiolucent headholders when intraoperative fluoroscopy is planned
 
@@ -94,7 +89,7 @@ Tapered spatulas attached to self-retaining systems mounted on the pinion headho
 
 ### High-Speed Drills
 Replaced manual trephines and Gigli saws for craniotomy. Cutting burrs with foot plates protect the dura. Key principles:
-- Avoid extremely long bone cuts, especially across bony prominences ([[sphenoid-bone|pterion]]) or venous sinuses
+- Avoid extremely long bone cuts, especially across bony prominences ([[sphenoid-bone|pterion]]) or [[dural-venous-sinuses|venous sinuses]]
 - Place holes on each side of a sinus, strip dura, then cut — never cut across a sinus in a long pass
 - Bone wax controls bone edge bleeding
 
@@ -123,5 +118,5 @@ Before draping for supratentorial procedures, mark:
 - [[microsurgical-anatomy-principles]] — Rhoton's 6 anatomical axioms
 - [[pterional-approach]] — Classic frontotemporal craniotomy
 - [[retrosigmoid-approach]] — CP angle access
-- [[transtemporal-approaches]] — Temporal bone corridor
+- [[transtemporal-approaches]] — [[temporal-bone|Temporal bone]] corridor
 - [[sylvian-fissure]] — Most important surgical corridor

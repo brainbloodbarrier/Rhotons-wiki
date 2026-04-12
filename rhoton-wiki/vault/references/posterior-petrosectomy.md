@@ -33,7 +33,7 @@ The posterior petrosectomy encompasses a family of approaches through the mastoi
 ### Retrolabyrinthine
 Mastoid bone removal **behind** the labyrinth (semicircular canals) and **anterior** to the [[dural-venous-sinuses|sigmoid sinus]]. Opens a corridor between the labyrinth and [[sigmoid-sinus]] to the [[posterior-fossa]] dura. **Preserves hearing.**
 
-**Exposure:** Limited — posterior fossa dura behind the IAC. Best for small petroclival lesions, microvascular decompression of [[trigeminal-nerve|CN V]], or endolymphatic sac surgery.
+**Exposure:** Limited — posterior fossa dura behind the [[internal-auditory-canal|IAC]]. Best for small petroclival lesions, microvascular decompression of [[trigeminal-nerve|CN V]], or endolymphatic sac surgery.
 
 ### Translabyrinthine
 Mastoid removal **through** the labyrinth (semicircular canals removed). **Sacrifices hearing** but provides the widest lateral access to the IAC and [[cerebellopontine-cistern]].
