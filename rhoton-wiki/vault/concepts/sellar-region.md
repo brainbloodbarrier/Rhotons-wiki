@@ -13,7 +13,7 @@ aliases:
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.8 — The Sellar Region"
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 summary: >-
   Pituitary fossa, transsphenoidal and transcranial approaches
 parent: "[[cranial-base]]"
@@ -38,6 +38,16 @@ Sits within the sella turcica, covered superiorly by the diaphragma sellae (a du
 
 ### [[sphenoid-bone|Sphenoid]] Sinus
 Located directly below the sella; provides the primary transsphenoidal surgical corridor. The sinus is separated from the sella by a thin bony floor (sometimes dehiscent). The sphenoid ostia open into the sphenoethmoidal recesses of the nasal cavity.
+
+**Three pneumatization types** (critical for transsphenoidal planning):
+
+| Type | Frequency | Description |
+|---|---|---|
+| **Conchal** | Rare in adults (common <12 yr) | Solid bone below sella, no air cavity; ≥10 mm bone thickness |
+| **Presellar** | ~24% adults | Air cavity does not extend past anterior sellar wall |
+| **Sellar** | ~76% adults | Air cavity extends below and behind sella to clivus |
+
+**Instrument depth:** Average sinus depth (ostium → sella) is 17 mm (range 12–23 mm). Transsphenoidal speculum is 9 cm; instruments must reach 11–12 cm total. Instruments should be ≥12 cm shaft length (greater in acromegaly). Blunt ring curettes preferred over sharp — vital neurovascular structures abut the lateral sinus wall and area above defective diaphragma.
 
 ### [[chiasmatic-cistern|Suprasellar Cistern]]
 Contains the [[optic-chiasm]], infundibulum, [[anterior-cerebral-artery]] (A1), [[anterior-communicating-artery]], superior hypophyseal arteries, and the [[lamina-terminalis]].
