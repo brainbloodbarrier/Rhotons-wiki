@@ -10,6 +10,8 @@ aliases:
   - membrane of Liliequist
   - diencephalic membrane
   - mesencephalic membrane
+parent: [[basal-cisterns]]
+located-in: [[interpeduncular-cistern]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1, 5"
 created: 2026-04-10

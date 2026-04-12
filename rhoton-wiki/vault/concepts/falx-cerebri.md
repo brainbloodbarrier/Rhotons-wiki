@@ -3,12 +3,14 @@ title: Falx Cerebri
 category: concepts
 tags:
   - anatomy
-  - dura
+  - meninges
   - surgical-landmark
   - rhoton
 aliases:
   - cerebral falx
   - falx
+parent: [[meninges]]
+contains: [[dural-venous-sinuses]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1, 4, 5"
 created: 2026-04-10

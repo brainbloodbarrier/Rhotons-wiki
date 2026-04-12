@@ -9,6 +9,13 @@ aliases:
   - cranial base
   - skull base
   - "basis cranii"
+parent: [[posterior-fossa]]
+contains:
+  - "[[sphenoid-bone]]"
+  - "[[temporal-bone]]"
+  - "[[clivus]]"
+  - "[[foramen-magnum]]"
+  - "[[jugular-foramen]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.6 — The Anterior and Middle Cranial Base"
 created: 2026-04-09

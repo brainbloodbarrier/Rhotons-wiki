@@ -10,6 +10,12 @@ tags:
 aliases:
   - carotid circulation
   - anterior cerebral circulation
+parent: [[circle-of-willis]]
+contains:
+  - "[[internal-carotid-artery]]"
+  - "[[middle-cerebral-artery]]"
+  - "[[anterior-cerebral-artery]]"
+  - "[[anterior-communicating-artery]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2"
 created: 2026-04-09
@@ -83,28 +89,28 @@ Connects bilateral A1 segments, completing the anterior [[circle-of-willis]]. Th
 | Branch | Origin | Supply |
 |---|---|---|
 | Ophthalmic artery | C4 ICA | [[orbit]], [[optic-nerve]], retina |
-| [[posterior-communicating-artery]] | C4 ICA | Connects to [[posterior-cerebral-artery\|PCA]] ([[circle-of-willis]]) |
+| [[posterior-communicating-artery]] | C4 ICA | Connects to [[posterior-cerebral-artery|PCA]] ([[circle-of-willis]]) |
 | [[anterior-choroidal-artery]] | C4 ICA | [[optic-tract]], temporal horn [[choroid-plexus]], [[hippocampus]], internal capsule |
-| Superior hypophyseal | C4 ICA | [[optic-chiasm]], infundibulum, [[sellar-region\|pituitary]] |
+| Superior hypophyseal | C4 ICA | [[optic-chiasm]], infundibulum, [[sellar-region|pituitary]] |
 
 ## [[perforating-arteries]]
 
 | Source | Perforators | Supply |
 |---|---|---|
-| [[anterior-communicating-artery\|ACoA]] | Hypothalamic perforators | Hypothalamus, fornix, anterior commissure |
-| [[anterior-cerebral-artery\|ACA]] A1 | Medial lenticulostriates | [[anterior-perforated-substance]] |
+| [[anterior-communicating-artery|ACoA]] | Hypothalamic perforators | Hypothalamus, fornix, anterior commissure |
+| [[anterior-cerebral-artery|ACA]] A1 | Medial lenticulostriates | [[anterior-perforated-substance]] |
 | Recurrent artery of Heubner | Largest ACA perforator | Caudate head, anterior internal capsule |
-| [[middle-cerebral-artery\|MCA]] M1 | Lateral lenticulostriates | Putamen, globus pallidus, posterior internal capsule |
-| [[anterior-choroidal-artery\|AChA]] | Choroidal perforators | Optic tract, lateral geniculate, hippocampus |
+| [[middle-cerebral-artery|MCA]] M1 | Lateral lenticulostriates | Putamen, globus pallidus, posterior internal capsule |
+| [[anterior-choroidal-artery|AChA]] | Choroidal perforators | Optic tract, lateral geniculate, hippocampus |
 
 ## Surgical Approaches
 
 | Target | Approach |
 |---|---|
 | ICA-PCoA aneurysm | [[pterional-approach]] |
-| [[anterior-communicating-artery\|ACoA]] aneurysm | [[pterional-approach]], [[interhemispheric-approach]] |
-| [[middle-cerebral-artery\|MCA]] bifurcation aneurysm | [[pterional-approach]] (sylvian fissure) |
-| Distal [[anterior-cerebral-artery\|ACA]] aneurysm | [[interhemispheric-approach]] |
+| [[anterior-communicating-artery|ACoA]] aneurysm | [[pterional-approach]], [[interhemispheric-approach]] |
+| [[middle-cerebral-artery|MCA]] bifurcation aneurysm | [[pterional-approach]] (sylvian fissure) |
+| Distal [[anterior-cerebral-artery|ACA]] aneurysm | [[interhemispheric-approach]] |
 | [[cavernous-sinus]] ICA lesion | Frontotemporal, [[subtemporal-approach]] + Kawase |
 | [[sellar-region]] ([[pituitary-gland|pituitary]]) | [[transsphenoidal-approach]] |
 

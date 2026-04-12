@@ -2,7 +2,7 @@
 title: Middle Fossa Approach
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - skull-base
   - temporal-bone

@@ -2,13 +2,20 @@
 title: Surgical Approaches Overview
 category: synthesis
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - synthesis
   - rhoton
 aliases:
   - approach selection
   - surgical corridors
+parent: [[microsurgical-anatomy-principles]]
+contains:
+  - "[[pterional-approach]]"
+  - "[[orbitozygomatic-approach]]"
+  - "[[retrosigmoid-approach]]"
+  - "[[far-lateral-approach]]"
+  - "[[transsphenoidal-approach]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), all chapters"
 created: 2026-04-09
@@ -27,13 +34,13 @@ This page synthesizes the surgical approaches described in Rhoton's work, organi
 
 | Target | Primary Approach | Alternative |
 |---|---|---|
-| [[anterior-communicating-artery\|ACoA]] aneurysm | [[pterional-approach]] | [[interhemispheric-approach\|Anterior interhemispheric]] |
-| Distal [[anterior-cerebral-artery\|ACA]] aneurysm | [[interhemispheric-approach]] | — |
-| [[middle-cerebral-artery\|MCA]] aneurysm | [[pterional-approach]] (sylvian fissure) | — |
-| [[internal-carotid-artery\|ICA]]-[[posterior-communicating-artery|PCoA]] aneurysm | [[pterional-approach]] | — |
+| [[anterior-communicating-artery|ACoA]] aneurysm | [[pterional-approach]] | [[interhemispheric-approach|Anterior interhemispheric]] |
+| Distal [[anterior-cerebral-artery|ACA]] aneurysm | [[interhemispheric-approach]] | — |
+| [[middle-cerebral-artery|MCA]] aneurysm | [[pterional-approach]] (sylvian fissure) | — |
+| [[internal-carotid-artery|ICA]]-[[posterior-communicating-artery|PCoA]] aneurysm | [[pterional-approach]] | — |
 | [[sellar-region]] ([[pituitary-gland|pituitary]]) | [[transsphenoidal-approach]] | Transcranial (pterional) |
 | [[optic-chiasm]] lesion | [[pterional-approach]] | [[transsphenoidal-approach]] |
-| [[lateral-and-third-ventricles|Third ventricle]] tumor | [[interhemispheric-approach\|Transcallosal]] | Transcortical-transventricular |
+| [[lateral-and-third-ventricles|Third ventricle]] tumor | [[interhemispheric-approach|Transcallosal]] | Transcortical-transventricular |
 | [[cavernous-sinus]] lesion | Frontotemporal + extradural | [[subtemporal-approach]] + Kawase |
 
 ### Basilar Apex and Tentorial Incisura
@@ -41,20 +48,20 @@ This page synthesizes the surgical approaches described in Rhoton's work, organi
 | Target | Primary Approach | Alternative |
 |---|---|---|
 | [[basilar-artery]] apex aneurysm | [[pterional-approach]] (high bifurcation) | [[subtemporal-approach]] (low bifurcation) |
-| [[posterior-cerebral-artery\|PCA]] aneurysm | [[subtemporal-approach]] | [[pterional-approach]] |
-| [[superior-cerebellar-artery\|SCA]] aneurysm | [[subtemporal-approach]] | [[pterional-approach]] |
+| [[posterior-cerebral-artery|PCA]] aneurysm | [[subtemporal-approach]] | [[pterional-approach]] |
+| [[superior-cerebellar-artery|SCA]] aneurysm | [[subtemporal-approach]] | [[pterional-approach]] |
 | [[pineal-region]] tumor | [[supracerebellar-infratentorial-approach]] | Occipital transtentorial |
 | [[tentorial-incisura]] meningioma | [[subtemporal-approach]] + tentorial section | Combined supra-infratentorial |
-| [[trigeminal-nerve\|CN V]] decompression | [[retrosigmoid-approach]] | [[subtemporal-approach]] |
+| [[trigeminal-nerve|CN V]] decompression | [[retrosigmoid-approach]] | [[subtemporal-approach]] |
 
 ### [[posterior-fossa]]
 
 | Target | Primary Approach | Alternative |
 |---|---|---|
 | Vestibular schwannoma | [[retrosigmoid-approach]] | Translabyrinthine, middle fossa |
-| [[cerebellopontine-cistern\|CPA]] meningioma | [[retrosigmoid-approach]] | — |
-| [[aica\|AICA]] aneurysm | [[retrosigmoid-approach]] | — |
-| [[pica\|PICA]] aneurysm | [[far-lateral-approach]] | Midline suboccipital |
+| [[cerebellopontine-cistern|CPA]] meningioma | [[retrosigmoid-approach]] | — |
+| [[aica|AICA]] aneurysm | [[retrosigmoid-approach]] | — |
+| [[pica|PICA]] aneurysm | [[far-lateral-approach]] | Midline suboccipital |
 | [[fourth-ventricle]] tumor | Telovelar (suboccipital) | — |
 | [[brainstem]] cavernoma (dorsal) | [[supracerebellar-infratentorial-approach]] | Midline suboccipital |
 | [[brainstem]] cavernoma (ventrolateral) | [[far-lateral-approach]] | [[retrosigmoid-approach]] |
@@ -65,9 +72,9 @@ This page synthesizes the surgical approaches described in Rhoton's work, organi
 |---|---|---|
 | [[foramen-magnum]] meningioma (ventral) | [[far-lateral-approach]] | Transoral |
 | [[vertebral-artery]] aneurysm | [[far-lateral-approach]] | — |
-| [[lower-cranial-nerves\|CN IX-XII]] schwannoma | [[far-lateral-approach]] | [[retrosigmoid-approach]] |
+| [[lower-cranial-nerves|CN IX-XII]] schwannoma | [[far-lateral-approach]] | [[retrosigmoid-approach]] |
 | Clival chordoma (lower) | [[far-lateral-approach]] | Endonasal transclival |
-| Clival chordoma (upper) | [[transsphenoidal-approach\|Endonasal]] | [[subtemporal-approach]] + Kawase |
+| Clival chordoma (upper) | [[transsphenoidal-approach|Endonasal]] | [[subtemporal-approach]] + Kawase |
 
 ## Approach Selection Principles
 

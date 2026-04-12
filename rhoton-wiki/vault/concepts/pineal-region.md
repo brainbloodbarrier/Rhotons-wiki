@@ -4,12 +4,14 @@ category: concepts
 tags:
   - anatomy
   - deep-structures
-  - surgical-target
+  - surgical-landmark
   - rhoton
 aliases:
   - pineal gland
   - pineal body
   - epiphysis cerebri
+parent: [[lateral-and-third-ventricles]]
+approached-via: [[supracerebellar-infratentorial-approach]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2, 4, 5"
 created: 2026-04-10

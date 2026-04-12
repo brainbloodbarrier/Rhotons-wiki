@@ -3,7 +3,7 @@ title: Septum Pellucidum
 category: concepts
 tags:
   - cerebrum
-  - lateral-ventricle
+  - ventricles
   - white-matter
   - surgical-landmark
 sources:

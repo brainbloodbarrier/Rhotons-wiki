@@ -197,8 +197,8 @@
             "state": {
               "type": "smart-env-status-view",
               "state": {},
-              "icon": "gauge",
-              "title": "Smart Environment Status"
+              "icon": "lucide-ghost",
+              "title": "smart-env-status-view"
             }
           },
           {

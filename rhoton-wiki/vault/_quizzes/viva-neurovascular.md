@@ -3,8 +3,9 @@ title: Viva Questions — Neurovascular Anatomy
 category: meta
 tags:
   - quiz
-  - viva
-  - neurovascular
+  - vasculature
+summary: >-
+  # Viva Questions — Neurovascular Anatomy
 ---
 
 # Viva Questions — Neurovascular Anatomy

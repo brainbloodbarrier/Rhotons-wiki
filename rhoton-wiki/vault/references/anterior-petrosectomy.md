@@ -2,7 +2,7 @@
 title: Anterior Petrosectomy (Kawase Approach)
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - skull-base
   - posterior-fossa

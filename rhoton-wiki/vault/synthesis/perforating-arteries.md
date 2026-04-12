@@ -11,6 +11,12 @@ aliases:
   - perforators
   - perforating branches
   - "arteriae perforantes"
+parent: [[anterior-circulation]]
+branch-of:
+  - "[[middle-cerebral-artery]]"
+  - "[[anterior-cerebral-artery]]"
+  - "[[posterior-cerebral-artery]]"
+  - "[[basilar-artery]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2, 3, 12"
 created: 2026-04-09
@@ -35,26 +41,26 @@ Perforators arise from the parent vessel, travel a short distance along the brai
 
 | Perforator | Parent vessel | Territory | Clinical deficit if lost |
 |---|---|---|---|
-| **Lateral lenticulostriates** (6–12) | [[middle-cerebral-artery\|MCA]] M1 | Putamen, globus pallidus, posterior [[internal-capsule]] | Contralateral hemiplegia |
-| **Medial lenticulostriates** | [[anterior-cerebral-artery\|ACA]] A1 | Anterior internal capsule, caudate head | Contralateral weakness (arm > leg) |
-| **[[recurrent-artery-of-heubner]]** | [[anterior-cerebral-artery\|ACA]] proximal A2 | Caudate head, anterior internal capsule, anterior putamen | Contralateral face/arm weakness |
-| **[[anterior-communicating-artery|ACoA]] perforators** | [[anterior-communicating-artery\|ACoA]] | [[hypothalamus]], [[fornix]] columns, anterior commissure | Memory deficit, personality change |
-| **Premamillary (thalamotuberal)** | [[posterior-communicating-artery\|PCoA]] | Anterior thalamus, hypothalamus, mamillary bodies | Memory deficit, thalamic syndrome |
+| **Lateral lenticulostriates** (6–12) | [[middle-cerebral-artery|MCA]] M1 | Putamen, globus pallidus, posterior [[internal-capsule]] | Contralateral hemiplegia |
+| **Medial lenticulostriates** | [[anterior-cerebral-artery|ACA]] A1 | Anterior internal capsule, caudate head | Contralateral weakness (arm > leg) |
+| **[[recurrent-artery-of-heubner]]** | [[anterior-cerebral-artery|ACA]] proximal A2 | Caudate head, anterior internal capsule, anterior putamen | Contralateral face/arm weakness |
+| **[[anterior-communicating-artery|ACoA]] perforators** | [[anterior-communicating-artery|ACoA]] | [[hypothalamus]], [[fornix]] columns, anterior commissure | Memory deficit, personality change |
+| **Premamillary (thalamotuberal)** | [[posterior-communicating-artery|PCoA]] | Anterior thalamus, hypothalamus, mamillary bodies | Memory deficit, thalamic syndrome |
 | **AChA perforators** | [[anterior-choroidal-artery]] | Posterior internal capsule, [[optic-tract]], LGN, hippocampus | Hemiplegia + hemianopia + hemianesthesia (AChA syndrome) |
-| **Superior hypophyseal** | [[internal-carotid-artery\|ICA]] C4 | [[optic-nerve]], [[optic-chiasm]], [[pituitary-gland\|pituitary]] stalk | Visual loss, endocrine dysfunction |
+| **Superior hypophyseal** | [[internal-carotid-artery|ICA]] C4 | [[optic-nerve]], [[optic-chiasm]], [[pituitary-gland|pituitary]] stalk | Visual loss, endocrine dysfunction |
 
 ### Posterior Circulation ([[posterior-circulation]])
 
 | Perforator | Parent vessel | Territory | Clinical deficit if lost |
 |---|---|---|---|
-| **Thalamoperforating** (4–12) | [[posterior-cerebral-artery\|PCA]] P1 | Posterior thalamus, midbrain, posterior perforated substance | Contralateral sensory loss, altered consciousness |
-| **Thalamogeniculate** | [[posterior-cerebral-artery\|PCA]] P2 | Thalamus, lateral/medial geniculate bodies | Sensory loss, visual/auditory processing deficits |
-| **Peduncular perforating** | [[posterior-cerebral-artery\|PCA]] P2 | Cerebral peduncle, midbrain tegmentum | Weber syndrome ([[oculomotor-nerve|CN III]] + contralateral hemiplegia) |
+| **Thalamoperforating** (4–12) | [[posterior-cerebral-artery|PCA]] P1 | Posterior thalamus, midbrain, posterior perforated substance | Contralateral sensory loss, altered consciousness |
+| **Thalamogeniculate** | [[posterior-cerebral-artery|PCA]] P2 | Thalamus, lateral/medial geniculate bodies | Sensory loss, visual/auditory processing deficits |
+| **Peduncular perforating** | [[posterior-cerebral-artery|PCA]] P2 | Cerebral peduncle, midbrain tegmentum | Weber syndrome ([[oculomotor-nerve|CN III]] + contralateral hemiplegia) |
 | **Pontine perforators** (median, paramedian, circumferential) | [[basilar-artery]] | Corticospinal tracts, pontine nuclei, tegmentum | Locked-in syndrome, cranial nerve palsies |
-| **Circumflex perforating** | [[superior-cerebellar-artery\|SCA]] | Inferior colliculus, [[cerebellar-peduncles|superior cerebellar peduncle]] | Ataxia, hearing processing deficits |
+| **Circumflex perforating** | [[superior-cerebellar-artery|SCA]] | Inferior colliculus, [[cerebellar-peduncles|superior cerebellar peduncle]] | Ataxia, hearing processing deficits |
 | **Medullary perforators** | [[vertebral-artery]] | Pyramids, lateral medulla | Lateral medullary syndrome (Wallenberg) |
-| **[[pica]] perforators** | [[pica\|PICA]] | Lateral medulla, inferior cerebellar peduncle | Wallenberg syndrome components |
-| **[[aica]] perforators** | [[aica\|AICA]] | Lateral pons, middle cerebellar peduncle | Lateral pontine syndrome |
+| **[[pica]] perforators** | [[pica|PICA]] | Lateral medulla, inferior cerebellar peduncle | Wallenberg syndrome components |
+| **[[aica]] perforators** | [[aica|AICA]] | Lateral pons, middle cerebellar peduncle | Lateral pontine syndrome |
 
 ## Perforator Zones
 

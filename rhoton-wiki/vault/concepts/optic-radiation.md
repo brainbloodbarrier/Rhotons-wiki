@@ -4,9 +4,7 @@ category: concepts
 tags:
   - visual-pathway
   - white-matter
-  - temporal-lobe
-  - parietal-lobe
-  - lateral-geniculate
+  - cerebrum
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10

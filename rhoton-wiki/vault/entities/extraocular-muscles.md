@@ -28,13 +28,13 @@ The six extraocular muscles control eye movements and are innervated by three cr
 
 | Muscle | Origin | Insertion | Action | Innervation |
 |---|---|---|---|---|
-| **Superior rectus** | Annular tendon (superior) | Superior sclera | Elevation, intorsion, adduction | [[oculomotor-nerve\|CN III]] (superior division) |
-| **Inferior rectus** | Annular tendon (inferior) | Inferior sclera | Depression, extorsion, adduction | [[oculomotor-nerve\|CN III]] (inferior division) |
-| **Medial rectus** | Annular tendon (medial) | Medial sclera | Adduction | [[oculomotor-nerve\|CN III]] (inferior division) |
-| **Lateral rectus** | Annular tendon (lateral) | Lateral sclera | Abduction | [[abducens-nerve\|CN VI]] (sole supply) |
-| **Superior oblique** | Sphenoid body (superomedial apex) | Superior sclera (via trochlea) | Depression, intorsion, abduction | [[trochlear-nerve\|CN IV]] (sole supply) |
-| **Inferior oblique** | Maxilla (orbital floor, anteromedial) | Inferior sclera (posterior) | Elevation, extorsion, abduction | [[oculomotor-nerve\|CN III]] (inferior division) |
-| **Levator palpebrae superioris** | Lesser wing of [[sphenoid-bone]] | Upper eyelid | Eyelid elevation | [[oculomotor-nerve\|CN III]] (superior division) + sympathetic (Müller's muscle) |
+| **Superior rectus** | Annular tendon (superior) | Superior sclera | Elevation, intorsion, adduction | [[oculomotor-nerve|CN III]] (superior division) |
+| **Inferior rectus** | Annular tendon (inferior) | Inferior sclera | Depression, extorsion, adduction | [[oculomotor-nerve|CN III]] (inferior division) |
+| **Medial rectus** | Annular tendon (medial) | Medial sclera | Adduction | [[oculomotor-nerve|CN III]] (inferior division) |
+| **Lateral rectus** | Annular tendon (lateral) | Lateral sclera | Abduction | [[abducens-nerve|CN VI]] (sole supply) |
+| **Superior oblique** | Sphenoid body (superomedial apex) | Superior sclera (via trochlea) | Depression, intorsion, abduction | [[trochlear-nerve|CN IV]] (sole supply) |
+| **Inferior oblique** | Maxilla (orbital floor, anteromedial) | Inferior sclera (posterior) | Elevation, extorsion, abduction | [[oculomotor-nerve|CN III]] (inferior division) |
+| **Levator palpebrae superioris** | Lesser wing of [[sphenoid-bone]] | Upper eyelid | Eyelid elevation | [[oculomotor-nerve|CN III]] (superior division) + sympathetic (Müller's muscle) |
 
 **Mnemonic: LR6SO4** — lateral rectus = CN VI, superior oblique = CN IV, all others = CN III.
 

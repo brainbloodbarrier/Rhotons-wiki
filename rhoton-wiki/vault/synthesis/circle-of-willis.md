@@ -12,6 +12,12 @@ aliases:
   - CoW
   - "circulus arteriosus cerebri"
   - "cerebral arterial circle"
+parent: [[anterior-circulation]]
+contains:
+  - "[[internal-carotid-artery]]"
+  - "[[posterior-communicating-artery]]"
+  - "[[anterior-communicating-artery]]"
+  - "[[posterior-cerebral-artery]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2–3"
 created: 2026-04-09

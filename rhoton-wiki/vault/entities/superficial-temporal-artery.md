@@ -2,11 +2,10 @@
 title: Superficial Temporal Artery
 category: entities
 tags:
-  - artery
+  - vasculature
   - external-carotid
-  - scalp
-  - bypass
-  - craniotomy
+  - skull-base
+  - surgical-technique
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10

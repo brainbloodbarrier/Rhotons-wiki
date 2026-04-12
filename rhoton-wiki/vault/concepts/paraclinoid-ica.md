@@ -2,8 +2,9 @@
 title: Paraclinoid Internal Carotid Artery
 category: concepts
 tags:
-  - internal-carotid-artery
-  - anterior-clinoid
+  - vasculature
+  - anterior-circulation
+  - skull-base
   - dural-rings
   - cavernous-sinus
   - aneurysm
@@ -46,8 +47,8 @@ The paraclinoid region of the [[internal-carotid-artery|ICA]] is the segment bet
 ### Classification by Wall of Origin
 | Type | Wall | Direction | Key relationship |
 |---|---|---|---|
-| Ophthalmic | Superior | Superomedial | Compresses [[optic-nerve]] against [[optic-canal\|falciform ligament]] |
-| Superior hypophyseal | Medial | Medial/inferior | Projects toward [[pituitary-gland\|pituitary stalk]], may compress [[optic-chiasm]] |
+| Ophthalmic | Superior | Superomedial | Compresses [[optic-nerve]] against [[optic-canal|falciform ligament]] |
+| Superior hypophyseal | Medial | Medial/inferior | Projects toward [[pituitary-gland|pituitary stalk]], may compress [[optic-chiasm]] |
 | Carotid cave | Inferomedial | Inferomedial | Arises between dural rings (partially extradural) |
 | Dorsal wall (blister) | Dorsal | Superior | Fragile, fusiform; high rupture risk, difficult clipping |
 

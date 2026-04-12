@@ -4,8 +4,6 @@ category: concepts
 tags:
   - anatomy
   - meninges
-  - dura-mater
-  - arachnoid
   - rhoton
 aliases:
   - dura mater
@@ -13,6 +11,11 @@ aliases:
   - pia mater
   - meningeal layers
   - Liliequist membrane
+parent: [[posterior-fossa]]
+contains:
+  - "[[dural-venous-sinuses]]"
+  - "[[falx-cerebri]]"
+  - "[[tentorium-cerebelli]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.4, 14, 15"
 created: 2026-04-10

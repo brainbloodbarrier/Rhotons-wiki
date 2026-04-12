@@ -2,7 +2,7 @@
 title: Far Lateral Approach
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - posterior-fossa
   - foramen-magnum

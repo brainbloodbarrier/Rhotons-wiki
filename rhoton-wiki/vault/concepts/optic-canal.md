@@ -32,7 +32,7 @@ The optic canal is a bony channel through the lesser wing of the [[sphenoid-bone
 |---|---|
 | **Superior (roof)** | Lesser wing of [[sphenoid-bone]], anterior root of [[anterior-clinoid-process]] |
 | **Inferior (floor)** | Body of [[sphenoid-bone]], roof of sphenoid sinus |
-| **Medial** | Body of [[sphenoid-bone]] (lateral wall of [[paranasal-sinuses\|sphenoid sinus]]) |
+| **Medial** | Body of [[sphenoid-bone]] (lateral wall of [[paranasal-sinuses|sphenoid sinus]]) |
 | **Lateral** | Optic strut (separates optic canal from superior orbital fissure) |
 
 ### Openings

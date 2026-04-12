@@ -4,7 +4,6 @@ category: concepts
 tags:
   - anatomy
   - posterior-fossa
-  - cerebellum
   - rhoton
 aliases:
   - "cerebellar anatomy"
@@ -50,9 +49,9 @@ Three paired fiber bundles connect the cerebellum to the [[brainstem]]:
 
 | Peduncle | Connects to | Primary tracts | Neurovascular complex |
 |---|---|---|---|
-| Superior | Midbrain | Efferent (dentatorubrothalamic) | Upper ([[superior-cerebellar-artery\|SCA]]) |
-| Middle | Pons | Afferent (pontocerebellar) | Middle ([[aica\|AICA]]) |
-| Inferior | Medulla | Afferent/efferent (spinocerebellar, olivocerebellar) | Lower ([[pica\|PICA]]) |
+| Superior | Midbrain | Efferent (dentatorubrothalamic) | Upper ([[superior-cerebellar-artery|SCA]]) |
+| Middle | Pons | Afferent (pontocerebellar) | Middle ([[aica|AICA]]) |
+| Inferior | Medulla | Afferent/efferent (spinocerebellar, olivocerebellar) | Lower ([[pica|PICA]]) |
 
 ## Deep Nuclei
 

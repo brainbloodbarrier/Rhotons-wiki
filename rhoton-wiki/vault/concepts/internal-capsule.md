@@ -3,10 +3,9 @@ title: Internal Capsule
 category: concepts
 tags:
   - white-matter
-  - basal-ganglia
+  - deep-structures
   - motor-pathway
-  - lenticulostriate
-  - lacunar-stroke
+  - perforators
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10

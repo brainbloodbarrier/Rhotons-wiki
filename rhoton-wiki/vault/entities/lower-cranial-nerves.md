@@ -5,7 +5,7 @@ tags:
   - anatomy
   - cranial-nerves
   - posterior-fossa
-  - jugular-foramen
+  - skull-base
   - foramen-magnum
   - rhoton
 aliases:
@@ -25,6 +25,10 @@ updated: 2026-04-09
 summary: >-
   CN IX-XII, jugular foramen, foramen magnum
 parent: "[[cranial-nerves-overview]]"
+summary: >-
+  CN IX-XII, jugular foramen, foramen magnum
+summary: >-
+  CN IX-XII, jugular foramen, foramen magnum
 ---
 
 # Lower Cranial Nerves (CN IX–XII)

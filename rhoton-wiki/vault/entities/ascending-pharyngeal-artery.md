@@ -2,7 +2,7 @@
 title: Ascending Pharyngeal Artery
 category: entities
 tags:
-  - artery
+  - vasculature
   - external-carotid
   - skull-base
   - posterior-fossa

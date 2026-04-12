@@ -5,7 +5,6 @@ tags:
   - anatomy
   - cerebrum
   - deep-structures
-  - temporal-lobe
   - rhoton
 aliases:
   - hippocampal formation

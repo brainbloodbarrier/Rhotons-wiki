@@ -8,7 +8,12 @@ tags:
   - rhoton
 aliases:
   - deep cerebral veins
-  - galenic venous system
+parent: [[cerebral-veins]]
+contains:
+  - "[[internal-cerebral-veins]]"
+  - "[[basal-vein-of-rosenthal]]"
+  - "[[vein-of-galen]]"
+drains-to: [[dural-venous-sinuses]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.4"
 created: 2026-04-10
@@ -53,7 +58,7 @@ The ventricular veins arise from the walls of the lateral ventricles and converg
 
 | Group | Route | Drains Into |
 |---|---|---|
-| **Lateral group** | Through thalamic side of [[choroidal-fissure]] | [[internal-cerebral-veins]], [[basal-vein-of-rosenthal\|basal vein]], [[vein-of-galen]] |
+| **Lateral group** | Through thalamic side of [[choroidal-fissure]] | [[internal-cerebral-veins]], [[basal-vein-of-rosenthal|basal vein]], [[vein-of-galen]] |
 | **Medial group** | Pierces fornix to enter velum interpositum | [[internal-cerebral-veins]] |
 
 The lateral group drains the lateral wall (caudate), and the medial group drains the medial wall (septum, fornix) and opposite surfaces.
@@ -64,9 +69,9 @@ The cisternal group of deep veins drains the walls of the cisterns surrounding t
 
 | Incisural Region | Location | Drainage |
 |---|---|---|
-| **Anterior** | In front of brainstem (chiasmatic, interpeduncular cisterns) | → anterior segment of [[basal-vein-of-rosenthal\|basal vein]] |
-| **Middle** | Lateral to brainstem (crural, ambient cisterns) | → middle segment of [[basal-vein-of-rosenthal\|basal vein]] |
-| **Posterior** | Behind brainstem (quadrigeminal cistern) | → [[basal-vein-of-rosenthal\|basal vein]], [[internal-cerebral-veins]], or [[vein-of-galen]] |
+| **Anterior** | In front of brainstem (chiasmatic, interpeduncular cisterns) | → anterior segment of [[basal-vein-of-rosenthal|basal vein]] |
+| **Middle** | Lateral to brainstem (crural, ambient cisterns) | → middle segment of [[basal-vein-of-rosenthal|basal vein]] |
+| **Posterior** | Behind brainstem (quadrigeminal cistern) | → [[basal-vein-of-rosenthal|basal vein]], [[internal-cerebral-veins]], or [[vein-of-galen]] |
 
 ## Surgical Obstacle Map
 
@@ -74,9 +79,9 @@ The cisternal group of deep veins drains the walls of the cisterns surrounding t
 |---|---|---|
 | [[supracerebellar-infratentorial-approach]] | [[vein-of-galen]], terminal basal veins, superior vermian veins | [[pineal-region]] surgery |
 | [[interhemispheric-approach]] (posterior) | [[internal-cerebral-veins]] in velum interpositum | Third ventricle/pineal tumors |
-| [[subtemporal-approach]] | Middle segment of [[basal-vein-of-rosenthal\|basal vein]] | Temporal lobe elevation |
-| [[pterional-approach]] | Anterior segment of [[basal-vein-of-rosenthal\|basal vein]] | APS, deep sylvian veins |
-| Transchoroidal | [[internal-cerebral-veins]], [[posterior-choroidal-arteries\|MPChA]] | Choroidal fissure opening |
+| [[subtemporal-approach]] | Middle segment of [[basal-vein-of-rosenthal|basal vein]] | Temporal lobe elevation |
+| [[pterional-approach]] | Anterior segment of [[basal-vein-of-rosenthal|basal vein]] | APS, deep sylvian veins |
+| Transchoroidal | [[internal-cerebral-veins]], [[posterior-choroidal-arteries|MPChA]] | Choroidal fissure opening |
 | Transcallosal | [[internal-cerebral-veins]] | Velum interpositum entry |
 
 ## Consequences of Deep Venous Injury

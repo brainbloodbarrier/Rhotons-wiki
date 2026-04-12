@@ -9,6 +9,11 @@ tags:
 aliases:
   - cerebral aneurysm clipping
   - intracranial aneurysm surgery
+parent: [[surgical-approaches-overview]]
+approach-to:
+  - "[[anterior-circulation]]"
+  - "[[posterior-circulation]]"
+  - "[[circle-of-willis]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.3"
 created: 2026-04-10
@@ -30,7 +35,7 @@ Microsurgical clipping of intracranial aneurysms requires precise knowledge of t
 | **ACoA** | [[anterior-communicating-artery]] | Most common (~30%) | [[pterional-approach]], [[interhemispheric-approach]] |
 | **PCoA** | [[posterior-communicating-artery]] junction with ICA | ~25% | [[pterional-approach]] |
 | **MCA bifurcation** | [[middle-cerebral-artery]] M1/M2 | ~20% | [[pterional-approach]] (transsylvian) |
-| **Ophthalmic** | [[internal-carotid-artery]] at [[ophthalmic-artery]] origin | ~4% | [[pterional-approach]] + [[anterior-clinoid-process\|clinoidectomy]] |
+| **Ophthalmic** | [[internal-carotid-artery]] at [[ophthalmic-artery]] origin | ~4% | [[pterional-approach]] + [[anterior-clinoid-process|clinoidectomy]] |
 | **Superior hypophyseal** | ICA at [[superior-hypophyseal-artery]] origin | ~3% | [[pterional-approach]] or [[orbitozygomatic-approach]] |
 | **Carotid cave/clinoid** | ICA clinoid segment | Rare | [[orbitozygomatic-approach]] + clinoidectomy |
 
@@ -62,19 +67,19 @@ The most dangerous aspect of aneurysm surgery is injury to perforating arteries,
 
 | Aneurysm | CN at Risk | Mechanism |
 |---|---|---|
-| PCoA | [[oculomotor-nerve\|CN III]] | Aneurysm compresses CN III at PCA-SCA interval (classic "pupil-involving third nerve palsy") |
-| Basilar apex | [[oculomotor-nerve\|CN III]] | Between PCA and SCA |
-| SCA | [[trochlear-nerve\|CN IV]], [[trigeminal-nerve\|CN V]] | SCA-[[trigeminal-nerve|CN V]] relationship |
-| AICA | [[facial-nerve\|CN VII]], [[vestibulocochlear-nerve\|CN VIII]] | Meatal loop at IAC |
-| PICA | [[lower-cranial-nerves\|CN IX-XII]] | Rootlets at brainstem exit |
-| Ophthalmic | [[optic-nerve\|CN II]] | Aneurysm projects under optic nerve |
+| PCoA | [[oculomotor-nerve|CN III]] | Aneurysm compresses CN III at PCA-SCA interval (classic "pupil-involving third nerve palsy") |
+| Basilar apex | [[oculomotor-nerve|CN III]] | Between PCA and SCA |
+| SCA | [[trochlear-nerve|CN IV]], [[trigeminal-nerve|CN V]] | SCA-[[trigeminal-nerve|CN V]] relationship |
+| AICA | [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]] | Meatal loop at IAC |
+| PICA | [[lower-cranial-nerves|CN IX-XII]] | Rootlets at brainstem exit |
+| Ophthalmic | [[optic-nerve|CN II]] | Aneurysm projects under optic nerve |
 
 ## Key Surgical Maneuvers
 
 ### Proximal Control
 - **Cervical ICA exposure** — for paraclinoid aneurysms
-- **[[anterior-clinoid-process\|Clinoidectomy]]** — exposes clinoid segment for proximal clipping
-- **[[optic-canal\|Optic canal unroofing]]** — mobilizes optic nerve
+- **[[anterior-clinoid-process|Clinoidectomy]]** — exposes clinoid segment for proximal clipping
+- **[[optic-canal|Optic canal unroofing]]** — mobilizes optic nerve
 - **Falciform process division** — releases optic nerve at canal entrance
 
 ### CSF Drainage for Brain Relaxation
@@ -93,7 +98,7 @@ Temporary occlusion of the parent artery softens the aneurysm for definitive cli
 | **Perforator location** | Approach must allow visualization of perforators behind the aneurysm neck |
 | **Proximal control** | Approach must provide access to parent artery proximal to the aneurysm |
 | **CN preservation** | Approach must minimize CN manipulation |
-| **Bone removal** | [[anterior-clinoid-process\|Clinoidectomy]], [[anterior-petrosectomy\|Kawase drilling]], or condylar drilling may extend exposure |
+| **Bone removal** | [[anterior-clinoid-process|Clinoidectomy]], [[anterior-petrosectomy|Kawase drilling]], or condylar drilling may extend exposure |
 
 ## Connections
 

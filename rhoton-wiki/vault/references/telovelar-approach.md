@@ -2,10 +2,10 @@
 title: Telovelar Approach
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - posterior-fossa
-  - fourth-ventricle
+  - ventricles
   - rhoton
 aliases:
   - cerebellomedullary fissure approach

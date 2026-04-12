@@ -11,6 +11,10 @@ aliases:
   - tentorial notch
   - incisura tentorii
   - tentorial hiatus
+parent: [[tentorium-cerebelli]]
+traverses:
+  - "[[brainstem]]"
+  - "[[oculomotor-nerve]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.14 — Tentorial Incisura"
 created: 2026-04-09

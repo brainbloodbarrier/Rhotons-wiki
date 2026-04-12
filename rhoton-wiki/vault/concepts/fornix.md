@@ -4,9 +4,7 @@ category: concepts
 tags:
   - white-matter
   - limbic-system
-  - lateral-ventricle
-  - third-ventricle
-  - memory-circuit
+  - ventricles
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10

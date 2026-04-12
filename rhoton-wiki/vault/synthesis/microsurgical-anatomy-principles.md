@@ -3,11 +3,16 @@ title: Microsurgical Anatomy Principles
 category: synthesis
 tags:
   - synthesis
-  - surgical-principles
+  - surgical-technique
   - cisterns
-  - fissures
+  - surgical-corridor
   - perforators
   - rhoton
+parent: [[surgical-approaches-overview]]
+approach-to:
+  - "[[basal-cisterns]]"
+  - "[[sylvian-fissure]]"
+  - "[[perforating-arteries]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
@@ -31,13 +36,13 @@ The subarachnoid cisterns are natural surgical corridors filled with CSF. Openin
 
 | Cistern | Approach | Target |
 |---|---|---|
-| [[sylvian-fissure\|Sylvian cistern]] | [[pterional-approach]] | [[middle-cerebral-artery\|MCA]], [[internal-carotid-artery\|ICA]] bifurcation, [[anterior-communicating-artery\|ACoA]] |
+| [[sylvian-fissure|Sylvian cistern]] | [[pterional-approach]] | [[middle-cerebral-artery|MCA]], [[internal-carotid-artery|ICA]] bifurcation, [[anterior-communicating-artery|ACoA]] |
 | [[interpeduncular-cistern]] | [[pterional-approach]], [[orbitozygomatic-approach]] | [[basilar-artery]] apex, [[thalamoperforating-arteries]] |
-| [[ambient-cistern]] | [[subtemporal-approach]] | [[posterior-cerebral-artery\|PCA]] P2, [[trochlear-nerve\|CN IV]] |
+| [[ambient-cistern]] | [[subtemporal-approach]] | [[posterior-cerebral-artery|PCA]] P2, [[trochlear-nerve|CN IV]] |
 | [[cerebellopontine-cistern]] | [[retrosigmoid-approach]] | [[trigeminal-nerve|CN V]]-VIII, [[aica]], [[superior-petrosal-vein]] |
-| [[basal-cisterns\|Prepontine cistern]] | [[endoscopic-endonasal-approach]] | [[basilar-artery]] trunk, [[abducens-nerve\|CN VI]] |
-| [[cerebellomedullary-fissure\|Cerebellomedullary cistern]] | [[telovelar-approach]] | [[fourth-ventricle]], [[pica]] |
-| [[velum-interpositum]] | [[interhemispheric-approach]] transchoroidal | [[pineal-region]], posterior [[lateral-and-third-ventricles\|third ventricle]] |
+| [[basal-cisterns|Prepontine cistern]] | [[endoscopic-endonasal-approach]] | [[basilar-artery]] trunk, [[abducens-nerve|CN VI]] |
+| [[cerebellomedullary-fissure|Cerebellomedullary cistern]] | [[telovelar-approach]] | [[fourth-ventricle]], [[pica]] |
+| [[velum-interpositum]] | [[interhemispheric-approach]] transchoroidal | [[pineal-region]], posterior [[lateral-and-third-ventricles|third ventricle]] |
 
 ### CSF Drainage Sequence
 1. Open the closest cistern first → brain relaxation
@@ -54,9 +59,9 @@ Fissures and cleavage planes provide corridors between brain surfaces without cu
 | Fissure | Corridor |
 |---|---|
 | [[sylvian-fissure]] | Pterional/transsylvian — most used surgical corridor in all of neurosurgery |
-| [[interhemispheric-approach\|Interhemispheric fissure]] | Midline corridor to [[anterior-cerebral-artery\|ACA]], [[corpus-callosum]], [[lateral-and-third-ventricles\|third ventricle]] |
+| [[interhemispheric-approach|Interhemispheric fissure]] | Midline corridor to [[anterior-cerebral-artery|ACA]], [[corpus-callosum]], [[lateral-and-third-ventricles|third ventricle]] |
 | [[cerebellomedullary-fissure]] | Telovelar corridor to [[fourth-ventricle]] |
-| [[choroidal-fissure]] | Transchoroidal corridor to [[lateral-and-third-ventricles\|third ventricle]] and [[velum-interpositum]] |
+| [[choroidal-fissure]] | Transchoroidal corridor to [[lateral-and-third-ventricles|third ventricle]] and [[velum-interpositum]] |
 | Cerebellomesencephalic fissure | [[supracerebellar-infratentorial-approach]] corridor to [[pineal-region]] |
 
 ## Principle 3: Arteries Lead to Targets
@@ -65,11 +70,11 @@ Major arteries course through cisterns to their territories. Following an artery
 
 | Follow this artery | To reach | Via approach |
 |---|---|---|
-| [[middle-cerebral-artery\|MCA]] M1 | [[anterior-perforated-substance]], insular surface | [[pterional-approach]] |
-| [[anterior-cerebral-artery\|ACA]] A1-A2 | [[anterior-communicating-artery\|ACoA]] complex, [[lamina-terminalis]] | [[pterional-approach]], [[interhemispheric-approach]] |
-| [[internal-carotid-artery\|ICA]] | [[posterior-communicating-artery\|PCoA]], [[anterior-choroidal-artery\|AChA]], bifurcation | [[pterional-approach]] |
+| [[middle-cerebral-artery|MCA]] M1 | [[anterior-perforated-substance]], insular surface | [[pterional-approach]] |
+| [[anterior-cerebral-artery|ACA]] A1-A2 | [[anterior-communicating-artery|ACoA]] complex, [[lamina-terminalis]] | [[pterional-approach]], [[interhemispheric-approach]] |
+| [[internal-carotid-artery|ICA]] | [[posterior-communicating-artery|PCoA]], [[anterior-choroidal-artery|AChA]], bifurcation | [[pterional-approach]] |
 | [[pica]] | [[fourth-ventricle]] floor, [[cerebellomedullary-fissure]] | [[telovelar-approach]] |
-| [[superior-cerebellar-artery\|SCA]] | [[pineal-region]], cerebellomesencephalic fissure | [[supracerebellar-infratentorial-approach]] |
+| [[superior-cerebellar-artery|SCA]] | [[pineal-region]], cerebellomesencephalic fissure | [[supracerebellar-infratentorial-approach]] |
 | [[vertebral-artery]] V4 | [[foramen-magnum]], lower [[clivus]] | [[far-lateral-approach]] |
 
 ## Principle 4: Preserve Perforators

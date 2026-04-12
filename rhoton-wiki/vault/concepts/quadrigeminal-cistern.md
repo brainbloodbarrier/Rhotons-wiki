@@ -2,9 +2,9 @@
 title: Quadrigeminal Cistern
 category: concepts
 tags:
-  - cistern
+  - cisterns
   - pineal-region
-  - deep-venous-system
+  - venous-system
   - tentorial-incisura
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"

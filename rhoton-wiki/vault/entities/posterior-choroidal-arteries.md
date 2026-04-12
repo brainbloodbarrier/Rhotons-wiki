@@ -73,9 +73,9 @@ The LPChA enters the temporal horn through the [[choroidal-fissure]] — the sam
 
 ## Comparison: Anterior vs Posterior Choroidal Arteries
 
-| Feature | [[anterior-choroidal-artery\|AChA]] | MPChA | LPChA |
+| Feature | [[anterior-choroidal-artery|AChA]] | MPChA | LPChA |
 |---|---|---|---|
-| Parent vessel | [[internal-carotid-artery\|ICA]] C4 | [[posterior-cerebral-artery\|PCA]] P2A | [[posterior-cerebral-artery\|PCA]] P2P |
+| Parent vessel | [[internal-carotid-artery|ICA]] C4 | [[posterior-cerebral-artery|PCA]] P2A | [[posterior-cerebral-artery|PCA]] P2P |
 | Circulation | [[anterior-circulation]] | [[posterior-circulation]] | [[posterior-circulation]] |
 | Ventricle | Temporal horn (entry) | Third ventricle | Temporal horn + atrium |
 | Entry point | Inferior choroidal point | Velum interpositum | Choroidal fissure |

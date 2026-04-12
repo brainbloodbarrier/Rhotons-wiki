@@ -45,10 +45,10 @@ The choroid plexus has a dual anterior-posterior supply:
 
 | Ventricle | Anterior supply | Posterior supply |
 |---|---|---|
-| Lateral (body/atrium) | [[anterior-choroidal-artery]] (from [[internal-carotid-artery\|ICA]]) | Lateral posterior choroidal (from [[posterior-cerebral-artery\|PCA]] P2) |
+| Lateral (body/atrium) | [[anterior-choroidal-artery]] (from [[internal-carotid-artery|ICA]]) | Lateral posterior choroidal (from [[posterior-cerebral-artery|PCA]] P2) |
 | Lateral (temporal horn) | [[anterior-choroidal-artery]] | Lateral posterior choroidal |
-| Third ventricle | — | Medial posterior choroidal (from [[posterior-cerebral-artery\|PCA]] P2A) |
-| Fourth ventricle | [[aica\|AICA]] (choroidal branches) | [[pica\|PICA]] (inferior choroidal from telovelotonsillar segment) |
+| Third ventricle | — | Medial posterior choroidal (from [[posterior-cerebral-artery|PCA]] P2A) |
+| Fourth ventricle | [[aica|AICA]] (choroidal branches) | [[pica|PICA]] (inferior choroidal from telovelotonsillar segment) |
 
 ### Anterior choroidal artery ([[anterior-choroidal-artery]])
 Enters the temporal horn through the choroidal fissure at the **inferior choroidal point** — the most important landmark for identifying the temporal horn during surgery. Supplies the choroid plexus of the temporal horn and atrium.

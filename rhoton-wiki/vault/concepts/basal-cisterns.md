@@ -4,12 +4,17 @@ category: concepts
 tags:
   - anatomy
   - cisterns
-  - subarachnoid-space
   - rhoton
 aliases:
   - cisterns
   - subarachnoid cisterns
   - "cisternae basales"
+parent: [[meninges]]
+contains:
+  - "[[ambient-cistern]]"
+  - "[[cerebellopontine-cistern]]"
+  - "[[interpeduncular-cistern]]"
+  - "[[chiasmatic-cistern]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.2, 14, 15"
 created: 2026-04-09

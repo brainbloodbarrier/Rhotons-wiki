@@ -2,7 +2,7 @@
 title: Endoscopic Endonasal Approach
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - skull-base
   - endonasal

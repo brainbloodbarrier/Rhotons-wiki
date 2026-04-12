@@ -9,6 +9,13 @@ tags:
   - rhoton
 aliases:
   - CS contents
+parent: [[cavernous-sinus]]
+traverses:
+  - "[[oculomotor-nerve]]"
+  - "[[trochlear-nerve]]"
+  - "[[trigeminal-nerve]]"
+  - "[[abducens-nerve]]"
+  - "[[internal-carotid-artery]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.9"
 created: 2026-04-09

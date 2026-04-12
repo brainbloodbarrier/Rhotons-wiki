@@ -4,9 +4,14 @@ category: synthesis
 tags:
   - synthesis
   - cisterns
-  - surgical-approaches
-  - corridors
+  - approaches
+  - surgical-corridor
   - rhoton
+parent: [[basal-cisterns]]
+approach-to:
+  - "[[basal-cisterns]]"
+  - "[[sylvian-fissure]]"
+  - "[[cerebellopontine-cistern]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
@@ -103,15 +108,15 @@ Every neurosurgical approach reaches its target through one or more subarachnoid
 
 | Cistern | Primary approach | Secondary approach | Critical vessel | Critical nerve |
 |---|---|---|---|---|
-| Sylvian | [[pterional-approach]] | [[orbitozygomatic-approach]] | [[middle-cerebral-artery\|MCA]] | — |
-| Chiasmatic | [[pterional-approach]] | [[endoscopic-endonasal-approach]] | [[anterior-cerebral-artery\|ACA]] A1 | [[optic-nerve\|CN II]] |
-| Interpeduncular | [[pterional-approach]] | [[subtemporal-approach]] | [[basilar-artery]] apex | [[oculomotor-nerve\|CN III]] |
-| Ambient | [[subtemporal-approach]] | [[supracerebellar-infratentorial-approach]] | [[posterior-cerebral-artery\|PCA]] P2 | [[trochlear-nerve\|CN IV]] |
+| Sylvian | [[pterional-approach]] | [[orbitozygomatic-approach]] | [[middle-cerebral-artery|MCA]] | — |
+| Chiasmatic | [[pterional-approach]] | [[endoscopic-endonasal-approach]] | [[anterior-cerebral-artery|ACA]] A1 | [[optic-nerve|CN II]] |
+| Interpeduncular | [[pterional-approach]] | [[subtemporal-approach]] | [[basilar-artery]] apex | [[oculomotor-nerve|CN III]] |
+| Ambient | [[subtemporal-approach]] | [[supracerebellar-infratentorial-approach]] | [[posterior-cerebral-artery|PCA]] P2 | [[trochlear-nerve|CN IV]] |
 | Quadrigeminal | [[supracerebellar-infratentorial-approach]] | Occipital transtentorial | [[vein-of-galen]] | — |
-| CP cistern | [[retrosigmoid-approach]] | [[middle-fossa-approach]] | [[aica]] | [[facial-nerve\|CN VII]]/[[vestibulocochlear-nerve\|VIII]] |
-| Cerebellomedullary | [[telovelar-approach]] | [[far-lateral-approach]] | [[pica]] | [[lower-cranial-nerves\|CN IX-XII]] |
-| Prepontine | [[endoscopic-endonasal-approach]] | [[retrosigmoid-approach]] | [[basilar-artery]] trunk | [[abducens-nerve\|CN VI]] |
-| Velum interpositum | [[interhemispheric-approach]] | Transcortical | [[internal-cerebral-veins\|ICVs]] | — |
+| CP cistern | [[retrosigmoid-approach]] | [[middle-fossa-approach]] | [[aica]] | [[facial-nerve|CN VII]]/[[vestibulocochlear-nerve|VIII]] |
+| Cerebellomedullary | [[telovelar-approach]] | [[far-lateral-approach]] | [[pica]] | [[lower-cranial-nerves|CN IX-XII]] |
+| Prepontine | [[endoscopic-endonasal-approach]] | [[retrosigmoid-approach]] | [[basilar-artery]] trunk | [[abducens-nerve|CN VI]] |
+| Velum interpositum | [[interhemispheric-approach]] | Transcortical | [[internal-cerebral-veins|ICVs]] | — |
 
 ## Related Pages
 - [[microsurgical-anatomy-principles]] — Cisterns-as-corridors principle

@@ -71,9 +71,9 @@ In the anterior interhemispheric approach for ACoA aneurysms, the Heubner artery
 
 | Perforator | Origin | Territory | Risk setting |
 |---|---|---|---|
-| **Heubner** | ACA A2 (or A1-A2) | Caudate head, anterior internal capsule | [[anterior-communicating-artery\|ACoA]] aneurysm |
-| Medial [[lenticulostriate-arteries\|lenticulostriates]] | ACA A1 | Medial caudate, anterior internal capsule | A1 manipulation |
-| [[anterior-communicating-artery\|ACoA]] perforators | ACoA | [[hypothalamus]], [[fornix]], anterior commissure | ACoA aneurysm (memory deficits) |
+| **Heubner** | ACA A2 (or A1-A2) | Caudate head, anterior internal capsule | [[anterior-communicating-artery|ACoA]] aneurysm |
+| Medial [[lenticulostriate-arteries|lenticulostriates]] | ACA A1 | Medial caudate, anterior internal capsule | A1 manipulation |
+| [[anterior-communicating-artery|ACoA]] perforators | ACoA | [[hypothalamus]], [[fornix]], anterior commissure | ACoA aneurysm (memory deficits) |
 | Frontopolar artery | ACA A2 | Frontal pole cortex | NOT a perforator — cortical branch |
 
 ## Relations

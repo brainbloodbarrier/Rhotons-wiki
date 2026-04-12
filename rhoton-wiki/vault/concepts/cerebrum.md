@@ -3,12 +3,19 @@ title: Cerebrum
 category: concepts
 tags:
   - anatomy
-  - cerebral-hemispheres
-  - cortex
+  - cerebrum
   - rhoton
 aliases:
   - cerebral hemispheres
   - supratentorial brain
+parent: [[surgical-approaches-overview]]
+contains:
+  - "[[basal-ganglia]]"
+  - "[[thalamus]]"
+  - "[[insula]]"
+  - "[[corpus-callosum]]"
+  - "[[internal-capsule]]"
+  - "[[fornix]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1 — The Cerebrum"
 created: 2026-04-09

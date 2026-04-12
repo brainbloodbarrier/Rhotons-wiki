@@ -3,13 +3,17 @@ title: Tentorium Cerebelli
 category: concepts
 tags:
   - anatomy
-  - dura
+  - meninges
   - skull-base
   - surgical-landmark
   - rhoton
 aliases:
   - tentorium
   - cerebellar tentorium
+parent: [[meninges]]
+contains:
+  - "[[tentorial-incisura]]"
+  - "[[dural-venous-sinuses]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1, 4, 5, 9"
 created: 2026-04-10

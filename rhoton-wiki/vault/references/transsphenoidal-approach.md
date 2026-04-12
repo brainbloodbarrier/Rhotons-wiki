@@ -2,7 +2,7 @@
 title: Transsphenoidal Approach
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - skull-base
   - pituitary

@@ -52,7 +52,7 @@ The internal capsule is a V-shaped white matter band (in axial section) with an 
 | Anterior limb | Between caudate head and lentiform | Frontopontine, anterior thalamic radiation | [[recurrent-artery-of-heubner]], medial lenticulostriates |
 | Genu | At the apex of the V | Corticobulbar fibers (face, tongue) | Lateral lenticulostriates |
 | Posterior limb | Between lentiform and [[thalamus]] | Corticospinal (arm, leg), sensory radiation | Lateral lenticulostriates, [[anterior-choroidal-artery]] |
-| Retrolenticular | Behind lentiform | [[optic-radiation]] (Meyer's loop), posterior thalamic radiation | [[anterior-choroidal-artery]], [[posterior-cerebral-artery\|PCA]] branches |
+| Retrolenticular | Behind lentiform | [[optic-radiation]] (Meyer's loop), posterior thalamic radiation | [[anterior-choroidal-artery]], [[posterior-cerebral-artery|PCA]] branches |
 | Sublenticular | Below lentiform | Auditory radiation, temporal corticopontine | [[anterior-choroidal-artery]] |
 
 ## Vascular Supply — [[lenticulostriate-arteries]]

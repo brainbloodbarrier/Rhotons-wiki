@@ -5,12 +5,17 @@ tags:
   - anatomy
   - cerebrum
   - white-matter
-  - fiber-dissection
   - rhoton
 aliases:
   - fiber tracts
   - cerebral white matter
   - fiber dissection
+parent: [[cerebrum]]
+contains:
+  - "[[internal-capsule]]"
+  - "[[corona-radiata]]"
+  - "[[corpus-callosum]]"
+  - "[[fornix]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1 — The Cerebrum"
 created: 2026-04-10
@@ -30,7 +35,7 @@ Connect cortical areas within the same hemisphere:
 
 | Tract | Course | Function | Surgical relevance |
 |---|---|---|---|
-| **Superior longitudinal fasciculus (SLF)** | Frontal → parietal → temporal | Language (arcuate fasciculus = SLF III), spatial attention | [[insula\|Insular]] and perisylvian tumor surgery |
+| **Superior longitudinal fasciculus (SLF)** | Frontal → parietal → temporal | Language (arcuate fasciculus = SLF III), spatial attention | [[insula|Insular]] and perisylvian tumor surgery |
 | **Arcuate fasciculus** | Broca's → Wernicke's area | Language production-comprehension connection | Dominant hemisphere glioma surgery |
 | **Inferior fronto-occipital fasciculus (IFOF)** | Frontal → occipital (deep to [[insula]]) | Semantic processing, visual naming | Insular glioma — deepest association tract |
 | **Uncinate fasciculus** | Anterior temporal → orbitofrontal | Memory, emotion | Anterior temporal lobectomy |
@@ -42,9 +47,9 @@ Connect homologous areas between hemispheres:
 
 | Tract | Location | Function |
 |---|---|---|
-| **[[corpus-callosum]]** | Above [[lateral-and-third-ventricles\|lateral ventricles]] | Interhemispheric transfer (largest commissure) |
-| **Anterior commissure** | [[lamina-terminalis]], below [[anterior-communicating-artery\|ACoA]] | Temporal lobe interconnection |
-| **Hippocampal commissure** | Below [[corpus-callosum]] splenium | [[hippocampus\|Hippocampal]] interconnection |
+| **[[corpus-callosum]]** | Above [[lateral-and-third-ventricles|lateral ventricles]] | Interhemispheric transfer (largest commissure) |
+| **Anterior commissure** | [[lamina-terminalis]], below [[anterior-communicating-artery|ACoA]] | Temporal lobe interconnection |
+| **Hippocampal commissure** | Below [[corpus-callosum]] splenium | [[hippocampus|Hippocampal]] interconnection |
 
 ### Projection fibers (cortex → subcortical)
 Connect the cortex to the [[thalamus]], [[brainstem]], and spinal cord:

@@ -2,10 +2,9 @@
 title: Interhemispheric Approach
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - anterior-circulation
-  - midline
   - rhoton
 aliases:
   - "anterior interhemispheric approach"

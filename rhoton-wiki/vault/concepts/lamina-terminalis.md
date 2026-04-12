@@ -8,6 +8,10 @@ tags:
   - rhoton
 aliases:
   - terminal lamina
+parent: [[lateral-and-third-ventricles]]
+connects-to:
+  - "[[optic-chiasm]]"
+  - "[[corpus-callosum]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1, 2"
 created: 2026-04-10

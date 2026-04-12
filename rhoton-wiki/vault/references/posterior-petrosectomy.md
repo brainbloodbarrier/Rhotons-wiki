@@ -2,7 +2,7 @@
 title: Posterior Petrosectomy
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - skull-base
   - posterior-fossa
@@ -73,11 +73,11 @@ Combines [[anterior-petrosectomy]] (Kawase, from above) with posterior petrosect
 
 | Structure | Retrolabyrinthine | Translabyrinthine | Transcochlear |
 |---|---|---|---|
-| [[facial-nerve\|CN VII]] | Limited | Full IAC course | Transposed |
-| [[vestibulocochlear-nerve\|CN VIII]] | Limited | Full IAC course | Full |
-| [[trigeminal-nerve\|CN V]] | Yes | Yes | Yes |
-| [[abducens-nerve\|CN VI]] | Limited | Limited | Yes |
-| [[aica\|AICA]] / [[labyrinthine-artery]] | Limited | Yes | Yes |
+| [[facial-nerve|CN VII]] | Limited | Full IAC course | Transposed |
+| [[vestibulocochlear-nerve|CN VIII]] | Limited | Full IAC course | Full |
+| [[trigeminal-nerve|CN V]] | Yes | Yes | Yes |
+| [[abducens-nerve|CN VI]] | Limited | Limited | Yes |
+| [[aica|AICA]] / [[labyrinthine-artery]] | Limited | Yes | Yes |
 | [[basilar-artery]] | No | Limited | Yes |
 | Clivus | No | Limited | Yes |
 | Hearing | Preserved | Sacrificed | Sacrificed |

@@ -11,6 +11,11 @@ aliases:
   - surgical triangles of the cavernous sinus
   - Dolenc triangles
   - parasellar triangles
+parent: [[cavernous-sinus]]
+approach-to:
+  - "[[cavernous-sinus]]"
+  - "[[sellar-region]]"
+  - "[[clivus]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.5, 9"
 created: 2026-04-10

@@ -2,11 +2,10 @@
 title: Transverse Sinus
 category: entities
 tags:
-  - venous
-  - dural-sinus
+  - venous-system
   - posterior-fossa
-  - tentorium
-  - craniotomy
+  - tentorial-incisura
+  - surgical-technique
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10

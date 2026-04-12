@@ -5,7 +5,6 @@ tags:
   - skull-base
   - endonasal
   - surgical-landmark
-  - sphenoid-bone
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10

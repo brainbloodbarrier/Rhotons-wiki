@@ -2,7 +2,7 @@
 title: Maxillary Artery
 category: entities
 tags:
-  - artery
+  - vasculature
   - external-carotid
   - infratemporal-fossa
   - skull-base

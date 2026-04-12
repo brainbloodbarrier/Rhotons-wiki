@@ -2,9 +2,9 @@
 title: Chiasmatic Cistern
 category: concepts
 tags:
-  - cistern
+  - cisterns
   - sellar-region
-  - optic-chiasm
+  - visual-pathway
   - anterior-circulation
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"

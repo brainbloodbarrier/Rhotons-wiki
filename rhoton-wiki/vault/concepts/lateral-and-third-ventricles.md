@@ -10,6 +10,12 @@ aliases:
   - lateral ventricle
   - third ventricle
   - ventricular system
+parent: [[cerebrum]]
+contains:
+  - "[[choroid-plexus]]"
+  - "[[choroidal-fissure]]"
+  - "[[velum-interpositum]]"
+  - "[[thalamus]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.5 — The Lateral and Third Ventricles"
 created: 2026-04-09

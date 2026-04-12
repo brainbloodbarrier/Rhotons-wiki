@@ -2,7 +2,7 @@
 title: Combined Petrosal Approach
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - skull-base
   - posterior-fossa
@@ -64,9 +64,9 @@ The combined approach provides a panoramic view of:
 |---|---|
 | [[basilar-artery]] (mid to upper) | Full length along the clivus |
 | [[brainstem]] (pons, upper medulla) | Anterolateral surface |
-| [[abducens-nerve\|CN VI]] | Entire course from brainstem to [[cavernous-sinus]] |
-| [[trigeminal-nerve\|CN V]] | Root entry zone and [[meckels-cave]] |
-| [[facial-nerve\|CN VII]], [[vestibulocochlear-nerve\|CN VIII]] | IAC to brainstem |
+| [[abducens-nerve|CN VI]] | Entire course from brainstem to [[cavernous-sinus]] |
+| [[trigeminal-nerve|CN V]] | Root entry zone and [[meckels-cave]] |
+| [[facial-nerve|CN VII]], [[vestibulocochlear-nerve|CN VIII]] | IAC to brainstem |
 | [[clivus]] (petroclival surface) | Upper and middle clivus |
 | [[posterior-cerebral-artery]], [[superior-cerebellar-artery]] | At tentorial level |
 | [[internal-carotid-artery]] (petrous, cavernous) | Within carotid canal |
@@ -75,11 +75,11 @@ The combined approach provides a panoramic view of:
 
 | Nerve | Risk Mechanism |
 |---|---|
-| [[trochlear-nerve\|CN IV]] | Tentorial division must preserve its entry point |
-| [[facial-nerve\|CN VII]] | Transposed in transcochlear variant; at risk in translabyrinthine |
-| [[vestibulocochlear-nerve\|CN VIII]] | Hearing sacrificed in translabyrinthine/transcochlear |
-| [[abducens-nerve\|CN VI]] | Draped over petroclival tumors; displaced by lesion |
-| [[trigeminal-nerve\|CN V]] | Tumor may encase V at Meckel's cave |
+| [[trochlear-nerve|CN IV]] | Tentorial division must preserve its entry point |
+| [[facial-nerve|CN VII]] | Transposed in transcochlear variant; at risk in translabyrinthine |
+| [[vestibulocochlear-nerve|CN VIII]] | Hearing sacrificed in translabyrinthine/transcochlear |
+| [[abducens-nerve|CN VI]] | Draped over petroclival tumors; displaced by lesion |
+| [[trigeminal-nerve|CN V]] | Tumor may encase V at Meckel's cave |
 
 ## Comparison with Single Approaches
 

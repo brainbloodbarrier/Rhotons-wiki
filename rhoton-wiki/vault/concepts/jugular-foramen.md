@@ -5,7 +5,6 @@ tags:
   - anatomy
   - skull-base
   - posterior-fossa
-  - foramen
   - rhoton
 aliases:
   - jugular fossa

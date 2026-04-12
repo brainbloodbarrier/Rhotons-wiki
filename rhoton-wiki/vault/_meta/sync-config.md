@@ -3,6 +3,8 @@ title: Sync Configuration
 category: meta
 tags:
   - meta
+summary: >-
+  # Syncthing Sync Strategy
 ---
 
 # Syncthing Sync Strategy

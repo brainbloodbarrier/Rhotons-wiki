@@ -82,10 +82,10 @@ Extended [[pterional-approach]] removing the supraorbital rim and zygomatic arch
 
 | Foramen | Location | Contents |
 |---|---|---|
-| Optic canal | Lesser wing root | [[optic-nerve\|CN II]], [[ophthalmic-artery]] |
-| Superior orbital fissure | Between wings | [[oculomotor-nerve\|CN III]], [[trochlear-nerve\|CN IV]], [[trigeminal-nerve\|V1]], [[abducens-nerve\|CN VI]] |
-| Foramen rotundum | Greater wing | [[trigeminal-nerve\|V2]] (maxillary) |
-| Foramen ovale | Greater wing | [[trigeminal-nerve\|V3]] (mandibular) |
+| Optic canal | Lesser wing root | [[optic-nerve|CN II]], [[ophthalmic-artery]] |
+| Superior orbital fissure | Between wings | [[oculomotor-nerve|CN III]], [[trochlear-nerve|CN IV]], [[trigeminal-nerve|V1]], [[abducens-nerve|CN VI]] |
+| Foramen rotundum | Greater wing | [[trigeminal-nerve|V2]] (maxillary) |
+| Foramen ovale | Greater wing | [[trigeminal-nerve|V3]] (mandibular) |
 | Foramen spinosum | Greater wing | Middle meningeal artery |
 | [[vidian-canal]] | Pterygoid process | Vidian nerve (greater + deep petrosal) |
 

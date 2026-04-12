@@ -46,7 +46,7 @@ Extends from dural penetration to the vertebrobasilar junction. The artery enter
 ## Branches
 
 ### Posterior inferior cerebellar artery ([[pica]])
-The largest branch; arises from the V4 segment 0–35 mm below the vertebrobasilar junction (average 16.9 mm). Origin site ranges from below the foramen magnum to the vertebrobasilar junction (average 8.6 mm above the foramen magnum). The PICA is the defining artery of the **lower neurovascular complex**. In rare cases, the vertebral artery terminates in a PICA without contributing to the basilar artery.
+The largest branch; arises from the V4 segment 0–35 mm below the vertebrobasilar junction (average 16.9 mm). Origin site ranges from below the foramen magnum to the vertebrobasilar junction (average 8.6 mm above the foramen magnum). The PICA is the defining artery of the **lower neurovascular complex**. In rare cases, the vertebral artery terminates in a PICA without [[CONTRIBUTING]] to the basilar artery.
 
 ### [[posterior-spinal-artery]]
 Arises at or near the dural penetration site. Descends along the posterolateral aspect of the spinal cord and medulla between the [[dentate-ligament]] and the [[posterior-fossa-veins|accessory nerve]].

@@ -57,7 +57,7 @@ The spheno-occipital synchondrosis fuses between ages 12–20 and is a common si
 
 | Approach | Target | Key Features |
 |---|---|---|
-| [[transsphenoidal-approach]] (extended endonasal) | Upper and middle clivus | Through [[paranasal-sinuses\|sphenoid sinus]]; direct midline access |
+| [[transsphenoidal-approach]] (extended endonasal) | Upper and middle clivus | Through [[paranasal-sinuses|sphenoid sinus]]; direct midline access |
 | Transoral/transpalatal | Lower clivus, [[craniocervical-junction]] | Pharyngeal route; limited lateral access |
 | Transmaxillary | Middle and lower clivus | Maxillary antrostomy with clivus exposure |
 

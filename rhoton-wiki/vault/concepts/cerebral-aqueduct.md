@@ -4,12 +4,16 @@ category: concepts
 tags:
   - anatomy
   - deep-structures
-  - ventricular-system
+  - ventricles
   - rhoton
 aliases:
   - aqueduct of Sylvius
   - mesencephalic aqueduct
   - aqueductus cerebri
+parent: [[lateral-and-third-ventricles]]
+connects-to:
+  - "[[lateral-and-third-ventricles]]"
+  - "[[fourth-ventricle]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1, 5"
 created: 2026-04-10

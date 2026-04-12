@@ -2,10 +2,11 @@
 title: Interpeduncular Cistern
 category: concepts
 tags:
-  - cistern
-  - basilar-apex
-  - oculomotor-nerve
-  - perforating-arteries
+  - cisterns
+  - vasculature
+  - posterior-circulation
+  - cranial-nerves
+  - perforators
   - tentorial-incisura
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"

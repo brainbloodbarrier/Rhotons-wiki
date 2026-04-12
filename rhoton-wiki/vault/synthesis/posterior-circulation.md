@@ -10,6 +10,14 @@ tags:
 aliases:
   - vertebrobasilar system
   - posterior cerebral circulation
+parent: [[circle-of-willis]]
+contains:
+  - "[[vertebral-artery]]"
+  - "[[basilar-artery]]"
+  - "[[posterior-cerebral-artery]]"
+  - "[[superior-cerebellar-artery]]"
+  - "[[aica]]"
+  - "[[pica]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.3, 10, 12, 14"
 created: 2026-04-09
@@ -89,8 +97,8 @@ The most surgically critical feature of the posterior circulation — tiny branc
 |---|---|---|
 | [[vertebral-artery]] | Medullary perforators | Pyramids, lateral medulla |
 | [[basilar-artery]] | Pontine perforators | Corticospinal tracts, pontine nuclei, tegmentum |
-| [[posterior-cerebral-artery\|PCA]] P1 | Thalamoperforating | Thalamus, posterior limb of [[internal-capsule]] |
-| [[superior-cerebellar-artery\|SCA]] | Circumflex perforating | Inferior colliculus, [[cerebellar-peduncles|superior cerebellar peduncle]] |
+| [[posterior-cerebral-artery|PCA]] P1 | Thalamoperforating | Thalamus, posterior limb of [[internal-capsule]] |
+| [[superior-cerebellar-artery|SCA]] | Circumflex perforating | Inferior colliculus, [[cerebellar-peduncles|superior cerebellar peduncle]] |
 
 **Perforator injury = brainstem infarction.** This is the principal constraint in posterior circulation surgery.
 
@@ -102,10 +110,10 @@ The most surgically critical feature of the posterior circulation — tiny branc
 | [[pica]] aneurysm | [[far-lateral-approach]], midline suboccipital |
 | [[aica]] aneurysm / CPA lesion | [[retrosigmoid-approach]] |
 | [[basilar-artery]] apex aneurysm | [[pterional-approach]] (high), [[subtemporal-approach]] (low) |
-| [[superior-cerebellar-artery\|SCA]] / trigeminal decompression | [[retrosigmoid-approach]], [[subtemporal-approach]] |
-| [[posterior-cerebral-artery\|PCA]] aneurysm | [[subtemporal-approach]], [[pterional-approach]] |
+| [[superior-cerebellar-artery|SCA]] / trigeminal decompression | [[retrosigmoid-approach]], [[subtemporal-approach]] |
+| [[posterior-cerebral-artery|PCA]] aneurysm | [[subtemporal-approach]], [[pterional-approach]] |
 | [[pineal-region]] (SCA territory) | [[supracerebellar-infratentorial-approach]] |
-| Clival lesions | [[transsphenoidal-approach\|Transclival]], Kawase petrosectomy |
+| Clival lesions | [[transsphenoidal-approach|Transclival]], Kawase petrosectomy |
 
 See [[surgical-approaches-overview]] for the complete approach-target matrix.
 

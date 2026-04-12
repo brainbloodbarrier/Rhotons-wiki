@@ -39,7 +39,7 @@ Formed by the three cerebellar peduncles (superior, middle, inferior) converging
 
 | Opening | Location | Connects to |
 |---|---|---|
-| Cerebral aqueduct | Rostral apex | [[lateral-and-third-ventricles\|Third ventricle]] |
+| Cerebral aqueduct | Rostral apex | [[lateral-and-third-ventricles|Third ventricle]] |
 | Foramen of Magendie (median) | Caudal apex (fastigium) | Cisterna magna ([[basal-cisterns]]) |
 | Foramina of Luschka (paired) | Lateral recesses | [[cerebellopontine-cistern]] |
 

@@ -2,10 +2,10 @@
 title: Crural Cistern
 category: concepts
 tags:
-  - cistern
+  - cisterns
   - tentorial-incisura
-  - anterior-choroidal-artery
-  - oculomotor-nerve
+  - vasculature
+  - cranial-nerves
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10

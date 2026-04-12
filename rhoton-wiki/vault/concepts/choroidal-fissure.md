@@ -2,11 +2,10 @@
 title: Choroidal Fissure
 category: concepts
 tags:
-  - lateral-ventricle
+  - ventricles
   - surgical-corridor
-  - choroid-plexus
   - limbic-system
-  - anterior-choroidal-artery
+  - vasculature
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
@@ -78,9 +77,9 @@ The fissure follows the C-shaped curve of the [[lateral-and-third-ventricles|lat
 
 | Approach | Fissure segment | Target |
 |---|---|---|
-| [[interhemispheric-approach]] transchoroidal | Body | [[lateral-and-third-ventricles\|Third ventricle]] tumors |
+| [[interhemispheric-approach]] transchoroidal | Body | [[lateral-and-third-ventricles|Third ventricle]] tumors |
 | Transcortical-transventricular | Body/atrium | Colloid cysts, [[pineal-region]] |
-| [[subtemporal-approach]] transtentorial | Temporal | Ambient cistern, [[posterior-cerebral-artery\|PCA]] |
+| [[subtemporal-approach]] transtentorial | Temporal | Ambient cistern, [[posterior-cerebral-artery|PCA]] |
 | Selective amygdalohippocampectomy | Temporal | [[hippocampus]], mesial temporal |
 
 ## Related Pages

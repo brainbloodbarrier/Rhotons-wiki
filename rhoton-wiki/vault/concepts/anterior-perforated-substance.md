@@ -10,6 +10,8 @@ tags:
 aliases:
   - APS
   - substantia perforata anterior
+parent: [[cerebrum]]
+traverses: [[perforating-arteries]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1, 2"
 created: 2026-04-10
@@ -36,10 +38,10 @@ The APS is the **exit zone** — where perforating arteries leave the subarachno
 
 | Perforator | Parent vessel | Entry point in APS | Territory |
 |---|---|---|---|
-| **Lateral lenticulostriates** (6–12) | [[middle-cerebral-artery\|MCA]] M1 | Lateral APS (near limen insulae) | Putamen, globus pallidus, posterior internal capsule |
-| **Medial lenticulostriates** | [[anterior-cerebral-artery\|ACA]] A1 | Medial APS | Caudate head, anterior internal capsule |
-| **[[recurrent-artery-of-heubner]]** | [[anterior-cerebral-artery\|ACA]] proximal A2 | Anteromedial APS | Caudate head, anterior putamen, anterior internal capsule |
-| **ACoA perforators** | [[anterior-communicating-artery\|ACoA]] | Medial APS (near [[lamina-terminalis]]) | [[hypothalamus]], [[fornix]] columns |
+| **Lateral lenticulostriates** (6–12) | [[middle-cerebral-artery|MCA]] M1 | Lateral APS (near limen insulae) | Putamen, globus pallidus, posterior internal capsule |
+| **Medial lenticulostriates** | [[anterior-cerebral-artery|ACA]] A1 | Medial APS | Caudate head, anterior internal capsule |
+| **[[recurrent-artery-of-heubner]]** | [[anterior-cerebral-artery|ACA]] proximal A2 | Anteromedial APS | Caudate head, anterior putamen, anterior internal capsule |
+| **ACoA perforators** | [[anterior-communicating-artery|ACoA]] | Medial APS (near [[lamina-terminalis]]) | [[hypothalamus]], [[fornix]] columns |
 
 See [[perforating-arteries]] for the complete map.
 

@@ -3,6 +3,8 @@ title: Plugin Roles
 category: meta
 tags:
   - meta
+summary: >-
+  # Plugin Roles — 4-Layer Architecture
 ---
 
 # Plugin Roles — 4-Layer Architecture

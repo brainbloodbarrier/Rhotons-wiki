@@ -7,6 +7,12 @@ tags:
   - microvascular-decompression
   - cerebellopontine-angle
   - posterior-fossa
+parent: [[cerebellopontine-cistern]]
+approach-to:
+  - "[[facial-nerve]]"
+  - "[[trigeminal-nerve]]"
+  - "[[vestibulocochlear-nerve]]"
+approached-via: [[retrosigmoid-approach]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
@@ -41,42 +47,42 @@ Neurovascular compression (NVC) syndromes occur when an artery or vein compresse
 
 | Feature | Detail |
 |---|---|
-| Nerve | [[trigeminal-nerve\|CN V]] REZ at pons |
-| Offending vessel | [[superior-cerebellar-artery\|SCA]] (75-80%), [[aica]] (10%), [[vertebral-artery]] (5%), [[superior-petrosal-vein]] (10%) |
+| Nerve | [[trigeminal-nerve|CN V]] REZ at pons |
+| Offending vessel | [[superior-cerebellar-artery|SCA]] (75-80%), [[aica]] (10%), [[vertebral-artery]] (5%), [[superior-petrosal-vein]] (10%) |
 | Symptoms | Lancinating facial pain in V2/V3 distribution, triggered by light touch |
 | REZ location | Lateral pons at the nerve entry zone |
-| MVD approach | [[retrosigmoid-approach]] — nerve found at the upper [[cerebellopontine-cistern\|CP angle]] |
+| MVD approach | [[retrosigmoid-approach]] — nerve found at the upper [[cerebellopontine-cistern|CP angle]] |
 | Decompression | SCA displaced superiorly with Teflon pledget; do not divide the SCA |
 
 ### Hemifacial Spasm (CN VII)
 
 | Feature | Detail |
 |---|---|
-| Nerve | [[facial-nerve\|CN VII]] REZ at pontomedullary junction |
+| Nerve | [[facial-nerve|CN VII]] REZ at pontomedullary junction |
 | Offending vessel | [[pica]] (45%), [[aica]] (30%), [[vertebral-artery]] (15%), veins (10%) |
 | Symptoms | Involuntary unilateral facial twitching, starting periocular → progressing to lower face |
 | REZ location | Pontomedullary junction, anterior surface of the [[brainstem]] |
-| MVD approach | [[retrosigmoid-approach]] — nerve found at the lower [[cerebellopontine-cistern\|CP angle]] |
+| MVD approach | [[retrosigmoid-approach]] — nerve found at the lower [[cerebellopontine-cistern|CP angle]] |
 | Decompression | Vessel displaced away from REZ; lateral spread response (LSR) monitoring confirms decompression |
-| Key anatomy | [[choroid-plexus]] of the [[fourth-ventricle\|lateral recess]] (foramen of Luschka) is the landmark; CN VII/VIII emerge just rostral to the flocculus |
+| Key anatomy | [[choroid-plexus]] of the [[fourth-ventricle|lateral recess]] (foramen of Luschka) is the landmark; CN VII/VIII emerge just rostral to the flocculus |
 
 ### Glossopharyngeal Neuralgia (CN IX)
 
 | Feature | Detail |
 |---|---|
-| Nerve | [[lower-cranial-nerves\|CN IX]] REZ at medulla |
+| Nerve | [[lower-cranial-nerves|CN IX]] REZ at medulla |
 | Offending vessel | [[pica]] (most common), [[vertebral-artery]] |
 | Symptoms | Lancinating throat/ear pain triggered by swallowing, coughing |
 | REZ location | Postolivary sulcus of the medulla |
-| MVD approach | [[retrosigmoid-approach]] — nerve found at the lower [[cerebellopontine-cistern\|CP angle]], below CN VII/VIII |
+| MVD approach | [[retrosigmoid-approach]] — nerve found at the lower [[cerebellopontine-cistern|CP angle]], below CN VII/VIII |
 | Note | Rarely, CN IX section (rhizotomy) is added if MVD alone fails |
 
 ### Vestibular Paroxysmia (CN VIII)
 
 | Feature | Detail |
 |---|---|
-| Nerve | [[vestibulocochlear-nerve\|CN VIII]] REZ |
-| Offending vessel | [[aica]] (most common), [[superior-cerebellar-artery\|SCA]] |
+| Nerve | [[vestibulocochlear-nerve|CN VIII]] REZ |
+| Offending vessel | [[aica]] (most common), [[superior-cerebellar-artery|SCA]] |
 | Symptoms | Brief attacks of vertigo, positional, with or without tinnitus |
 | Treatment | Medical (carbamazepine); MVD in refractory cases |
 
@@ -91,9 +97,9 @@ Neurovascular compression (NVC) syndromes occur when an artery or vein compresse
 
 | Target nerve | CP angle landmark | Relation to CN VII/VIII |
 |---|---|---|
-| [[trigeminal-nerve\|CN V]] | Above CN VII/VIII; [[superior-cerebellar-artery\|SCA]] passes between V and VII/VIII | Superior |
-| [[facial-nerve\|CN VII]] | Pontomedullary junction; flocculus and choroid plexus (Luschka) are landmarks | At level |
-| [[lower-cranial-nerves\|CN IX]] | Below CN VII/VIII; postolivary sulcus | Inferior |
+| [[trigeminal-nerve|CN V]] | Above CN VII/VIII; [[superior-cerebellar-artery|SCA]] passes between V and VII/VIII | Superior |
+| [[facial-nerve|CN VII]] | Pontomedullary junction; flocculus and choroid plexus (Luschka) are landmarks | At level |
+| [[lower-cranial-nerves|CN IX]] | Below CN VII/VIII; postolivary sulcus | Inferior |
 
 ### Critical Structures at Risk
 - **[[superior-petrosal-vein]]** (vein of Dandy) — courses over CN V; may need division if it obscures the REZ (higher recurrence risk if divided)

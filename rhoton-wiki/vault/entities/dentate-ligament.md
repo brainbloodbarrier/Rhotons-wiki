@@ -4,7 +4,7 @@ category: entities
 tags:
   - anatomy
   - foramen-magnum
-  - spinal-cord
+  - craniocervical-junction
   - rhoton
 aliases:
   - denticulate ligament
@@ -36,7 +36,7 @@ The dentate ligament divides the subarachnoid space into anterior and posterior 
 | Anterior to dentate | Posterior to dentate |
 |---|---|
 | [[vertebral-artery]] (V4 segment) | [[posterior-spinal-artery]] |
-| Ventral roots of C1 | [[lower-cranial-nerves\|CN XI]] (accessory nerve, spinal portion) |
+| Ventral roots of C1 | [[lower-cranial-nerves|CN XI]] (accessory nerve, spinal portion) |
 | [[pica]] (when arising at this level) | Dorsal roots of C1 (when present) |
 | [[anterior-spinal-artery]] | — |
 

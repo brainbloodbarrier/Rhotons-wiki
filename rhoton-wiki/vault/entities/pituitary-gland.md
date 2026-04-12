@@ -4,7 +4,7 @@ category: entities
 tags:
   - anatomy
   - sellar-region
-  - endocrine
+  - pituitary
   - skull-base
   - rhoton
 aliases:

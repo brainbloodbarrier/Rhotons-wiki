@@ -3,8 +3,9 @@ title: Viva Questions — Surgical Approach Selection
 category: meta
 tags:
   - quiz
-  - viva
-  - surgical-approaches
+  - approaches
+summary: >-
+  # Viva Questions — Surgical [[surgical-approaches-overview|Approach Selection]]
 ---
 
 # Viva Questions — Surgical [[surgical-approaches-overview|Approach Selection]]

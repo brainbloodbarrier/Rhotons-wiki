@@ -10,6 +10,9 @@ aliases:
   - venous sinuses
   - dural sinuses
   - "sinus durae matris"
+parent: [[meninges]]
+drained-by: [[cerebral-veins]]
+drains-to: [[jugular-foramen]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.4, 9, 13, 14"
 created: 2026-04-09

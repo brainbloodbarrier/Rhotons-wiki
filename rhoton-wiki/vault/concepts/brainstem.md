@@ -89,9 +89,9 @@ The brainstem organizes the [[posterior-fossa]] into three neurovascular complex
 
 | Complex | Brainstem | Artery | Peduncle | Fissure | Surface | Cranial Nerves |
 |---|---|---|---|---|---|---|
-| Upper | Midbrain | [[superior-cerebellar-artery\|SCA]] | Superior | Cerebellomesencephalic | Tentorial | III, IV, V |
-| Middle | Pons | [[aica\|AICA]] | Middle | Cerebellopontine | Petrosal | VI, VII, VIII |
-| Lower | Medulla | [[pica\|PICA]] | Inferior | Cerebellomedullary | Suboccipital | IX, X, XI, XII |
+| Upper | Midbrain | [[superior-cerebellar-artery|SCA]] | Superior | Cerebellomesencephalic | Tentorial | III, IV, V |
+| Middle | Pons | [[aica|AICA]] | Middle | Cerebellopontine | Petrosal | VI, VII, VIII |
+| Lower | Medulla | [[pica|PICA]] | Inferior | Cerebellomedullary | Suboccipital | IX, X, XI, XII |
 
 ## Surgical Significance
 

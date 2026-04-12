@@ -46,6 +46,18 @@
     "TQ_show_task_count": "checkbox",
     "TQ_show_toolbar": "checkbox",
     "TQ_show_tree": "checkbox",
-    "TQ_show_urgency": "checkbox"
+    "TQ_show_urgency": "checkbox",
+    "parent": "multitext",
+    "child": "multitext",
+    "branch-of": "multitext",
+    "branches": "multitext",
+    "innervates": "multitext",
+    "innervated-by": "multitext",
+    "traverses": "multitext",
+    "traversed-by": "multitext",
+    "approach-to": "multitext",
+    "approached-via": "multitext",
+    "drains-to": "multitext",
+    "drained-by": "multitext"
   }
 }

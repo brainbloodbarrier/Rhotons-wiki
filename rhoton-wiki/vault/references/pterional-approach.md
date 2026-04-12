@@ -2,7 +2,7 @@
 title: Pterional Approach
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - anterior-circulation
   - skull-base

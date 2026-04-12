@@ -2,11 +2,10 @@
 title: Velum Interpositum
 category: concepts
 tags:
-  - cistern
-  - third-ventricle
-  - deep-venous-system
+  - cisterns
+  - ventricles
+  - venous-system
   - surgical-corridor
-  - internal-cerebral-veins
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10

@@ -7,8 +7,7 @@ tags:
   - external-carotid
   - posterior-fossa
   - rhoton
-aliases:
-  - OA
+aliases: []
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.7, 9"
 created: 2026-04-10

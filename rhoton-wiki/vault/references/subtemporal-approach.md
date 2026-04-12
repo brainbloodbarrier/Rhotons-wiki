@@ -2,7 +2,7 @@
 title: Subtemporal Approach
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - tentorial-incisura
   - middle-fossa

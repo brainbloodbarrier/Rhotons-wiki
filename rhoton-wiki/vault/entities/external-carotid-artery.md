@@ -2,10 +2,9 @@
 title: External Carotid Artery
 category: entities
 tags:
-  - artery
+  - vasculature
   - external-carotid
   - skull-base
-  - vasculature
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10

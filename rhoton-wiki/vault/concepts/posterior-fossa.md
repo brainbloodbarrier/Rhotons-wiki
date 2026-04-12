@@ -5,13 +5,18 @@ tags:
   - anatomy
   - skull-base
   - posterior-fossa
-  - cerebellum
   - brainstem
   - rhoton
 aliases:
   - posterior fossa
   - infratentorial compartment
   - "fossa cranii posterior"
+parent: [[cranial-base]]
+contains:
+  - "[[cerebellum]]"
+  - "[[brainstem]]"
+  - "[[fourth-ventricle]]"
+  - "[[cerebellopontine-cistern]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.10–11"
 created: 2026-04-09

@@ -23,7 +23,7 @@ parent: "[[cranial-base]]"
 
 # Temporal Bone
 
-The temporal bone is one of the most anatomically complex cranial bones, contributing to the middle and posterior cranial fossae, housing the auditory and vestibular organs, and transmitting critical neurovascular structures. Its petrous portion forms the boundary between the middle and posterior fossae and is the target of multiple skull base approaches.
+The temporal bone is one of the most anatomically complex cranial bones, [[CONTRIBUTING]] to the middle and posterior cranial fossae, housing the auditory and vestibular organs, and transmitting critical neurovascular structures. Its petrous portion forms the boundary between the middle and posterior fossae and is the target of multiple skull base approaches.
 
 ## Parts
 

@@ -12,12 +12,13 @@
     }
   },
   "stats": {
-    "total_pages": 141,
-    "concepts": 57,
-    "entities": 50,
+    "content_pages": 148,
+    "total_pages": 151,
+    "concepts": 64,
+    "entities": 52,
     "synthesis": 18,
     "references": 14,
-    "special": 2
+    "meta_pages": 3
   },
-  "last_updated": "2026-04-10T23:00:00Z"
+  "last_updated": "2026-04-10T22:40:37Z"
 }

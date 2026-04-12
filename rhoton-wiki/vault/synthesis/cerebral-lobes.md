@@ -12,6 +12,10 @@ aliases:
   - temporal lobe
   - parietal lobe
   - occipital lobe
+parent: [[cerebrum]]
+contains:
+  - "[[sylvian-fissure]]"
+  - "[[insula]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1 — The Cerebrum"
 created: 2026-04-10
@@ -112,13 +116,13 @@ See [[insula]] — deep cortex hidden within the [[sylvian-fissure]], covered by
 
 | Function | Cortical area | Vascular supply | Deficit if injured |
 |---|---|---|---|
-| Motor (leg) | Medial precentral | [[anterior-cerebral-artery\|ACA]] | Contralateral leg weakness |
-| Motor (face/arm) | Lateral precentral | [[middle-cerebral-artery\|MCA]] | Contralateral face/arm weakness |
-| Speech production | Broca's (dominant IF gyrus) | [[middle-cerebral-artery\|MCA]] frontal | Expressive aphasia |
-| Speech comprehension | Wernicke's (dominant STG) | [[middle-cerebral-artery\|MCA]] temporal | Receptive aphasia |
-| Somatosensory | Postcentral gyrus | [[middle-cerebral-artery\|MCA]] / [[anterior-cerebral-artery\|ACA]] | Contralateral numbness |
-| Vision | Calcarine cortex | [[posterior-cerebral-artery\|PCA]] | Contralateral hemianopia |
-| Memory | [[hippocampus]] | [[anterior-choroidal-artery\|AChA]] / [[posterior-cerebral-artery\|PCA]] | Amnesia |
+| Motor (leg) | Medial precentral | [[anterior-cerebral-artery|ACA]] | Contralateral leg weakness |
+| Motor (face/arm) | Lateral precentral | [[middle-cerebral-artery|MCA]] | Contralateral face/arm weakness |
+| Speech production | Broca's (dominant IF gyrus) | [[middle-cerebral-artery|MCA]] frontal | Expressive aphasia |
+| Speech comprehension | Wernicke's (dominant STG) | [[middle-cerebral-artery|MCA]] temporal | Receptive aphasia |
+| Somatosensory | Postcentral gyrus | [[middle-cerebral-artery|MCA]] / [[anterior-cerebral-artery|ACA]] | Contralateral numbness |
+| Vision | Calcarine cortex | [[posterior-cerebral-artery|PCA]] | Contralateral hemianopia |
+| Memory | [[hippocampus]] | [[anterior-choroidal-artery|AChA]] / [[posterior-cerebral-artery|PCA]] | Amnesia |
 
 ## Relations
 

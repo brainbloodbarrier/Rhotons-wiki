@@ -5,12 +5,17 @@ tags:
   - anatomy
   - synthesis
   - skull-base
-  - spine
+  - craniocervical-junction
   - rhoton
 aliases:
   - CVJ
   - craniovertebral junction
   - occipitocervical junction
+parent: [[cranial-base]]
+contains:
+  - "[[foramen-magnum]]"
+  - "[[vertebral-artery]]"
+  - "[[suboccipital-triangle]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.7, 9"
 created: 2026-04-10

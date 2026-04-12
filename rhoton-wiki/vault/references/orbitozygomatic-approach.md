@@ -2,7 +2,7 @@
 title: Orbitozygomatic Approach
 category: references
 tags:
-  - approach
+  - approaches
   - surgical-technique
   - skull-base
   - rhoton

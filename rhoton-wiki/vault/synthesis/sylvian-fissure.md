@@ -4,13 +4,18 @@ category: synthesis
 tags:
   - anatomy
   - surgical-corridor
-  - cerebral-hemispheres
+  - cerebrum
   - rhoton
 aliases:
   - lateral sulcus
   - SF
   - "Sylvian Fiss."
   - "fissura lateralis"
+parent: [[cerebrum]]
+contains:
+  - "[[middle-cerebral-artery]]"
+  - "[[insula]]"
+traverses: [[anterior-perforated-substance]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1–2"
 created: 2026-04-09

@@ -2,10 +2,11 @@
 title: Prepontine Cistern
 category: concepts
 tags:
-  - cistern
+  - cisterns
   - posterior-fossa
-  - basilar-artery
-  - abducens-nerve
+  - vasculature
+  - posterior-circulation
+  - cranial-nerves
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10

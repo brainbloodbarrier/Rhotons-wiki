@@ -3,7 +3,6 @@ title: Herniation Syndromes
 category: synthesis
 tags:
   - anatomy
-  - clinical
   - tentorial-incisura
   - foramen-magnum
   - synthesis
@@ -13,6 +12,11 @@ aliases:
   - transtentorial herniation
   - uncal herniation
   - tonsillar herniation
+parent: [[tentorial-incisura]]
+traverses:
+  - "[[tentorial-incisura]]"
+  - "[[foramen-magnum]]"
+  - "[[falx-cerebri]]"
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.14 (Tentorial Incisura, Foramen Magnum)"
 created: 2026-04-10
@@ -92,9 +96,9 @@ Brain tissue herniates through a skull defect (post-craniectomy, fracture). The 
 
 | Bottleneck | Herniation type | Key structure compressed | Lethal mechanism |
 |---|---|---|---|
-| [[tentorial-incisura]] | Uncal, central, ascending | [[oculomotor-nerve\|CN III]], [[brainstem]], [[posterior-cerebral-artery\|PCA]] | Brainstem compression |
-| [[foramen-magnum]] | Tonsillar | Medulla, [[vertebral-artery]], [[pica\|PICA]] | Respiratory arrest |
-| Falx cerebri | Subfalcine | [[anterior-cerebral-artery\|ACA]], [[corpus-callosum]] | ACA territory infarction |
+| [[tentorial-incisura]] | Uncal, central, ascending | [[oculomotor-nerve|CN III]], [[brainstem]], [[posterior-cerebral-artery|PCA]] | Brainstem compression |
+| [[foramen-magnum]] | Tonsillar | Medulla, [[vertebral-artery]], [[pica|PICA]] | Respiratory arrest |
+| Falx cerebri | Subfalcine | [[anterior-cerebral-artery|ACA]], [[corpus-callosum]] | ACA territory infarction |
 | Skull defect | Transcalvarial | Cortex (therapeutic or traumatic) | Secondary injury |
 
 ## Vascular Consequences

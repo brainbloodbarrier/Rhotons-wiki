@@ -9,6 +9,8 @@ tags:
 aliases:
   - cerebral venous system
   - supratentorial veins
+parent: [[cerebrum]]
+drains-to: [[dural-venous-sinuses]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.4 — The Cerebral Veins"
 created: 2026-04-09

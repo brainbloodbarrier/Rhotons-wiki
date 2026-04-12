@@ -3,7 +3,7 @@ title: Greater Superficial Petrosal Nerve
 category: entities
 tags:
   - anatomy
-  - cranial-nerve
+  - cranial-nerves
   - skull-base
   - temporal-bone
   - rhoton

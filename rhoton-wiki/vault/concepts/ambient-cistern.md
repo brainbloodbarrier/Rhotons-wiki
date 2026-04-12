@@ -2,9 +2,10 @@
 title: Ambient Cistern
 category: concepts
 tags:
-  - cistern
+  - cisterns
   - tentorial-incisura
-  - posterior-cerebral-artery
+  - vasculature
+  - posterior-circulation
   - surgical-corridor
   - brainstem
 sources:

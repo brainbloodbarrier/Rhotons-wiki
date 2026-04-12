@@ -3,7 +3,7 @@ title: Optic Tract
 category: entities
 tags:
   - anatomy
-  - cranial-nerve
+  - cranial-nerves
   - deep-structures
   - rhoton
 aliases:
@@ -25,9 +25,9 @@ The optic tract is the post-chiasmatic continuation of the visual pathway, exten
 
 | Segment | Location | Relations |
 |---|---|---|
-| **Origin** | Posterolateral angle of [[optic-chiasm]] | Just lateral to the [[pituitary-gland\|pituitary stalk]] |
+| **Origin** | Posterolateral angle of [[optic-chiasm]] | Just lateral to the [[pituitary-gland|pituitary stalk]] |
 | **Suprasellar** | Courses posterolaterally above the [[posterior-communicating-artery]] and [[anterior-choroidal-artery]] | Floor of the [[lateral-and-third-ventricles|third ventricle]] laterally |
-| **Peduncular** | Wraps around the cerebral peduncle of [[brainstem\|midbrain]] | Lateral to the [[hypothalamus]], medial to the [[uncus]] |
+| **Peduncular** | Wraps around the cerebral peduncle of [[brainstem|midbrain]] | Lateral to the [[hypothalamus]], medial to the [[uncus]] |
 | **Termination** | Lateral geniculate body of [[thalamus]] | Optic radiations emerge to course to the visual cortex |
 
 ## Visual Pathway Position
@@ -67,7 +67,7 @@ The optic tract is a visible landmark during:
 The [[anterior-choroidal-artery]] arises from the ICA just medial to the optic tract origin. This relationship is critical during ICA [[aneurysm-surgery]] — the AChA must be preserved, and the optic tract identifies its location.
 
 ### Uncal Herniation
-During transtentorial [[herniation-syndromes|herniation]], the optic tract is compressed between the herniating uncus and the cerebral peduncle, contributing to contralateral homonymous hemianopia (Kernohan's notch phenomenon may also produce ipsilateral motor deficits).
+During transtentorial [[herniation-syndromes|herniation]], the optic tract is compressed between the herniating uncus and the cerebral peduncle, [[CONTRIBUTING]] to contralateral homonymous hemianopia (Kernohan's notch phenomenon may also produce ipsilateral motor deficits).
 
 ### Tumor Surgery
 Tumors in the suprasellar region (craniopharyngiomas, meningiomas, hypothalamic gliomas) may displace, encase, or infiltrate the optic tract. Visual field deficits help localize the lesion relative to the chiasm-tract junction.

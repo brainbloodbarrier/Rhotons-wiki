@@ -4,7 +4,6 @@ category: concepts
 tags:
   - anatomy
   - deep-structures
-  - diencephalon
   - rhoton
 aliases:
   - thalamic anatomy
