@@ -14,8 +14,10 @@
       "path": "rhoton-wiki/extractions/datalab/chapters/",
       "original": "Datalab PDF extraction — 20 chapters, 885 figures",
       "ingested_at": "2026-04-12T00:00:00Z",
-      "pages_created": 16,
-      "method": "autoresearch-campaign-2-iters-0-5"
+      "pages_augmented": 15,
+      "chapters_integrated": 20,
+      "method": "autoresearch-campaign-2-iters-0-20",
+      "status": "COMPLETE"
     }
   },
   "stats": {
@@ -27,7 +29,7 @@
     "references": 14,
     "meta_pages": 3,
     "quizzes": 3,
-    "score": 11803
+    "score": 11947
   },
-  "last_updated": "2026-04-12T00:00:00Z"
+  "last_updated": "2026-04-12T12:00:00Z"
 }
