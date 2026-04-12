@@ -16,7 +16,7 @@ approached-via: [[retrosigmoid-approach]]
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023)"
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-12
 summary: >-
   MVD anatomy, REZ zones, offending vessels
 aliases:
@@ -53,6 +53,14 @@ Neurovascular compression (NVC) syndromes occur when an artery or vein compresse
 | REZ location | Lateral pons at the nerve entry zone |
 | MVD approach | [[retrosigmoid-approach]] — nerve found at the upper [[cerebellopontine-cistern|CP angle]] |
 | Decompression | SCA displaced superiorly with Teflon pledget; do not divide the SCA |
+
+**Trigeminal root somatotopy (critical for selective rhizotomy):**
+- **V3 (mandibular)** — caudolateral position from ganglion to pons
+- **V1 (ophthalmic)** — rostromedial position
+- **V2 (maxillary)** — intermediate
+- Root cross-section is elliptical; rotation angle varies 10–80° (most commonly 40–50°). At 80°, V3 is almost directly lateral to V1; at 10°, V3 is almost directly caudal — explains variable sensory loss after partial section
+- Up to 8 **aberrant sensory rootlets** arise around the rostral 2/3 of the nerve; 75% enter V1 — sparing these during rhizotomy preserves V1 sensation (Dandy's observation)
+- Up to 15 separate nerve rootlets at the brainstem junction, spread around the rostral half of the main sensory cone
 
 ### Hemifacial Spasm (CN VII)
 
