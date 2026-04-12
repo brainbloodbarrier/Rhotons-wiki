@@ -1,0 +1,35 @@
+{
+  "sample-figure-01.jpg": {
+    "source_path": "rhoton-wiki/tools/datalab-augment/fixtures/sample-figure-01.jpg",
+    "chapter_id": "p3c10-the-posterior-fossa-cisterns",
+    "source_page": 1596,
+    "bbox": [100, 200, 800, 900],
+    "caption": "The interpeduncular cistern",
+    "section_header": "Interpeduncular Cistern and Liliequist's Membrane",
+    "candidates": [{"page": "concepts/interpeduncular-cistern.md", "score": 0.9}],
+    "assigned": "concepts/interpeduncular-cistern.md",
+    "confidence": "high"
+  },
+  "sample-figure-02.jpg": {
+    "source_path": "rhoton-wiki/tools/datalab-augment/fixtures/sample-figure-01.jpg",
+    "chapter_id": "p3c10-the-posterior-fossa-cisterns",
+    "source_page": 1597,
+    "bbox": [100, 200, 800, 900],
+    "caption": "Cisterna magna boundaries",
+    "section_header": "Cisterna Magna",
+    "candidates": [{"page": "concepts/cisterna-magna.md", "score": 0.85}],
+    "assigned": "concepts/cisterna-magna.md",
+    "confidence": "high"
+  },
+  "sample-figure-03.jpg": {
+    "source_path": "rhoton-wiki/tools/datalab-augment/fixtures/sample-figure-01.jpg",
+    "chapter_id": "p2c02-the-supratentorial-arteries",
+    "source_page": 248,
+    "bbox": [100, 200, 800, 900],
+    "caption": "ICA bifurcation",
+    "section_header": "Internal Carotid Artery",
+    "candidates": [],
+    "assigned": null,
+    "confidence": "unattributed"
+  }
+}
