@@ -19,7 +19,7 @@ contains:
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.5 — The Lateral and Third Ventricles"
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 summary: >-
   Ventricular anatomy, choroidal fissure, surgical approaches
 ---
@@ -86,13 +86,47 @@ The choroidal fissure is the cleft between the fornix and thalamus through which
 
 ## Surgical Approaches
 
-| Approach | Target | Route |
+Routes organized by direction of approach (Rhoton Fig. 5.22):
+
+### From Above (Superior)
+
+| Approach | Target | Key Structures |
 |---|---|---|
-| Transcortical-transventricular | Frontal horn, body lesions | Through frontal cortex |
-| Transcallosal | Foramen of Monro, colloid cysts | Interhemispheric → through corpus callosum |
-| Transchoroidal | Third ventricle | Open choroidal fissure between fornix and thalamus |
-| Subtemporal-transtentorial | Posterior third ventricle | Below temporal lobe |
-| Occipital-transtentorial | Atrium, [[pineal-region]] | Through [[cerebral-lobes|occipital lobe]] |
+| **Anterior transcallosal** | Foramen of Monro, frontal horn, body, anterior third ventricle | Parasagittal cortex retraction; callosotomy 2–3 cm; spare vein-free zone between anterior/posterior frontal [[bridging-veins]] |
+| **Anterior transcortical** | Same targets | Through frontal cortex → frontal horn; avoids callosotomy but risks cortical damage |
+| **Posterior transcallosal** | Splenial lesions, [[pineal-region]] | Through posterior callosum; risks visual field loss |
+| **Posterior transcortical** | Atrium, trigone | Through superior parietal lobule |
+
+### From Anterior (Subfrontal)
+
+| Approach | Target | Key Structures |
+|---|---|---|
+| **Lamina terminalis** | Anterior third ventricle, floor | Through [[lamina-terminalis]]; accesses chiasmatic and suprasellar regions |
+| **Opticocarotid** | Anteroinferior third ventricle | Between [[optic-nerve]] and [[internal-carotid-artery]] |
+| **Subchiasmatic** | Third ventricle floor | Below [[optic-chiasm]] between optic nerves |
+| **Transfrontal-transsphenoidal** | Sellar/suprasellar extension | Through planum sphenoidale |
+
+### From Below
+
+| Approach | Target | Key Structures |
+|---|---|---|
+| **[[transsphenoidal-approach]]** | Sellar, inferior third ventricle | Through sphenoid sinus |
+| **[[subtemporal-approach]]** | Lateral third ventricle, ambient cistern | Temporal lobe elevation; vein of Labbé risk |
+| **Frontotemporal (pterional)** | Anterior third ventricle via [[sylvian-fissure]] | Transsylvian access to cisterns |
+
+### From Posterior
+
+| Approach | Target | Key Structures |
+|---|---|---|
+| **Occipital-transtentorial** | Quadrigeminal cistern, posterior third ventricle | Occipital retraction; no [[bridging-veins]] near torcular; anterior calcarine vein may block |
+| **[[supracerebellar-infratentorial-approach]]** | Pineal, posterior third ventricle | Below tentorium; deep veins cap dorsal surface but do NOT obstruct access |
+
+### Neural Incision Principles
+
+- **Choroidal fissure opening:** Divide through tenia fornicis (fewer vessels) rather than tenia choroidea. Body → exposes velum interpositum/third ventricle roof. Atrium → exposes quadrigeminal cistern. Temporal horn → exposes ambient cistern
+- **Callosotomy:** Unilateral 2–3 cm section rarely causes permanent deficit; bilateral can impair interhemispheric transfer, bimanual tasks, memory
+- **Fornix:** Unilateral damage produces no deficit; bilateral damage may cause memory loss but not always permanent
+- **CSF drainage** before retraction: ventriculostomy (if hydrocephalus), basal cistern drainage, or lumbar drain (if no ventricular obstruction)
 
 ## References
 
