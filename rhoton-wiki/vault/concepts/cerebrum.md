@@ -19,7 +19,7 @@ contains:
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.1 — The Cerebrum"
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 summary: >-
   Hemispheric organization, deep landmarks, surgical corridors
 ---
@@ -58,6 +58,22 @@ Understanding the surface projection of deep structures is critical for surgical
 
 The longitudinal fissure contains the [[falx-cerebri]] — a sickle-shaped dural process separating the hemispheres. The anterior falx is narrower than posterior, leaving a wide space anteriorly between its free margin and corpus callosum. The anterior cingulate gyrus is below the free margin and can shift across midline (subfalcine herniation). The middle and posterior parts have progressively less freedom.
 
+## Scalp-to-Cortex Landmark Mapping
+
+Constructing surface landmarks on the scalp before draping enables accurate craniotomy placement (Rhoton Fig. 1.17–1.18):
+
+| Landmark | Method |
+|---|---|
+| **Nasion-inion midpoint (50%)** | Measure midsagittal arc with flexible tape; mark 50% and 75% points |
+| **Sylvian fissure line** | Frontozygomatic point → 75% nasion-inion point |
+| **Pterion** | 3 cm posterior to frontozygomatic point on sylvian fissure line |
+| **Upper rolandic point** | 50% nasion-inion + 2 cm posterior |
+| **Lower rolandic point** | Intersection of line from mid-zygomatic arch → upper rolandic point WITH sylvian fissure line; ~2.5 cm behind pterion |
+| **Central sulcus** | Line connecting upper and lower rolandic points |
+| **Keyhole** | Immediately above frontozygomatic point; ~3 cm anterior to pterion; frontal dura (upper half) + periorbita (lower half) |
+
+The **frontozygomatic point** is on the lateral orbital rim at the frontozygomatic suture, 2.5 cm above where the zygomatic arch meets the orbital rim. The **superior temporal line** arches from the lateral frontal region across the pars triangularis, crosses the junction of lower/middle thirds of the central sulcus, then descends to the parietomastoid suture.
+
 ## [[surgical-approaches-overview|Surgical Corridors]]
 
 The supratentorial area provides natural pathways to deep lesions:
@@ -67,6 +83,20 @@ The supratentorial area provides natural pathways to deep lesions:
 - **Subtemporal corridor** — below [[cerebral-lobes|temporal lobe]] base; accesses [[tentorial-incisura]] from uncus to [[ambient-cistern]] junction
 - **Transcortical/transcallosal** — through cortex or corpus callosum to lateral ventricle and thalamus
 - **Subfrontal** — below orbital surface to cribriform plate, optic nerves, chiasmatic [[basal-cisterns|cisterns]]
+
+### Central Core Approaches
+
+The central core (thalamus, basal ganglia, internal capsule) can be reached by multiple routes:
+
+- **Subfrontal** — below [[anterior-perforated-substance]] where [[lenticulostriate-arteries|lentiform]] and caudate blend below anterior limb of [[internal-capsule]]
+- **Anterior interhemispheric** — opening [[lamina-terminalis]] and rostrum accesses lateral and third ventricle at medial core surface
+- **Frontal/parietal transcallosal** — accesses lateral ventricular surfaces of [[thalamus]] and caudate
+- **Transsylvian** — accesses [[insula]]r surface and basal ganglia facing [[anterior-perforated-substance]]
+- **Subtemporal** — exposes lower thalamic surface and [[optic-tract]] forming roof of [[ambient-cistern]]
+
+### Safe Transcortical Routes
+
+When approaching mid-cerebral lesions through cortex without a pathological pathway to the surface, preferred routes are through the middle/superior frontal gyri, superior parietal lobule, [[intraparietal sulcus]], or lower lateral/basal temporal surface. Sulci directed toward ventricular surface (superior frontal, inferior temporal, occipitotemporal, collateral, intraparietal) are preferred corridors.
 
 ## Lobes
 
@@ -82,6 +112,26 @@ The supratentorial area provides natural pathways to deep lesions:
 - Vascular supply: [[internal-carotid-artery]] → [[anterior-cerebral-artery]] + [[middle-cerebral-artery]] ([[anterior-circulation]]); [[posterior-cerebral-artery]] ([[posterior-circulation]])
 - Venous drainage: superficial and deep venous systems → [[dural-venous-sinuses|dural sinuses]]
 - Contains lateral ventricles (see ventricles chapter)
+
+## Temporal Lobectomy and Amygdalohippocampectomy
+
+The medial temporal lobe is the most common resection target for epilepsy surgery (Rhoton Fig. 1.19).
+
+**Key anatomical relationships:**
+- The amygdala forms most of the anterior uncal segment and anterior wall/roof of temporal horn
+- The anterior uncal segment faces the [[internal-carotid-artery]]; posterior segment faces the [[posterior-cerebral-artery]] and cerebral peduncle
+- The uncal apex sits lateral to [[oculomotor-nerve|CN III]] and [[posterior-communicating-artery|PCoA]]
+- The [[hippocampus]] head turns medially to form most of the upper half of the posterior uncal segment
+- The uncal recess partially separates hippocampus from amygdala — key surgical landmark
+
+**Standard temporal lobectomy steps:**
+1. Lateral neocortical exposure and removal
+2. Medial disconnection via opening [[choroidal-fissure]] (divide taenia fimbria; choroid plexus stays with [[thalamus]])
+3. Anterior disconnection — separate hippocampal head from amygdala using uncal recess
+4. Posterior disconnection — section [[hippocampus]] and parahippocampal gyrus to extent indicated by electrophysiology
+5. Remove remaining amygdala anterior to uncal recess; preserve small superior portion near [[optic-tract]], [[anterior-choroidal-artery|AChA]], and lentiform nucleus
+
+**Yaşargil selective amygdalohippocampectomy:** Approaches through lower [[sylvian-fissure]] and circular sulcus, medial to superior temporal gyrus, below inferior MCA trunk. Preserves temporal neocortex.
 
 ## References
 
