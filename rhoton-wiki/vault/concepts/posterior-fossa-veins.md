@@ -13,7 +13,7 @@ aliases:
 sources:
   - "Rhoton - Cranial Anatomy and Surgical Approaches (2023), Ch.13 — The Posterior Fossa Veins"
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-12
 summary: >-
   Superior, anterior, and posterior drainage groups
 parent: "[[posterior-fossa]]"
@@ -52,10 +52,22 @@ These veins are typically small but critical — their injury during surgery can
 
 ## Surgical Significance
 
-- The **[[superior-petrosal-vein]]** (vein of Dandy) is the most important surgical landmark — it crosses the operative corridor in retrosigmoid approaches and may need to be divided for access to CN V
-- [[bridging-veins]] to the [[tentorium-cerebelli|tentorium]] and transverse sinus are at risk during posterior fossa approaches
-- The precentral cerebellar vein is at risk during supracerebellar-infratentorial approaches to the [[pineal-region]]
-- Unlike supratentorial [[cerebral-veins]], posterior fossa veins have fewer anastomoses — sacrifice is less well tolerated
+### Approach-Specific Venous Risks
+
+| Approach | Veins at Risk | Notes |
+|---|---|---|
+| **[[retrosigmoid-approach]] (trigeminal)** | Superior petrosal veins, [[bridging-veins]] near CN V | Bridging veins MORE frequently sacrificed near CN V than near IAC; petrosal vein largest tributary = vein of cerebellopontine fissure |
+| **[[retrosigmoid-approach]] (acoustic)** | Vein of cerebellopontine fissure at superior tumor pole | Central CPA exposure often completed WITHOUT sacrificing any bridging veins; vein encountered during late stages of large tumor removal |
+| **[[supracerebellar-infratentorial-approach]]** | Superior vermian/hemispheric veins, vein of cerebellomesencephalic fissure | May need to divide numerous bridging veins to tentorial sinuses and torcular; usually tolerated without deficit |
+| **Occipital transtentorial** | Anterior calcarine (internal occipital) vein | Posterior 5 cm of superior sagittal sinus frequently devoid of bridging veins; occipital lobe retraction usually avoids vein sacrifice |
+| **[[telovelar-approach]]** | Veins around tonsils, lower vermis, cerebellomedullary fissure vein | These veins occluded repeatedly without sequelae |
+| **[[far-lateral-approach]]** | Bridging veins from medulla to marginal/occipital sinuses | Infrequent; suboccipital surface has few direct bridging veins to dura |
+
+### Superior Petrosal Vein (Vein of Dandy)
+
+The most important surgical landmark in CPA surgery. The veins converging near CN V to form the petrosal vein are: transverse pontine, pontotrigeminal, vein of cerebellopontine fissure, and vein of middle cerebellar peduncle. The **vein of the cerebellopontine fissure** is the largest tributary — drains most of the petrosal cerebellar surface and much of the lower brainstem.
+
+**Neurovascular compression:** Venous compression of CN V is implicated in trigeminal neuralgia (found in 153/411 MVD cases, Jannetta). Similarly for [[facial-nerve|CN VII]] (hemifacial spasm) and CN IX (glossopharyngeal neuralgia). The veins compressing CN VII/VIII are on the brainstem surface (not at the meatus), distinct from the bridging vein pattern near CN V.
 
 ## Relations
 
