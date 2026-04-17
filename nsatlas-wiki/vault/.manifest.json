@@ -149,6 +149,12 @@
       "pages_created": 1,
       "wiki_page": "principles/skull-clamp-placement.md",
       "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/patient-positioning": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/patient-positioning.md",
+      "method": "claude-chapter-distill"
     }
   },
   "duplicates": {

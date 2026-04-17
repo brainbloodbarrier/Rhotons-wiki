@@ -24,7 +24,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
 | [[operative-anatomy/]] | 0 | Operative neuroanatomy |
 | [[concepts/]] | 4 | Anatomy concept / reference hub pages |
-| [[principles/]] | 3 | Principles of cranial surgery (Cohen-Gadol) |
+| [[principles/]] | 4 | Principles of cranial surgery (Cohen-Gadol) |
 | [[professional/]] | 0 | Non-technical skills, career, education |
 | [[synthesis/]] | 0 | Cross-cutting integration pages |
 
@@ -40,6 +40,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[scalp-incisions]] -- wound healing, flap geometry, linear vs curvilinear incisions
 - [[burr-holes-and-bone-flaps]] -- drill mechanics, dural separation, sinus safety
 - [[skull-clamp-placement]] -- Mayfield three-point fixation, sweatband zones, pin patterns
+- [[patient-positioning]] -- supine, park-bench, sitting, prone; gravity retraction algorithm
 
 **Total pages:** 8
 **Last updated:** 2026-04-15
