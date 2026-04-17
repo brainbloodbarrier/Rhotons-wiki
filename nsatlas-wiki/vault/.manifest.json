@@ -191,6 +191,12 @@
       "pages_created": 1,
       "wiki_page": "principles/subarachnoid-dissection.md",
       "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/techniques-of-sylvian-fissure-split": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/techniques-of-sylvian-fissure-split.md",
+      "method": "claude-chapter-distill"
     }
   },
   "duplicates": {

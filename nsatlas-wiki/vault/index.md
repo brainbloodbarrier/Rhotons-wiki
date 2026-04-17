@@ -24,7 +24,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
 | [[operative-anatomy/]] | 0 | Operative neuroanatomy |
 | [[concepts/]] | 6 | Anatomy concept / reference hub pages |
-| [[principles/]] | 8 | Principles of cranial surgery (Cohen-Gadol) |
+| [[principles/]] | 9 | Principles of cranial surgery (Cohen-Gadol) |
 | [[professional/]] | 0 | Non-technical skills, career, education |
 | [[synthesis/]] | 0 | Cross-cutting integration pages |
 
@@ -45,6 +45,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[intraoperative-hemostasis]] -- electrical/mechanical/chemical coagulation, sinus tear management
 - [[brain-mobilization-and-protection]] -- dynamic vs fixed retraction, gravity, mannitol, dome adherence
 - [[subarachnoid-dissection]] -- cisternal anatomy, trajectory planning, proximal/distal vascular control
+- [[techniques-of-sylvian-fissure-split]] -- inside-to-outside, Sylvian point start, vein preservation
 
 **Total pages:** 8
 **Last updated:** 2026-04-15
