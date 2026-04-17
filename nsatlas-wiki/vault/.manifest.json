@@ -65,6 +65,12 @@
       "pages_created": 1,
       "wiki_page": "approaches/occipital-craniotomy.md",
       "method": "datalab-extraction"
+    },
+    "cranial-approaches/paramedian-supracerebellar-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:25:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/paramedian-supracerebellar-craniotomy.md",
+      "method": "datalab-extraction"
     }
   },
   "duplicates": {
