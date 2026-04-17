@@ -8,6 +8,8 @@ created: 2026-04-13
 updated: 2026-04-13
 summary: >-
   Controlled tag vocabulary for the NSAtlas Wiki.
+sources:
+  - "NSAtlas Wiki internal taxonomy definition"
 ---
 
 # Tag Taxonomy — Controlled Vocabulary
