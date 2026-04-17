@@ -137,6 +137,12 @@
       "pages_created": 1,
       "wiki_page": "principles/burr-holes-and-bone-flaps.md",
       "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/skull-clamp-placement": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/skull-clamp-placement.md",
+      "method": "claude-chapter-distill"
     }
   },
   "duplicates": {

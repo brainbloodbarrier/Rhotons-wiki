@@ -21,3 +21,5 @@ iteration	commit	metric	delta	guard	status	description
 20	-	947	+121	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/scalp-incisions
 15	34ba844	997	+117	pass	-	kept	phase-C: ingest operative-neuroanatomy/cavernous-sinus-anatomy
 21	-	1128	+181	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/burr-holes-and-bone-flaps
+16	77857e0	1066	+69	pass	-	kept	phase-C: ingest operative-neuroanatomy/cerebrovascular-anatomy
+22	-	1269	+141	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/skull-clamp-placement
