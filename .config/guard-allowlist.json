@@ -1742,7 +1742,8 @@
       "procedures/spinal-cord-avm-surgery.md -> [[spinal-cord-cavernous-malformation-resection]]",
       "pathology/dysplastic-cerebellar-gangliocytoma.md -> [[cowden-syndrome]]",
       "pathology/dysplastic-cerebellar-gangliocytoma.md -> [[telovelar-approach]]",
-      "pathology/progressive-multifocal-leukoencephalopathy.md -> [[stereotactic-biopsy]]"
+      "pathology/progressive-multifocal-leukoencephalopathy.md -> [[stereotactic-biopsy]]",
+      "references/neuroradiology-imaging-modalities.md -> [[radiation-necrosis]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
