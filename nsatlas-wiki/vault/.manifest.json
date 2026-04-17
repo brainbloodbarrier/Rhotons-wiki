@@ -296,6 +296,13 @@
       "wiki_page": "approaches/anterior-petrosectomy.md",
       "method": "claude-chapter-distill",
       "phase": "E1"
+    },
+    "cranial-base-surgery/general-principles": {
+      "ingested_at": "2026-04-17T02:15:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/cranial-base-surgery-general-principles.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1"
     }
   },
   "duplicates": {

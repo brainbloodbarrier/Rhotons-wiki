@@ -1478,7 +1478,11 @@
       "approaches/anterior-petrosectomy.md -> [[dermoid]]",
       "procedures/ventriculo-atrial-shunt.md -> [[csf-ventricular-shunt-reference]]",
       "procedures/ventriculo-atrial-shunt.md -> [[ventriculo-gallbladder-shunt]]",
-      "procedures/ventriculo-atrial-shunt.md -> [[ventriculo-pleural-shunt]]"
+      "procedures/ventriculo-atrial-shunt.md -> [[ventriculo-pleural-shunt]]",
+      "references/cranial-base-surgery-general-principles.md -> [[cranial-base-operative-corridor-selection]]",
+      "references/cranial-base-surgery-general-principles.md -> [[cranial-base-preoperative-considerations]]",
+      "references/cranial-base-surgery-general-principles.md -> [[cranial-base-surgery-lessons-learned]]",
+      "references/cranial-base-surgery-general-principles.md -> [[medial-sphenoid-wing-meningioma]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
