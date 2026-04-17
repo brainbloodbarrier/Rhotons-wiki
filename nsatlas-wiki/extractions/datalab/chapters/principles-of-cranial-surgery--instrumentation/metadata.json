@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--instrumentation",
+  "title": "Instrumentation",
+  "category": "principles-of-cranial-surgery",
+  "slug": "instrumentation",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/instrumentation.pdf",
+  "expected_page_count": 11,
+  "api_page_count": 11,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 7,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_uIBj3bdeDPgcag5dtCzIIcwmzn-rneBMn9Oiz9Zuiw8",
+  "request_id": "04cs7C2G5Z7GHxaQTY13UQ",
+  "markdown_bytes": 19634,
+  "markdown_sha256": "2cf15916152faff6963b1d0af62ec271570bf88e155785feaa4b0bb778c1dce9",
+  "image_count": 11,
+  "saved_at": "2026-04-14T13:28:41+00:00"
+}

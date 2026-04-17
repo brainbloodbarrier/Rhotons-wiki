@@ -1,0 +1,20 @@
+{
+  "article_id": "neuroradiology--progressive-multifocal-leukoencephalopathy-pml",
+  "title": "Progressive Multifocal Leukoencephalopathy Pml",
+  "category": "neuroradiology",
+  "slug": "progressive-multifocal-leukoencephalopathy-pml",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/neuroradiology/cranial-disorders/brain-tumor-mimics/progressive-multifocal-leukoencephalopathy-pml.pdf",
+  "expected_page_count": 5,
+  "api_page_count": 5,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 3,
+    "final_cost_cents": 3
+  },
+  "checkpoint_id": "checkpoint_rbKZRy1Zn3cOa8S7jiZ3WcxtKRyt0Ybezc_VaLHgrew",
+  "request_id": "vitvICNfS_yb2x4Kj-BxGQ",
+  "markdown_bytes": 7572,
+  "markdown_sha256": "ccf7fdba9f926d329d7d79f9c606c38601a4465df773ef8c0148a4491108ddbc",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:14:35+00:00"
+}

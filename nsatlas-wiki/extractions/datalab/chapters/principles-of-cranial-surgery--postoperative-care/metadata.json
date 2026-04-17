@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--postoperative-care",
+  "title": "Postoperative Care",
+  "category": "principles-of-cranial-surgery",
+  "slug": "postoperative-care",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/postoperative-care.pdf",
+  "expected_page_count": 14,
+  "api_page_count": 14,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7
+  },
+  "checkpoint_id": "checkpoint_gtrzulARFvZAOhtK1dBg4-eT0YuFEpnjb5nZPw-TZbU",
+  "request_id": "oMX3I520mxxvwCoNKiKIxg",
+  "markdown_bytes": 31964,
+  "markdown_sha256": "414acad8ec6d52b59b8cb83d4ba3c0859665eeba78167cbc3cce798e78d1fdd6",
+  "image_count": 3,
+  "saved_at": "2026-04-14T13:34:44+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--preoperative-evaluation",
+  "title": "Preoperative Evaluation",
+  "category": "principles-of-cranial-surgery",
+  "slug": "preoperative-evaluation",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/preoperative-evaluation.pdf",
+  "expected_page_count": 15,
+  "api_page_count": 15,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7
+  },
+  "checkpoint_id": "checkpoint_qdTSJTBibTqg6W4bUae0S0enxmhHYqTPQgCn-LLCpGE",
+  "request_id": "6gmOUYxSwHPggJ2leaMIMw",
+  "markdown_bytes": 28203,
+  "markdown_sha256": "1639372bfdd7e8033b36e22c8f11e4aa71bcb9c0e47f6f0e0c6b93afab7ed631",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:35:14+00:00"
+}

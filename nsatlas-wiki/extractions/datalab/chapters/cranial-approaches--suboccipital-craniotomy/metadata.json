@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--suboccipital-craniotomy",
+  "title": "Suboccipital Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "suboccipital-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/suboccipital-craniotomy.pdf",
+  "expected_page_count": 12,
+  "api_page_count": 12,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 8,
+    "final_cost_cents": 6
+  },
+  "checkpoint_id": "checkpoint_ewvlm9kWiSEuYbnx6dNtohYO3RpY-CJ701RKB4mhCtQ",
+  "request_id": "JWXvhnOjlYNLK3X5NI3PAg",
+  "markdown_bytes": 23854,
+  "markdown_sha256": "127fde7103c269ebc206277f4536a05b63f9963f8cc893958593b2ce514153c7",
+  "image_count": 10,
+  "saved_at": "2026-04-14T12:38:31+00:00"
+}

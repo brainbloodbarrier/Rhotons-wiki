@@ -1,0 +1,19 @@
+{
+  "article_id": "principles-of-cranial-surgery--ventricular-shunt-reference",
+  "title": "Ventricular Shunt Reference",
+  "category": "principles-of-cranial-surgery",
+  "slug": "ventricular-shunt-reference",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/ventricular-shunt-reference.pdf",
+  "expected_page_count": 13,
+  "api_page_count": 13,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 6.0
+  },
+  "checkpoint_id": "checkpoint_BeqI1GYS_Zu5xDhE-o3uL7z6pLO-6Nb-eeGgKmtwlEg",
+  "request_id": "_PEq_4Bf4jw1Myx6OkNmDQ",
+  "markdown_bytes": 21511,
+  "markdown_sha256": "d7566ac51beb964249c63f3abb4a7fd3b0d27e12400b0a4307e9a5095fc0203c",
+  "image_count": 21,
+  "saved_at": "2026-04-14T13:39:42+00:00"
+}

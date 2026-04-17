@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--general-principles",
+  "title": "General Principles",
+  "category": "cranial-approaches",
+  "slug": "general-principles",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/general-principles.pdf",
+  "expected_page_count": 12,
+  "api_page_count": 12,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 8,
+    "final_cost_cents": 6
+  },
+  "checkpoint_id": "checkpoint_kXWKGIQDOwEM8-B2GUzE-Rjy3RzXk1rleIZz7vxOTos",
+  "request_id": "kZi8I3ytNj0frXdE9h8Hmg",
+  "markdown_bytes": 20914,
+  "markdown_sha256": "910f0caf64dceddc585e0b54a2c132e7700d6c7c73c12f585461a851c90250fc",
+  "image_count": 11,
+  "saved_at": "2026-04-14T12:29:27+00:00"
+}

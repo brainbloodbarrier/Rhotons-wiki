@@ -1,0 +1,20 @@
+{
+  "article_id": "medical-student-guide-for-matching-in-neurosurgery--interviews",
+  "title": "Interviews",
+  "category": "medical-student-guide-for-matching-in-neurosurgery",
+  "slug": "interviews",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/interviews.pdf",
+  "expected_page_count": 26,
+  "api_page_count": 26,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 16,
+    "final_cost_cents": 12
+  },
+  "checkpoint_id": "checkpoint_psW_VmwpNO8k3JiyQ8S4Z5qevzCY_DrdoLkXx9VKoTM",
+  "request_id": "2ERgPi9Uf1ezGSsswJwVow",
+  "markdown_bytes": 50557,
+  "markdown_sha256": "bad4f5f9ad84107cdd5b920b22a14ee2fe2a29cf91a9466641eca3872725c59a",
+  "image_count": 4,
+  "saved_at": "2026-04-14T13:08:59+00:00"
+}

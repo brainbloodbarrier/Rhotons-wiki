@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--interhemispheric-craniotomy",
+  "title": "Interhemispheric Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "interhemispheric-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/interhemispheric-craniotomy.pdf",
+  "expected_page_count": 19,
+  "api_page_count": 19,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 12,
+    "final_cost_cents": 9
+  },
+  "checkpoint_id": "checkpoint_ZF3chqJXMNIqrMqy5PfWtli5XwQa7EDkNks07BWfo2w",
+  "request_id": "ScV__0vCwNIvmXRvFC8btg",
+  "markdown_bytes": 33663,
+  "markdown_sha256": "93fb12ada02da071221632ffb3415707a80d7b8ba66b0c9262215aa56c16345e",
+  "image_count": 18,
+  "saved_at": "2026-04-14T12:30:37+00:00"
+}

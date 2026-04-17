@@ -1,0 +1,20 @@
+{
+  "article_id": "medical-student-guide-for-matching-in-neurosurgery--preface",
+  "title": "Preface",
+  "category": "medical-student-guide-for-matching-in-neurosurgery",
+  "slug": "preface",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/preface.pdf",
+  "expected_page_count": 4,
+  "api_page_count": 4,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 3,
+    "final_cost_cents": 2
+  },
+  "checkpoint_id": "checkpoint_iWAqug2gqIEakTFGGWuJQZdU-hspyZ_HEfPE-UHxDH8",
+  "request_id": "qJ73mSDZwOvWpvreczV9yw",
+  "markdown_bytes": 6449,
+  "markdown_sha256": "0d15615dde805c66be1008d8804a567001a18af3b2f2abd666a8b229758e5da3",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:10:53+00:00"
+}

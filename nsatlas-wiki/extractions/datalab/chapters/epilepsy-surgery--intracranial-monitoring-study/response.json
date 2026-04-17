@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "output_format": "markdown",
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "segmentation_results": null,
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 0,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 1,
+        "num_blocks": 1
+      }
+    ]
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": null,
+  "page_count": 2,
+  "total_cost": 1,
+  "cost_breakdown": {
+    "list_cost_cents": 2,
+    "final_cost_cents": 1
+  },
+  "runtime": 9.664312601089478,
+  "checkpoint_id": "checkpoint_xEjQiqD7DDiDTqnxdfUZi33HpHj5fJOXRdx6J2F28aw",
+  "versions": null,
+  "evaluation": null,
+  "request_id": "NVBUS3aZYJWYpBrs1MhIcA"
+}

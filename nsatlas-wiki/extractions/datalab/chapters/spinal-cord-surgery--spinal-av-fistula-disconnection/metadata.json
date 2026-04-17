@@ -1,0 +1,20 @@
+{
+  "article_id": "spinal-cord-surgery--spinal-av-fistula-disconnection",
+  "title": "Spinal Av Fistula Disconnection",
+  "category": "spinal-cord-surgery",
+  "slug": "spinal-av-fistula-disconnection",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/spinal-av-fistula-disconnection.pdf",
+  "expected_page_count": 23,
+  "api_page_count": 23,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 14,
+    "final_cost_cents": 11
+  },
+  "checkpoint_id": "checkpoint_c5zAfCOyjoRDohGty6btcqK81bUmGbXcKdR-j3T3BAo",
+  "request_id": "riic_4pT6ljSQ65ZRszovg",
+  "markdown_bytes": 48221,
+  "markdown_sha256": "57f3dc9afa6904f9276591849a00c00438121981040ff39444fb67c630a40857",
+  "image_count": 21,
+  "saved_at": "2026-04-14T13:45:42+00:00"
+}

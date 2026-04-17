@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--telovelar-approach",
+  "title": "Telovelar Approach",
+  "category": "cranial-approaches",
+  "slug": "telovelar-approach",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/telovelar-approach.pdf",
+  "expected_page_count": 18,
+  "api_page_count": 18,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 11,
+    "final_cost_cents": 9
+  },
+  "checkpoint_id": "checkpoint_Wj1OmxN6gp5Nw_z3jApbs0ppBd7yskKNyjGX-QNxBWw",
+  "request_id": "P_MNC52GZR19dEB4RJWDAw",
+  "markdown_bytes": 32754,
+  "markdown_sha256": "6a4aefffa1c170b6eafe84ff190b2ef11f223e695009bba3add7225c9b5b2431",
+  "image_count": 15,
+  "saved_at": "2026-04-14T12:41:15+00:00"
+}

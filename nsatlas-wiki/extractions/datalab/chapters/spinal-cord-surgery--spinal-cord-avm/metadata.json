@@ -1,0 +1,20 @@
+{
+  "article_id": "spinal-cord-surgery--spinal-cord-avm",
+  "title": "Spinal Cord AVM",
+  "category": "spinal-cord-surgery",
+  "slug": "spinal-cord-avm",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/spinal-cord-avm.pdf",
+  "expected_page_count": 14,
+  "api_page_count": 14,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7
+  },
+  "checkpoint_id": "checkpoint_f-87SV5bsiHIg98xiO2MwaRGTy-vdz76mhDOJ_Z5Tyg",
+  "request_id": "VeI6Svl3gV-bsnHPqkwnGA",
+  "markdown_bytes": 25838,
+  "markdown_sha256": "92a1c028a941f7cc100385b4aa87851f5e9e21ceae6cac9a0a79fd1a314828b5",
+  "image_count": 8,
+  "saved_at": "2026-04-14T13:46:01+00:00"
+}

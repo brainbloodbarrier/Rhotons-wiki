@@ -1,0 +1,20 @@
+{
+  "article_id": "non-technical-skills-in-neurosurgery--situation-awareness",
+  "title": "Situation Awareness",
+  "category": "non-technical-skills-in-neurosurgery",
+  "slug": "situation-awareness",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/situation-awareness.pdf",
+  "expected_page_count": 13,
+  "api_page_count": 13,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 8,
+    "final_cost_cents": 6
+  },
+  "checkpoint_id": "checkpoint_g902f5wD9fRfyBtc67QjOIginn5EucJRMtta38Gufwg",
+  "request_id": "fgL-OulnsoygR2BUk6ECFg",
+  "markdown_bytes": 33834,
+  "markdown_sha256": "37c2c98fb544229fe6698cb5c912269828879d312058e58b388e9d5bb871dd0c",
+  "image_count": 5,
+  "saved_at": "2026-04-14T13:17:44+00:00"
+}

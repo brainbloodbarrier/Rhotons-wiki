@@ -1,0 +1,20 @@
+{
+  "article_id": "neuroradiology--dysplastic-cerebellar-gangliocytoma-dcg",
+  "title": "Dysplastic Cerebellar Gangliocytoma Dcg",
+  "category": "neuroradiology",
+  "slug": "dysplastic-cerebellar-gangliocytoma-dcg",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/neuroradiology/cranial-disorders/brain-tumors/dysplastic-cerebellar-gangliocytoma-dcg.pdf",
+  "expected_page_count": 6,
+  "api_page_count": 6,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 4,
+    "final_cost_cents": 3
+  },
+  "checkpoint_id": "checkpoint_KRvmq-rJapFGlAfJ_PwBmvyALQ7ya66o3bgmEVF7rLE",
+  "request_id": "CHVSh7Z5DLyJkXNuzCMJsA",
+  "markdown_bytes": 8313,
+  "markdown_sha256": "aa6c3f1395ab77a6b76d8354504be5f109c323baa99bf6284932c69edfc88c64",
+  "image_count": 3,
+  "saved_at": "2026-04-14T13:12:18+00:00"
+}

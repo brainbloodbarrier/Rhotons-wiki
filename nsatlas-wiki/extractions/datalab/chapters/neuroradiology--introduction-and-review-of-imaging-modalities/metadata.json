@@ -1,0 +1,20 @@
+{
+  "article_id": "neuroradiology--introduction-and-review-of-imaging-modalities",
+  "title": "Introduction And Review Of Imaging Modalities",
+  "category": "neuroradiology",
+  "slug": "introduction-and-review-of-imaging-modalities",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/neuroradiology/introduction-and-review-of-imaging-modalities.pdf",
+  "expected_page_count": 22,
+  "api_page_count": 22,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 14,
+    "final_cost_cents": 10
+  },
+  "checkpoint_id": "checkpoint_XR6MBcyw3512nJ7wHibm1pG7pZQ1YuC4ceH8N--DwJw",
+  "request_id": "6GcSDG4Nqqeid5TCJ2jxsw",
+  "markdown_bytes": 46450,
+  "markdown_sha256": "fa953a614c0d60b0906bde5e2899188433a35bd06bbd9fd45485e85b74d59139",
+  "image_count": 22,
+  "saved_at": "2026-04-14T13:13:56+00:00"
+}

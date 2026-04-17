@@ -1,0 +1,20 @@
+{
+  "article_id": "epilepsy-surgery--peri-insular-hemispherotomy",
+  "title": "Peri Insular Hemispherotomy",
+  "category": "epilepsy-surgery",
+  "slug": "peri-insular-hemispherotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/epilepsy-surgery/peri-insular-hemispherotomy.pdf",
+  "expected_page_count": 29,
+  "api_page_count": 29,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 18,
+    "final_cost_cents": 14
+  },
+  "checkpoint_id": "checkpoint_xhdrOB1tEmPATvJONw7UxoMvoI7EXSV6JnmUmx_RmLg",
+  "request_id": "ms6Zd11rLg4bigBOBRn9Kw",
+  "markdown_bytes": 49841,
+  "markdown_sha256": "fafb74ad62b7b595a1a7e72aeb5c875850eeb39ffa1800f95c0ba97929b51d64",
+  "image_count": 26,
+  "saved_at": "2026-04-14T13:02:58+00:00"
+}

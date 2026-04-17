@@ -1,0 +1,61 @@
+{
+  "status": "complete",
+  "output_format": "markdown",
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "segmentation_results": null,
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 0,
+        "num_blocks": 8
+      },
+      {
+        "page_id": 1,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 2,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 3,
+        "num_blocks": 8
+      },
+      {
+        "page_id": 4,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 5,
+        "num_blocks": 4
+      },
+      {
+        "page_id": 6,
+        "num_blocks": 8
+      },
+      {
+        "page_id": 7,
+        "num_blocks": 8
+      },
+      {
+        "page_id": 8,
+        "num_blocks": 1
+      }
+    ]
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": null,
+  "page_count": 9,
+  "total_cost": 5,
+  "cost_breakdown": {
+    "list_cost_cents": 6,
+    "final_cost_cents": 5
+  },
+  "runtime": 17.002625703811646,
+  "checkpoint_id": "checkpoint_4qjlmvdWnqRxdjfDTE7pusLNz4RO8FNkLAGEswADW8w",
+  "versions": null,
+  "evaluation": null,
+  "request_id": "4mKPqnMk70-5Q_JAx8Uidg"
+}

@@ -1,0 +1,1090 @@
+{
+  "generated_at": "2026-04-14T12:12:40+00:00",
+  "source_dir": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english",
+  "total_articles": 106,
+  "total_pages": 1433,
+  "total_size_bytes": 1445413219,
+  "total_size_mb": 1378.45,
+  "categories": [
+    "brain-tumors",
+    "cerebrovascular-surgery",
+    "cranial-approaches",
+    "cranial-base-surgery",
+    "cranial-nerve-compression-syndromes",
+    "csf-diversion-procedures",
+    "emergency-neurosurgery-and-trauma",
+    "epilepsy-surgery",
+    "medical-student-guide-for-matching-in-neurosurgery",
+    "microsurgical-mastery",
+    "neuroradiology",
+    "non-technical-skills-in-neurosurgery",
+    "operative-neuroanatomy",
+    "preface",
+    "principles-of-cranial-surgery",
+    "spinal-cord-surgery",
+    "trending-articles-in-neurosurgical-journals"
+  ],
+  "errors": [],
+  "articles": [
+    {
+      "article_id": "brain-tumors--general-principles",
+      "title": "General Principles",
+      "category": "brain-tumors",
+      "slug": "general-principles",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/brain-tumors/general-principles.pdf",
+      "pdf_size_bytes": 5014239,
+      "page_count": 11
+    },
+    {
+      "article_id": "brain-tumors--principles-of-intraventricular-surgery",
+      "title": "Principles Of Intraventricular Surgery",
+      "category": "brain-tumors",
+      "slug": "principles-of-intraventricular-surgery",
+      "subcategory": "intraventricular-tumors",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/brain-tumors/intraventricular-tumors/principles-of-intraventricular-surgery.pdf",
+      "pdf_size_bytes": 22456759,
+      "page_count": 37
+    },
+    {
+      "article_id": "cerebrovascular-surgery--microscope-and-mouthpiece",
+      "title": "Microscope And Mouthpiece",
+      "category": "cerebrovascular-surgery",
+      "slug": "microscope-and-mouthpiece",
+      "subcategory": "aneurysms",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cerebrovascular-surgery/aneurysms/microscope-and-mouthpiece.pdf",
+      "pdf_size_bytes": 3903701,
+      "page_count": 7
+    },
+    {
+      "article_id": "cranial-approaches--bifrontal-craniotomy",
+      "title": "Bifrontal Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "bifrontal-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/bifrontal-craniotomy.pdf",
+      "pdf_size_bytes": 28949348,
+      "page_count": 17
+    },
+    {
+      "article_id": "cranial-approaches--contralateral-interhemispheric-transfalcine-transprecuneus-approach",
+      "title": "Contralateral Interhemispheric Transfalcine Transprecuneus Approach",
+      "category": "cranial-approaches",
+      "slug": "contralateral-interhemispheric-transfalcine-transprecuneus-approach",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/contralateral-interhemispheric-transfalcine-transprecuneus-approach.pdf",
+      "pdf_size_bytes": 40288828,
+      "page_count": 16
+    },
+    {
+      "article_id": "cranial-approaches--general-principles",
+      "title": "General Principles",
+      "category": "cranial-approaches",
+      "slug": "general-principles",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/general-principles.pdf",
+      "pdf_size_bytes": 16478807,
+      "page_count": 12
+    },
+    {
+      "article_id": "cranial-approaches--interhemispheric-craniotomy",
+      "title": "Interhemispheric Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "interhemispheric-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/interhemispheric-craniotomy.pdf",
+      "pdf_size_bytes": 48851696,
+      "page_count": 19
+    },
+    {
+      "article_id": "cranial-approaches--microscope-guided-endonasal-transsphenoidal-approach",
+      "title": "Microscope Guided Endonasal Transsphenoidal Approach",
+      "category": "cranial-approaches",
+      "slug": "microscope-guided-endonasal-transsphenoidal-approach",
+      "subcategory": "transnasal-transsphenoidal-approaches",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/transnasal-transsphenoidal-approaches/microscope-guided-endonasal-transsphenoidal-approach.pdf",
+      "pdf_size_bytes": 14354520,
+      "page_count": 24
+    },
+    {
+      "article_id": "cranial-approaches--midline-supracerebellar-craniotomy",
+      "title": "Midline Supracerebellar Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "midline-supracerebellar-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/midline-supracerebellar-craniotomy.pdf",
+      "pdf_size_bytes": 2525465,
+      "page_count": 19
+    },
+    {
+      "article_id": "cranial-approaches--occipital-craniotomy",
+      "title": "Occipital Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "occipital-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/occipital-craniotomy.pdf",
+      "pdf_size_bytes": 193283,
+      "page_count": 10
+    },
+    {
+      "article_id": "cranial-approaches--paramedian-supracerebellar-craniotomy",
+      "title": "Paramedian Supracerebellar Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "paramedian-supracerebellar-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/paramedian-supracerebellar-craniotomy.pdf",
+      "pdf_size_bytes": 22003980,
+      "page_count": 21
+    },
+    {
+      "article_id": "cranial-approaches--parasagittal-craniotomy",
+      "title": "Parasagittal Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "parasagittal-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/parasagittal-craniotomy.pdf",
+      "pdf_size_bytes": 25393955,
+      "page_count": 12
+    },
+    {
+      "article_id": "cranial-approaches--parietal-craniotomy",
+      "title": "Parietal Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "parietal-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/parietal-craniotomy.pdf",
+      "pdf_size_bytes": 3401203,
+      "page_count": 14
+    },
+    {
+      "article_id": "cranial-approaches--pterional-craniotomy",
+      "title": "Pterional Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "pterional-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/pterional-craniotomy.pdf",
+      "pdf_size_bytes": 38980673,
+      "page_count": 23
+    },
+    {
+      "article_id": "cranial-approaches--retromastoid-craniotomy",
+      "title": "Retromastoid Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "retromastoid-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/retromastoid-craniotomy.pdf",
+      "pdf_size_bytes": 39893678,
+      "page_count": 22
+    },
+    {
+      "article_id": "cranial-approaches--suboccipital-craniotomy",
+      "title": "Suboccipital Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "suboccipital-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/suboccipital-craniotomy.pdf",
+      "pdf_size_bytes": 22827659,
+      "page_count": 12
+    },
+    {
+      "article_id": "cranial-approaches--supraorbital-craniotomy",
+      "title": "Supraorbital Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "supraorbital-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/supraorbital-craniotomy.pdf",
+      "pdf_size_bytes": 38979495,
+      "page_count": 17
+    },
+    {
+      "article_id": "cranial-approaches--telovelar-approach",
+      "title": "Telovelar Approach",
+      "category": "cranial-approaches",
+      "slug": "telovelar-approach",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/telovelar-approach.pdf",
+      "pdf_size_bytes": 45224666,
+      "page_count": 18
+    },
+    {
+      "article_id": "cranial-approaches--temporal-subtemporal-craniotomy",
+      "title": "Temporal Subtemporal Craniotomy",
+      "category": "cranial-approaches",
+      "slug": "temporal-subtemporal-craniotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/temporal-subtemporal-craniotomy.pdf",
+      "pdf_size_bytes": 31424932,
+      "page_count": 16
+    },
+    {
+      "article_id": "cranial-approaches--transtentorial-approach-to-parahippocampal-lesions",
+      "title": "Transtentorial Approach To Parahippocampal Lesions",
+      "category": "cranial-approaches",
+      "slug": "transtentorial-approach-to-parahippocampal-lesions",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/transtentorial-approach-to-parahippocampal-lesions.pdf",
+      "pdf_size_bytes": 40356559,
+      "page_count": 18
+    },
+    {
+      "article_id": "cranial-base-surgery--anterior-petrosectomy",
+      "title": "Anterior Petrosectomy",
+      "category": "cranial-base-surgery",
+      "slug": "anterior-petrosectomy",
+      "subcategory": "skull-base-exposures",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/skull-base-exposures/anterior-petrosectomy.pdf",
+      "pdf_size_bytes": 16301729,
+      "page_count": 32
+    },
+    {
+      "article_id": "cranial-base-surgery--general-principles",
+      "title": "General Principles",
+      "category": "cranial-base-surgery",
+      "slug": "general-principles",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/general-principles.pdf",
+      "pdf_size_bytes": 9724912,
+      "page_count": 8
+    },
+    {
+      "article_id": "cranial-base-surgery--lessons-learned",
+      "title": "Lessons Learned",
+      "category": "cranial-base-surgery",
+      "slug": "lessons-learned",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/lessons-learned.pdf",
+      "pdf_size_bytes": 7622779,
+      "page_count": 9
+    },
+    {
+      "article_id": "cranial-base-surgery--medial-sphenoid-wing-meningioma",
+      "title": "Medial Sphenoid Wing Meningioma",
+      "category": "cranial-base-surgery",
+      "slug": "medial-sphenoid-wing-meningioma",
+      "subcategory": "skull-base-meningioma",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/skull-base-meningioma/medial-sphenoid-wing-meningioma.pdf",
+      "pdf_size_bytes": 23689326,
+      "page_count": 46
+    },
+    {
+      "article_id": "cranial-base-surgery--preoperative-considerations-instrumentation-and-patient-positioning",
+      "title": "Preoperative Considerations Instrumentation And Patient Positioning",
+      "category": "cranial-base-surgery",
+      "slug": "preoperative-considerations-instrumentation-and-patient-positioning",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/preoperative-considerations-instrumentation-and-patient-positioning.pdf",
+      "pdf_size_bytes": 24068164,
+      "page_count": 12
+    },
+    {
+      "article_id": "cranial-base-surgery--selection-of-operative-corridor",
+      "title": "Selection Of Operative Corridor",
+      "category": "cranial-base-surgery",
+      "slug": "selection-of-operative-corridor",
+      "subcategory": "pineal-region-tumors",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/pineal-region-tumors/selection-of-operative-corridor.pdf",
+      "pdf_size_bytes": 10932311,
+      "page_count": 17
+    },
+    {
+      "article_id": "cranial-nerve-compression-syndromes--geniculate-neuralgia",
+      "title": "Geniculate Neuralgia",
+      "category": "cranial-nerve-compression-syndromes",
+      "slug": "geniculate-neuralgia",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-nerve-compression-syndromes/geniculate-neuralgia.pdf",
+      "pdf_size_bytes": 24033309,
+      "page_count": 16
+    },
+    {
+      "article_id": "cranial-nerve-compression-syndromes--glossopharyngeal-neuralgia",
+      "title": "Glossopharyngeal Neuralgia",
+      "category": "cranial-nerve-compression-syndromes",
+      "slug": "glossopharyngeal-neuralgia",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-nerve-compression-syndromes/glossopharyngeal-neuralgia.pdf",
+      "pdf_size_bytes": 41095523,
+      "page_count": 27
+    },
+    {
+      "article_id": "cranial-nerve-compression-syndromes--hemifacial-spasm",
+      "title": "Hemifacial Spasm",
+      "category": "cranial-nerve-compression-syndromes",
+      "slug": "hemifacial-spasm",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-nerve-compression-syndromes/hemifacial-spasm.pdf",
+      "pdf_size_bytes": 37354223,
+      "page_count": 28
+    },
+    {
+      "article_id": "cranial-nerve-compression-syndromes--menieres-disease",
+      "title": "Menieres Disease",
+      "category": "cranial-nerve-compression-syndromes",
+      "slug": "menieres-disease",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-nerve-compression-syndromes/menieres-disease.pdf",
+      "pdf_size_bytes": 19150130,
+      "page_count": 15
+    },
+    {
+      "article_id": "cranial-nerve-compression-syndromes--microvascular-decompression-for-trigeminal-neuralgia",
+      "title": "Microvascular Decompression For Trigeminal Neuralgia",
+      "category": "cranial-nerve-compression-syndromes",
+      "slug": "microvascular-decompression-for-trigeminal-neuralgia",
+      "subcategory": "trigeminal-neuralgia",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-nerve-compression-syndromes/trigeminal-neuralgia/microvascular-decompression-for-trigeminal-neuralgia.pdf",
+      "pdf_size_bytes": 19068672,
+      "page_count": 31
+    },
+    {
+      "article_id": "csf-diversion-procedures--endoscopic-third-ventriculostomy",
+      "title": "Endoscopic Third Ventriculostomy",
+      "category": "csf-diversion-procedures",
+      "slug": "endoscopic-third-ventriculostomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/endoscopic-third-ventriculostomy.pdf",
+      "pdf_size_bytes": 21021991,
+      "page_count": 20
+    },
+    {
+      "article_id": "csf-diversion-procedures--external-ventricular-drain",
+      "title": "External Ventricular Drain",
+      "category": "csf-diversion-procedures",
+      "slug": "external-ventricular-drain",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/external-ventricular-drain.pdf",
+      "pdf_size_bytes": 19714096,
+      "page_count": 11
+    },
+    {
+      "article_id": "csf-diversion-procedures--ventricular-shunt-reference",
+      "title": "Ventricular Shunt Reference",
+      "category": "csf-diversion-procedures",
+      "slug": "ventricular-shunt-reference",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/ventricular-shunt-reference.pdf",
+      "pdf_size_bytes": 5277307,
+      "page_count": 13
+    },
+    {
+      "article_id": "csf-diversion-procedures--ventriculo-atrial-shunt",
+      "title": "Ventriculo Atrial Shunt",
+      "category": "csf-diversion-procedures",
+      "slug": "ventriculo-atrial-shunt",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/ventriculo-atrial-shunt.pdf",
+      "pdf_size_bytes": 16849838,
+      "page_count": 10
+    },
+    {
+      "article_id": "csf-diversion-procedures--ventriculo-gallbladder-shunt",
+      "title": "Ventriculo Gallbladder Shunt",
+      "category": "csf-diversion-procedures",
+      "slug": "ventriculo-gallbladder-shunt",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/ventriculo-gallbladder-shunt.pdf",
+      "pdf_size_bytes": 2872144,
+      "page_count": 6
+    },
+    {
+      "article_id": "csf-diversion-procedures--ventriculo-peritoneal-shunt",
+      "title": "Ventriculo Peritoneal Shunt",
+      "category": "csf-diversion-procedures",
+      "slug": "ventriculo-peritoneal-shunt",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/ventriculo-peritoneal-shunt.pdf",
+      "pdf_size_bytes": 261534,
+      "page_count": 18
+    },
+    {
+      "article_id": "csf-diversion-procedures--ventriculo-pleural-shunt",
+      "title": "Ventriculo Pleural Shunt",
+      "category": "csf-diversion-procedures",
+      "slug": "ventriculo-pleural-shunt",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/ventriculo-pleural-shunt.pdf",
+      "pdf_size_bytes": 9496902,
+      "page_count": 9
+    },
+    {
+      "article_id": "emergency-neurosurgery-and-trauma--decompressive-craniectomy",
+      "title": "Decompressive Craniectomy",
+      "category": "emergency-neurosurgery-and-trauma",
+      "slug": "decompressive-craniectomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/emergency-neurosurgery-and-trauma/decompressive-craniectomy.pdf",
+      "pdf_size_bytes": 6749570,
+      "page_count": 14
+    },
+    {
+      "article_id": "emergency-neurosurgery-and-trauma--lacerated-dural-venous-sinus-repair",
+      "title": "Lacerated Dural Venous Sinus Repair",
+      "category": "emergency-neurosurgery-and-trauma",
+      "slug": "lacerated-dural-venous-sinus-repair",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/emergency-neurosurgery-and-trauma/lacerated-dural-venous-sinus-repair.pdf",
+      "pdf_size_bytes": 16732150,
+      "page_count": 11
+    },
+    {
+      "article_id": "emergency-neurosurgery-and-trauma--open-skull-fracture",
+      "title": "Open Skull Fracture",
+      "category": "emergency-neurosurgery-and-trauma",
+      "slug": "open-skull-fracture",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/emergency-neurosurgery-and-trauma/open-skull-fracture.pdf",
+      "pdf_size_bytes": 7730294,
+      "page_count": 16
+    },
+    {
+      "article_id": "epilepsy-surgery--hypothalamic-hamartoma",
+      "title": "Hypothalamic Hamartoma",
+      "category": "epilepsy-surgery",
+      "slug": "hypothalamic-hamartoma",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/epilepsy-surgery/hypothalamic-hamartoma.pdf",
+      "pdf_size_bytes": 18362193,
+      "page_count": 14
+    },
+    {
+      "article_id": "epilepsy-surgery--intracranial-monitoring-study",
+      "title": "Intracranial Monitoring Study",
+      "category": "epilepsy-surgery",
+      "slug": "intracranial-monitoring-study",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/epilepsy-surgery/intracranial-monitoring-study.pdf",
+      "pdf_size_bytes": 78844,
+      "page_count": 2
+    },
+    {
+      "article_id": "epilepsy-surgery--peri-insular-hemispherotomy",
+      "title": "Peri Insular Hemispherotomy",
+      "category": "epilepsy-surgery",
+      "slug": "peri-insular-hemispherotomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/epilepsy-surgery/peri-insular-hemispherotomy.pdf",
+      "pdf_size_bytes": 43102241,
+      "page_count": 29
+    },
+    {
+      "article_id": "epilepsy-surgery--selection-of-surgical-candidates",
+      "title": "Selection Of Surgical Candidates",
+      "category": "epilepsy-surgery",
+      "slug": "selection-of-surgical-candidates",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/epilepsy-surgery/selection-of-surgical-candidates.pdf",
+      "pdf_size_bytes": 301697,
+      "page_count": 11
+    },
+    {
+      "article_id": "medical-student-guide-for-matching-in-neurosurgery--applying-to-neurosurgery",
+      "title": "Applying To Neurosurgery",
+      "category": "medical-student-guide-for-matching-in-neurosurgery",
+      "slug": "applying-to-neurosurgery",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/applying-to-neurosurgery.pdf",
+      "pdf_size_bytes": 6126718,
+      "page_count": 8
+    },
+    {
+      "article_id": "medical-student-guide-for-matching-in-neurosurgery--conducting-and-presenting-research",
+      "title": "Conducting And Presenting Research",
+      "category": "medical-student-guide-for-matching-in-neurosurgery",
+      "slug": "conducting-and-presenting-research",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/conducting-and-presenting-research.pdf",
+      "pdf_size_bytes": 14128616,
+      "page_count": 19
+    },
+    {
+      "article_id": "medical-student-guide-for-matching-in-neurosurgery--interested-in-neurosurgery-as-a-career",
+      "title": "Interested In Neurosurgery As A Career",
+      "category": "medical-student-guide-for-matching-in-neurosurgery",
+      "slug": "interested-in-neurosurgery-as-a-career",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/interested-in-neurosurgery-as-a-career.pdf",
+      "pdf_size_bytes": 9284562,
+      "page_count": 13
+    },
+    {
+      "article_id": "medical-student-guide-for-matching-in-neurosurgery--interviews",
+      "title": "Interviews",
+      "category": "medical-student-guide-for-matching-in-neurosurgery",
+      "slug": "interviews",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/interviews.pdf",
+      "pdf_size_bytes": 17996198,
+      "page_count": 26
+    },
+    {
+      "article_id": "medical-student-guide-for-matching-in-neurosurgery--letters-of-recommendation",
+      "title": "Letters Of Recommendation",
+      "category": "medical-student-guide-for-matching-in-neurosurgery",
+      "slug": "letters-of-recommendation",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/letters-of-recommendation.pdf",
+      "pdf_size_bytes": 3619625,
+      "page_count": 5
+    },
+    {
+      "article_id": "medical-student-guide-for-matching-in-neurosurgery--personal-statement",
+      "title": "Personal Statement",
+      "category": "medical-student-guide-for-matching-in-neurosurgery",
+      "slug": "personal-statement",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/personal-statement.pdf",
+      "pdf_size_bytes": 1547748,
+      "page_count": 3
+    },
+    {
+      "article_id": "medical-student-guide-for-matching-in-neurosurgery--preclinical-and-early-clinical-years",
+      "title": "Preclinical And Early Clinical Years",
+      "category": "medical-student-guide-for-matching-in-neurosurgery",
+      "slug": "preclinical-and-early-clinical-years",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/preclinical-and-early-clinical-years.pdf",
+      "pdf_size_bytes": 6549298,
+      "page_count": 9
+    },
+    {
+      "article_id": "medical-student-guide-for-matching-in-neurosurgery--preface",
+      "title": "Preface",
+      "category": "medical-student-guide-for-matching-in-neurosurgery",
+      "slug": "preface",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/preface.pdf",
+      "pdf_size_bytes": 2448242,
+      "page_count": 4
+    },
+    {
+      "article_id": "medical-student-guide-for-matching-in-neurosurgery--ranking-programs",
+      "title": "Ranking Programs",
+      "category": "medical-student-guide-for-matching-in-neurosurgery",
+      "slug": "ranking-programs",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/ranking-programs.pdf",
+      "pdf_size_bytes": 3620724,
+      "page_count": 6
+    },
+    {
+      "article_id": "medical-student-guide-for-matching-in-neurosurgery--subinternships",
+      "title": "Subinternships",
+      "category": "medical-student-guide-for-matching-in-neurosurgery",
+      "slug": "subinternships",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/subinternships.pdf",
+      "pdf_size_bytes": 8898625,
+      "page_count": 12
+    },
+    {
+      "article_id": "microsurgical-mastery--microsurgical-mastery-passion-for-technical-excellence",
+      "title": "Microsurgical Mastery Passion For Technical Excellence",
+      "category": "microsurgical-mastery",
+      "slug": "microsurgical-mastery-passion-for-technical-excellence",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/microsurgical-mastery/microsurgical-mastery-passion-for-technical-excellence.pdf",
+      "pdf_size_bytes": 1266963,
+      "page_count": 8
+    },
+    {
+      "article_id": "neuroradiology--dysplastic-cerebellar-gangliocytoma-dcg",
+      "title": "Dysplastic Cerebellar Gangliocytoma Dcg",
+      "category": "neuroradiology",
+      "slug": "dysplastic-cerebellar-gangliocytoma-dcg",
+      "subcategory": "cranial-disorders/brain-tumors",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/neuroradiology/cranial-disorders/brain-tumors/dysplastic-cerebellar-gangliocytoma-dcg.pdf",
+      "pdf_size_bytes": 2730523,
+      "page_count": 6
+    },
+    {
+      "article_id": "neuroradiology--imaging-evaluation-of-sah-and-aneurysm",
+      "title": "Imaging Evaluation Of Sah And Aneurysm",
+      "category": "neuroradiology",
+      "slug": "imaging-evaluation-of-sah-and-aneurysm",
+      "subcategory": "cranial-disorders/vascular-disease",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/neuroradiology/cranial-disorders/vascular-disease/imaging-evaluation-of-sah-and-aneurysm.pdf",
+      "pdf_size_bytes": 12252289,
+      "page_count": 28
+    },
+    {
+      "article_id": "neuroradiology--introduction-and-review-of-imaging-modalities",
+      "title": "Introduction And Review Of Imaging Modalities",
+      "category": "neuroradiology",
+      "slug": "introduction-and-review-of-imaging-modalities",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/neuroradiology/introduction-and-review-of-imaging-modalities.pdf",
+      "pdf_size_bytes": 18329440,
+      "page_count": 22
+    },
+    {
+      "article_id": "neuroradiology--preface",
+      "title": "Preface",
+      "category": "neuroradiology",
+      "slug": "preface",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/neuroradiology/preface.pdf",
+      "pdf_size_bytes": 289232,
+      "page_count": 2
+    },
+    {
+      "article_id": "neuroradiology--progressive-multifocal-leukoencephalopathy-pml",
+      "title": "Progressive Multifocal Leukoencephalopathy Pml",
+      "category": "neuroradiology",
+      "slug": "progressive-multifocal-leukoencephalopathy-pml",
+      "subcategory": "cranial-disorders/brain-tumor-mimics",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/neuroradiology/cranial-disorders/brain-tumor-mimics/progressive-multifocal-leukoencephalopathy-pml.pdf",
+      "pdf_size_bytes": 2546009,
+      "page_count": 5
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--basics-of-nontechnical-skills",
+      "title": "Basics Of Nontechnical Skills",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "basics-of-nontechnical-skills",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/basics-of-nontechnical-skills.pdf",
+      "pdf_size_bytes": 2329717,
+      "page_count": 6
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--dealing-with-burnout",
+      "title": "Dealing With Burnout",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "dealing-with-burnout",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/dealing-with-burnout.pdf",
+      "pdf_size_bytes": 468384,
+      "page_count": 6
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--emotional-intelligence",
+      "title": "Emotional Intelligence",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "emotional-intelligence",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/emotional-intelligence.pdf",
+      "pdf_size_bytes": 840517,
+      "page_count": 9
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--ethics-in-neurosurgery",
+      "title": "Ethics In Neurosurgery",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "ethics-in-neurosurgery",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/ethics-in-neurosurgery.pdf",
+      "pdf_size_bytes": 1142469,
+      "page_count": 6
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--leadership-principles",
+      "title": "Leadership Principles",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "leadership-principles",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/leadership-principles.pdf",
+      "pdf_size_bytes": 537366,
+      "page_count": 7
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--operating-room-etiquette",
+      "title": "Operating Room Etiquette",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "operating-room-etiquette",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/operating-room-etiquette.pdf",
+      "pdf_size_bytes": 7888438,
+      "page_count": 14
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--resilience-in-neurosurgery",
+      "title": "Resilience In Neurosurgery",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "resilience-in-neurosurgery",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/resilience-in-neurosurgery.pdf",
+      "pdf_size_bytes": 404714,
+      "page_count": 9
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--situation-awareness",
+      "title": "Situation Awareness",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "situation-awareness",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/situation-awareness.pdf",
+      "pdf_size_bytes": 1844328,
+      "page_count": 13
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--surgical-decision-making",
+      "title": "Surgical Decision Making",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "surgical-decision-making",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/surgical-decision-making.pdf",
+      "pdf_size_bytes": 4179049,
+      "page_count": 6
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--teamwork-communication",
+      "title": "Teamwork Communication",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "teamwork-communication",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/teamwork-communication.pdf",
+      "pdf_size_bytes": 812651,
+      "page_count": 16
+    },
+    {
+      "article_id": "non-technical-skills-in-neurosurgery--what-makes-a-great-resident",
+      "title": "What Makes A Great Resident",
+      "category": "non-technical-skills-in-neurosurgery",
+      "slug": "what-makes-a-great-resident",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/what-makes-a-great-resident.pdf",
+      "pdf_size_bytes": 8207153,
+      "page_count": 11
+    },
+    {
+      "article_id": "operative-neuroanatomy--3d-anatomy",
+      "title": "3D Anatomy",
+      "category": "operative-neuroanatomy",
+      "slug": "3d-anatomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/3d-anatomy.pdf",
+      "pdf_size_bytes": 1131189,
+      "page_count": 4
+    },
+    {
+      "article_id": "operative-neuroanatomy--cavernous-sinus-anatomy",
+      "title": "Cavernous Sinus Anatomy",
+      "category": "operative-neuroanatomy",
+      "slug": "cavernous-sinus-anatomy",
+      "subcategory": "3d-anatomy",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/3d-anatomy/cavernous-sinus-anatomy.pdf",
+      "pdf_size_bytes": 331464,
+      "page_count": 1
+    },
+    {
+      "article_id": "operative-neuroanatomy--cerebrovascular-anatomy",
+      "title": "Cerebrovascular Anatomy",
+      "category": "operative-neuroanatomy",
+      "slug": "cerebrovascular-anatomy",
+      "subcategory": "3d-anatomy",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/3d-anatomy/cerebrovascular-anatomy.pdf",
+      "pdf_size_bytes": 6473349,
+      "page_count": 10
+    },
+    {
+      "article_id": "operative-neuroanatomy--infratentorial-operative-anatomy",
+      "title": "Infratentorial Operative Anatomy",
+      "category": "operative-neuroanatomy",
+      "slug": "infratentorial-operative-anatomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/infratentorial-operative-anatomy.pdf",
+      "pdf_size_bytes": 813587,
+      "page_count": 2
+    },
+    {
+      "article_id": "operative-neuroanatomy--skull-anatomy",
+      "title": "Skull Anatomy",
+      "category": "operative-neuroanatomy",
+      "slug": "skull-anatomy",
+      "subcategory": "3d-anatomy",
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/3d-anatomy/skull-anatomy.pdf",
+      "pdf_size_bytes": 9271555,
+      "page_count": 14
+    },
+    {
+      "article_id": "operative-neuroanatomy--supratentorial-operative-anatomy",
+      "title": "Supratentorial Operative Anatomy",
+      "category": "operative-neuroanatomy",
+      "slug": "supratentorial-operative-anatomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/supratentorial-operative-anatomy.pdf",
+      "pdf_size_bytes": 228635,
+      "page_count": 1
+    },
+    {
+      "article_id": "preface--preface",
+      "title": "Preface",
+      "category": "preface",
+      "slug": "preface",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/preface/preface.pdf",
+      "pdf_size_bytes": 3842112,
+      "page_count": 6
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--brain-mobilization-and-protection-2",
+      "title": "Brain Mobilization And Protection 2",
+      "category": "principles-of-cranial-surgery",
+      "slug": "brain-mobilization-and-protection-2",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/brain-mobilization-and-protection-2.pdf",
+      "pdf_size_bytes": 3820226,
+      "page_count": 6
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--burr-holes-and-bone-flaps",
+      "title": "Burr Holes And Bone Flaps",
+      "category": "principles-of-cranial-surgery",
+      "slug": "burr-holes-and-bone-flaps",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/burr-holes-and-bone-flaps.pdf",
+      "pdf_size_bytes": 20699090,
+      "page_count": 13
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--dural-opening-and-closure",
+      "title": "Dural Opening And Closure",
+      "category": "principles-of-cranial-surgery",
+      "slug": "dural-opening-and-closure",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/dural-opening-and-closure.pdf",
+      "pdf_size_bytes": 24906096,
+      "page_count": 10
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--external-ventricular-drain",
+      "title": "External Ventricular Drain",
+      "category": "principles-of-cranial-surgery",
+      "slug": "external-ventricular-drain",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/external-ventricular-drain.pdf",
+      "pdf_size_bytes": 19714096,
+      "page_count": 11
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--instrumentation",
+      "title": "Instrumentation",
+      "category": "principles-of-cranial-surgery",
+      "slug": "instrumentation",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/instrumentation.pdf",
+      "pdf_size_bytes": 14830377,
+      "page_count": 11
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--intraoperative-hemostasis",
+      "title": "Intraoperative Hemostasis",
+      "category": "principles-of-cranial-surgery",
+      "slug": "intraoperative-hemostasis",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/intraoperative-hemostasis.pdf",
+      "pdf_size_bytes": 9495530,
+      "page_count": 8
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--lumbar-drain",
+      "title": "Lumbar Drain",
+      "category": "principles-of-cranial-surgery",
+      "slug": "lumbar-drain",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/lumbar-drain.pdf",
+      "pdf_size_bytes": 8113703,
+      "page_count": 8
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--microscope-and-mouthpiece-2",
+      "title": "Microscope And Mouthpiece 2",
+      "category": "principles-of-cranial-surgery",
+      "slug": "microscope-and-mouthpiece-2",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/microscope-and-mouthpiece-2.pdf",
+      "pdf_size_bytes": 8231593,
+      "page_count": 6
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--operating-room-setup-and-workflow",
+      "title": "Operating Room Setup And Workflow",
+      "category": "principles-of-cranial-surgery",
+      "slug": "operating-room-setup-and-workflow",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/operating-room-setup-and-workflow.pdf",
+      "pdf_size_bytes": 24055796,
+      "page_count": 12
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--patient-positioning",
+      "title": "Patient Positioning",
+      "category": "principles-of-cranial-surgery",
+      "slug": "patient-positioning",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/patient-positioning.pdf",
+      "pdf_size_bytes": 32579466,
+      "page_count": 17
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--postoperative-care",
+      "title": "Postoperative Care",
+      "category": "principles-of-cranial-surgery",
+      "slug": "postoperative-care",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/postoperative-care.pdf",
+      "pdf_size_bytes": 1769449,
+      "page_count": 14
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--preoperative-evaluation",
+      "title": "Preoperative Evaluation",
+      "category": "principles-of-cranial-surgery",
+      "slug": "preoperative-evaluation",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/preoperative-evaluation.pdf",
+      "pdf_size_bytes": 10645592,
+      "page_count": 15
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--scalp-incisions",
+      "title": "Scalp Incisions",
+      "category": "principles-of-cranial-surgery",
+      "slug": "scalp-incisions",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/scalp-incisions.pdf",
+      "pdf_size_bytes": 41239597,
+      "page_count": 15
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--skull-clamp-placement",
+      "title": "Skull Clamp Placement",
+      "category": "principles-of-cranial-surgery",
+      "slug": "skull-clamp-placement",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/skull-clamp-placement.pdf",
+      "pdf_size_bytes": 197423,
+      "page_count": 12
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--subarachnoid-dissection-2",
+      "title": "Subarachnoid Dissection 2",
+      "category": "principles-of-cranial-surgery",
+      "slug": "subarachnoid-dissection-2",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/subarachnoid-dissection-2.pdf",
+      "pdf_size_bytes": 7980897,
+      "page_count": 8
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--surgeons-philosophy-and-operating-position",
+      "title": "Surgeons Philosophy And Operating Position",
+      "category": "principles-of-cranial-surgery",
+      "slug": "surgeons-philosophy-and-operating-position",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/surgeons-philosophy-and-operating-position.pdf",
+      "pdf_size_bytes": 4584375,
+      "page_count": 7
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--suturing-and-closure",
+      "title": "Suturing And Closure",
+      "category": "principles-of-cranial-surgery",
+      "slug": "suturing-and-closure",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/suturing-and-closure.pdf",
+      "pdf_size_bytes": 6062130,
+      "page_count": 19
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--techniques-of-sylvian-fissure-split-2",
+      "title": "Techniques Of Sylvian Fissure Split 2",
+      "category": "principles-of-cranial-surgery",
+      "slug": "techniques-of-sylvian-fissure-split-2",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/techniques-of-sylvian-fissure-split-2.pdf",
+      "pdf_size_bytes": 977619,
+      "page_count": 16
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--use-and-misuse-of-instruments",
+      "title": "Use And Misuse Of Instruments",
+      "category": "principles-of-cranial-surgery",
+      "slug": "use-and-misuse-of-instruments",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/use-and-misuse-of-instruments.pdf",
+      "pdf_size_bytes": 9845832,
+      "page_count": 9
+    },
+    {
+      "article_id": "principles-of-cranial-surgery--ventricular-shunt-reference",
+      "title": "Ventricular Shunt Reference",
+      "category": "principles-of-cranial-surgery",
+      "slug": "ventricular-shunt-reference",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/ventricular-shunt-reference.pdf",
+      "pdf_size_bytes": 4085047,
+      "page_count": 13
+    },
+    {
+      "article_id": "spinal-cord-surgery--extramedullary-spinal-cord-tumor",
+      "title": "Extramedullary Spinal Cord Tumor",
+      "category": "spinal-cord-surgery",
+      "slug": "extramedullary-spinal-cord-tumor",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/extramedullary-spinal-cord-tumor.pdf",
+      "pdf_size_bytes": 53408499,
+      "page_count": 26
+    },
+    {
+      "article_id": "spinal-cord-surgery--intramedullary-spinal-cord-tumor",
+      "title": "Intramedullary Spinal Cord Tumor",
+      "category": "spinal-cord-surgery",
+      "slug": "intramedullary-spinal-cord-tumor",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/intramedullary-spinal-cord-tumor.pdf",
+      "pdf_size_bytes": 33892004,
+      "page_count": 20
+    },
+    {
+      "article_id": "spinal-cord-surgery--operative-spinal-cord-anatomy",
+      "title": "Operative Spinal Cord Anatomy",
+      "category": "spinal-cord-surgery",
+      "slug": "operative-spinal-cord-anatomy",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/operative-spinal-cord-anatomy.pdf",
+      "pdf_size_bytes": 24177621,
+      "page_count": 18
+    },
+    {
+      "article_id": "spinal-cord-surgery--spinal-av-fistula-disconnection",
+      "title": "Spinal Av Fistula Disconnection",
+      "category": "spinal-cord-surgery",
+      "slug": "spinal-av-fistula-disconnection",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/spinal-av-fistula-disconnection.pdf",
+      "pdf_size_bytes": 14957564,
+      "page_count": 23
+    },
+    {
+      "article_id": "spinal-cord-surgery--spinal-cord-avm",
+      "title": "Spinal Cord AVM",
+      "category": "spinal-cord-surgery",
+      "slug": "spinal-cord-avm",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/spinal-cord-avm.pdf",
+      "pdf_size_bytes": 246863,
+      "page_count": 14
+    },
+    {
+      "article_id": "spinal-cord-surgery--spinal-cord-cavernous-malformation",
+      "title": "Spinal Cord Cavernous Malformation",
+      "category": "spinal-cord-surgery",
+      "slug": "spinal-cord-cavernous-malformation",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/spinal-cord-cavernous-malformation.pdf",
+      "pdf_size_bytes": 3505223,
+      "page_count": 8
+    },
+    {
+      "article_id": "trending-articles-in-neurosurgical-journals--trending-articles-october-2023",
+      "title": "Trending Articles October 2023",
+      "category": "trending-articles-in-neurosurgical-journals",
+      "slug": "trending-articles-october-2023",
+      "subcategory": null,
+      "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/trending-articles-in-neurosurgical-journals/trending-articles-october-2023.pdf",
+      "pdf_size_bytes": 5914697,
+      "page_count": 7
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "non-technical-skills-in-neurosurgery--ethics-in-neurosurgery",
+  "title": "Ethics In Neurosurgery",
+  "category": "non-technical-skills-in-neurosurgery",
+  "slug": "ethics-in-neurosurgery",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/ethics-in-neurosurgery.pdf",
+  "expected_page_count": 6,
+  "api_page_count": 6,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 4,
+    "final_cost_cents": 3
+  },
+  "checkpoint_id": "checkpoint_r2yww6ozZh_vZn2Lutfu9YwkEWvuWHvUREzf0vNfNdE",
+  "request_id": "FT2wo10pTapc9f9Cxg_D2A",
+  "markdown_bytes": 15601,
+  "markdown_sha256": "412f96537abe6ab99f1eda9338189371314c23ce264e7b030f7914aa15366d89",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:15:50+00:00"
+}

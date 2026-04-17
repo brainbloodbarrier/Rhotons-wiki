@@ -1,0 +1,20 @@
+{
+  "article_id": "operative-neuroanatomy--3d-anatomy",
+  "title": "3D Anatomy",
+  "category": "operative-neuroanatomy",
+  "slug": "3d-anatomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/3d-anatomy.pdf",
+  "expected_page_count": 4,
+  "api_page_count": 4,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 3,
+    "final_cost_cents": 2
+  },
+  "checkpoint_id": "checkpoint_ch_sk02Upfb1IjcsLnhXGvo0kWnqXslfWt90Y8xgYkg",
+  "request_id": "JO-xgdOfPJjBCKY-x8vyxA",
+  "markdown_bytes": 8589,
+  "markdown_sha256": "b7dc203c8ead540e7ab7bf7f511c354bc96a7903cba58c0695d25ad1cdb78399",
+  "image_count": 4,
+  "saved_at": "2026-04-14T13:19:26+00:00"
+}

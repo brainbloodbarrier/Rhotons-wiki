@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--supraorbital-craniotomy",
+  "title": "Supraorbital Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "supraorbital-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/supraorbital-craniotomy.pdf",
+  "expected_page_count": 17,
+  "api_page_count": 17,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 11,
+    "final_cost_cents": 8
+  },
+  "checkpoint_id": "checkpoint_ncFvmCDU5qu7FiyVwA7o86CxYe-or7kdmdTUS7bFzb8",
+  "request_id": "VVrgTPq_a7LUI_A1kQHJJg",
+  "markdown_bytes": 31979,
+  "markdown_sha256": "759df70bd49b9e61e0a57ff47ea6a0f97aabb2309bb36b0fc5c3f7b113aa13ad",
+  "image_count": 15,
+  "saved_at": "2026-04-14T12:39:51+00:00"
+}

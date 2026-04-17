@@ -1,0 +1,20 @@
+{
+  "article_id": "spinal-cord-surgery--extramedullary-spinal-cord-tumor",
+  "title": "Extramedullary Spinal Cord Tumor",
+  "category": "spinal-cord-surgery",
+  "slug": "extramedullary-spinal-cord-tumor",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/extramedullary-spinal-cord-tumor.pdf",
+  "expected_page_count": 26,
+  "api_page_count": 26,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 16,
+    "final_cost_cents": 12
+  },
+  "checkpoint_id": "checkpoint_NmSa4YrwOQ0cUcG3lpVNfkh1t06yyDmvkczKYR_Pc7I",
+  "request_id": "QN58YIvm2sOgaAWm7E6iOA",
+  "markdown_bytes": 47296,
+  "markdown_sha256": "cb183c348944f0d7fabc637963fd59bd1ef48195886f10e14c6690535a487457",
+  "image_count": 25,
+  "saved_at": "2026-04-14T13:40:40+00:00"
+}

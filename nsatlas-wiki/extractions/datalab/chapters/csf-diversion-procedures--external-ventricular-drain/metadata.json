@@ -1,0 +1,20 @@
+{
+  "article_id": "csf-diversion-procedures--external-ventricular-drain",
+  "title": "External Ventricular Drain",
+  "category": "csf-diversion-procedures",
+  "slug": "external-ventricular-drain",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/external-ventricular-drain.pdf",
+  "expected_page_count": 11,
+  "api_page_count": 11,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 7,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_sM77YI5e_HcEoj7icbw_UlxTCk3ClmaziorMdrD4UzE",
+  "request_id": "5l7JaABhFsUyfHI5aLm1gg",
+  "markdown_bytes": 21293,
+  "markdown_sha256": "cc3a653dc98a4b22b98ed4814d2513b903a6dcd4b9904a8f7127ebbb44b24f60",
+  "image_count": 10,
+  "saved_at": "2026-04-14T12:56:52+00:00"
+}

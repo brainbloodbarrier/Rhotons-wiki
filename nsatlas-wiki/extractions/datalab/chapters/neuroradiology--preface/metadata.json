@@ -1,0 +1,19 @@
+{
+  "article_id": "neuroradiology--preface",
+  "title": "Preface",
+  "category": "neuroradiology",
+  "slug": "preface",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/neuroradiology/preface.pdf",
+  "expected_page_count": 2,
+  "api_page_count": 2,
+  "parse_quality_score": 5.0,
+  "cost_breakdown": {
+    "final_cost_cents": 1.0
+  },
+  "checkpoint_id": "checkpoint_ChZx8ebi3pEFZje_P8zfNiH1jL6Lt5uLgINZkeUFz4o",
+  "request_id": "vjBCfrSmN4zw5e7M9c0jpw",
+  "markdown_bytes": 1884,
+  "markdown_sha256": "429938001f9acdb2a839b287978b61b12bfe6b90b5629c0ff414eaeec2240a79",
+  "image_count": 3,
+  "saved_at": "2026-04-14T13:14:07+00:00"
+}

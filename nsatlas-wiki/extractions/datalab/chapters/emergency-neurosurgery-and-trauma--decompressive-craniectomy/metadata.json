@@ -1,0 +1,20 @@
+{
+  "article_id": "emergency-neurosurgery-and-trauma--decompressive-craniectomy",
+  "title": "Decompressive Craniectomy",
+  "category": "emergency-neurosurgery-and-trauma",
+  "slug": "decompressive-craniectomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/emergency-neurosurgery-and-trauma/decompressive-craniectomy.pdf",
+  "expected_page_count": 14,
+  "api_page_count": 14,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7
+  },
+  "checkpoint_id": "checkpoint_kfBMqXEhU25ZH-xIbpiI-8i0LnUJgVAjLQzd-1qD4iE",
+  "request_id": "GPvOiDbCnNH9gpU0-KCvKg",
+  "markdown_bytes": 32086,
+  "markdown_sha256": "3a68274c646eb7498d05d2a3305fbb8f8d3792af5badd8a67640e893cb74fdfc",
+  "image_count": 5,
+  "saved_at": "2026-04-14T12:59:53+00:00"
+}

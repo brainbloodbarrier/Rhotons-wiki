@@ -1,0 +1,19 @@
+{
+  "article_id": "cranial-approaches--temporal-subtemporal-craniotomy",
+  "title": "Temporal Subtemporal Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "temporal-subtemporal-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/temporal-subtemporal-craniotomy.pdf",
+  "expected_page_count": 16,
+  "api_page_count": 16,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 8.0
+  },
+  "checkpoint_id": "checkpoint_OftjuGbeJudsSbG6Wi-f8Rqe0SiEzupUzjjex2VRvJs",
+  "request_id": "ehuu1eyFD-ngZsV1GtL0fQ",
+  "markdown_bytes": 29070,
+  "markdown_sha256": "e734f204ea7b6c3c0bc5845380126ff6b532a71aa2384692ddfed2e663a41233",
+  "image_count": 12,
+  "saved_at": "2026-04-14T12:42:17+00:00"
+}

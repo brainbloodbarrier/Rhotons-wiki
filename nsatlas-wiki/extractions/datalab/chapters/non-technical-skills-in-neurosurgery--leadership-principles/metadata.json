@@ -1,0 +1,20 @@
+{
+  "article_id": "non-technical-skills-in-neurosurgery--leadership-principles",
+  "title": "Leadership Principles",
+  "category": "non-technical-skills-in-neurosurgery",
+  "slug": "leadership-principles",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/leadership-principles.pdf",
+  "expected_page_count": 7,
+  "api_page_count": 7,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 5,
+    "final_cost_cents": 4
+  },
+  "checkpoint_id": "checkpoint_2i2Nk26nXyD5PnzkV7qnDkpcPr5bOEsTlMj9tKEyZyY",
+  "request_id": "4vborQ9xgH6Stkt7B_HO9w",
+  "markdown_bytes": 15411,
+  "markdown_sha256": "2549b2601d8ce2dd4e74a47aa9d4576c74917074932069b3d4643d537314e8d8",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:16:15+00:00"
+}

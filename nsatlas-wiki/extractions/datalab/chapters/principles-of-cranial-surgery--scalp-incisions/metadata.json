@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--scalp-incisions",
+  "title": "Scalp Incisions",
+  "category": "principles-of-cranial-surgery",
+  "slug": "scalp-incisions",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/scalp-incisions.pdf",
+  "expected_page_count": 15,
+  "api_page_count": 15,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7
+  },
+  "checkpoint_id": "checkpoint_uVXsZBdBi5Lf_6CTF_O41PsbnxIOyhEn2RzSVBYZONE",
+  "request_id": "hr9h0AI2OLK6w5y8iCgCqg",
+  "markdown_bytes": 31108,
+  "markdown_sha256": "c6939ce4ef807a2aabd7adea2eb8d2133f3205963e5b094592581a02cf313c8b",
+  "image_count": 28,
+  "saved_at": "2026-04-14T13:35:57+00:00"
+}

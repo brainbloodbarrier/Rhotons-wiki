@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-base-surgery--general-principles",
+  "title": "General Principles",
+  "category": "cranial-base-surgery",
+  "slug": "general-principles",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/general-principles.pdf",
+  "expected_page_count": 8,
+  "api_page_count": 8,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 5,
+    "final_cost_cents": 4
+  },
+  "checkpoint_id": "checkpoint_zOfZ1a0PCaSU9LyRnX4oT_7MumwU1UAOEkB2JYCpiyc",
+  "request_id": "CdbYcOW6cp6aici4h1kb0Q",
+  "markdown_bytes": 17954,
+  "markdown_sha256": "9b8973ceb41abad80351e4f08012f1f4a8ee940fd2bdde8ab69ca0f466901394",
+  "image_count": 5,
+  "saved_at": "2026-04-14T12:46:14+00:00"
+}

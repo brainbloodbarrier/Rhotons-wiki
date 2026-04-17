@@ -1,0 +1,318 @@
+{"t": "2026-04-14T12:18:17+00:00", "event": "submit_start", "article_id": "cranial-approaches--occipital-craniotomy", "pdf": "occipital-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:18:19+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:18:39+00:00", "event": "poll_complete", "request_id": "WEva2Ixmb69EKmrFTSU96g", "iters": 8}
+{"t": "2026-04-14T12:22:06+00:00", "event": "submit_start", "article_id": "brain-tumors--general-principles", "pdf": "general-principles.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:22:30+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:22:49+00:00", "event": "poll_complete", "request_id": "wp6Fx_-yUcG_RyF5jfpDQg", "iters": 7}
+{"t": "2026-04-14T12:22:49+00:00", "event": "submit_start", "article_id": "brain-tumors--principles-of-intraventricular-surgery", "pdf": "principles-of-intraventricular-surgery.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:23:09+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:23:46+00:00", "event": "poll_complete", "request_id": "L8OZFTnPAuyBr1HAlAmiog", "iters": 14}
+{"t": "2026-04-14T12:23:46+00:00", "event": "submit_start", "article_id": "cerebrovascular-surgery--microscope-and-mouthpiece", "pdf": "microscope-and-mouthpiece.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:23:54+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:24:18+00:00", "event": "poll_complete", "request_id": "u2HsZ223g2rmCZGNOdlkdg", "iters": 9}
+{"t": "2026-04-14T12:24:18+00:00", "event": "submit_start", "article_id": "cranial-approaches--bifrontal-craniotomy", "pdf": "bifrontal-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:24:51+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:26:53+00:00", "event": "poll_complete", "request_id": "rFUiUE2h4SCPUrmdeoakRA", "iters": 45}
+{"t": "2026-04-14T12:26:53+00:00", "event": "submit_start", "article_id": "cranial-approaches--contralateral-interhemispheric-transfalcine-transprecuneus-approach", "pdf": "contralateral-interhemispheric-transfalcine-transprecuneus-approach.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:27:28+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:28:20+00:00", "event": "poll_complete", "request_id": "bX09Yeq6n_F69rvxmRLu-g", "iters": 20}
+{"t": "2026-04-14T12:28:20+00:00", "event": "submit_start", "article_id": "cranial-approaches--general-principles", "pdf": "general-principles.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:28:36+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:29:27+00:00", "event": "poll_complete", "request_id": "kZi8I3ytNj0frXdE9h8Hmg", "iters": 20}
+{"t": "2026-04-14T12:29:27+00:00", "event": "submit_start", "article_id": "cranial-approaches--interhemispheric-craniotomy", "pdf": "interhemispheric-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:30:04+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:30:37+00:00", "event": "poll_complete", "request_id": "ScV__0vCwNIvmXRvFC8btg", "iters": 13}
+{"t": "2026-04-14T12:30:37+00:00", "event": "submit_start", "article_id": "cranial-approaches--microscope-guided-endonasal-transsphenoidal-approach", "pdf": "microscope-guided-endonasal-transsphenoidal-approach.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:30:47+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:31:46+00:00", "event": "poll_complete", "request_id": "uG-inUp05-b73g_OZ9a6Ug", "iters": 23}
+{"t": "2026-04-14T12:31:46+00:00", "event": "submit_start", "article_id": "cranial-approaches--midline-supracerebellar-craniotomy", "pdf": "midline-supracerebellar-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:31:50+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:32:12+00:00", "event": "poll_complete", "request_id": "vPURu7ILk0VgIU0DxqkZqw", "iters": 9}
+{"t": "2026-04-14T12:32:12+00:00", "event": "submit_start", "article_id": "cranial-approaches--paramedian-supracerebellar-craniotomy", "pdf": "paramedian-supracerebellar-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:32:31+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:32:53+00:00", "event": "poll_complete", "request_id": "lZoxl2HyQUHkgUtVA_lgbg", "iters": 9}
+{"t": "2026-04-14T12:32:53+00:00", "event": "submit_start", "article_id": "cranial-approaches--parasagittal-craniotomy", "pdf": "parasagittal-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:33:12+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:33:45+00:00", "event": "poll_complete", "request_id": "GB_WaeB_kPbbpXWo6DeXcw", "iters": 13}
+{"t": "2026-04-14T12:33:45+00:00", "event": "submit_start", "article_id": "cranial-approaches--parietal-craniotomy", "pdf": "parietal-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:33:49+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:34:15+00:00", "event": "poll_complete", "request_id": "rpNk7HLYj7Jd4aQ6XH0DBg", "iters": 10}
+{"t": "2026-04-14T12:34:15+00:00", "event": "submit_start", "article_id": "cranial-approaches--pterional-craniotomy", "pdf": "pterional-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:34:39+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:35:13+00:00", "event": "poll_complete", "request_id": "run7nh89UFscQFYiRmP9fA", "iters": 13}
+{"t": "2026-04-14T12:35:13+00:00", "event": "submit_start", "article_id": "cranial-approaches--retromastoid-craniotomy", "pdf": "retromastoid-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:35:42+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:37:37+00:00", "event": "poll_complete", "request_id": "ZgIKvzPOJh3wGqQGiNPMkg", "iters": 43}
+{"t": "2026-04-14T12:37:37+00:00", "event": "submit_start", "article_id": "cranial-approaches--suboccipital-craniotomy", "pdf": "suboccipital-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:38:00+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:38:31+00:00", "event": "poll_complete", "request_id": "JWXvhnOjlYNLK3X5NI3PAg", "iters": 12}
+{"t": "2026-04-14T12:38:31+00:00", "event": "submit_start", "article_id": "cranial-approaches--supraorbital-craniotomy", "pdf": "supraorbital-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:39:16+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:39:51+00:00", "event": "poll_complete", "request_id": "VVrgTPq_a7LUI_A1kQHJJg", "iters": 13}
+{"t": "2026-04-14T12:39:51+00:00", "event": "submit_start", "article_id": "cranial-approaches--telovelar-approach", "pdf": "telovelar-approach.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:40:38+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:41:15+00:00", "event": "poll_complete", "request_id": "P_MNC52GZR19dEB4RJWDAw", "iters": 14}
+{"t": "2026-04-14T12:41:15+00:00", "event": "submit_start", "article_id": "cranial-approaches--temporal-subtemporal-craniotomy", "pdf": "temporal-subtemporal-craniotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:41:37+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:42:17+00:00", "event": "poll_complete", "request_id": "ehuu1eyFD-ngZsV1GtL0fQ", "iters": 15}
+{"t": "2026-04-14T12:42:17+00:00", "event": "submit_start", "article_id": "cranial-approaches--transtentorial-approach-to-parahippocampal-lesions", "pdf": "transtentorial-approach-to-parahippocampal-lesions.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:42:48+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:43:20+00:00", "event": "poll_complete", "request_id": "7zgXuS8c8W5A-Tto1w5kFw", "iters": 12}
+{"t": "2026-04-14T12:43:20+00:00", "event": "submit_start", "article_id": "cranial-base-surgery--anterior-petrosectomy", "pdf": "anterior-petrosectomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:43:34+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:45:41+00:00", "event": "poll_complete", "request_id": "emqhANjy3O-HmgxZ5N7FgA", "iters": 47}
+{"t": "2026-04-14T12:45:41+00:00", "event": "submit_start", "article_id": "cranial-base-surgery--general-principles", "pdf": "general-principles.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:45:50+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:46:14+00:00", "event": "poll_complete", "request_id": "CdbYcOW6cp6aici4h1kb0Q", "iters": 9}
+{"t": "2026-04-14T12:46:14+00:00", "event": "submit_start", "article_id": "cranial-base-surgery--lessons-learned", "pdf": "lessons-learned.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:46:27+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:46:50+00:00", "event": "poll_complete", "request_id": "1F2yI5NhVFBAwVUCOwNJ7g", "iters": 9}
+{"t": "2026-04-14T12:46:50+00:00", "event": "submit_start", "article_id": "cranial-base-surgery--medial-sphenoid-wing-meningioma", "pdf": "medial-sphenoid-wing-meningioma.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:47:42+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:49:53+00:00", "event": "poll_complete", "request_id": "1M-sRglMF6vLjw4by9_o9Q", "iters": 49}
+{"t": "2026-04-14T12:49:53+00:00", "event": "submit_start", "article_id": "cranial-base-surgery--preoperative-considerations-instrumentation-and-patient-positioning", "pdf": "preoperative-considerations-instrumentation-and-patient-positioning.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:50:05+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:50:25+00:00", "event": "poll_complete", "request_id": "2f5IneRPR_WHzEe-cueQ7g", "iters": 8}
+{"t": "2026-04-14T12:50:25+00:00", "event": "submit_start", "article_id": "cranial-base-surgery--selection-of-operative-corridor", "pdf": "selection-of-operative-corridor.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:50:31+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:50:57+00:00", "event": "poll_complete", "request_id": "5Ss7NkWu1rS-fTkoKAwHQw", "iters": 10}
+{"t": "2026-04-14T12:50:57+00:00", "event": "submit_start", "article_id": "cranial-nerve-compression-syndromes--geniculate-neuralgia", "pdf": "geniculate-neuralgia.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:51:04+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:52:51+00:00", "event": "poll_complete", "request_id": "5j-phVOrn5JD9wip-0l6Jw", "iters": 42}
+{"t": "2026-04-14T12:52:51+00:00", "event": "submit_start", "article_id": "cranial-nerve-compression-syndromes--glossopharyngeal-neuralgia", "pdf": "glossopharyngeal-neuralgia.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:53:01+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:53:44+00:00", "event": "poll_complete", "request_id": "gg8T9kXrUDuRKlOM2xI6Zw", "iters": 17}
+{"t": "2026-04-14T12:53:44+00:00", "event": "submit_start", "article_id": "cranial-nerve-compression-syndromes--hemifacial-spasm", "pdf": "hemifacial-spasm.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:54:02+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:54:33+00:00", "event": "poll_complete", "request_id": "aCn-wgvMlcw5SgTs9L96bg", "iters": 12}
+{"t": "2026-04-14T12:54:33+00:00", "event": "submit_start", "article_id": "cranial-nerve-compression-syndromes--menieres-disease", "pdf": "menieres-disease.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:54:40+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:55:03+00:00", "event": "poll_complete", "request_id": "K6iaYxrtBv7h7F0AJebm0Q", "iters": 9}
+{"t": "2026-04-14T12:55:03+00:00", "event": "submit_start", "article_id": "cranial-nerve-compression-syndromes--microvascular-decompression-for-trigeminal-neuralgia", "pdf": "microvascular-decompression-for-trigeminal-neuralgia.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:55:11+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:55:41+00:00", "event": "poll_complete", "request_id": "NA7Bs6IUii_k4vJTlKsR3A", "iters": 11}
+{"t": "2026-04-14T12:55:41+00:00", "event": "submit_start", "article_id": "csf-diversion-procedures--endoscopic-third-ventriculostomy", "pdf": "endoscopic-third-ventriculostomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:55:48+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:56:16+00:00", "event": "poll_complete", "request_id": "wJkUPaEDKnVq87SeqqamnA", "iters": 11}
+{"t": "2026-04-14T12:56:16+00:00", "event": "submit_start", "article_id": "csf-diversion-procedures--external-ventricular-drain", "pdf": "external-ventricular-drain.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:56:24+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:56:52+00:00", "event": "poll_complete", "request_id": "5l7JaABhFsUyfHI5aLm1gg", "iters": 11}
+{"t": "2026-04-14T12:56:52+00:00", "event": "submit_start", "article_id": "csf-diversion-procedures--ventricular-shunt-reference", "pdf": "ventricular-shunt-reference.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:56:57+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:57:25+00:00", "event": "poll_complete", "request_id": "BWz5UvMOgJ3zaf-4tC-UQA", "iters": 11}
+{"t": "2026-04-14T12:57:25+00:00", "event": "submit_start", "article_id": "csf-diversion-procedures--ventriculo-atrial-shunt", "pdf": "ventriculo-atrial-shunt.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:57:33+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:57:58+00:00", "event": "poll_complete", "request_id": "Y1vHaYhJcODQPm9fckd4MQ", "iters": 10}
+{"t": "2026-04-14T12:57:58+00:00", "event": "submit_start", "article_id": "csf-diversion-procedures--ventriculo-gallbladder-shunt", "pdf": "ventriculo-gallbladder-shunt.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:58:01+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:58:18+00:00", "event": "poll_complete", "request_id": "ueuSfpVwHbt2PrpSbphESQ", "iters": 7}
+{"t": "2026-04-14T12:58:18+00:00", "event": "submit_start", "article_id": "csf-diversion-procedures--ventriculo-peritoneal-shunt", "pdf": "ventriculo-peritoneal-shunt.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:58:20+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:58:48+00:00", "event": "poll_complete", "request_id": "AcTB6eGgoUccDaDEG-gLWQ", "iters": 11}
+{"t": "2026-04-14T12:58:48+00:00", "event": "submit_start", "article_id": "csf-diversion-procedures--ventriculo-pleural-shunt", "pdf": "ventriculo-pleural-shunt.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:58:53+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:59:18+00:00", "event": "poll_complete", "request_id": "Ah9PeZa_pRqsfj6g85WUtA", "iters": 10}
+{"t": "2026-04-14T12:59:18+00:00", "event": "submit_start", "article_id": "emergency-neurosurgery-and-trauma--decompressive-craniectomy", "pdf": "decompressive-craniectomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T12:59:23+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T12:59:53+00:00", "event": "poll_complete", "request_id": "GPvOiDbCnNH9gpU0-KCvKg", "iters": 12}
+{"t": "2026-04-14T12:59:53+00:00", "event": "submit_start", "article_id": "emergency-neurosurgery-and-trauma--lacerated-dural-venous-sinus-repair", "pdf": "lacerated-dural-venous-sinus-repair.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:00:02+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:00:25+00:00", "event": "poll_complete", "request_id": "4YAECR0tbmx2vAebLsZ9-Q", "iters": 9}
+{"t": "2026-04-14T13:00:25+00:00", "event": "submit_start", "article_id": "emergency-neurosurgery-and-trauma--open-skull-fracture", "pdf": "open-skull-fracture.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:00:31+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:00:54+00:00", "event": "poll_complete", "request_id": "plADmKuIYGHU8MgYQgpiwQ", "iters": 9}
+{"t": "2026-04-14T13:00:54+00:00", "event": "submit_start", "article_id": "epilepsy-surgery--hypothalamic-hamartoma", "pdf": "hypothalamic-hamartoma.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:01:04+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:01:40+00:00", "event": "poll_complete", "request_id": "sSwLihQsZPk3mQGwEpZmmg", "iters": 14}
+{"t": "2026-04-14T13:01:40+00:00", "event": "submit_start", "article_id": "epilepsy-surgery--intracranial-monitoring-study", "pdf": "intracranial-monitoring-study.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:01:41+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:01:53+00:00", "event": "poll_complete", "request_id": "NVBUS3aZYJWYpBrs1MhIcA", "iters": 5}
+{"t": "2026-04-14T13:01:53+00:00", "event": "submit_start", "article_id": "epilepsy-surgery--peri-insular-hemispherotomy", "pdf": "peri-insular-hemispherotomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:02:24+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:02:58+00:00", "event": "poll_complete", "request_id": "ms6Zd11rLg4bigBOBRn9Kw", "iters": 13}
+{"t": "2026-04-14T13:02:58+00:00", "event": "submit_start", "article_id": "epilepsy-surgery--selection-of-surgical-candidates", "pdf": "selection-of-surgical-candidates.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:02:59+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:03:25+00:00", "event": "poll_complete", "request_id": "Ag4PGodllvMMREZ8xhZ4gQ", "iters": 10}
+{"t": "2026-04-14T13:03:25+00:00", "event": "submit_start", "article_id": "medical-student-guide-for-matching-in-neurosurgery--applying-to-neurosurgery", "pdf": "applying-to-neurosurgery.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:03:30+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:06:06+00:00", "event": "poll_complete", "request_id": "An1UMnqzWzqEJz2Xfnn9KQ", "iters": 59}
+{"t": "2026-04-14T13:06:06+00:00", "event": "submit_start", "article_id": "medical-student-guide-for-matching-in-neurosurgery--conducting-and-presenting-research", "pdf": "conducting-and-presenting-research.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:06:12+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:07:10+00:00", "event": "poll_complete", "request_id": "XCASWB_EGY_bm0fXKlZWEg", "iters": 22}
+{"t": "2026-04-14T13:07:10+00:00", "event": "submit_start", "article_id": "medical-student-guide-for-matching-in-neurosurgery--interested-in-neurosurgery-as-a-career", "pdf": "interested-in-neurosurgery-as-a-career.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:07:15+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:07:56+00:00", "event": "poll_complete", "request_id": "WuNYmu7Qox5HnSbrAdmkjw", "iters": 16}
+{"t": "2026-04-14T13:07:56+00:00", "event": "submit_start", "article_id": "medical-student-guide-for-matching-in-neurosurgery--interviews", "pdf": "interviews.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:08:05+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:08:59+00:00", "event": "poll_complete", "request_id": "2ERgPi9Uf1ezGSsswJwVow", "iters": 21}
+{"t": "2026-04-14T13:08:59+00:00", "event": "submit_start", "article_id": "medical-student-guide-for-matching-in-neurosurgery--letters-of-recommendation", "pdf": "letters-of-recommendation.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:09:03+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:09:36+00:00", "event": "poll_complete", "request_id": "qI_5TWfKuyTVom8TPGuxTg", "iters": 13}
+{"t": "2026-04-14T13:09:36+00:00", "event": "submit_start", "article_id": "medical-student-guide-for-matching-in-neurosurgery--personal-statement", "pdf": "personal-statement.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:09:38+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:09:58+00:00", "event": "poll_complete", "request_id": "k4wrp_rfLtuTXB-MuZSOmw", "iters": 8}
+{"t": "2026-04-14T13:09:58+00:00", "event": "submit_start", "article_id": "medical-student-guide-for-matching-in-neurosurgery--preclinical-and-early-clinical-years", "pdf": "preclinical-and-early-clinical-years.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:10:02+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:10:38+00:00", "event": "poll_complete", "request_id": "bhVMF-p3Bo2Hovf9epU4rA", "iters": 14}
+{"t": "2026-04-14T13:10:38+00:00", "event": "submit_start", "article_id": "medical-student-guide-for-matching-in-neurosurgery--preface", "pdf": "preface.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:10:41+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:10:53+00:00", "event": "poll_complete", "request_id": "qJ73mSDZwOvWpvreczV9yw", "iters": 5}
+{"t": "2026-04-14T13:10:53+00:00", "event": "submit_start", "article_id": "medical-student-guide-for-matching-in-neurosurgery--ranking-programs", "pdf": "ranking-programs.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:10:56+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:11:13+00:00", "event": "poll_complete", "request_id": "52ZnKc-bI-cy06n5reccsA", "iters": 7}
+{"t": "2026-04-14T13:11:13+00:00", "event": "submit_start", "article_id": "medical-student-guide-for-matching-in-neurosurgery--subinternships", "pdf": "subinternships.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:11:18+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:11:33+00:00", "event": "poll_complete", "request_id": "o-s-EzzgRx6PzW8hau5B6A", "iters": 6}
+{"t": "2026-04-14T13:11:33+00:00", "event": "submit_start", "article_id": "microsurgical-mastery--microsurgical-mastery-passion-for-technical-excellence", "pdf": "microsurgical-mastery-passion-for-technical-excellence.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:11:36+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:11:55+00:00", "event": "poll_complete", "request_id": "htrscKjahK-sHysuOwLPIA", "iters": 8}
+{"t": "2026-04-14T13:11:55+00:00", "event": "submit_start", "article_id": "neuroradiology--dysplastic-cerebellar-gangliocytoma-dcg", "pdf": "dysplastic-cerebellar-gangliocytoma-dcg.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:11:58+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:12:18+00:00", "event": "poll_complete", "request_id": "CHVSh7Z5DLyJkXNuzCMJsA", "iters": 8}
+{"t": "2026-04-14T13:12:18+00:00", "event": "submit_start", "article_id": "neuroradiology--imaging-evaluation-of-sah-and-aneurysm", "pdf": "imaging-evaluation-of-sah-and-aneurysm.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:12:25+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:13:14+00:00", "event": "poll_complete", "request_id": "eM5H07rt-WH9m9Z-CWiJvw", "iters": 19}
+{"t": "2026-04-14T13:13:14+00:00", "event": "submit_start", "article_id": "neuroradiology--introduction-and-review-of-imaging-modalities", "pdf": "introduction-and-review-of-imaging-modalities.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:13:21+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:13:56+00:00", "event": "poll_complete", "request_id": "6GcSDG4Nqqeid5TCJ2jxsw", "iters": 14}
+{"t": "2026-04-14T13:13:56+00:00", "event": "submit_start", "article_id": "neuroradiology--preface", "pdf": "preface.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:13:58+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:14:07+00:00", "event": "poll_complete", "request_id": "vjBCfrSmN4zw5e7M9c0jpw", "iters": 4}
+{"t": "2026-04-14T13:14:07+00:00", "event": "submit_start", "article_id": "neuroradiology--progressive-multifocal-leukoencephalopathy-pml", "pdf": "progressive-multifocal-leukoencephalopathy-pml.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:14:10+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:14:35+00:00", "event": "poll_complete", "request_id": "vitvICNfS_yb2x4Kj-BxGQ", "iters": 10}
+{"t": "2026-04-14T13:14:35+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--basics-of-nontechnical-skills", "pdf": "basics-of-nontechnical-skills.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:14:38+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:14:55+00:00", "event": "poll_complete", "request_id": "VzJT_JjaeDpj5tazivuwpg", "iters": 7}
+{"t": "2026-04-14T13:14:55+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--dealing-with-burnout", "pdf": "dealing-with-burnout.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:14:57+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:15:08+00:00", "event": "poll_complete", "request_id": "603GTE0e4dCKt9di2Bv-4w", "iters": 5}
+{"t": "2026-04-14T13:15:08+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--emotional-intelligence", "pdf": "emotional-intelligence.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:15:10+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:15:30+00:00", "event": "poll_complete", "request_id": "4mKPqnMk70-5Q_JAx8Uidg", "iters": 8}
+{"t": "2026-04-14T13:15:30+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--ethics-in-neurosurgery", "pdf": "ethics-in-neurosurgery.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:15:32+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:15:50+00:00", "event": "poll_complete", "request_id": "FT2wo10pTapc9f9Cxg_D2A", "iters": 7}
+{"t": "2026-04-14T13:15:50+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--leadership-principles", "pdf": "leadership-principles.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:15:52+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:16:15+00:00", "event": "poll_complete", "request_id": "4vborQ9xgH6Stkt7B_HO9w", "iters": 9}
+{"t": "2026-04-14T13:16:15+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--operating-room-etiquette", "pdf": "operating-room-etiquette.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:16:21+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:16:47+00:00", "event": "poll_complete", "request_id": "JAB9EcpmtFKSqNHRyP6h7w", "iters": 10}
+{"t": "2026-04-14T13:16:47+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--resilience-in-neurosurgery", "pdf": "resilience-in-neurosurgery.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:16:48+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:17:03+00:00", "event": "poll_complete", "request_id": "EbPq0bm-8YXE49CRYcU2RQ", "iters": 6}
+{"t": "2026-04-14T13:17:03+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--situation-awareness", "pdf": "situation-awareness.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:17:05+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:17:44+00:00", "event": "poll_complete", "request_id": "fgL-OulnsoygR2BUk6ECFg", "iters": 15}
+{"t": "2026-04-14T13:17:44+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--surgical-decision-making", "pdf": "surgical-decision-making.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:17:47+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:18:01+00:00", "event": "poll_complete", "request_id": "fjT9w6_mIKsrJCPjg7t2rg", "iters": 6}
+{"t": "2026-04-14T13:18:01+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--teamwork-communication", "pdf": "teamwork-communication.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:18:03+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:18:34+00:00", "event": "poll_complete", "request_id": "uuMnFs3TynRpL9T23cWKJQ", "iters": 12}
+{"t": "2026-04-14T13:18:34+00:00", "event": "submit_start", "article_id": "non-technical-skills-in-neurosurgery--what-makes-a-great-resident", "pdf": "what-makes-a-great-resident.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:18:39+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:19:02+00:00", "event": "poll_complete", "request_id": "wxJR3LhUZZ0A9L4TXz9PVA", "iters": 9}
+{"t": "2026-04-14T13:19:02+00:00", "event": "submit_start", "article_id": "operative-neuroanatomy--3d-anatomy", "pdf": "3d-anatomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:19:04+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:19:26+00:00", "event": "poll_complete", "request_id": "JO-xgdOfPJjBCKY-x8vyxA", "iters": 9}
+{"t": "2026-04-14T13:19:26+00:00", "event": "submit_start", "article_id": "operative-neuroanatomy--cavernous-sinus-anatomy", "pdf": "cavernous-sinus-anatomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:19:27+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:19:42+00:00", "event": "poll_complete", "request_id": "DBlq0UOfS2_31l0ucgSFgA", "iters": 6}
+{"t": "2026-04-14T13:19:42+00:00", "event": "submit_start", "article_id": "operative-neuroanatomy--cerebrovascular-anatomy", "pdf": "cerebrovascular-anatomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:19:45+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:20:54+00:00", "event": "poll_complete", "request_id": "xeT4M0RKXKz384oo_3uQpg", "iters": 26}
+{"t": "2026-04-14T13:20:54+00:00", "event": "submit_start", "article_id": "operative-neuroanatomy--infratentorial-operative-anatomy", "pdf": "infratentorial-operative-anatomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:20:55+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:21:37+00:00", "event": "poll_complete", "request_id": "3ayQPWuOkRyQlG5HgI582Q", "iters": 17}
+{"t": "2026-04-14T13:21:37+00:00", "event": "submit_start", "article_id": "operative-neuroanatomy--skull-anatomy", "pdf": "skull-anatomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:21:43+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:23:10+00:00", "event": "poll_complete", "request_id": "mBFSYzqhaCFirhX7fm263Q", "iters": 33}
+{"t": "2026-04-14T13:23:10+00:00", "event": "submit_start", "article_id": "operative-neuroanatomy--supratentorial-operative-anatomy", "pdf": "supratentorial-operative-anatomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:23:13+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:23:36+00:00", "event": "poll_complete", "request_id": "9G-_3zWHKgOXJlNrYWtY7g", "iters": 9}
+{"t": "2026-04-14T13:23:36+00:00", "event": "submit_start", "article_id": "preface--preface", "pdf": "preface.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:23:40+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:24:49+00:00", "event": "poll_complete", "request_id": "fw4wo6DJRe3G5ijcEBRlwQ", "iters": 27}
+{"t": "2026-04-14T13:24:49+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--brain-mobilization-and-protection-2", "pdf": "brain-mobilization-and-protection-2.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:24:53+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:25:08+00:00", "event": "poll_complete", "request_id": "Wv6Wnb1dRmazk7zX3AteOw", "iters": 6}
+{"t": "2026-04-14T13:25:08+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--burr-holes-and-bone-flaps", "pdf": "burr-holes-and-bone-flaps.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:25:21+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:25:52+00:00", "event": "poll_complete", "request_id": "OcdNAeqZlg59j70pBmq_kg", "iters": 12}
+{"t": "2026-04-14T13:25:52+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--dural-opening-and-closure", "pdf": "dural-opening-and-closure.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:26:03+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:26:45+00:00", "event": "poll_complete", "request_id": "NvsYEPGxqg968EHEoJav0A", "iters": 16}
+{"t": "2026-04-14T13:26:45+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--external-ventricular-drain", "pdf": "external-ventricular-drain.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:26:54+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:27:44+00:00", "event": "poll_complete", "request_id": "fNFIj6-F1n7gy6057du_jw", "iters": 19}
+{"t": "2026-04-14T13:27:44+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--instrumentation", "pdf": "instrumentation.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:27:52+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:28:41+00:00", "event": "poll_complete", "request_id": "04cs7C2G5Z7GHxaQTY13UQ", "iters": 19}
+{"t": "2026-04-14T13:28:41+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--intraoperative-hemostasis", "pdf": "intraoperative-hemostasis.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:28:46+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:29:02+00:00", "event": "poll_complete", "request_id": "JhAek9zXk6FpegUCbhX4MQ", "iters": 6}
+{"t": "2026-04-14T13:29:02+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--lumbar-drain", "pdf": "lumbar-drain.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:29:06+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:29:29+00:00", "event": "poll_complete", "request_id": "HJ-hKQPSElCKe26cxzZ2nw", "iters": 9}
+{"t": "2026-04-14T13:29:29+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--microscope-and-mouthpiece-2", "pdf": "microscope-and-mouthpiece-2.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:29:33+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:33:12+00:00", "event": "poll_complete", "request_id": "cox5o9sZBpRGItLj1C9AMg", "iters": 83}
+{"t": "2026-04-14T13:33:12+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--operating-room-setup-and-workflow", "pdf": "operating-room-setup-and-workflow.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:33:20+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:33:41+00:00", "event": "poll_complete", "request_id": "_I119tbfrzJ4Wd9A0BuB1w", "iters": 8}
+{"t": "2026-04-14T13:33:41+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--patient-positioning", "pdf": "patient-positioning.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:33:50+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:34:18+00:00", "event": "poll_complete", "request_id": "vj_SIiv8i1UvoM3okFWUxg", "iters": 11}
+{"t": "2026-04-14T13:34:18+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--postoperative-care", "pdf": "postoperative-care.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:34:21+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:34:44+00:00", "event": "poll_complete", "request_id": "oMX3I520mxxvwCoNKiKIxg", "iters": 9}
+{"t": "2026-04-14T13:34:44+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--preoperative-evaluation", "pdf": "preoperative-evaluation.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:34:49+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:35:14+00:00", "event": "poll_complete", "request_id": "6gmOUYxSwHPggJ2leaMIMw", "iters": 10}
+{"t": "2026-04-14T13:35:14+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--scalp-incisions", "pdf": "scalp-incisions.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:35:27+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:35:57+00:00", "event": "poll_complete", "request_id": "hr9h0AI2OLK6w5y8iCgCqg", "iters": 11}
+{"t": "2026-04-14T13:35:57+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--skull-clamp-placement", "pdf": "skull-clamp-placement.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:35:58+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:36:20+00:00", "event": "poll_complete", "request_id": "43DB9hRoFEWApyTxPvx1Mw", "iters": 9}
+{"t": "2026-04-14T13:36:20+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--subarachnoid-dissection-2", "pdf": "subarachnoid-dissection-2.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:36:23+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:36:43+00:00", "event": "poll_complete", "request_id": "wUoyeO_2jmH16r4j2bBHPQ", "iters": 7}
+{"t": "2026-04-14T13:36:43+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--surgeons-philosophy-and-operating-position", "pdf": "surgeons-philosophy-and-operating-position.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:36:46+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:37:49+00:00", "event": "poll_complete", "request_id": "8N_t1-uB_CeyBwZN7H2T7g", "iters": 13}
+{"t": "2026-04-14T13:37:49+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--suturing-and-closure", "pdf": "suturing-and-closure.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:37:53+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:38:22+00:00", "event": "poll_complete", "request_id": "wDHt1a4cEFORFLWeKwAdSg", "iters": 11}
+{"t": "2026-04-14T13:38:22+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--techniques-of-sylvian-fissure-split-2", "pdf": "techniques-of-sylvian-fissure-split-2.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:38:23+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:38:53+00:00", "event": "poll_complete", "request_id": "kOBdIoahygDZvFVTPdrfWw", "iters": 11}
+{"t": "2026-04-14T13:38:53+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--use-and-misuse-of-instruments", "pdf": "use-and-misuse-of-instruments.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:38:57+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:39:12+00:00", "event": "poll_complete", "request_id": "upyB_dfdwq1_wJcSpKOgHw", "iters": 6}
+{"t": "2026-04-14T13:39:12+00:00", "event": "submit_start", "article_id": "principles-of-cranial-surgery--ventricular-shunt-reference", "pdf": "ventricular-shunt-reference.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:39:15+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:39:42+00:00", "event": "poll_complete", "request_id": "_PEq_4Bf4jw1Myx6OkNmDQ", "iters": 10}
+{"t": "2026-04-14T13:39:42+00:00", "event": "submit_start", "article_id": "spinal-cord-surgery--extramedullary-spinal-cord-tumor", "pdf": "extramedullary-spinal-cord-tumor.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:40:06+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:40:40+00:00", "event": "poll_complete", "request_id": "QN58YIvm2sOgaAWm7E6iOA", "iters": 13}
+{"t": "2026-04-14T13:40:40+00:00", "event": "submit_start", "article_id": "spinal-cord-surgery--intramedullary-spinal-cord-tumor", "pdf": "intramedullary-spinal-cord-tumor.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:40:52+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:41:25+00:00", "event": "poll_complete", "request_id": "oa1gpts0mGbeXIYk-EkaAA", "iters": 13}
+{"t": "2026-04-14T13:41:25+00:00", "event": "submit_start", "article_id": "spinal-cord-surgery--operative-spinal-cord-anatomy", "pdf": "operative-spinal-cord-anatomy.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:41:37+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:44:47+00:00", "event": "poll_complete", "request_id": "KuiippFAhJNBkKNMnpIJLw", "iters": 71}
+{"t": "2026-04-14T13:44:47+00:00", "event": "submit_start", "article_id": "spinal-cord-surgery--spinal-av-fistula-disconnection", "pdf": "spinal-av-fistula-disconnection.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:44:54+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:45:42+00:00", "event": "poll_complete", "request_id": "riic_4pT6ljSQ65ZRszovg", "iters": 18}
+{"t": "2026-04-14T13:45:42+00:00", "event": "submit_start", "article_id": "spinal-cord-surgery--spinal-cord-avm", "pdf": "spinal-cord-avm.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:45:44+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:46:01+00:00", "event": "poll_complete", "request_id": "VeI6Svl3gV-bsnHPqkwnGA", "iters": 7}
+{"t": "2026-04-14T13:46:01+00:00", "event": "submit_start", "article_id": "spinal-cord-surgery--spinal-cord-cavernous-malformation", "pdf": "spinal-cord-cavernous-malformation.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:46:04+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:46:29+00:00", "event": "poll_complete", "request_id": "16582RTOmk9kqpCd4PVCMA", "iters": 10}
+{"t": "2026-04-14T13:46:29+00:00", "event": "submit_start", "article_id": "trending-articles-in-neurosurgical-journals--trending-articles-october-2023", "pdf": "trending-articles-october-2023.pdf", "mode": "accurate", "output_format": "markdown", "key_fp": "f2b74f6c"}
+{"t": "2026-04-14T13:46:33+00:00", "event": "submit_response", "http": 200, "body_bytes": 166}
+{"t": "2026-04-14T13:46:59+00:00", "event": "poll_complete", "request_id": "zIZbzINwNq0RLWHXbsXASw", "iters": 10}

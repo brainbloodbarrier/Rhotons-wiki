@@ -1,0 +1,20 @@
+{
+  "article_id": "non-technical-skills-in-neurosurgery--operating-room-etiquette",
+  "title": "Operating Room Etiquette",
+  "category": "non-technical-skills-in-neurosurgery",
+  "slug": "operating-room-etiquette",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/operating-room-etiquette.pdf",
+  "expected_page_count": 14,
+  "api_page_count": 14,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7
+  },
+  "checkpoint_id": "checkpoint_zjh17IAFDwBCvgGzRtoX55S3Wr85elyVi0rWkCB6BuU",
+  "request_id": "JAB9EcpmtFKSqNHRyP6h7w",
+  "markdown_bytes": 33575,
+  "markdown_sha256": "4fce5e7e99f4765fdeb65a376bfbcd84d40d2fc89dae90af5df6a1e54f7c9739",
+  "image_count": 5,
+  "saved_at": "2026-04-14T13:16:47+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-base-surgery--medial-sphenoid-wing-meningioma",
+  "title": "Medial Sphenoid Wing Meningioma",
+  "category": "cranial-base-surgery",
+  "slug": "medial-sphenoid-wing-meningioma",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/skull-base-meningioma/medial-sphenoid-wing-meningioma.pdf",
+  "expected_page_count": 46,
+  "api_page_count": 46,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 28,
+    "final_cost_cents": 21
+  },
+  "checkpoint_id": "checkpoint_lTPJ1KO6ULZK64G4mUx37zorc4nk0SC1Vf1cra4O06s",
+  "request_id": "1M-sRglMF6vLjw4by9_o9Q",
+  "markdown_bytes": 72420,
+  "markdown_sha256": "c63e399608aa8bfabfe7a25563d0bc7bc0b58e0643239f6c9f641c27564f1adc",
+  "image_count": 64,
+  "saved_at": "2026-04-14T12:49:53+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "epilepsy-surgery--intracranial-monitoring-study",
+  "title": "Intracranial Monitoring Study",
+  "category": "epilepsy-surgery",
+  "slug": "intracranial-monitoring-study",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/epilepsy-surgery/intracranial-monitoring-study.pdf",
+  "expected_page_count": 2,
+  "api_page_count": 2,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 2,
+    "final_cost_cents": 1
+  },
+  "checkpoint_id": "checkpoint_xEjQiqD7DDiDTqnxdfUZi33HpHj5fJOXRdx6J2F28aw",
+  "request_id": "NVBUS3aZYJWYpBrs1MhIcA",
+  "markdown_bytes": 487,
+  "markdown_sha256": "d4c280a9193dc77abb9b919a9e50110f4a0bb445736e5a1c55fd23a703fe9635",
+  "image_count": 4,
+  "saved_at": "2026-04-14T13:01:53+00:00"
+}

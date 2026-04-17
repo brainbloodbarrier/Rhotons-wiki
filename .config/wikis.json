@@ -1,0 +1,36 @@
+{
+  "$schema": "./wikis.schema.json",
+  "version": "1.0.0",
+  "default": "rhoton",
+  "output_dir": ".autoresearch",
+  "crossmap": "crossmap.json",
+  "wikis": {
+    "rhoton": {
+      "vault": "rhoton-wiki/vault",
+      "sources": null,
+      "raw_source": null,
+      "extractions": "rhoton-wiki/extractions",
+      "tools": "rhoton-wiki/tools",
+      "domain": "anatomy",
+      "description": "Rhoton Cranial Anatomy and Surgical Approaches"
+    },
+    "ncx": {
+      "vault": "ncx-wiki/vault",
+      "sources": "/Users/fax/code/med-ncx",
+      "raw_source": null,
+      "extractions": null,
+      "tools": null,
+      "domain": "clinical",
+      "description": "NCX clinical neurosurgery casebook"
+    },
+    "nsatlas": {
+      "vault": "nsatlas-wiki/vault",
+      "sources": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english",
+      "raw_source": null,
+      "extractions": "nsatlas-wiki/extractions",
+      "tools": "nsatlas-wiki/tools",
+      "domain": "surgical",
+      "description": "Neurosurgical Atlas"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "non-technical-skills-in-neurosurgery--surgical-decision-making",
+  "title": "Surgical Decision Making",
+  "category": "non-technical-skills-in-neurosurgery",
+  "slug": "surgical-decision-making",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/surgical-decision-making.pdf",
+  "expected_page_count": 6,
+  "api_page_count": 6,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 4,
+    "final_cost_cents": 3
+  },
+  "checkpoint_id": "checkpoint_G0ITnHQAQdOCzhoxYsnZK_lyfQqnJRtT4af7ribis1E",
+  "request_id": "fjT9w6_mIKsrJCPjg7t2rg",
+  "markdown_bytes": 14888,
+  "markdown_sha256": "7bc3b3de265f4eb6a86418f8da60a036c4d50adde8edbad6610ef0a04b91cce9",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:18:01+00:00"
+}

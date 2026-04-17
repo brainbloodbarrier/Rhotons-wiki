@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--occipital-craniotomy",
+  "title": "Occipital Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "occipital-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/occipital-craniotomy.pdf",
+  "expected_page_count": 10,
+  "api_page_count": 10,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 6,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_but3bvaioghoSwCrXt7iScsRzhS2qfGs1FUQUS_gIdI",
+  "request_id": "WEva2Ixmb69EKmrFTSU96g",
+  "markdown_bytes": 17605,
+  "markdown_sha256": "d365c2902d6f067ec47ec1f9e7541ee0d4d43784cc3a8f4daa501369770a94fd",
+  "image_count": 5,
+  "saved_at": "2026-04-14T12:18:39+00:00"
+}

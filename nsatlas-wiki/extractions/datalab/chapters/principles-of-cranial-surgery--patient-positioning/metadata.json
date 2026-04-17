@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--patient-positioning",
+  "title": "Patient Positioning",
+  "category": "principles-of-cranial-surgery",
+  "slug": "patient-positioning",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/patient-positioning.pdf",
+  "expected_page_count": 17,
+  "api_page_count": 17,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 11,
+    "final_cost_cents": 8
+  },
+  "checkpoint_id": "checkpoint_tRytDO-5Q8R3A4577fnxcOQGARmtWMjdQvKNZ9Ut96A",
+  "request_id": "vj_SIiv8i1UvoM3okFWUxg",
+  "markdown_bytes": 31453,
+  "markdown_sha256": "25ec526b3488edc95926a1e0361c5aaa90bacffcfaa3e6552a4dff0a7d7ce2df",
+  "image_count": 16,
+  "saved_at": "2026-04-14T13:34:18+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--contralateral-interhemispheric-transfalcine-transprecuneus-approach",
+  "title": "Contralateral Interhemispheric Transfalcine Transprecuneus Approach",
+  "category": "cranial-approaches",
+  "slug": "contralateral-interhemispheric-transfalcine-transprecuneus-approach",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/contralateral-interhemispheric-transfalcine-transprecuneus-approach.pdf",
+  "expected_page_count": 16,
+  "api_page_count": 16,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 10,
+    "final_cost_cents": 8
+  },
+  "checkpoint_id": "checkpoint_Sk5pdZHZdh_yE3JmI2ilXZV37lk84cgjWa4ybGy5xys",
+  "request_id": "bX09Yeq6n_F69rvxmRLu-g",
+  "markdown_bytes": 26073,
+  "markdown_sha256": "e44568130b7d286a6278c18aaa6c90ef362d77e45f729a77d57e2bbc1882e457",
+  "image_count": 13,
+  "saved_at": "2026-04-14T12:28:20+00:00"
+}

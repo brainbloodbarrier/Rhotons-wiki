@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--surgeons-philosophy-and-operating-position",
+  "title": "Surgeons Philosophy And Operating Position",
+  "category": "principles-of-cranial-surgery",
+  "slug": "surgeons-philosophy-and-operating-position",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/surgeons-philosophy-and-operating-position.pdf",
+  "expected_page_count": 7,
+  "api_page_count": 7,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 5,
+    "final_cost_cents": 4
+  },
+  "checkpoint_id": "checkpoint_4ZYNLvYdIbmT9dc-MvSoU5I7KTN1Fd7aswXN1mR5hfg",
+  "request_id": "8N_t1-uB_CeyBwZN7H2T7g",
+  "markdown_bytes": 12288,
+  "markdown_sha256": "67960a0ab6c7c727b9fbe3bd90b07c6fabafe4c7939957d8e3e48efab6b18948",
+  "image_count": 6,
+  "saved_at": "2026-04-14T13:37:49+00:00"
+}

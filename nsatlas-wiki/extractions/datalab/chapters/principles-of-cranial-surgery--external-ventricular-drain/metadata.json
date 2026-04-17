@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--external-ventricular-drain",
+  "title": "External Ventricular Drain",
+  "category": "principles-of-cranial-surgery",
+  "slug": "external-ventricular-drain",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/external-ventricular-drain.pdf",
+  "expected_page_count": 11,
+  "api_page_count": 11,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 7,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_VdMzFB5kO04FbYnCTSVUbRrKNJz-1u3o3MzRT4B1ECc",
+  "request_id": "fNFIj6-F1n7gy6057du_jw",
+  "markdown_bytes": 20731,
+  "markdown_sha256": "e1995e7ff3ce650ed14e93ad18e7b0a030e5618165072490b9fb52fb413548ec",
+  "image_count": 9,
+  "saved_at": "2026-04-14T13:27:44+00:00"
+}

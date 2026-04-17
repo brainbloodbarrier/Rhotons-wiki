@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--dural-opening-and-closure",
+  "title": "Dural Opening And Closure",
+  "category": "principles-of-cranial-surgery",
+  "slug": "dural-opening-and-closure",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/dural-opening-and-closure.pdf",
+  "expected_page_count": 10,
+  "api_page_count": 10,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 6,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_ZfDsOu_u-n3_3zsP58-EIfuqpvX5VykcEdT4slJtFpQ",
+  "request_id": "NvsYEPGxqg968EHEoJav0A",
+  "markdown_bytes": 18567,
+  "markdown_sha256": "7dda3341a470fea426269567657683fb25b98982c7a20735342ea3d72a1bc5b1",
+  "image_count": 10,
+  "saved_at": "2026-04-14T13:26:45+00:00"
+}

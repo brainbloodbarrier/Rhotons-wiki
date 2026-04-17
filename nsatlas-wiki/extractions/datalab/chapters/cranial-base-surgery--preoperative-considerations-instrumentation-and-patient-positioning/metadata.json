@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-base-surgery--preoperative-considerations-instrumentation-and-patient-positioning",
+  "title": "Preoperative Considerations Instrumentation And Patient Positioning",
+  "category": "cranial-base-surgery",
+  "slug": "preoperative-considerations-instrumentation-and-patient-positioning",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/preoperative-considerations-instrumentation-and-patient-positioning.pdf",
+  "expected_page_count": 12,
+  "api_page_count": 12,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 8,
+    "final_cost_cents": 6
+  },
+  "checkpoint_id": "checkpoint_lL-Gg5u8BPXk-4WN244SRG9QJ0VeyYaCPxC2hzNOjcQ",
+  "request_id": "2f5IneRPR_WHzEe-cueQ7g",
+  "markdown_bytes": 24669,
+  "markdown_sha256": "755d607731d0708d1f76142f8a8a3c2de7c4623ba2b66414db189e7ac23f8042",
+  "image_count": 18,
+  "saved_at": "2026-04-14T12:50:25+00:00"
+}

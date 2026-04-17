@@ -1,0 +1,20 @@
+{
+  "article_id": "non-technical-skills-in-neurosurgery--basics-of-nontechnical-skills",
+  "title": "Basics Of Nontechnical Skills",
+  "category": "non-technical-skills-in-neurosurgery",
+  "slug": "basics-of-nontechnical-skills",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/basics-of-nontechnical-skills.pdf",
+  "expected_page_count": 6,
+  "api_page_count": 6,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 4,
+    "final_cost_cents": 3
+  },
+  "checkpoint_id": "checkpoint_6xvsVAF5gL0YqINI5ap8vQM5q_ixML2aspp5fMI_VLM",
+  "request_id": "VzJT_JjaeDpj5tazivuwpg",
+  "markdown_bytes": 13180,
+  "markdown_sha256": "68b263dc6fd15ed1f91bb12064c8d942d25f7e87507f7759144db7ab1e02b670",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:14:55+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--midline-supracerebellar-craniotomy",
+  "title": "Midline Supracerebellar Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "midline-supracerebellar-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/midline-supracerebellar-craniotomy.pdf",
+  "expected_page_count": 19,
+  "api_page_count": 19,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 12,
+    "final_cost_cents": 9
+  },
+  "checkpoint_id": "checkpoint_DfPQG1C5oZJe9yRnO12wr1H58b0kMjcGmixEmF2UfpE",
+  "request_id": "vPURu7ILk0VgIU0DxqkZqw",
+  "markdown_bytes": 27438,
+  "markdown_sha256": "dfe28cfd425bb9aef53ecc331a8fa8f2c85ed6009ebe3f158033fbd85264f4c3",
+  "image_count": 14,
+  "saved_at": "2026-04-14T12:32:12+00:00"
+}

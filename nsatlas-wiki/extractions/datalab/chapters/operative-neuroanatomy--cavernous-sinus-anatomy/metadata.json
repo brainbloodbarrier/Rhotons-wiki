@@ -1,0 +1,20 @@
+{
+  "article_id": "operative-neuroanatomy--cavernous-sinus-anatomy",
+  "title": "Cavernous Sinus Anatomy",
+  "category": "operative-neuroanatomy",
+  "slug": "cavernous-sinus-anatomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/3d-anatomy/cavernous-sinus-anatomy.pdf",
+  "expected_page_count": 1,
+  "api_page_count": 1,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 1,
+    "final_cost_cents": 1
+  },
+  "checkpoint_id": "checkpoint_8euNqFOM_G4LJfIS3Dgu2DK9EEgzgOSJN5HxD5dxSCg",
+  "request_id": "DBlq0UOfS2_31l0ucgSFgA",
+  "markdown_bytes": 1008,
+  "markdown_sha256": "d32d088770316bc16ad28a2175ac5864b6feab2eadf1e7f63ba800d51c16206d",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:19:42+00:00"
+}

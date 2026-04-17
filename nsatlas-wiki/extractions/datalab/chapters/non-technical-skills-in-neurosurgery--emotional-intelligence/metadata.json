@@ -1,0 +1,20 @@
+{
+  "article_id": "non-technical-skills-in-neurosurgery--emotional-intelligence",
+  "title": "Emotional Intelligence",
+  "category": "non-technical-skills-in-neurosurgery",
+  "slug": "emotional-intelligence",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/emotional-intelligence.pdf",
+  "expected_page_count": 9,
+  "api_page_count": 9,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 6,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_4qjlmvdWnqRxdjfDTE7pusLNz4RO8FNkLAGEswADW8w",
+  "request_id": "4mKPqnMk70-5Q_JAx8Uidg",
+  "markdown_bytes": 23858,
+  "markdown_sha256": "7c0ea4810eacb2b2cb28325f571dff1d44e3ea7f3218a5432a99ed93b472a110",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:15:30+00:00"
+}

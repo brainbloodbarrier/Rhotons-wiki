@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-nerve-compression-syndromes--glossopharyngeal-neuralgia",
+  "title": "Glossopharyngeal Neuralgia",
+  "category": "cranial-nerve-compression-syndromes",
+  "slug": "glossopharyngeal-neuralgia",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-nerve-compression-syndromes/glossopharyngeal-neuralgia.pdf",
+  "expected_page_count": 27,
+  "api_page_count": 27,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 17,
+    "final_cost_cents": 13
+  },
+  "checkpoint_id": "checkpoint_KcZ8tG83_n08ylxVffQp_wcoxigX9umECXu_vL7YABQ",
+  "request_id": "gg8T9kXrUDuRKlOM2xI6Zw",
+  "markdown_bytes": 46217,
+  "markdown_sha256": "41414471eb888d89058e60dc57288a72d14d5413deda67e0d4b028a3696e9331",
+  "image_count": 24,
+  "saved_at": "2026-04-14T12:53:44+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "csf-diversion-procedures--endoscopic-third-ventriculostomy",
+  "title": "Endoscopic Third Ventriculostomy",
+  "category": "csf-diversion-procedures",
+  "slug": "endoscopic-third-ventriculostomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/endoscopic-third-ventriculostomy.pdf",
+  "expected_page_count": 20,
+  "api_page_count": 20,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 12,
+    "final_cost_cents": 9
+  },
+  "checkpoint_id": "checkpoint__Rm99afPDqBXaaj9_wN5cyCmdHHpFXcSRtGrtCn6vPo",
+  "request_id": "wJkUPaEDKnVq87SeqqamnA",
+  "markdown_bytes": 34572,
+  "markdown_sha256": "6238314b70a16731abf56c8c780339e6a4be8bc0ac5ba1b77f238cbfc122a5f5",
+  "image_count": 13,
+  "saved_at": "2026-04-14T12:56:16+00:00"
+}

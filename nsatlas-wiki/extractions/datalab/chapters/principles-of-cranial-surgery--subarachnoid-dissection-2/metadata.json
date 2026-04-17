@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--subarachnoid-dissection-2",
+  "title": "Subarachnoid Dissection 2",
+  "category": "principles-of-cranial-surgery",
+  "slug": "subarachnoid-dissection-2",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/subarachnoid-dissection-2.pdf",
+  "expected_page_count": 8,
+  "api_page_count": 8,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 5,
+    "final_cost_cents": 4
+  },
+  "checkpoint_id": "checkpoint_D8GOS9LD7NicbxUuQgdeh0vWhcxOkqx16cfnIfrh7PM",
+  "request_id": "wUoyeO_2jmH16r4j2bBHPQ",
+  "markdown_bytes": 17757,
+  "markdown_sha256": "a1454c0a11aaed174d39d7d93b0b71e35f0480e010c4e92ecff207dff2e7f7c0",
+  "image_count": 3,
+  "saved_at": "2026-04-14T13:36:43+00:00"
+}

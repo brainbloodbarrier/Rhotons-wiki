@@ -1,0 +1,20 @@
+{
+  "article_id": "preface--preface",
+  "title": "Preface",
+  "category": "preface",
+  "slug": "preface",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/preface/preface.pdf",
+  "expected_page_count": 6,
+  "api_page_count": 6,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 4,
+    "final_cost_cents": 3
+  },
+  "checkpoint_id": "checkpoint_8H1oy23NPbA4X4xfMxtJ8qWJ_Lbdi4s59d5VPwJNGMU",
+  "request_id": "fw4wo6DJRe3G5ijcEBRlwQ",
+  "markdown_bytes": 10984,
+  "markdown_sha256": "b3a5de805e2be042c20592eafe9c194ae92b6b113a0dbcea927b7343320dc2c2",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:24:49+00:00"
+}

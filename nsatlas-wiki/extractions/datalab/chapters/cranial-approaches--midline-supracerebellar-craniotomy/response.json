@@ -1,0 +1,101 @@
+{
+  "status": "complete",
+  "output_format": "markdown",
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "segmentation_results": null,
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 0,
+        "num_blocks": 13
+      },
+      {
+        "page_id": 1,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 2,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 3,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 4,
+        "num_blocks": 7
+      },
+      {
+        "page_id": 5,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 6,
+        "num_blocks": 5
+      },
+      {
+        "page_id": 7,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 8,
+        "num_blocks": 1
+      },
+      {
+        "page_id": 9,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 10,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 11,
+        "num_blocks": 3
+      },
+      {
+        "page_id": 12,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 13,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 14,
+        "num_blocks": 2
+      },
+      {
+        "page_id": 15,
+        "num_blocks": 6
+      },
+      {
+        "page_id": 16,
+        "num_blocks": 12
+      },
+      {
+        "page_id": 17,
+        "num_blocks": 15
+      },
+      {
+        "page_id": 18,
+        "num_blocks": 3
+      }
+    ]
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": null,
+  "page_count": 19,
+  "total_cost": 9,
+  "cost_breakdown": {
+    "list_cost_cents": 12,
+    "final_cost_cents": 9
+  },
+  "runtime": 20.521069049835205,
+  "checkpoint_id": "checkpoint_DfPQG1C5oZJe9yRnO12wr1H58b0kMjcGmixEmF2UfpE",
+  "versions": null,
+  "evaluation": null,
+  "request_id": "vPURu7ILk0VgIU0DxqkZqw"
+}

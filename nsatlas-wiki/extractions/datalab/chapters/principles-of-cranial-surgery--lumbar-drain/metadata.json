@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--lumbar-drain",
+  "title": "Lumbar Drain",
+  "category": "principles-of-cranial-surgery",
+  "slug": "lumbar-drain",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/lumbar-drain.pdf",
+  "expected_page_count": 8,
+  "api_page_count": 8,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 5,
+    "final_cost_cents": 4
+  },
+  "checkpoint_id": "checkpoint_H0Wuk298N_ymo0zMDwJkIok2H1ZKEdql0NelzyozWgM",
+  "request_id": "HJ-hKQPSElCKe26cxzZ2nw",
+  "markdown_bytes": 16712,
+  "markdown_sha256": "21149df9cc1f4f285a0ae0eca338956dcca9bfc432b9cbd773b1b9205b6ded76",
+  "image_count": 6,
+  "saved_at": "2026-04-14T13:29:29+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "epilepsy-surgery--selection-of-surgical-candidates",
+  "title": "Selection Of Surgical Candidates",
+  "category": "epilepsy-surgery",
+  "slug": "selection-of-surgical-candidates",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/epilepsy-surgery/selection-of-surgical-candidates.pdf",
+  "expected_page_count": 11,
+  "api_page_count": 11,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 7,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_PonZpC3vrZqpwlRPXtjJEaR9pm3-J7SsKZp9DO2ft7M",
+  "request_id": "Ag4PGodllvMMREZ8xhZ4gQ",
+  "markdown_bytes": 28537,
+  "markdown_sha256": "f482fafbde2795fce99f79868ce5111b8dda8f1cd2666a4c81b074e9b7030fce",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:03:25+00:00"
+}
