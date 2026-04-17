@@ -62,6 +62,10 @@ if [[ ! -f "$CONFIG" ]]; then
   return 66 2>/dev/null || exit 66
 fi
 
+if ! jq empty "$CONFIG" 2>/dev/null; then
+  echo "resolve-wiki: $CONFIG is not valid JSON — run: jq empty $CONFIG" >&2
+  return 66 2>/dev/null || exit 66
+fi
 if ! jq -e ".wikis.\"$WIKI_NAME\"" "$CONFIG" >/dev/null 2>&1; then
   AVAILABLE=$(jq -r '.wikis | keys | join(", ")' "$CONFIG")
   echo "resolve-wiki: unknown wiki '$WIKI_NAME' (available: $AVAILABLE)" >&2
@@ -74,7 +78,7 @@ WIKI_SOURCES=$(jq -r ".wikis.\"$WIKI_NAME\".sources // empty" "$CONFIG")
 WIKI_RAW_SOURCE=$(jq -r ".wikis.\"$WIKI_NAME\".raw_source // empty" "$CONFIG")
 WIKI_EXTRACTIONS=$(jq -r ".wikis.\"$WIKI_NAME\".extractions // empty" "$CONFIG")
 WIKI_TOOLS=$(jq -r ".wikis.\"$WIKI_NAME\".tools // empty" "$CONFIG")
-WIKI_DOMAIN=$(jq -r ".wikis.\"$WIKI_NAME\".domain" "$CONFIG")
+WIKI_DOMAIN=$(jq -r ".wikis.\"$WIKI_NAME\".domain // empty" "$CONFIG")
 OUTPUT_DIR=$(jq -r '.output_dir // ".autoresearch"' "$CONFIG")
 WIKI_OUTPUT="$OUTPUT_DIR/$WIKI_NAME"
 

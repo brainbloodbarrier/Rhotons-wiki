@@ -174,8 +174,7 @@ else
     echo ""
     read -rp "  Where is your Obsidian vault? (absolute path): " VAULT_PATH
     if [[ -n "$VAULT_PATH" ]]; then
-      sed -i.bak "s|^OBSIDIAN_VAULT_PATH=.*|OBSIDIAN_VAULT_PATH=$VAULT_PATH|" "$SCRIPT_DIR/.env"
-      rm -f "$SCRIPT_DIR/.env.bak"
+      printf 'OBSIDIAN_VAULT_PATH=%s\n' "$VAULT_PATH" >> "$SCRIPT_DIR/.env"
     fi
   fi
   cat > "$GLOBAL_CONFIG" <<EOF
@@ -193,9 +192,10 @@ AGENT_DIRS=(
   ".agents/skills"
 )
 
+SETUP_FAILED=0
 for agent_dir in "${AGENT_DIRS[@]}"; do
   target="$SCRIPT_DIR/$agent_dir"
-  link_all_skills_into "$target" "$agent_dir/" "relative" || true
+  link_all_skills_into "$target" "$agent_dir/" "relative" || SETUP_FAILED=1
 done
 
 # ── Step 3: Global skills for Claude Code (subset) ─────────────
@@ -213,14 +213,15 @@ for skill_name in "${GLOBAL_SKILLS[@]}"; do
 done
 if (( failed )); then
   echo "⚠️   ~/.claude/skills/ has symlink issues"
+  SETUP_FAILED=1
 else
   echo "✅  ~/.claude/skills/ (wiki-update, wiki-query)"
 fi
 
 # ── Step 4: Global skills for Gemini / Codex / OpenClaw ────────
-link_all_skills_into "$HOME/.gemini/antigravity/skills" "~/.gemini/antigravity/skills/" || true
-link_all_skills_into "$HOME/.codex/skills" "~/.codex/skills/" || true
-link_all_skills_into "$HOME/.agents/skills" "~/.agents/skills/ (OpenClaw + generic)" || true
+link_all_skills_into "$HOME/.gemini/antigravity/skills" "~/.gemini/antigravity/skills/" || SETUP_FAILED=1
+link_all_skills_into "$HOME/.codex/skills" "~/.codex/skills/" || SETUP_FAILED=1
+link_all_skills_into "$HOME/.agents/skills" "~/.agents/skills/ (OpenClaw + generic)" || SETUP_FAILED=1
 
 # ── Step 5: Summary ────────────────────────────────────────────
 SKILL_COUNT=$(ls -d "$SKILLS_DIR"/*/ 2>/dev/null | wc -l | tr -d ' ')
@@ -228,7 +229,11 @@ SKILL_COUNT=$(ls -d "$SKILLS_DIR"/*/ 2>/dev/null | wc -l | tr -d ' ')
 echo ""
 echo "───────────────────────────────────────────────────"
 if (( VERIFY_MODE )); then
-  echo " Verify complete. Review any ⚠️  lines above."
+  if (( SETUP_FAILED )); then
+    echo " Verify FAILED — see ⚠️  lines above."
+  else
+    echo " Verify complete. All symlinks OK."
+  fi
 else
   echo " Setup complete."
 fi
@@ -251,3 +256,4 @@ echo "   /wiki-update    → sync knowledge into your vault"
 echo "   /wiki-query     → ask questions against your wiki"
 echo "───────────────────────────────────────────────────"
 echo ""
+(( VERIFY_MODE && SETUP_FAILED )) && exit 1 || true

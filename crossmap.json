@@ -178,8 +178,8 @@
       "page_a": "references/interhemispheric-approach.md",
       "wiki_b": "nsatlas",
       "page_b": "approaches/bifrontal-craniotomy.md",
-      "confidence": 0.88,
-      "rationale": "Interhemispheric approach anatomy (rhoton) is the basis for bifrontal craniotomy technique (nsatlas).",
+      "confidence": 0.72,
+      "rationale": "Setup relationship only: a bifrontal craniotomy bone flap can provide access for an anterior interhemispheric dissection, but the two approaches target different corridors (subfrontal vs. falx/pericallosal). Not synonyms.",
       "created_at": "2026-04-17"
     },
     {
@@ -187,8 +187,8 @@
       "page_a": "procedures/anterior-interhemispheric-approach.md",
       "wiki_b": "nsatlas",
       "page_b": "approaches/bifrontal-craniotomy.md",
-      "confidence": 0.88,
-      "rationale": "Anterior interhemispheric approach and bifrontal craniotomy are overlapping techniques for midline pathology.",
+      "confidence": 0.72,
+      "rationale": "Setup relationship only: bifrontal craniotomy (subfrontal corridor) vs. interhemispheric approach (falx/pericallosal corridor) are distinct techniques; overlap is in the bone flap, not the surgical corridor.",
       "created_at": "2026-04-17"
     },
     {

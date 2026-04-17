@@ -49,7 +49,7 @@ Get all wiki names: `jq -r '.wikis | keys[]' .config/wikis.json`
 ### Step 2 — Index pages
 
 For each wiki, list all vault pages (excluding `index.md`, `log.md`,
-`_meta/`, `_obsidian/`):
+`_meta/`, `.obsidian/`, `.smart-env/`):
 
 ```bash
 find "$VAULT" -name "*.md" \
@@ -71,10 +71,11 @@ For every pair `(page_A in wiki_X, page_B in wiki_Y)` where X ≠ Y:
 
 1. **Title similarity** — Levenshtein ratio of normalized basenames. Weight: 0.6.
 2. **Tag overlap** — Jaccard index of `tags:` sets. Weight: 0.3.
-3. **Exact basename match** — 1.0 bonus (overrides score threshold). Weight: 0.1.
+3. **Exact basename match** — override: if normalized basenames are identical, set `confidence = max(confidence, 0.95)` regardless of other terms. Weight in formula: 0.1.
 
 ```
 confidence = 0.6 * title_sim + 0.3 * tag_jaccard + 0.1 * exact_match_bonus
+if basenames_identical: confidence = max(confidence, 0.95)
 ```
 
 Emit bridge when `confidence >= 0.75`. Bridges with `confidence >= 0.95`
@@ -109,7 +110,7 @@ Bridges for pages that no longer exist in either vault are removed.
 
 After writing `crossmap.json`, verify no `.md` in any vault was touched:
 ```bash
-git diff --name-only HEAD -- '*/vault/**/*.md'
+git diff --name-only HEAD -- '**/vault/**/*.md'
 # Expected: empty output
 ```
 

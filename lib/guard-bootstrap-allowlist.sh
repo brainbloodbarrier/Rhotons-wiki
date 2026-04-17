@@ -16,6 +16,11 @@
 
 set -euo pipefail
 
+if (( BASH_VERSINFO[0] < 4 )); then
+  echo "bootstrap: requires bash >= 4 (brew install bash)" >&2
+  exit 67
+fi
+
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 ALLOWLIST="$REPO_ROOT/.config/guard-allowlist.json"
@@ -46,8 +51,15 @@ fi
 
 for wiki in "${WIKIS[@]}"; do
   echo "bootstrap: $wiki" >&2
-  # Capture stderr from a strict guard run.
-  err=$("$SCRIPT_DIR/autoresearch-guard.sh" "$wiki" --strict --no-allowlist 2>&1 >/dev/null || true)
+  # Capture stderr from a strict guard run (exit 0=clean, 1=violations; anything else is a crash).
+  guard_exit=0
+  err=$("$SCRIPT_DIR/autoresearch-guard.sh" "$wiki" --strict --no-allowlist 2>&1 >/dev/null) \
+    || guard_exit=$?
+  if (( guard_exit != 0 && guard_exit != 1 )); then
+    echo "bootstrap: guard crashed with exit $guard_exit for wiki '$wiki'" >&2
+    echo "bootstrap: guard output: $err" >&2
+    exit 1
+  fi
 
   orphans=$(awk '/^WARN ORPHAN:/ {sub(/^WARN ORPHAN: /,""); print}' <<< "$err" | jq -R . | jq -s .)
   broken=$(awk '/^ERROR BROKEN_WIKILINK:/ {sub(/^ERROR BROKEN_WIKILINK: /,""); print}' <<< "$err" | jq -R . | jq -s .)

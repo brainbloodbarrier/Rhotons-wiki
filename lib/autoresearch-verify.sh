@@ -5,9 +5,9 @@
 # Output: integer score on stdout.
 # Exit: 0 on success, 64/65/66/67 from resolve-wiki.sh on config errors.
 #
-# Score formula: (pages * 10) + (wikilinks * 2) + (words / 100)
-# where pages/wikilinks/words are counted across all .md files in the vault
-# except index.md, log.md, and anything under .obsidian/ or .smart-env/.
+# Score formula: (pages * 10) + (lines_with_wikilinks * 2) + (words / 100)
+# Note: wikilinks counts *lines* containing at least one [[, not individual links.
+# Counted across all .md files except index.md, log.md, .obsidian/, .smart-env/.
 
 set -euo pipefail
 
@@ -26,12 +26,12 @@ PAGES=$(find "$VAULT" -name "*.md" \
 LINKS=$(grep -r '\[\[' "$VAULT" --include="*.md" 2>/dev/null \
   | grep -v "/.obsidian/" \
   | grep -v "/.smart-env/" \
-  | wc -l | tr -d ' ')
+  | wc -l | tr -d ' ') || LINKS=0
 
 WORDS=$(find "$VAULT" -name "*.md" \
   -not -path "*/.obsidian/*" \
   -not -path "*/.smart-env/*" \
-  -exec cat {} + 2>/dev/null | wc -w | tr -d ' ')
+  -exec cat {} \; 2>/dev/null | wc -w | tr -d ' ') || WORDS=0
 
 SCORE=$(( (PAGES * 10) + (LINKS * 2) + (WORDS / 100) ))
 echo "$SCORE"

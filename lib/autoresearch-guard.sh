@@ -41,8 +41,9 @@
 # }
 
 set -eu
-# pipefail intentionally NOT set: some subshells (`sed | head`) emit
-# SIGPIPE 141 on early close, which pipefail would surface as spurious.
+# pipefail intentionally NOT set: grep exits 1 on no matches, which is
+# expected in wikilink extraction and taxonomy scanning. Under pipefail,
+# those zero-match runs would abort the script spuriously.
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
@@ -64,7 +65,7 @@ while (( $# )); do
     --allowlist) ALLOWLIST_PATH="${2:-}"; shift 2 ;;
     --no-allowlist) USE_ALLOWLIST=0; shift ;;
     -h|--help)
-      sed -n '2,35p' "$0" | sed 's/^# \{0,1\}//'
+      sed -n '2,41p' "$0" | sed 's/^# \{0,1\}//'
       exit 0 ;;
     --*) echo "guard: unknown option '$1'" >&2; exit 64 ;;
     *)
@@ -92,8 +93,13 @@ allow_query() {
   if (( ! USE_ALLOWLIST )) || [[ ! -f "$ALLOWLIST_PATH" ]]; then
     echo "[]"; return
   fi
-  jq -c --arg w "$WIKI_NAME" --arg k "$kind" \
-    '(.[$w][$k] // [])' "$ALLOWLIST_PATH" 2>/dev/null || echo "[]"
+  local result
+  if ! result=$(jq -c --arg w "$WIKI_NAME" --arg k "$kind" \
+      '(.[$w][$k] // [])' "$ALLOWLIST_PATH" 2>&1); then
+    echo "guard: allowlist parse error ($ALLOWLIST_PATH): $result" >&2
+    echo "[]"; return
+  fi
+  echo "$result"
 }
 
 is_allowlisted() {
@@ -141,7 +147,10 @@ declare -A INCOMING=()
 
 while IFS= read -r rel; do
   f="$VAULT/$rel"
-  HEAD_LINE=$(head -1 "$f" 2>/dev/null || true)
+  if ! HEAD_LINE=$(head -1 "$f" 2>/dev/null); then
+    VIOL_FRONTMATTER+="ERROR UNREADABLE: $rel"$'\n'
+    continue
+  fi
   if [[ "$HEAD_LINE" != "---" ]]; then
     is_allowlisted missing_frontmatter "$rel" \
       || VIOL_FRONTMATTER+="ERROR MISSING_FRONTMATTER: $rel"$'\n'
