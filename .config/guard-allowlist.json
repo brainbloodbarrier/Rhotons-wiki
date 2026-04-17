@@ -1722,7 +1722,13 @@
       "procedures/intracranial-eeg-monitoring.md -> [[epilepsy-surgery-candidate-selection]]",
       "procedures/intracranial-eeg-monitoring.md -> [[peri-insular-hemispherotomy]]",
       "references/cranial-base-preoperative-considerations.md -> [[posterior-petrosectomy]]",
-      "procedures/peri-insular-hemispherotomy.md -> [[epilepsy-surgery-candidate-selection]]"
+      "procedures/peri-insular-hemispherotomy.md -> [[epilepsy-surgery-candidate-selection]]",
+      "references/cranial-base-operative-corridor-selection.md -> [[pineal-region-tumors]]",
+      "references/cranial-base-operative-corridor-selection.md -> [[telovelar-approach]]",
+      "references/cranial-base-operative-corridor-selection.md -> [[midline-supracerebellar-craniotomy]]",
+      "references/cranial-base-operative-corridor-selection.md -> [[paramedian-supracerebellar-craniotomy]]",
+      "references/cranial-base-operative-corridor-selection.md -> [[interhemispheric-craniotomy]]",
+      "references/cranial-base-operative-corridor-selection.md -> [[occipital-craniotomy]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []

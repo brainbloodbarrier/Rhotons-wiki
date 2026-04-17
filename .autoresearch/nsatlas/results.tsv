@@ -66,3 +66,4 @@ iteration	commit	metric	delta	guard	status	description
 72	-	3434	keep	pass	-	kept	phase-E2: ingest epilepsy-surgery/peri-insular-hemispherotomy
 47	-	3434	+153	pass	-	kept	phase-E1-resume iter47 — ingest cranial-base-preoperative-considerations
 73	-	3469	keep	pass	-	kept	phase-E2: ingest epilepsy-surgery/selection-of-surgical-candidates
+48	-	3535	+101	pass	-	kept	phase-E1-resume iter48 — ingest cranial-base-operative-corridor-selection

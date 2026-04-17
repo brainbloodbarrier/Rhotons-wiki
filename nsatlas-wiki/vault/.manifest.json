@@ -324,6 +324,13 @@
       "wiki_page": "references/cranial-base-preoperative-considerations.md",
       "method": "claude-chapter-distill",
       "phase": "E1-resume"
+    },
+    "cranial-base-surgery/selection-of-operative-corridor": {
+      "ingested_at": "2026-04-17T02:35:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/cranial-base-operative-corridor-selection.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
     }
   },
   "duplicates": {
