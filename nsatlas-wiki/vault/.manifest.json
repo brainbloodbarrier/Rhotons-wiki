@@ -251,6 +251,12 @@
       "pages_created": 1,
       "wiki_page": "principles/preoperative-evaluation.md",
       "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/postoperative-care": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/postoperative-care.md",
+      "method": "claude-chapter-distill"
     }
   },
   "duplicates": {
