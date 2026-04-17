@@ -58,3 +58,4 @@ iteration	commit	metric	delta	guard	status	description
 67	-	3004	keep	pass	-	kept	phase-E2: ingest emergency-neurosurgery-and-trauma/decompressive-craniectomy
 68	-	3046	keep	pass	-	kept	phase-E2: ingest emergency-neurosurgery-and-trauma/lacerated-dural-venous-sinus-repair
 68b	-	3114	keep	pass	-	kept	phase-E2: iter68 finalized (index + tag fix)
+45	-	3144	+184	pass	-	kept	phase-E1-resume iter45 — ingest cranial-base-surgery-lessons-learned
