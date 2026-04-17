@@ -71,6 +71,12 @@
       "pages_created": 1,
       "wiki_page": "approaches/paramedian-supracerebellar-craniotomy.md",
       "method": "datalab-extraction"
+    },
+    "cranial-approaches/parasagittal-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:30:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/parasagittal-craniotomy.md",
+      "method": "datalab-extraction"
     }
   },
   "duplicates": {

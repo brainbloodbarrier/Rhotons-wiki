@@ -16,7 +16,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 
 | Category | Pages | Description |
 |---|---|---|
-| [[approaches/]] | 10 | Craniotomies and surgical corridors |
+| [[approaches/]] | 11 | Craniotomies and surgical corridors |
 | [[procedures/]] | 4 | Bypass and revascularization procedures |
 | [[techniques/]] | 0 | Operative principles and skills |
 | [[pathology/]] | 0 | Disease-specific operative chapters |
