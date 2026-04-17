@@ -1,0 +1,137 @@
+---
+title: External Ventricular Drain Placement
+subtitle: "CSF Diversion Procedures: Placement of an External Ventricular Drain (EVD)"
+category: procedures
+tags:
+  - nsatlas
+  - csf-diversion
+  - surgical-technique
+  - hydrocephalus
+  - ventricular
+aliases:
+  - EVD placement
+  - bedside ventriculostomy
+  - Kocher's point ventriculostomy
+sources:
+  - "NSAtlas - Cohen-Gadol"
+source_chapter: "csf-diversion-procedures/external-ventricular-drain"
+source_pdf: "csf-diversion-procedures/external-ventricular-drain.pdf"
+created: 2026-04-17
+updated: 2026-04-17
+summary: >-
+  Bedside / OR placement of an external ventricular drain at Kocher's point —
+  landmark technique, perpendicular drill trajectory, medial-canthus/tragus
+  aiming, depth limits, failed-pass protocol, postoperative ICP targets for
+  aneurysm, posterior fossa mass, and skull-base CSF leak scenarios.
+---
+
+# External Ventricular Drain Placement
+
+*CSF Diversion Procedures — External Ventricular Drain*
+*DOI: 10.18791/nsatlas.v2.15*
+
+**Source:** NSAtlas, Cohen-Gadol
+
+This procedure page details the operative technique. For the general-principles view (indications, waveform interpretation, postoperative management) see [[external-ventricular-drain]].
+
+## Operative Landmarks
+
+Primary landmarks: midline, **nasion**, ipsilateral **tragus**, ipsilateral **pupil**, **medial canthus**. The **coronal suture** is used when palpable.
+
+**Kocher's point**:
+
+- 10–11 cm posterior to the nasion
+- 3 cm lateral to the midline
+- 1 cm anterior to the coronal suture along the **midpupillary line**
+
+Cohen-Gadol's preferred entry is ~1 cm lateral to classic Kocher's point to further avoid **parasagittal bridging veins**.
+
+## Trajectory
+
+- **Coronal plane**: aim at the **medial canthus**
+- **Sagittal plane**: aim at a point ~1 cm anterior to the tragus
+- **Rule of thumb**: drill and catheter **perpendicular to the skull** — produces a trajectory that reaches the foramen of Monro when the midline is undistorted
+- Target: **foramen of Monro** (the "zero point" for ICP measurement)
+
+## Patient Position
+
+- Supine, HOB 30–45°
+- Head in **strict neutral anatomic position** — any rotation desynchronizes landmarks
+- Assistant stabilizes the head for lethargic/sedated patients during craniostomy
+
+## Step-by-Step
+
+1. Clip hair to expose Kocher's point; verify midline against the nasion
+2. Mark Kocher's point; draw 1–2 cm linear incision through it
+3. Infiltrate local anesthetic along the incision AND along the planned tunneling tract
+4. Skin incision; self-retaining retractor; dissect periosteum off calvarium
+5. **Drill perpendicular** to skull surface along the planned catheter axis — the bit's narrow diameter plus skull thickness defines the allowable trajectory; any deflection at the inner table is invisible once the catheter is in brain
+6. Use a **larger-diameter drill bit**, and **retract/re-advance multiple times** to chamfer the inner-table edges — an inadequate craniostomy with a bony ledge deflects the flexible catheter tip (see [[burr-holes-and-bone-flaps]])
+7. If drill does not penetrate dura, use a blunt needle for durotomy
+8. Pass catheter with stylet along the planned trajectory to **6–6.5 cm** from scalp
+9. Feel the "pop" at ependyma; confirm CSF flow
+10. Remove stylet; advance catheter **1 cm further** to seat the tip at the foramen of Monro
+11. Tunnel distal segment subgaleally for infection control; use **non-toothed forceps** on the catheter to avoid dislodgement or inadvertent advancement
+12. Secure with **skin staples** at multiple points; close incision without sewing the drain
+
+## Depth Discipline
+
+- Advancement **beyond 7 cm** to chase CSF is a red flag — the tip may be in the temporal horn, interhemispheric fissure, third ventricle, Sylvian fissure, or basal cisterns
+- Withdraw and redirect slightly more **medial and posterior**
+- **Three-pass rule**: if three attempts fail to cannulate, **abort** and escalate to stereotactic guidance or a senior colleague — further attempts sharply raise intracranial hemorrhage risk
+
+## Troubleshooting Absent CSF Return
+
+- Low intraventricular pressure, not malposition, is a common cause
+- **Do not prematurely remove and reinsert**
+- Use a 10 mL syringe on the catheter hub to **gently aspirate** — aspirating clear CSF confirms position
+- If still no return, consider imaging before a second pass
+
+## Postoperative ICP Targets
+
+| Scenario | Minimum drainage pressure |
+|---|---|
+| Routine hydrocephalus | 0–15 cm H₂O per clinical need |
+| **Unsecured ruptured aneurysm** | **≥10 cm H₂O** (rapid transmural ΔP → rerupture) |
+| **Huge posterior fossa mass with obstructive hydrocephalus** | **≥15 cm H₂O** (prevent upward transtentorial herniation) |
+| **Skull base / spinal CSF leak** | Avoid aggressive drainage (worsens pneumocephalus; risk of ventriculitis via nasal communication) |
+
+Long-term use (>2 weeks) → rising infection/ventriculitis rates. Avoid placement in patients with active CSF infection when possible.
+
+## Imaging After Placement
+
+- Request immediate **CT** after any difficult pass or suspected malposition — confirms tip position and excludes tract hematoma
+- Track suspected deflection cases on axial + coronal slices
+
+## Related Procedures
+
+- [[endoscopic-third-ventriculostomy]] — when ETV replaces shunt/EVD for obstructive hydrocephalus
+- [[ventriculo-peritoneal-shunt]] — definitive CSF diversion
+- [[ventriculo-atrial-shunt]]
+- [[csf-ventricular-shunt-reference]]
+
+## Pearls and Pitfalls
+
+- **Neutral head position** or landmarks lie — never rotate
+- **Perpendicular drill** + **adequately chamfered craniostomy** prevents silent intraparenchymal trajectory
+- Enter ~1 cm lateral of classic Kocher's point to dodge parasagittal veins
+- **Three-pass ceiling**; escalate to stereotaxy if failed
+- Aspirate gently before blaming catheter position — low ICP mimics malposition
+- Staple-secure at multiple points; tunnel to reduce infection
+- Ruptured aneurysm → never drain below 10 cm H₂O until secured
+- Posterior fossa mass → never drain below 15 cm H₂O until decompressed
+
+## Related
+
+- [[external-ventricular-drain]]
+- [[ventricular-shunt-reference]]
+- [[burr-holes-and-bone-flaps]]
+- [[patient-positioning]]
+- [[supratentorial-operative-anatomy]]
+- [[intraoperative-hemostasis]]
+- [[postoperative-care]]
+- [[lumbar-drain]]
+
+## References
+
+1. Cohen-Gadol AA. Placement of an External Ventricular Drain. *Neurosurgical Atlas*. DOI:10.18791/nsatlas.v2.15.

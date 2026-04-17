@@ -1464,7 +1464,10 @@
       "references/brain-tumors-general-principles.md -> [[medial-sphenoid-wing-meningioma]]",
       "references/brain-tumors-general-principles.md -> [[ultrasound]]",
       "references/brain-tumors-general-principles.md -> [[sensorimotor-mapping]]",
-      "references/brain-tumors-general-principles.md -> [[language-mapping]]"
+      "references/brain-tumors-general-principles.md -> [[language-mapping]]",
+      "procedures/external-ventricular-drain-placement.md -> [[ventriculo-peritoneal-shunt]]",
+      "procedures/external-ventricular-drain-placement.md -> [[ventriculo-atrial-shunt]]",
+      "procedures/external-ventricular-drain-placement.md -> [[csf-ventricular-shunt-reference]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []

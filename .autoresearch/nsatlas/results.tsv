@@ -45,3 +45,5 @@ iteration	commit	metric	delta	guard	status	description
 39	-	2331	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/suturing-and-closure
 40	8f3d8ee	2451	+120	pass	0	kept	phase-E1 iter40 — ingest brain-tumors/general-principles
 60	-	2451	+120	pass	-	kept	phase-E2: ingest csf-diversion-procedures/endoscopic-third-ventriculostomy
+41	8726af1	2507	+56	pass	0	kept	phase-E1 iter41 — ingest brain-tumors/principles-of-intraventricular-surgery
+61	-	2554	+103	pass	-	kept	phase-E2: ingest csf-diversion-procedures/external-ventricular-drain-placement
