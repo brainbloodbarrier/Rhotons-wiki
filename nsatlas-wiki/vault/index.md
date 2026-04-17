@@ -24,7 +24,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
 | [[operative-anatomy/]] | 0 | Operative neuroanatomy |
 | [[concepts/]] | 6 | Anatomy concept / reference hub pages |
-| [[principles/]] | 19 | Principles of cranial surgery (Cohen-Gadol) |
+| [[principles/]] | 20 | Principles of cranial surgery (Cohen-Gadol) |
 | [[professional/]] | 0 | Non-technical skills, career, education |
 | [[synthesis/]] | 0 | Cross-cutting integration pages |
 
@@ -56,6 +56,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[ventricular-shunt-reference]] -- programmable valve catalog (Aesculap, Codman, Medtronic) with X-ray tables
 - [[preoperative-evaluation]] -- ASA stratification, system-based workup, neurosurgical-scenario specifics
 - [[postoperative-care]] -- PACU/ICU management, ERAS, multimodal analgesia, procedure-specific postop
+- [[suturing-and-closure]] -- suture materials/sizes, needle types, mattress/subcuticular, layered cranial closure
 
 **Total pages:** 8
 **Last updated:** 2026-04-15

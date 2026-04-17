@@ -257,6 +257,12 @@
       "pages_created": 1,
       "wiki_page": "principles/postoperative-care.md",
       "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/suturing-and-closure": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/suturing-and-closure.md",
+      "method": "claude-chapter-distill"
     }
   },
   "duplicates": {

@@ -42,3 +42,4 @@ iteration	commit	metric	delta	guard	status	description
 36	-	2189	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/ventricular-shunt-reference
 37	-	2236	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/preoperative-evaluation
 38	-	2284	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/postoperative-care
+39	-	2331	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/suturing-and-closure
