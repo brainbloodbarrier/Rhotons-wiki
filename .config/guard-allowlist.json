@@ -1739,7 +1739,9 @@
       "procedures/intramedullary-spinal-cord-tumor-resection.md -> [[spinal-cord-cavernous-malformation-resection]]",
       "procedures/spinal-av-fistula-disconnection.md -> [[spinal-cord-avm-surgery]]",
       "procedures/spinal-av-fistula-disconnection.md -> [[spinal-cord-cavernous-malformation-resection]]",
-      "procedures/spinal-cord-avm-surgery.md -> [[spinal-cord-cavernous-malformation-resection]]"
+      "procedures/spinal-cord-avm-surgery.md -> [[spinal-cord-cavernous-malformation-resection]]",
+      "pathology/dysplastic-cerebellar-gangliocytoma.md -> [[cowden-syndrome]]",
+      "pathology/dysplastic-cerebellar-gangliocytoma.md -> [[telovelar-approach]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []

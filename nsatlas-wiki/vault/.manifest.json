@@ -366,6 +366,13 @@
       "wiki_page": "pathology/trigeminal-neuralgia-mvd.md",
       "method": "claude-chapter-distill",
       "phase": "E1-resume"
+    },
+    "neuroradiology/dysplastic-cerebellar-gangliocytoma-dcg": {
+      "ingested_at": "2026-04-17T03:05:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/dysplastic-cerebellar-gangliocytoma.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
     }
   },
   "duplicates": {
