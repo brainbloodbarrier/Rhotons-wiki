@@ -67,6 +67,10 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 
 _(phase-E1 — in progress)_
 
+### Procedures (Phase E2 — CSF / Trauma / Epilepsy / Spinal / Microsurgical)
+
+- [[endoscopic-third-ventriculostomy]] -- ETV technique, ETVSS, foramen of Monro navigation, tuber cinereum + Liliequist fenestration
+
 **Total pages:** 8
 **Last updated:** 2026-04-17
 

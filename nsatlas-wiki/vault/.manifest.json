@@ -4,6 +4,12 @@
   "source": "Neurosurgical Atlas (nsatlas.com)",
   "author": "Aaron Cohen-Gadol",
   "sources": {
+    "csf-diversion-procedures/endoscopic-third-ventriculostomy.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/endoscopic-third-ventriculostomy.md",
+      "method": "datalab-extraction",
+      "phase": "E2"
+    },
     "cranial-approaches/general-principles.pdf": {
       "sha256": "caaa86810844af3683a50552db865c7acc4ed34dec3871a06e2d2ba54dbd1eed",
       "ingested_at": "2026-04-13T23:00:00Z",
