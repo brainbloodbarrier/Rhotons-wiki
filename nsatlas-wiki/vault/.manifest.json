@@ -352,6 +352,13 @@
       "wiki_page": "pathology/hemifacial-spasm.md",
       "method": "claude-chapter-distill",
       "phase": "E1-resume"
+    },
+    "cranial-nerve-compression-syndromes/menieres-disease": {
+      "ingested_at": "2026-04-17T02:55:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/menieres-disease.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
     }
   },
   "duplicates": {

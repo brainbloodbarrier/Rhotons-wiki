@@ -74,3 +74,4 @@ iteration	commit	metric	delta	guard	status	description
 76	-	3739	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/extramedullary-spinal-cord-tumor
 51	-	3778	-	pass	-	kept	phase-E1-resume iter51 — ingest hemifacial-spasm
 77	-	3815	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/intramedullary-spinal-cord-tumor
+52	-	3854	-	pass	-	kept	phase-E1-resume iter52 — ingest menieres-disease
