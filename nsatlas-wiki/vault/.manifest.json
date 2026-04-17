@@ -209,6 +209,12 @@
       "pages_created": 1,
       "wiki_page": "principles/use-and-misuse-of-instruments.md",
       "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/microscope-and-mouthpiece": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/microscope-and-mouthpiece.md",
+      "method": "claude-chapter-distill"
     }
   },
   "duplicates": {

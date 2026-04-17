@@ -24,7 +24,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
 | [[operative-anatomy/]] | 0 | Operative neuroanatomy |
 | [[concepts/]] | 6 | Anatomy concept / reference hub pages |
-| [[principles/]] | 11 | Principles of cranial surgery (Cohen-Gadol) |
+| [[principles/]] | 12 | Principles of cranial surgery (Cohen-Gadol) |
 | [[professional/]] | 0 | Non-technical skills, career, education |
 | [[synthesis/]] | 0 | Cross-cutting integration pages |
 
@@ -48,6 +48,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[techniques-of-sylvian-fissure-split]] -- inside-to-outside, Sylvian point start, vein preservation
 - [[instrumentation]] -- head fixation, microscope, cranial/microsurgical instrument catalog
 - [[use-and-misuse-of-instruments]] -- scalpel, drill, bipolar, retractor discipline
+- [[microscope-and-mouthpiece]] -- operating microscope, mouthswitch, magnification, foot pedals
 
 **Total pages:** 8
 **Last updated:** 2026-04-15
