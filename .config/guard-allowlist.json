@@ -1720,7 +1720,9 @@
       "pathology/medial-sphenoid-wing-meningioma.md -> [[convexity-meningioma]]",
       "pathology/medial-sphenoid-wing-meningioma.md -> [[lateral-sphenoid-wing-meningioma]]",
       "procedures/intracranial-eeg-monitoring.md -> [[epilepsy-surgery-candidate-selection]]",
-      "procedures/intracranial-eeg-monitoring.md -> [[peri-insular-hemispherotomy]]"
+      "procedures/intracranial-eeg-monitoring.md -> [[peri-insular-hemispherotomy]]",
+      "references/cranial-base-preoperative-considerations.md -> [[posterior-petrosectomy]]",
+      "procedures/peri-insular-hemispherotomy.md -> [[epilepsy-surgery-candidate-selection]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
