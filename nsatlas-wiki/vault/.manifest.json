@@ -289,6 +289,13 @@
       "wiki_page": "references/cerebrovascular-microscope-technique.md",
       "method": "claude-chapter-distill",
       "phase": "E1"
+    },
+    "cranial-base-surgery/anterior-petrosectomy": {
+      "ingested_at": "2026-04-17T02:10:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/anterior-petrosectomy.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1"
     }
   },
   "duplicates": {

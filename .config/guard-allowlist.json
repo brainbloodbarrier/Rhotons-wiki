@@ -1467,7 +1467,15 @@
       "references/brain-tumors-general-principles.md -> [[language-mapping]]",
       "procedures/external-ventricular-drain-placement.md -> [[ventriculo-peritoneal-shunt]]",
       "procedures/external-ventricular-drain-placement.md -> [[ventriculo-atrial-shunt]]",
-      "procedures/external-ventricular-drain-placement.md -> [[csf-ventricular-shunt-reference]]"
+      "procedures/external-ventricular-drain-placement.md -> [[csf-ventricular-shunt-reference]]",
+      "procedures/ventriculo-peritoneal-shunt.md -> [[ventriculo-atrial-shunt]]",
+      "procedures/ventriculo-peritoneal-shunt.md -> [[ventriculo-pleural-shunt]]",
+      "procedures/ventriculo-peritoneal-shunt.md -> [[ventriculo-gallbladder-shunt]]",
+      "procedures/ventriculo-peritoneal-shunt.md -> [[csf-ventricular-shunt-reference]]",
+      "approaches/anterior-petrosectomy.md -> [[cranial-base-surgery-general-principles]]",
+      "approaches/anterior-petrosectomy.md -> [[cranial-base-preoperative-considerations]]",
+      "approaches/anterior-petrosectomy.md -> [[cranial-base-operative-corridor-selection]]",
+      "approaches/anterior-petrosectomy.md -> [[dermoid]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
