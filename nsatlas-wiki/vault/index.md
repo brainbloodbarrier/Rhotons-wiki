@@ -106,6 +106,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[intramedullary-spinal-cord-tumor-resection]] -- IMSCT (ependymoma, astrocytoma, hemangioblastoma) midline myelotomy, IONM thresholds
 - [[spinal-av-fistula-disconnection]] -- Type I sDAVF disconnection at root sleeve, ICG confirmation, Foix-Alajouanine
 - [[spinal-cord-avm-surgery]] -- Type II/III/IV spinal AVMs, feeders-first dissection, ICG, metameric palliation
+- [[spinal-cord-cavernous-malformation-resection]] -- Intramedullary cavernoma resection, DVA preservation, safe-entry corridor choice
 
 **Total pages:** 8
 **Last updated:** 2026-04-17
