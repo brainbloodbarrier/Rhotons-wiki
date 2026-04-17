@@ -41,6 +41,12 @@
       "pages_created": 1,
       "wiki_page": "approaches/contralateral-interhemispheric-transfalcine-transprecuneus-approach.md",
       "method": "datalab-extraction"
+    },
+    "cranial-approaches/interhemispheric-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:05:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/interhemispheric-craniotomy.md",
+      "method": "datalab-extraction"
     }
   },
   "duplicates": {
