@@ -1071,6 +1071,7 @@
       "concepts/cerebrovascular-anatomy.md -> [[supratentorial-operative-anatomy]]",
       "concepts/infratentorial-operative-anatomy.md -> [[skull-anatomy]]",
       "concepts/infratentorial-operative-anatomy.md -> [[supratentorial-operative-anatomy]]",
+      "concepts/skull-anatomy.md -> [[supratentorial-operative-anatomy]]",
       "principles/brain-mobilization-and-protection.md -> [[burr-holes-and-bone-flaps]]",
       "principles/brain-mobilization-and-protection.md -> [[dural-opening-and-closure]]",
       "principles/brain-mobilization-and-protection.md -> [[external-ventricular-drain]]",
