@@ -23,8 +23,8 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[csf-procedures/]] | 0 | CSF diversion and shunt procedures |
 | [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
 | [[operative-anatomy/]] | 0 | Operative neuroanatomy |
-| [[concepts/]] | 2 | Anatomy concept / reference hub pages |
-| [[principles/]] | 1 | Principles of cranial surgery (Cohen-Gadol) |
+| [[concepts/]] | 3 | Anatomy concept / reference hub pages |
+| [[principles/]] | 2 | Principles of cranial surgery (Cohen-Gadol) |
 | [[professional/]] | 0 | Non-technical skills, career, education |
 | [[synthesis/]] | 0 | Cross-cutting integration pages |
 
@@ -38,6 +38,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 ### Principles
 
 - [[scalp-incisions]] -- wound healing, flap geometry, linear vs curvilinear incisions
+- [[burr-holes-and-bone-flaps]] -- drill mechanics, dural separation, sinus safety
 
 **Total pages:** 8
 **Last updated:** 2026-04-15

@@ -120,10 +120,22 @@
       "wiki_page": "concepts/cavernous-sinus-anatomy.md",
       "method": "datalab-extraction"
     },
+    "operative-neuroanatomy/cerebrovascular-anatomy.pdf": {
+      "ingested_at": "2026-04-17T01:10:00Z",
+      "pages_created": 1,
+      "wiki_page": "concepts/cerebrovascular-anatomy.md",
+      "method": "datalab-extraction"
+    },
     "principles-of-cranial-surgery/scalp-incisions": {
       "ingested_at": "2026-04-17T00:00:00Z",
       "pages_created": 1,
       "wiki_page": "principles/scalp-incisions.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/burr-holes-and-bone-flaps": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/burr-holes-and-bone-flaps.md",
       "method": "claude-chapter-distill"
     }
   },

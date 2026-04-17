@@ -19,3 +19,5 @@ iteration	commit	metric	delta	guard	status	description
 13	e935442	826	+47	pass	-	kept	phase-B: ingest cranial-approaches/transtentorial-approach-to-parahippocampal-lesions
 14	5ea1347	880	+54	pass	-	kept	phase-C: ingest operative-neuroanatomy/3d-anatomy
 20	-	947	+121	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/scalp-incisions
+15	34ba844	997	+117	pass	-	kept	phase-C: ingest operative-neuroanatomy/cavernous-sinus-anatomy
+21	-	1128	+181	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/burr-holes-and-bone-flaps
