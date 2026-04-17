@@ -30,3 +30,4 @@ iteration	commit	metric	delta	guard	status	description
 19	8a3cc9b	1610	+186	pass	-	kept	phase-C: ingest operative-neuroanatomy/supratentorial-operative-anatomy
 25	-	1657	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/intraoperative-hemostasis
 26	-	1710	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/brain-mobilization-and-protection
+27	-	1762	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/subarachnoid-dissection
