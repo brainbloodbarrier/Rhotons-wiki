@@ -1743,7 +1743,8 @@
       "pathology/dysplastic-cerebellar-gangliocytoma.md -> [[cowden-syndrome]]",
       "pathology/dysplastic-cerebellar-gangliocytoma.md -> [[telovelar-approach]]",
       "pathology/progressive-multifocal-leukoencephalopathy.md -> [[stereotactic-biopsy]]",
-      "references/neuroradiology-imaging-modalities.md -> [[radiation-necrosis]]"
+      "references/neuroradiology-imaging-modalities.md -> [[radiation-necrosis]]",
+      "references/imaging-sah-and-aneurysm.md -> [[vasospasm-management]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []

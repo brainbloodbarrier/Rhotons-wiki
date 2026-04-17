@@ -394,6 +394,13 @@
       "wiki_page": "references/neuroradiology-preface.md",
       "method": "claude-chapter-distill",
       "phase": "E1-resume"
+    },
+    "neuroradiology/imaging-evaluation-of-sah-and-aneurysm": {
+      "ingested_at": "2026-04-17T03:25:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/imaging-sah-and-aneurysm.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
     }
   },
   "duplicates": {
