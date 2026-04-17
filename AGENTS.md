@@ -24,6 +24,9 @@ This project is a **skill-based framework** for building and maintaining an Obsi
 | "link my pages" / "cross-reference" / "connect my wiki" | `.skills/cross-linker/SKILL.md` |
 | "fix my tags" / "normalize tags" / "tag audit" | `.skills/tag-taxonomy/SKILL.md` |
 | "update wiki" / "sync to wiki" / "save this to my wiki" | `.skills/wiki-update/SKILL.md` |
+| "run autoresearch" / "start a campaign" / "grow the wiki" / "iterate on the wiki" / `/autoresearch` | `.skills/autoresearch/SKILL.md` |
+| "quiz me" / "flashcards" / "viva mode" / "anki export" | `.skills/quiz-mode/SKILL.md` |
+| "ncx bridge" / "link ncx cases to rhoton anatomy" / cross-wiki link (ncx ↔ rhoton) | `.skills/ncx-bridge/SKILL.md` |
 | "create a new skill" | `.skills/skill-creator/SKILL.md` |
 | "export wiki" / "export graph" / "graphml" / "neo4j" / "visualize wiki" | `.skills/wiki-export/SKILL.md` |
 

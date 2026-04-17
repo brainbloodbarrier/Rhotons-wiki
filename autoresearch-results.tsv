@@ -24,3 +24,4 @@ iteration	commit	metric	delta	guard	guard-metric	status	description
 21	-	13658	+1711	pass	-	keep	figure-integration: embed 787 high/medium-confidence figures from manifest into 41 wiki pages
 22	-	14400	+742	pass	-	keep	cross-linking pass: 440 new wikilinks (161 body + 279 captions) across 76 pages, relaxed first-mention for figure captions
 23	-	14434	+34	pass	-	keep	alias-expansion: 7 curated aliases added (reason-loop converged), +41 new wikilinks (7 captions + 34 body)
+24	-	14436	+2	pass	0	keep	phase-1 smoke test: add reverse wikilink microsurgical-anatomy-principles -> operative-techniques
