@@ -83,6 +83,12 @@
       "pages_created": 1,
       "wiki_page": "approaches/parietal-craniotomy.md",
       "method": "datalab-extraction"
+    },
+    "cranial-approaches/suboccipital-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:40:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/suboccipital-craniotomy.md",
+      "method": "datalab-extraction"
     }
   },
   "duplicates": {

@@ -12,3 +12,4 @@ iteration	commit	metric	delta	guard	status	description
 6	8c25273	547	+38	pass	-	kept	phase-B: ingest cranial-approaches/occipital-craniotomy
 7	b01ef2a	583	+36	pass	-	kept	phase-B: ingest cranial-approaches/paramedian-supracerebellar-craniotomy
 8	c0d9d99	621	+38	pass	-	kept	phase-B: ingest cranial-approaches/parasagittal-craniotomy
+9	291cf04	660	+39	pass	-	kept	phase-B: ingest cranial-approaches/parietal-craniotomy
