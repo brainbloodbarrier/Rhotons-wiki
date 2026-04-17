@@ -4,3 +4,83 @@ iteration	commit	metric	delta	guard	status	description
 2	-	175	+83	pass	kept	cranial-approaches/pterional-craniotomy.pdf → approaches/pterional-craniotomy.md (20 figs, full step-by-step, interfascial/subfascial techniques, Pearls)
 3	-	286	+111	pass	kept	supraorbital-craniotomy.pdf (13 figs) + bifrontal-craniotomy.pdf (14 figs) → 2 pages in approaches/
 4	-	354	+68	pass	kept	retromastoid-craniotomy.pdf (18 figs) → approaches/retromastoid-craniotomy.md (park-bench, extended retromastoid, supra/infralateral corridors)
+1	8e44f0e	365	0	pass	0	keep	phase-A: add sources to taxonomy (soft warning fix)
+2	28697f0	397	+32	pass	-	kept	phase-B: ingest cranial-approaches/contralateral-interhemispheric-transfalcine-transprecuneus-approach
+3	2b06592	438	+41	pass	-	kept	phase-B: ingest cranial-approaches/interhemispheric-craniotomy
+4	ee2283f	472	+34	pass	-	kept	phase-B: ingest cranial-approaches/microscope-guided-endonasal-transsphenoidal-approach
+5	2006162	509	+37	pass	-	kept	phase-B: ingest cranial-approaches/midline-supracerebellar-craniotomy
+6	8c25273	547	+38	pass	-	kept	phase-B: ingest cranial-approaches/occipital-craniotomy
+7	b01ef2a	583	+36	pass	-	kept	phase-B: ingest cranial-approaches/paramedian-supracerebellar-craniotomy
+8	c0d9d99	621	+38	pass	-	kept	phase-B: ingest cranial-approaches/parasagittal-craniotomy
+9	291cf04	660	+39	pass	-	kept	phase-B: ingest cranial-approaches/parietal-craniotomy
+10	cfb3666	702	+42	pass	-	kept	phase-B: ingest cranial-approaches/suboccipital-craniotomy
+11	aa58934	742	+40	pass	-	kept	phase-B: ingest cranial-approaches/telovelar-approach
+12	15df60d	779	+37	pass	-	kept	phase-B: ingest cranial-approaches/temporal-subtemporal-craniotomy
+13	e935442	826	+47	pass	-	kept	phase-B: ingest cranial-approaches/transtentorial-approach-to-parahippocampal-lesions
+14	5ea1347	880	+54	pass	-	kept	phase-C: ingest operative-neuroanatomy/3d-anatomy
+20	-	947	+121	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/scalp-incisions
+15	34ba844	997	+117	pass	-	kept	phase-C: ingest operative-neuroanatomy/cavernous-sinus-anatomy
+21	-	1128	+181	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/burr-holes-and-bone-flaps
+16	77857e0	1066	+69	pass	-	kept	phase-C: ingest operative-neuroanatomy/cerebrovascular-anatomy
+22	-	1269	+141	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/skull-clamp-placement
+17	e936f89	1269	+203	pass	-	kept	phase-C: ingest operative-neuroanatomy/infratentorial-operative-anatomy
+23	-	1332	+63	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/patient-positioning
+18	39acc71	1424	+155	pass	-	kept	phase-C: ingest operative-neuroanatomy/skull-anatomy
+24	-	1485	+153	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/dural-opening-and-closure
+19	8a3cc9b	1610	+186	pass	-	kept	phase-C: ingest operative-neuroanatomy/supratentorial-operative-anatomy
+25	-	1657	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/intraoperative-hemostasis
+26	-	1710	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/brain-mobilization-and-protection
+27	-	1762	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/subarachnoid-dissection
+28	-	1810	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/techniques-of-sylvian-fissure-split
+29	-	1872	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/instrumentation
+30	-	1921	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/use-and-misuse-of-instruments
+31	-	1966	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/microscope-and-mouthpiece
+32	-	2006	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/surgeons-philosophy-and-operating-position
+33	-	2067	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/operating-room-setup-and-workflow
+34	-	2110	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/lumbar-drain
+35	-	2152	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/external-ventricular-drain
+36	-	2189	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/ventricular-shunt-reference
+37	-	2236	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/preoperative-evaluation
+38	-	2284	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/postoperative-care
+39	-	2331	+	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/suturing-and-closure
+40	8f3d8ee	2451	+120	pass	0	kept	phase-E1 iter40 — ingest brain-tumors/general-principles
+60	-	2451	+120	pass	-	kept	phase-E2: ingest csf-diversion-procedures/endoscopic-third-ventriculostomy
+41	8726af1	2507	+56	pass	0	kept	phase-E1 iter41 — ingest brain-tumors/principles-of-intraventricular-surgery
+61	-	2554	+103	pass	-	kept	phase-E2: ingest csf-diversion-procedures/external-ventricular-drain-placement
+42	3970181	2602	+95	pass	0	kept	phase-E1 iter42 — ingest cerebrovascular-surgery/microscope-and-mouthpiece
+43	e1c343d	2723	+121	pass	0	kept	phase-E1 iter43 — ingest cranial-base-surgery/anterior-petrosectomy
+62	-	2723	+169	pass	-	kept	phase-E2: ingest csf-diversion-procedures/ventriculo-peritoneal-shunt
+63	-	2766	+43	pass	-	kept	phase-E2: ingest csf-diversion-procedures/ventriculo-atrial-shunt
+44	8135a8c	2842	+119	pass	0	kept	phase-E1 iter44 — ingest cranial-base-surgery/general-principles
+64	-	2878	+?	pass	-	kept	phase-E2: ingest csf-diversion-procedures/ventriculo-pleural-shunt
+65	-	2916	keep	pass	-	kept	phase-E2: ingest csf-diversion-procedures/ventriculo-gallbladder-shunt
+66	-	2957	keep	pass	-	kept	phase-E2: ingest csf-diversion-procedures/csf-ventricular-shunt-reference
+67	-	3004	keep	pass	-	kept	phase-E2: ingest emergency-neurosurgery-and-trauma/decompressive-craniectomy
+68	-	3046	keep	pass	-	kept	phase-E2: ingest emergency-neurosurgery-and-trauma/lacerated-dural-venous-sinus-repair
+68b	-	3114	keep	pass	-	kept	phase-E2: iter68 finalized (index + tag fix)
+45	-	3144	+184	pass	-	kept	phase-E1-resume iter45 — ingest cranial-base-surgery-lessons-learned
+69	-	3186	keep	pass	-	kept	phase-E2: ingest emergency-neurosurgery-and-trauma/open-skull-fracture
+70	-	3281	keep	pass	-	kept	phase-E2: ingest epilepsy-surgery/hypothalamic-hamartoma
+46	-	3281	+137	pass	-	kept	phase-E1-resume iter46 — ingest medial-sphenoid-wing-meningioma
+71	-	3319	keep	pass	-	kept	phase-E2: ingest epilepsy-surgery/intracranial-monitoring-study
+72	-	3434	keep	pass	-	kept	phase-E2: ingest epilepsy-surgery/peri-insular-hemispherotomy
+47	-	3434	+153	pass	-	kept	phase-E1-resume iter47 — ingest cranial-base-preoperative-considerations
+73	-	3469	keep	pass	-	kept	phase-E2: ingest epilepsy-surgery/selection-of-surgical-candidates
+48	-	3535	+101	pass	-	kept	phase-E1-resume iter48 — ingest cranial-base-operative-corridor-selection
+74	-	3589	keep	pass	-	kept	phase-E2: ingest microsurgical-mastery/passion-for-technical-excellence
+49	-	3662	-	pass	-	kept	phase-E1-resume iter49 — ingest geniculate-neuralgia
+75	-	3662	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/operative-spinal-cord-anatomy
+50	-	3739	-	pass	-	kept	phase-E1-resume iter50 — ingest glossopharyngeal-neuralgia
+76	-	3739	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/extramedullary-spinal-cord-tumor
+51	-	3778	-	pass	-	kept	phase-E1-resume iter51 — ingest hemifacial-spasm
+77	-	3815	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/intramedullary-spinal-cord-tumor
+52	-	3854	-	pass	-	kept	phase-E1-resume iter52 — ingest menieres-disease
+78	-	3888	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/spinal-av-fistula-disconnection
+53	-	3970	-	pass	-	kept	phase-E1-resume iter53 — ingest trigeminal-neuralgia-mvd
+79	-	3970	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/spinal-cord-avm
+54	-	4045	-	pass	-	kept	phase-E1-resume iter54 — ingest dysplastic-cerebellar-gangliocytoma
+80	-	4045	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/spinal-cord-cavernous-malformation
+55	-	4075	-	pass	-	kept	phase-E1-resume iter55 — ingest progressive-multifocal-leukoencephalopathy
+56	-	4119	-	pass	-	kept	phase-E1-resume iter56 — ingest neuroradiology-imaging-modalities
+57	-	4153	-	pass	-	kept	phase-E1-resume iter57 — ingest neuroradiology-preface
+58	-	4193	-	pass	-	kept	phase-E1-resume iter58 — ingest imaging-sah-and-aneurysm

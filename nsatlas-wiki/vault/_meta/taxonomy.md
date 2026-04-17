@@ -8,6 +8,8 @@ created: 2026-04-13
 updated: 2026-04-13
 summary: >-
   Controlled tag vocabulary for the NSAtlas Wiki.
+sources:
+  - "NSAtlas Wiki internal taxonomy definition"
 ---
 
 # Tag Taxonomy — Controlled Vocabulary
@@ -79,6 +81,19 @@ Canonical tags for the Neurosurgical Atlas Wiki. New pages MUST use tags from th
 ## Meta Tags
 - `synthesis` — cross-cutting synthesis pages
 - `meta` — wiki infrastructure pages
+
+## Principles (Cohen-Gadol — Campaign 2)
+- `principles` — principles-of-cranial-surgery hub pages
+- `wound-healing` — wound healing, scalp closure
+- `scalp` — scalp anatomy / technique
+- `closure` — wound and dural closure
+- `draping` — sterile preparation and draping
+- `operating-room` — OR setup and workflow
+- `microscope` — operative microscope
+- `shunt` — CSF shunts
+- `ventricular` — ventricular system procedures
+- `lumbar` — lumbar spine / CSF
+- `dissection` — microsurgical dissection
 
 ---
 

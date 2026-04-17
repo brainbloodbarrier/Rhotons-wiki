@@ -4,6 +4,12 @@
   "source": "Neurosurgical Atlas (nsatlas.com)",
   "author": "Aaron Cohen-Gadol",
   "sources": {
+    "csf-diversion-procedures/endoscopic-third-ventriculostomy.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/endoscopic-third-ventriculostomy.md",
+      "method": "datalab-extraction",
+      "phase": "E2"
+    },
     "cranial-approaches/general-principles.pdf": {
       "sha256": "caaa86810844af3683a50552db865c7acc4ed34dec3871a06e2d2ba54dbd1eed",
       "ingested_at": "2026-04-13T23:00:00Z",
@@ -35,6 +41,366 @@
       "pages_created": 1,
       "wiki_page": "approaches/retromastoid-craniotomy.md",
       "method": "claude-pdf-read"
+    },
+    "cranial-approaches/contralateral-interhemispheric-transfalcine-transprecuneus-approach.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/contralateral-interhemispheric-transfalcine-transprecuneus-approach.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/interhemispheric-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:05:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/interhemispheric-craniotomy.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/microscope-guided-endonasal-transsphenoidal-approach.pdf": {
+      "ingested_at": "2026-04-17T00:10:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/microscope-guided-endonasal-transsphenoidal-approach.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/midline-supracerebellar-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:15:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/midline-supracerebellar-craniotomy.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/occipital-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:20:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/occipital-craniotomy.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/paramedian-supracerebellar-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:25:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/paramedian-supracerebellar-craniotomy.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/parasagittal-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:30:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/parasagittal-craniotomy.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/parietal-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:35:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/parietal-craniotomy.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/suboccipital-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:40:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/suboccipital-craniotomy.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/telovelar-approach.pdf": {
+      "ingested_at": "2026-04-17T00:45:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/telovelar-approach.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/temporal-subtemporal-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:50:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/temporal-subtemporal-craniotomy.md",
+      "method": "datalab-extraction"
+    },
+    "cranial-approaches/transtentorial-approach-to-parahippocampal-lesions.pdf": {
+      "ingested_at": "2026-04-17T00:55:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/transtentorial-approach-to-parahippocampal-lesions.md",
+      "method": "datalab-extraction"
+    },
+    "operative-neuroanatomy/3d-anatomy.pdf": {
+      "ingested_at": "2026-04-17T01:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "concepts/3d-anatomy.md",
+      "method": "datalab-extraction"
+    },
+    "operative-neuroanatomy/cavernous-sinus-anatomy.pdf": {
+      "ingested_at": "2026-04-17T01:05:00Z",
+      "pages_created": 1,
+      "wiki_page": "concepts/cavernous-sinus-anatomy.md",
+      "method": "datalab-extraction"
+    },
+    "operative-neuroanatomy/cerebrovascular-anatomy.pdf": {
+      "ingested_at": "2026-04-17T01:10:00Z",
+      "pages_created": 1,
+      "wiki_page": "concepts/cerebrovascular-anatomy.md",
+      "method": "datalab-extraction"
+    },
+    "operative-neuroanatomy/infratentorial-operative-anatomy.pdf": {
+      "ingested_at": "2026-04-17T01:15:00Z",
+      "pages_created": 1,
+      "wiki_page": "concepts/infratentorial-operative-anatomy.md",
+      "method": "datalab-extraction"
+    },
+    "operative-neuroanatomy/skull-anatomy.pdf": {
+      "ingested_at": "2026-04-17T01:20:00Z",
+      "pages_created": 1,
+      "wiki_page": "concepts/skull-anatomy.md",
+      "method": "datalab-extraction"
+    },
+    "operative-neuroanatomy/supratentorial-operative-anatomy.pdf": {
+      "ingested_at": "2026-04-17T01:25:00Z",
+      "pages_created": 1,
+      "wiki_page": "concepts/supratentorial-operative-anatomy.md",
+      "method": "datalab-extraction"
+    },
+    "principles-of-cranial-surgery/scalp-incisions": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/scalp-incisions.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/burr-holes-and-bone-flaps": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/burr-holes-and-bone-flaps.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/skull-clamp-placement": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/skull-clamp-placement.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/patient-positioning": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/patient-positioning.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/dural-opening-and-closure": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/dural-opening-and-closure.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/intraoperative-hemostasis": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/intraoperative-hemostasis.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/brain-mobilization-and-protection": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/brain-mobilization-and-protection.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/subarachnoid-dissection": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/subarachnoid-dissection.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/techniques-of-sylvian-fissure-split": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/techniques-of-sylvian-fissure-split.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/instrumentation": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/instrumentation.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/use-and-misuse-of-instruments": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/use-and-misuse-of-instruments.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/microscope-and-mouthpiece": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/microscope-and-mouthpiece.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/surgeons-philosophy-and-operating-position": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/surgeons-philosophy-and-operating-position.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/operating-room-setup-and-workflow": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/operating-room-setup-and-workflow.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/lumbar-drain": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/lumbar-drain.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/external-ventricular-drain": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/external-ventricular-drain.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/ventricular-shunt-reference": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/ventricular-shunt-reference.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/preoperative-evaluation": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/preoperative-evaluation.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/postoperative-care": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/postoperative-care.md",
+      "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/suturing-and-closure": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/suturing-and-closure.md",
+      "method": "claude-chapter-distill"
+    },
+    "brain-tumors/general-principles": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/brain-tumors-general-principles.md",
+      "method": "claude-chapter-distill"
+    },
+    "brain-tumors/principles-of-intraventricular-surgery": {
+      "ingested_at": "2026-04-17T02:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/principles-of-intraventricular-surgery.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1"
+    },
+    "cerebrovascular-surgery/microscope-and-mouthpiece": {
+      "ingested_at": "2026-04-17T02:05:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/cerebrovascular-microscope-technique.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1"
+    },
+    "cranial-base-surgery/anterior-petrosectomy": {
+      "ingested_at": "2026-04-17T02:10:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/anterior-petrosectomy.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1"
+    },
+    "cranial-base-surgery/general-principles": {
+      "ingested_at": "2026-04-17T02:15:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/cranial-base-surgery-general-principles.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1"
+    },
+    "cranial-base-surgery/lessons-learned": {
+      "ingested_at": "2026-04-17T02:20:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/cranial-base-surgery-lessons-learned.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "cranial-base-surgery/medial-sphenoid-wing-meningioma": {
+      "ingested_at": "2026-04-17T02:25:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/medial-sphenoid-wing-meningioma.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "cranial-base-surgery/preoperative-considerations-instrumentation-and-patient-positioning": {
+      "ingested_at": "2026-04-17T02:30:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/cranial-base-preoperative-considerations.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "cranial-base-surgery/selection-of-operative-corridor": {
+      "ingested_at": "2026-04-17T02:35:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/cranial-base-operative-corridor-selection.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "cranial-nerve-compression-syndromes/geniculate-neuralgia": {
+      "ingested_at": "2026-04-17T02:40:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/geniculate-neuralgia.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "cranial-nerve-compression-syndromes/glossopharyngeal-neuralgia": {
+      "ingested_at": "2026-04-17T02:45:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/glossopharyngeal-neuralgia.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "cranial-nerve-compression-syndromes/hemifacial-spasm": {
+      "ingested_at": "2026-04-17T02:50:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/hemifacial-spasm.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "cranial-nerve-compression-syndromes/menieres-disease": {
+      "ingested_at": "2026-04-17T02:55:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/menieres-disease.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "cranial-nerve-compression-syndromes/microvascular-decompression-for-trigeminal-neuralgia": {
+      "ingested_at": "2026-04-17T03:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/trigeminal-neuralgia-mvd.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "neuroradiology/dysplastic-cerebellar-gangliocytoma-dcg": {
+      "ingested_at": "2026-04-17T03:05:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/dysplastic-cerebellar-gangliocytoma.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "neuroradiology/progressive-multifocal-leukoencephalopathy-pml": {
+      "ingested_at": "2026-04-17T03:10:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/progressive-multifocal-leukoencephalopathy.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "neuroradiology/introduction-and-review-of-imaging-modalities": {
+      "ingested_at": "2026-04-17T03:15:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/neuroradiology-imaging-modalities.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "neuroradiology/preface": {
+      "ingested_at": "2026-04-17T03:20:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/neuroradiology-preface.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
+    },
+    "neuroradiology/imaging-evaluation-of-sah-and-aneurysm": {
+      "ingested_at": "2026-04-17T03:25:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/imaging-sah-and-aneurysm.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
     }
   },
   "duplicates": {
