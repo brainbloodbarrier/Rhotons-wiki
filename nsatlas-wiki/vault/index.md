@@ -105,6 +105,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[extramedullary-spinal-cord-tumor-resection]] -- IDEM tumors (schwannoma, meningioma, neurofibroma) microsurgical resection
 - [[intramedullary-spinal-cord-tumor-resection]] -- IMSCT (ependymoma, astrocytoma, hemangioblastoma) midline myelotomy, IONM thresholds
 - [[spinal-av-fistula-disconnection]] -- Type I sDAVF disconnection at root sleeve, ICG confirmation, Foix-Alajouanine
+- [[spinal-cord-avm-surgery]] -- Type II/III/IV spinal AVMs, feeders-first dissection, ICG, metameric palliation
 
 **Total pages:** 8
 **Last updated:** 2026-04-17

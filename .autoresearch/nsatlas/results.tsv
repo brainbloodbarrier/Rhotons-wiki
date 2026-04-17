@@ -77,3 +77,4 @@ iteration	commit	metric	delta	guard	status	description
 52	-	3854	-	pass	-	kept	phase-E1-resume iter52 — ingest menieres-disease
 78	-	3888	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/spinal-av-fistula-disconnection
 53	-	3970	-	pass	-	kept	phase-E1-resume iter53 — ingest trigeminal-neuralgia-mvd
+79	-	3970	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/spinal-cord-avm
