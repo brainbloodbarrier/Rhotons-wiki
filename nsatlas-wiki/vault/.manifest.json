@@ -331,6 +331,13 @@
       "wiki_page": "references/cranial-base-operative-corridor-selection.md",
       "method": "claude-chapter-distill",
       "phase": "E1-resume"
+    },
+    "cranial-nerve-compression-syndromes/geniculate-neuralgia": {
+      "ingested_at": "2026-04-17T02:40:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/geniculate-neuralgia.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
     }
   },
   "duplicates": {
