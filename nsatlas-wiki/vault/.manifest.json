@@ -282,6 +282,13 @@
       "wiki_page": "references/principles-of-intraventricular-surgery.md",
       "method": "claude-chapter-distill",
       "phase": "E1"
+    },
+    "cerebrovascular-surgery/microscope-and-mouthpiece": {
+      "ingested_at": "2026-04-17T02:05:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/cerebrovascular-microscope-technique.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1"
     }
   },
   "duplicates": {
