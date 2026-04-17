@@ -57,3 +57,4 @@ iteration	commit	metric	delta	guard	status	description
 66	-	2957	keep	pass	-	kept	phase-E2: ingest csf-diversion-procedures/csf-ventricular-shunt-reference
 67	-	3004	keep	pass	-	kept	phase-E2: ingest emergency-neurosurgery-and-trauma/decompressive-craniectomy
 68	-	3046	keep	pass	-	kept	phase-E2: ingest emergency-neurosurgery-and-trauma/lacerated-dural-venous-sinus-repair
+68b	-	3114	keep	pass	-	kept	phase-E2: iter68 finalized (index + tag fix)
