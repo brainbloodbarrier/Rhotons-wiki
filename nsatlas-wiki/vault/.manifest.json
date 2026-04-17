@@ -338,6 +338,13 @@
       "wiki_page": "pathology/geniculate-neuralgia.md",
       "method": "claude-chapter-distill",
       "phase": "E1-resume"
+    },
+    "cranial-nerve-compression-syndromes/glossopharyngeal-neuralgia": {
+      "ingested_at": "2026-04-17T02:45:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/glossopharyngeal-neuralgia.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
     }
   },
   "duplicates": {
