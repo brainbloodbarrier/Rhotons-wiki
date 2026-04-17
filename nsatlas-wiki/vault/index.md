@@ -77,6 +77,7 @@ _(phase-E1 — in progress)_
 - [[ventriculo-peritoneal-shunt]] -- VP shunt technique, Kocher/Frazier entry, peritoneal access, tunneling safety, intrathecal antibiotic tap
 - [[ventriculo-atrial-shunt]] -- VA shunt via facial/IJ vein cutdown or Seldinger, T6-T7 tip target, shunt-nephritis awareness
 - [[ventriculo-pleural-shunt]] -- Salvage VPl, anti-siphon mandate, rib-top pleural entry, hydrothorax surveillance
+- [[ventriculo-gallbladder-shunt]] -- VGB salvage shunt via cholecystotomy, gallbladder-prep criteria, cholecystitis watch
 
 **Total pages:** 8
 **Last updated:** 2026-04-17
