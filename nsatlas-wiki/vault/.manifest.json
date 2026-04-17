@@ -101,6 +101,12 @@
       "pages_created": 1,
       "wiki_page": "approaches/temporal-subtemporal-craniotomy.md",
       "method": "datalab-extraction"
+    },
+    "cranial-approaches/transtentorial-approach-to-parahippocampal-lesions.pdf": {
+      "ingested_at": "2026-04-17T00:55:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/transtentorial-approach-to-parahippocampal-lesions.md",
+      "method": "datalab-extraction"
     }
   },
   "duplicates": {
