@@ -23,7 +23,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[csf-procedures/]] | 0 | CSF diversion and shunt procedures |
 | [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
 | [[operative-anatomy/]] | 0 | Operative neuroanatomy |
-| [[concepts/]] | 1 | Anatomy concept / reference hub pages |
+| [[concepts/]] | 2 | Anatomy concept / reference hub pages |
 | [[principles/]] | 1 | Principles of cranial surgery (Cohen-Gadol) |
 | [[professional/]] | 0 | Non-technical skills, career, education |
 | [[synthesis/]] | 0 | Cross-cutting integration pages |
@@ -34,6 +34,10 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[interposition-graft-bypass]] -- High-flow bypass with RAG/SVG grafts
 - [[reimplantation-bypass]] -- IC-IC branch reimplantation in four anatomic triangles
 - [[in-situ-bypass]] -- IC-IC side-to-side bypass between parallel arteries
+
+### Principles
+
+- [[scalp-incisions]] -- wound healing, flap geometry, linear vs curvilinear incisions
 
 **Total pages:** 8
 **Last updated:** 2026-04-15

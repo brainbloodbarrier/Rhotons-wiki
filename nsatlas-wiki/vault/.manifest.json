@@ -113,6 +113,12 @@
       "pages_created": 1,
       "wiki_page": "concepts/3d-anatomy.md",
       "method": "datalab-extraction"
+    },
+    "principles-of-cranial-surgery/scalp-incisions": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/scalp-incisions.md",
+      "method": "claude-chapter-distill"
     }
   },
   "duplicates": {

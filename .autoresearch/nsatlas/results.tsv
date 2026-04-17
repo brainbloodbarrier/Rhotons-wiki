@@ -17,3 +17,5 @@ iteration	commit	metric	delta	guard	status	description
 11	aa58934	742	+40	pass	-	kept	phase-B: ingest cranial-approaches/telovelar-approach
 12	15df60d	779	+37	pass	-	kept	phase-B: ingest cranial-approaches/temporal-subtemporal-craniotomy
 13	e935442	826	+47	pass	-	kept	phase-B: ingest cranial-approaches/transtentorial-approach-to-parahippocampal-lesions
+14	5ea1347	880	+54	pass	-	kept	phase-C: ingest operative-neuroanatomy/3d-anatomy
+20	-	947	+121	pass	-	kept	phase-D: ingest principles-of-cranial-surgery/scalp-incisions
