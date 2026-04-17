@@ -1487,7 +1487,8 @@
       "procedures/ventriculo-pleural-shunt.md -> [[ventriculo-gallbladder-shunt]]",
       "procedures/ventriculo-gallbladder-shunt.md -> [[csf-ventricular-shunt-reference]]",
       "procedures/decompressive-craniectomy.md -> [[open-skull-fracture-management]]",
-      "procedures/decompressive-craniectomy.md -> [[lacerated-dural-venous-sinus-repair]]"
+      "procedures/decompressive-craniectomy.md -> [[lacerated-dural-venous-sinus-repair]]",
+      "procedures/lacerated-dural-venous-sinus-repair.md -> [[open-skull-fracture-management]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
