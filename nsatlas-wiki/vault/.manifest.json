@@ -233,6 +233,12 @@
       "pages_created": 1,
       "wiki_page": "principles/lumbar-drain.md",
       "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/external-ventricular-drain": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/external-ventricular-drain.md",
+      "method": "claude-chapter-distill"
     }
   },
   "duplicates": {
