@@ -6,3 +6,4 @@ iteration	commit	metric	delta	guard	status	description
 4	-	354	+68	pass	kept	retromastoid-craniotomy.pdf (18 figs) → approaches/retromastoid-craniotomy.md (park-bench, extended retromastoid, supra/infralateral corridors)
 1	8e44f0e	365	0	pass	0	keep	phase-A: add sources to taxonomy (soft warning fix)
 2	28697f0	397	+32	pass	-	kept	phase-B: ingest cranial-approaches/contralateral-interhemispheric-transfalcine-transprecuneus-approach
+3	2b06592	438	+41	pass	-	kept	phase-B: ingest cranial-approaches/interhemispheric-craniotomy
