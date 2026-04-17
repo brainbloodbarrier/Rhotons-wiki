@@ -1712,7 +1712,11 @@
       "pathology/progressive-multifocal-leukoencephalopathy.md -> [[progressive-multifocal-leukoencephalopathy]]",
       "pathology/progressive-multifocal-leukoencephalopathy.md -> [[acoustic-neuroma]]",
       "pathology/progressive-multifocal-leukoencephalopathy.md -> [[microsurgical-mastery]]",
-      "pathology/progressive-multifocal-leukoencephalopathy.md -> [[cranial-base-surgery-lessons-learned]]"
+      "pathology/progressive-multifocal-leukoencephalopathy.md -> [[cranial-base-surgery-lessons-learned]]",
+      "procedures/hypothalamic-hamartoma-surgery.md -> [[intracranial-eeg-monitoring]]",
+      "procedures/hypothalamic-hamartoma-surgery.md -> [[epilepsy-surgery-candidate-selection]]",
+      "procedures/hypothalamic-hamartoma-surgery.md -> [[peri-insular-hemispherotomy]]",
+      "procedures/hypothalamic-hamartoma-surgery.md -> [[microsurgical-mastery]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []

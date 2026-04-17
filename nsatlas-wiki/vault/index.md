@@ -85,8 +85,6 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 
 ### Procedures (Phase E2 — CSF / Trauma / Epilepsy / Spinal / Microsurgical)
 
-### Procedures (Phase E2 — CSF / Trauma / Epilepsy / Spinal / Microsurgical)
-
 - [[endoscopic-third-ventriculostomy]] -- ETV technique, ETVSS, foramen of Monro navigation, tuber cinereum + Liliequist fenestration
 - [[external-ventricular-drain-placement]] -- Kocher's point, perpendicular trajectory, medial-canthus aiming, three-pass rule, ICP targets
 - [[ventriculo-peritoneal-shunt]] -- VP shunt technique, Kocher/Frazier entry, peritoneal access, tunneling safety, intrathecal antibiotic tap
@@ -98,6 +96,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[decompressive-craniectomy]] -- DC for refractory ICP/TBI and malignant MCA infarct — RESCUEicp/HAMLET, Kempe incision, ≥12 cm flap, expansile duraplasty
 - [[lacerated-dural-venous-sinus-repair]] -- Intraop sinus laceration management — air embolism watch, technique ladder, ligation map
 - [[open-skull-fracture-management]] -- Compound fracture OR decisions, debride/elevate, frontal sinus cranialization, bone flap keep/discard
+- [[hypothalamic-hamartoma-surgery]] -- HH Delalande classification, transcallosal/endoscopic/pterional/LITT approaches, fornix preservation
 
 **Total pages:** 8
 **Last updated:** 2026-04-17
