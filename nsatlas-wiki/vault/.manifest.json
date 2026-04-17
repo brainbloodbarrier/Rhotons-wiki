@@ -126,6 +126,12 @@
       "wiki_page": "concepts/cerebrovascular-anatomy.md",
       "method": "datalab-extraction"
     },
+    "operative-neuroanatomy/infratentorial-operative-anatomy.pdf": {
+      "ingested_at": "2026-04-17T01:15:00Z",
+      "pages_created": 1,
+      "wiki_page": "concepts/infratentorial-operative-anatomy.md",
+      "method": "datalab-extraction"
+    },
     "principles-of-cranial-surgery/scalp-incisions": {
       "ingested_at": "2026-04-17T00:00:00Z",
       "pages_created": 1,
