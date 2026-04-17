@@ -107,6 +107,12 @@
       "pages_created": 1,
       "wiki_page": "approaches/transtentorial-approach-to-parahippocampal-lesions.md",
       "method": "datalab-extraction"
+    },
+    "operative-neuroanatomy/3d-anatomy.pdf": {
+      "ingested_at": "2026-04-17T01:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "concepts/3d-anatomy.md",
+      "method": "datalab-extraction"
     }
   },
   "duplicates": {
