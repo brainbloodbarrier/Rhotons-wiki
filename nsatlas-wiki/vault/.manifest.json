@@ -317,6 +317,13 @@
       "wiki_page": "pathology/medial-sphenoid-wing-meningioma.md",
       "method": "claude-chapter-distill",
       "phase": "E1-resume"
+    },
+    "cranial-base-surgery/preoperative-considerations-instrumentation-and-patient-positioning": {
+      "ingested_at": "2026-04-17T02:30:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/cranial-base-preoperative-considerations.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
     }
   },
   "duplicates": {
