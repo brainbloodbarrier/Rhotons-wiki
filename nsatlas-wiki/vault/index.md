@@ -81,6 +81,7 @@ _(phase-E1 — in progress)_
 - [[csf-ventricular-shunt-reference]] -- Shunt valve catalog (procedures side) — Aesculap proGAV/proSA, Codman Certas Plus, Medtronic Strata, Sophysa Polaris, anti-siphon + MR safety
 
 - [[decompressive-craniectomy]] -- DC for refractory ICP/TBI and malignant MCA infarct — RESCUEicp/HAMLET, Kempe incision, ≥12 cm flap, expansile duraplasty
+- [[lacerated-dural-venous-sinus-repair]] -- Intraop sinus laceration management — air embolism watch, technique ladder, ligation map
 
 **Total pages:** 8
 **Last updated:** 2026-04-17

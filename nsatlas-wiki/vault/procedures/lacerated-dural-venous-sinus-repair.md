@@ -8,7 +8,6 @@ tags:
   - hemostasis
   - surgical-technique
   - intraoperative
-  - hemifacial-spasm
 aliases:
   - sinus laceration repair
   - dural sinus injury
