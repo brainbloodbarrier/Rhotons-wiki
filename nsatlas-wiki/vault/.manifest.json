@@ -114,6 +114,12 @@
       "wiki_page": "concepts/3d-anatomy.md",
       "method": "datalab-extraction"
     },
+    "operative-neuroanatomy/cavernous-sinus-anatomy.pdf": {
+      "ingested_at": "2026-04-17T01:05:00Z",
+      "pages_created": 1,
+      "wiki_page": "concepts/cavernous-sinus-anatomy.md",
+      "method": "datalab-extraction"
+    },
     "principles-of-cranial-surgery/scalp-incisions": {
       "ingested_at": "2026-04-17T00:00:00Z",
       "pages_created": 1,
