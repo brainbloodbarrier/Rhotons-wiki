@@ -359,6 +359,13 @@
       "wiki_page": "pathology/menieres-disease.md",
       "method": "claude-chapter-distill",
       "phase": "E1-resume"
+    },
+    "cranial-nerve-compression-syndromes/microvascular-decompression-for-trigeminal-neuralgia": {
+      "ingested_at": "2026-04-17T03:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "pathology/trigeminal-neuralgia-mvd.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1-resume"
     }
   },
   "duplicates": {
