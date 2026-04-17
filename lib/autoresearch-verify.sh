@@ -31,7 +31,7 @@ LINKS=$(grep -r '\[\[' "$VAULT" --include="*.md" 2>/dev/null \
 WORDS=$(find "$VAULT" -name "*.md" \
   -not -path "*/.obsidian/*" \
   -not -path "*/.smart-env/*" \
-  -exec cat {} \; 2>/dev/null | wc -w | tr -d ' ') || WORDS=0
+  -exec cat {} + 2>/dev/null | wc -w | tr -d ' ') || WORDS=0
 
 SCORE=$(( (PAGES * 10) + (LINKS * 2) + (WORDS / 100) ))
 echo "$SCORE"
