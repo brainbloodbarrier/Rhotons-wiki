@@ -80,3 +80,4 @@ iteration	commit	metric	delta	guard	status	description
 79	-	3970	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/spinal-cord-avm
 54	-	4045	-	pass	-	kept	phase-E1-resume iter54 — ingest dysplastic-cerebellar-gangliocytoma
 80	-	4045	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/spinal-cord-cavernous-malformation
+55	-	4075	-	pass	-	kept	phase-E1-resume iter55 — ingest progressive-multifocal-leukoencephalopathy

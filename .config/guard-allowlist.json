@@ -1741,7 +1741,8 @@
       "procedures/spinal-av-fistula-disconnection.md -> [[spinal-cord-cavernous-malformation-resection]]",
       "procedures/spinal-cord-avm-surgery.md -> [[spinal-cord-cavernous-malformation-resection]]",
       "pathology/dysplastic-cerebellar-gangliocytoma.md -> [[cowden-syndrome]]",
-      "pathology/dysplastic-cerebellar-gangliocytoma.md -> [[telovelar-approach]]"
+      "pathology/dysplastic-cerebellar-gangliocytoma.md -> [[telovelar-approach]]",
+      "pathology/progressive-multifocal-leukoencephalopathy.md -> [[stereotactic-biopsy]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
