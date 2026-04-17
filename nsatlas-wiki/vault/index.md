@@ -80,6 +80,8 @@ _(phase-E1 — in progress)_
 - [[ventriculo-gallbladder-shunt]] -- VGB salvage shunt via cholecystotomy, gallbladder-prep criteria, cholecystitis watch
 - [[csf-ventricular-shunt-reference]] -- Shunt valve catalog (procedures side) — Aesculap proGAV/proSA, Codman Certas Plus, Medtronic Strata, Sophysa Polaris, anti-siphon + MR safety
 
+- [[decompressive-craniectomy]] -- DC for refractory ICP/TBI and malignant MCA infarct — RESCUEicp/HAMLET, Kempe incision, ≥12 cm flap, expansile duraplasty
+
 **Total pages:** 8
 **Last updated:** 2026-04-17
 

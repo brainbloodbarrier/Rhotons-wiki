@@ -1485,7 +1485,9 @@
       "references/cranial-base-surgery-general-principles.md -> [[medial-sphenoid-wing-meningioma]]",
       "procedures/ventriculo-pleural-shunt.md -> [[csf-ventricular-shunt-reference]]",
       "procedures/ventriculo-pleural-shunt.md -> [[ventriculo-gallbladder-shunt]]",
-      "procedures/ventriculo-gallbladder-shunt.md -> [[csf-ventricular-shunt-reference]]"
+      "procedures/ventriculo-gallbladder-shunt.md -> [[csf-ventricular-shunt-reference]]",
+      "procedures/decompressive-craniectomy.md -> [[open-skull-fracture-management]]",
+      "procedures/decompressive-craniectomy.md -> [[lacerated-dural-venous-sinus-repair]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
