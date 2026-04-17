@@ -24,7 +24,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
 | [[operative-anatomy/]] | 0 | Operative neuroanatomy |
 | [[concepts/]] | 6 | Anatomy concept / reference hub pages |
-| [[principles/]] | 12 | Principles of cranial surgery (Cohen-Gadol) |
+| [[principles/]] | 13 | Principles of cranial surgery (Cohen-Gadol) |
 | [[professional/]] | 0 | Non-technical skills, career, education |
 | [[synthesis/]] | 0 | Cross-cutting integration pages |
 
@@ -49,6 +49,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[instrumentation]] -- head fixation, microscope, cranial/microsurgical instrument catalog
 - [[use-and-misuse-of-instruments]] -- scalpel, drill, bipolar, retractor discipline
 - [[microscope-and-mouthpiece]] -- operating microscope, mouthswitch, magnification, foot pedals
+- [[surgeons-philosophy-and-operating-position]] -- fatigue management, ergonomics, workflow philosophy
 
 **Total pages:** 8
 **Last updated:** 2026-04-15
