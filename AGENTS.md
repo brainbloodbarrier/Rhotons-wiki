@@ -26,6 +26,7 @@ One row per skill. Every row resolves to a real `.skills/<name>/SKILL.md` on dis
 | "audit" / "lint" / "find broken links" / "wiki health" | `.skills/wiki-lint/SKILL.md` |
 | "rebuild" / "start over" / "archive" / "restore" | `.skills/wiki-rebuild/SKILL.md` |
 | "link my pages" / "cross-reference" / "connect my wiki" | `.skills/cross-linker/SKILL.md` |
+| "cross-link wikis" / "bridge rhoton to ncx" / "populate crossmap" / "connect my wikis" | `.skills/cross-wiki-linker/SKILL.md` |
 | "fix my tags" / "normalize tags" / "tag audit" | `.skills/tag-taxonomy/SKILL.md` |
 | "update wiki" / "sync to wiki" / "save this to my wiki" | `.skills/wiki-update/SKILL.md` |
 | "run autoresearch" / "start a campaign" / `/autoresearch` | `.skills/autoresearch/SKILL.md` |
