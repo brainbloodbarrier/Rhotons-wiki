@@ -78,6 +78,7 @@ _(phase-E1 — in progress)_
 - [[ventriculo-atrial-shunt]] -- VA shunt via facial/IJ vein cutdown or Seldinger, T6-T7 tip target, shunt-nephritis awareness
 - [[ventriculo-pleural-shunt]] -- Salvage VPl, anti-siphon mandate, rib-top pleural entry, hydrothorax surveillance
 - [[ventriculo-gallbladder-shunt]] -- VGB salvage shunt via cholecystotomy, gallbladder-prep criteria, cholecystitis watch
+- [[csf-ventricular-shunt-reference]] -- Shunt valve catalog (procedures side) — Aesculap proGAV/proSA, Codman Certas Plus, Medtronic Strata, Sophysa Polaris, anti-siphon + MR safety
 
 **Total pages:** 8
 **Last updated:** 2026-04-17
