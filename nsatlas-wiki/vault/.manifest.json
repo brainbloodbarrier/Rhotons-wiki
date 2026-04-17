@@ -59,6 +59,12 @@
       "pages_created": 1,
       "wiki_page": "approaches/midline-supracerebellar-craniotomy.md",
       "method": "datalab-extraction"
+    },
+    "cranial-approaches/occipital-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:20:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/occipital-craniotomy.md",
+      "method": "datalab-extraction"
     }
   },
   "duplicates": {
