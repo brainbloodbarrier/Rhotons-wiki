@@ -104,6 +104,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[operative-spinal-cord-anatomy]] -- Dorsal/ventral surface landmarks, safe entry zones, ASA/PSA, IONM
 - [[extramedullary-spinal-cord-tumor-resection]] -- IDEM tumors (schwannoma, meningioma, neurofibroma) microsurgical resection
 - [[intramedullary-spinal-cord-tumor-resection]] -- IMSCT (ependymoma, astrocytoma, hemangioblastoma) midline myelotomy, IONM thresholds
+- [[spinal-av-fistula-disconnection]] -- Type I sDAVF disconnection at root sleeve, ICG confirmation, Foix-Alajouanine
 
 **Total pages:** 8
 **Last updated:** 2026-04-17
