@@ -73,6 +73,7 @@ _(phase-E1 — in progress)_
 
 - [[endoscopic-third-ventriculostomy]] -- ETV technique, ETVSS, foramen of Monro navigation, tuber cinereum + Liliequist fenestration
 - [[external-ventricular-drain-placement]] -- Kocher's point, perpendicular trajectory, medial-canthus aiming, three-pass rule, ICP targets
+- [[ventriculo-peritoneal-shunt]] -- VP shunt technique, Kocher/Frazier entry, peritoneal access, tunneling safety, intrathecal antibiotic tap
 
 **Total pages:** 8
 **Last updated:** 2026-04-17
