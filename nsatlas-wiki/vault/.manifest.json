@@ -35,6 +35,12 @@
       "pages_created": 1,
       "wiki_page": "approaches/retromastoid-craniotomy.md",
       "method": "claude-pdf-read"
+    },
+    "cranial-approaches/contralateral-interhemispheric-transfalcine-transprecuneus-approach.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/contralateral-interhemispheric-transfalcine-transprecuneus-approach.md",
+      "method": "datalab-extraction"
     }
   },
   "duplicates": {
