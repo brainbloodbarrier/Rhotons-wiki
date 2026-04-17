@@ -100,6 +100,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[intracranial-eeg-monitoring]] -- Invasive iEEG (subdural grids vs SEEG), hypothesis-driven implantation, functional mapping
 - [[peri-insular-hemispherotomy]] -- Modern disconnective hemispherotomy — suprasylvian/infrasylvian corridors, full callosotomy
 - [[epilepsy-surgery-candidate-selection]] -- Presurgical evaluation tiers, concordance logic, syndrome pathways, palliative options
+- [[microsurgical-mastery]] -- Deliberate practice, mental rehearsal, lab training, video review, psychological discipline
 
 **Total pages:** 8
 **Last updated:** 2026-04-17
