@@ -61,3 +61,4 @@ iteration	commit	metric	delta	guard	status	description
 45	-	3144	+184	pass	-	kept	phase-E1-resume iter45 — ingest cranial-base-surgery-lessons-learned
 69	-	3186	keep	pass	-	kept	phase-E2: ingest emergency-neurosurgery-and-trauma/open-skull-fracture
 70	-	3281	keep	pass	-	kept	phase-E2: ingest epilepsy-surgery/hypothalamic-hamartoma
+46	-	3281	+137	pass	-	kept	phase-E1-resume iter46 — ingest medial-sphenoid-wing-meningioma
