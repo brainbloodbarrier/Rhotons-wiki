@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--intraoperative-hemostasis",
+  "title": "Intraoperative Hemostasis",
+  "category": "principles-of-cranial-surgery",
+  "slug": "intraoperative-hemostasis",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/intraoperative-hemostasis.pdf",
+  "expected_page_count": 8,
+  "api_page_count": 8,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 5,
+    "final_cost_cents": 4
+  },
+  "checkpoint_id": "checkpoint_Wva17ME4xxftWKvkHhoBW-kkXSe4lfl1quIBmd1kqc4",
+  "request_id": "JhAek9zXk6FpegUCbhX4MQ",
+  "markdown_bytes": 16148,
+  "markdown_sha256": "0e7957b1c75e73a858527b26b3e63c4bb1b93b01f088cbff696ea683173f1215",
+  "image_count": 8,
+  "saved_at": "2026-04-14T13:29:02+00:00"
+}

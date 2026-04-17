@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-base-surgery--anterior-petrosectomy",
+  "title": "Anterior Petrosectomy",
+  "category": "cranial-base-surgery",
+  "slug": "anterior-petrosectomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/skull-base-exposures/anterior-petrosectomy.pdf",
+  "expected_page_count": 32,
+  "api_page_count": 32,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 20,
+    "final_cost_cents": 15
+  },
+  "checkpoint_id": "checkpoint_iphWe8xp2svKlIBbYYd2ZFFv3_V1i3of-Pa4GHEJyXs",
+  "request_id": "emqhANjy3O-HmgxZ5N7FgA",
+  "markdown_bytes": 58567,
+  "markdown_sha256": "f9cd923bd84c3e5b66d8f90655921750d2c5bd92afb699f0f886b634ab688604",
+  "image_count": 58,
+  "saved_at": "2026-04-14T12:45:41+00:00"
+}

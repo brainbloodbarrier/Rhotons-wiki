@@ -1,0 +1,20 @@
+{
+  "article_id": "operative-neuroanatomy--cerebrovascular-anatomy",
+  "title": "Cerebrovascular Anatomy",
+  "category": "operative-neuroanatomy",
+  "slug": "cerebrovascular-anatomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/3d-anatomy/cerebrovascular-anatomy.pdf",
+  "expected_page_count": 10,
+  "api_page_count": 10,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 6,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_1Ahxj2yBmtIVZIFH3s3CchUOxiTHacBmr3mNQbrAdfs",
+  "request_id": "xeT4M0RKXKz384oo_3uQpg",
+  "markdown_bytes": 19700,
+  "markdown_sha256": "f7c3dfbecc23c8bec5d7f10f1761ed2910ffcad4dd46b1d1bbaa186962ef4646",
+  "image_count": 16,
+  "saved_at": "2026-04-14T13:20:54+00:00"
+}

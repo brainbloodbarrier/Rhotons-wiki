@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--skull-clamp-placement",
+  "title": "Skull Clamp Placement",
+  "category": "principles-of-cranial-surgery",
+  "slug": "skull-clamp-placement",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/skull-clamp-placement.pdf",
+  "expected_page_count": 12,
+  "api_page_count": 12,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 8,
+    "final_cost_cents": 6
+  },
+  "checkpoint_id": "checkpoint_eIs4v3_fuIHAxwjLnYWmWxUyEyAn_PAYc-SilyTAnUA",
+  "request_id": "43DB9hRoFEWApyTxPvx1Mw",
+  "markdown_bytes": 12115,
+  "markdown_sha256": "474b26e177e57763a54037e1b2ed454821228961550d446e39194642a0745803",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:36:20+00:00"
+}

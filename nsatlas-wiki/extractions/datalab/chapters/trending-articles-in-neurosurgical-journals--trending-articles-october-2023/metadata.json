@@ -1,0 +1,20 @@
+{
+  "article_id": "trending-articles-in-neurosurgical-journals--trending-articles-october-2023",
+  "title": "Trending Articles October 2023",
+  "category": "trending-articles-in-neurosurgical-journals",
+  "slug": "trending-articles-october-2023",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/trending-articles-in-neurosurgical-journals/trending-articles-october-2023.pdf",
+  "expected_page_count": 7,
+  "api_page_count": 7,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 5,
+    "final_cost_cents": 4
+  },
+  "checkpoint_id": "checkpoint_SUMIyTrJ6-n8LZjzadJQgzDFPL9lcJjcXkgIosM6peM",
+  "request_id": "zIZbzINwNq0RLWHXbsXASw",
+  "markdown_bytes": 16360,
+  "markdown_sha256": "4049a7bb0083371b25a8c7a57196adddf85e2828b8b72be1c8f7978d1da37a2b",
+  "image_count": 7,
+  "saved_at": "2026-04-14T13:46:59+00:00"
+}

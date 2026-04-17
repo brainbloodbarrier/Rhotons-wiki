@@ -1,0 +1,20 @@
+{
+  "article_id": "non-technical-skills-in-neurosurgery--dealing-with-burnout",
+  "title": "Dealing With Burnout",
+  "category": "non-technical-skills-in-neurosurgery",
+  "slug": "dealing-with-burnout",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/dealing-with-burnout.pdf",
+  "expected_page_count": 6,
+  "api_page_count": 6,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 4,
+    "final_cost_cents": 3
+  },
+  "checkpoint_id": "checkpoint_hBUIU9dnryW1KusxHZPGlY2OXFiGf0Qfi0BZ610hfSA",
+  "request_id": "603GTE0e4dCKt9di2Bv-4w",
+  "markdown_bytes": 13428,
+  "markdown_sha256": "ecc210aa3c424812498bb727daa357936f7d7ba5da151e52ab691038f017611f",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:15:08+00:00"
+}

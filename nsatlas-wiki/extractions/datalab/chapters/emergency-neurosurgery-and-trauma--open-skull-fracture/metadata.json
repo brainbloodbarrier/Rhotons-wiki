@@ -1,0 +1,20 @@
+{
+  "article_id": "emergency-neurosurgery-and-trauma--open-skull-fracture",
+  "title": "Open Skull Fracture",
+  "category": "emergency-neurosurgery-and-trauma",
+  "slug": "open-skull-fracture",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/emergency-neurosurgery-and-trauma/open-skull-fracture.pdf",
+  "expected_page_count": 16,
+  "api_page_count": 16,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 10,
+    "final_cost_cents": 8
+  },
+  "checkpoint_id": "checkpoint_nDbl3TdDyX3m5mMbyVDCg1kfRt-NXfPBqYqdDMv359c",
+  "request_id": "plADmKuIYGHU8MgYQgpiwQ",
+  "markdown_bytes": 35825,
+  "markdown_sha256": "4c73f9bb3a31191f04a29359db526b081add02de76aaa5bb001d15b6a90d795a",
+  "image_count": 9,
+  "saved_at": "2026-04-14T13:00:54+00:00"
+}

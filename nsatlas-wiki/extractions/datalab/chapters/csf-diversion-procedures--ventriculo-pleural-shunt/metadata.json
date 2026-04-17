@@ -1,0 +1,20 @@
+{
+  "article_id": "csf-diversion-procedures--ventriculo-pleural-shunt",
+  "title": "Ventriculo Pleural Shunt",
+  "category": "csf-diversion-procedures",
+  "slug": "ventriculo-pleural-shunt",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/ventriculo-pleural-shunt.pdf",
+  "expected_page_count": 9,
+  "api_page_count": 9,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 6,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_whyTS5V7eXgC8DhlklqxmbDMgbk6Akg44rbSCFq4PeY",
+  "request_id": "Ah9PeZa_pRqsfj6g85WUtA",
+  "markdown_bytes": 16625,
+  "markdown_sha256": "5ec324057a1ea520eef006852455eccf8b09e0840b0a250285a4aedc7d77a5d7",
+  "image_count": 6,
+  "saved_at": "2026-04-14T12:59:18+00:00"
+}

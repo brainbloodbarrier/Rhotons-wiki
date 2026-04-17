@@ -1,0 +1,20 @@
+{
+  "article_id": "spinal-cord-surgery--operative-spinal-cord-anatomy",
+  "title": "Operative Spinal Cord Anatomy",
+  "category": "spinal-cord-surgery",
+  "slug": "operative-spinal-cord-anatomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/operative-spinal-cord-anatomy.pdf",
+  "expected_page_count": 18,
+  "api_page_count": 18,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 11,
+    "final_cost_cents": 9
+  },
+  "checkpoint_id": "checkpoint_O9UslwPHXdOJ_ZrcTXBzdK1dyHKPOCqZyrGDRa82DfQ",
+  "request_id": "KuiippFAhJNBkKNMnpIJLw",
+  "markdown_bytes": 35265,
+  "markdown_sha256": "2297551744eaca0117bc92834036239e44b14f6355ace39e78d1565b6f6bcccf",
+  "image_count": 13,
+  "saved_at": "2026-04-14T13:44:47+00:00"
+}

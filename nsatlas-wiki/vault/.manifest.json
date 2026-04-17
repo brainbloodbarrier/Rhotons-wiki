@@ -1,0 +1,71 @@
+{
+  "version": "1.0",
+  "project": "nsatlas-wiki",
+  "source": "Neurosurgical Atlas (nsatlas.com)",
+  "author": "Aaron Cohen-Gadol",
+  "sources": {
+    "cranial-approaches/general-principles.pdf": {
+      "sha256": "caaa86810844af3683a50552db865c7acc4ed34dec3871a06e2d2ba54dbd1eed",
+      "ingested_at": "2026-04-13T23:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/cranial-approaches-general-principles.md",
+      "method": "claude-pdf-read"
+    },
+    "cranial-approaches/pterional-craniotomy.pdf": {
+      "sha256": "223139974d67d6cd2cfed818b3348862139c872e99aa1c1ce8f847a95f31e19b",
+      "ingested_at": "2026-04-13T23:30:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/pterional-craniotomy.md",
+      "method": "claude-pdf-read"
+    },
+    "cranial-approaches/supraorbital-craniotomy.pdf": {
+      "ingested_at": "2026-04-14T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/supraorbital-craniotomy.md",
+      "method": "claude-pdf-read"
+    },
+    "cranial-approaches/bifrontal-craniotomy.pdf": {
+      "ingested_at": "2026-04-14T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/bifrontal-craniotomy.md",
+      "method": "claude-pdf-read"
+    },
+    "cranial-approaches/retromastoid-craniotomy.pdf": {
+      "ingested_at": "2026-04-14T00:30:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/retromastoid-craniotomy.md",
+      "method": "claude-pdf-read"
+    }
+  },
+  "duplicates": {
+    "csf-diversion-procedures/external-ventricular-drain.pdf": {
+      "canonical": "principles-of-cranial-surgery/external-ventricular-drain.pdf",
+      "status": "duplicate-of"
+    },
+    "csf-diversion-procedures/ventricular-shunt-reference.pdf": {
+      "canonical": "principles-of-cranial-surgery/ventricular-shunt-reference.pdf",
+      "status": "duplicate-of"
+    },
+    "cerebrovascular-surgery/aneurysms/microscope-and-mouthpiece.pdf": {
+      "canonical": "principles-of-cranial-surgery/microscope-and-mouthpiece-2.pdf",
+      "status": "duplicate-of"
+    }
+  },
+  "stubs": [
+    "epilepsy-surgery/intracranial-monitoring-study.pdf",
+    "operative-neuroanatomy/supratentorial-operative-anatomy.pdf",
+    "operative-neuroanatomy/3d-anatomy/cavernous-sinus-anatomy.pdf"
+  ],
+  "stats": {
+    "content_pages": 5,
+    "approaches": 5,
+    "techniques": 0,
+    "pathology": 0,
+    "csf_procedures": 0,
+    "neuroradiology": 0,
+    "operative_anatomy": 0,
+    "professional": 0,
+    "synthesis": 0,
+    "score": 354
+  }
+}

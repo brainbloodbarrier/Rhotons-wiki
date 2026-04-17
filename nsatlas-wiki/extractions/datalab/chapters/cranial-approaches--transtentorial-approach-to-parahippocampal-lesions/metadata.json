@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--transtentorial-approach-to-parahippocampal-lesions",
+  "title": "Transtentorial Approach To Parahippocampal Lesions",
+  "category": "cranial-approaches",
+  "slug": "transtentorial-approach-to-parahippocampal-lesions",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/transtentorial-approach-to-parahippocampal-lesions.pdf",
+  "expected_page_count": 18,
+  "api_page_count": 18,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 11,
+    "final_cost_cents": 9
+  },
+  "checkpoint_id": "checkpoint_n3hDBgI2NHI_UCKaYGiAnErfJp2U7hJPRLUZV3sKZcQ",
+  "request_id": "7zgXuS8c8W5A-Tto1w5kFw",
+  "markdown_bytes": 34886,
+  "markdown_sha256": "4d9e2c03160e45f218ad9477a8b274595dbbcde1dbf554006d5698cb32790f30",
+  "image_count": 17,
+  "saved_at": "2026-04-14T12:43:20+00:00"
+}

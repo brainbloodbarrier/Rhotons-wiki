@@ -1,0 +1,19 @@
+{
+  "article_id": "non-technical-skills-in-neurosurgery--resilience-in-neurosurgery",
+  "title": "Resilience In Neurosurgery",
+  "category": "non-technical-skills-in-neurosurgery",
+  "slug": "resilience-in-neurosurgery",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/resilience-in-neurosurgery.pdf",
+  "expected_page_count": 9,
+  "api_page_count": 9,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 5.0
+  },
+  "checkpoint_id": "checkpoint_wlScwO9XxkLXqqUj0BfjNvbaauiqkVyODgsiQkgoLTg",
+  "request_id": "EbPq0bm-8YXE49CRYcU2RQ",
+  "markdown_bytes": 22046,
+  "markdown_sha256": "f9fa4ad110fccd47a30dfb6f8032e2e2facd2842ae482e08f974d395bb9754de",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:17:03+00:00"
+}

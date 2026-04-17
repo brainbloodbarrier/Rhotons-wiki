@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "Read(//Users/fax/.claude/**)",
+      "Bash(chmod +x lib/autoresearch-guard.sh)",
+      "Bash(lib/autoresearch-guard.sh rhoton *)",
+      "Bash(echo \"---EXIT: $?---\")",
+      "Read(//tmp/**)",
+      "Bash(/opt/homebrew/bin/bash --version)",
+      "Bash(/usr/local/bin/bash --version)",
+      "Bash(env bash *)",
+      "Read(//private/tmp/**)",
+      "Bash(chmod +x lib/guard-bootstrap-allowlist.sh)",
+      "Bash(lib/guard-bootstrap-allowlist.sh)"
+    ]
+  }
+}

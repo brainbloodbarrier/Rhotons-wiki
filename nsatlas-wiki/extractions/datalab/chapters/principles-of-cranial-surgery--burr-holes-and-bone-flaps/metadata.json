@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--burr-holes-and-bone-flaps",
+  "title": "Burr Holes And Bone Flaps",
+  "category": "principles-of-cranial-surgery",
+  "slug": "burr-holes-and-bone-flaps",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/burr-holes-and-bone-flaps.pdf",
+  "expected_page_count": 13,
+  "api_page_count": 13,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 8,
+    "final_cost_cents": 6
+  },
+  "checkpoint_id": "checkpoint_BkcAWutjsB9bT5f7VpBs7-XgKEe1m6HvlFdG2Ha97bc",
+  "request_id": "OcdNAeqZlg59j70pBmq_kg",
+  "markdown_bytes": 22083,
+  "markdown_sha256": "660e1015b976043363752730b8879560a891143afb1f662d92e12378555c66b9",
+  "image_count": 11,
+  "saved_at": "2026-04-14T13:25:52+00:00"
+}

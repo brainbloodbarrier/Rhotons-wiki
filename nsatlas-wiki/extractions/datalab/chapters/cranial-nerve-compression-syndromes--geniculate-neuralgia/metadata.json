@@ -1,0 +1,19 @@
+{
+  "article_id": "cranial-nerve-compression-syndromes--geniculate-neuralgia",
+  "title": "Geniculate Neuralgia",
+  "category": "cranial-nerve-compression-syndromes",
+  "slug": "geniculate-neuralgia",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-nerve-compression-syndromes/geniculate-neuralgia.pdf",
+  "expected_page_count": 16,
+  "api_page_count": 16,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 8.0
+  },
+  "checkpoint_id": "checkpoint_3qM6IyVgCR-lDXw7aharIkfNbMMVUWzibIYJlR3GTls",
+  "request_id": "5j-phVOrn5JD9wip-0l6Jw",
+  "markdown_bytes": 29378,
+  "markdown_sha256": "c7d9b9476dda2cbc166eb9a86f286cb9dfc47bbaeacd2e3277d0b401f3e678e3",
+  "image_count": 12,
+  "saved_at": "2026-04-14T12:52:51+00:00"
+}

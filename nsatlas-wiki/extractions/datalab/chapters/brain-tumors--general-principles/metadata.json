@@ -1,0 +1,20 @@
+{
+  "article_id": "brain-tumors--general-principles",
+  "title": "General Principles",
+  "category": "brain-tumors",
+  "slug": "general-principles",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/brain-tumors/general-principles.pdf",
+  "expected_page_count": 11,
+  "api_page_count": 11,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 7,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_UX8OYZ1ib5_fhbOdmXXFCUgfYCeF8YWI6AqFsf7uZa0",
+  "request_id": "wp6Fx_-yUcG_RyF5jfpDQg",
+  "markdown_bytes": 20699,
+  "markdown_sha256": "e2bd05dd56216ae78501f38ba65aa6a5a2634e49b05c4ad398dc0f9f83cfcf1e",
+  "image_count": 5,
+  "saved_at": "2026-04-14T12:22:49+00:00"
+}

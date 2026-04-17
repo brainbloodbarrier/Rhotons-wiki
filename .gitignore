@@ -1,18 +1,39 @@
+# Secrets and local env
 .env
+.env.local
+
+# OS / editor noise
 .DS_Store
 *.pyc
 __pycache__/
+
+# Large binary sources (kept outside repo per AGENTS.md)
 *.pdf
 
 # Agent state (local only)
 .omc/
 .remember/
 .ruff_cache/
-autoresearch-results.tsv
+.claude/worktrees/
 
-# Obsidian local state
+# Autoresearch output (moved to .autoresearch/<wiki>/ in Phase 3)
+autoresearch-results.tsv
+*-autoresearch-results.tsv
+.autoresearch/*
+!.autoresearch/.gitkeep
+
+# Obsidian plugin state (machine-generated, per-user)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/plugins/*/data.json
+
+# Vault-level plugin/embedding caches (machine-generated)
+**/.smart-env/
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/appearance.json
+**/.obsidian/plugins/*/data.json
 
 # Agent skill symlinks (created by setup.sh) — these are just pointers to .skills/
 # We track them so cloners get the symlinks too, but if your git doesn't

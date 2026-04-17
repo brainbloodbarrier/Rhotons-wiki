@@ -1,0 +1,19 @@
+{
+  "article_id": "medical-student-guide-for-matching-in-neurosurgery--subinternships",
+  "title": "Subinternships",
+  "category": "medical-student-guide-for-matching-in-neurosurgery",
+  "slug": "subinternships",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/subinternships.pdf",
+  "expected_page_count": 12,
+  "api_page_count": 12,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 6.0
+  },
+  "checkpoint_id": "checkpoint_s5segcfU4HvXpBPhwR_TLHyqnF1kU3w9MgH-6MhXEKc",
+  "request_id": "o-s-EzzgRx6PzW8hau5B6A",
+  "markdown_bytes": 24342,
+  "markdown_sha256": "201c6b81debed2792135c6770eacaddd448c418a4a4f3c4a9374e6d9bba822cb",
+  "image_count": 3,
+  "saved_at": "2026-04-14T13:11:33+00:00"
+}

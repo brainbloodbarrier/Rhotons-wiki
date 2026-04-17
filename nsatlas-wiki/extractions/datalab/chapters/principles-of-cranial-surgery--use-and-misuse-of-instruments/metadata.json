@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--use-and-misuse-of-instruments",
+  "title": "Use And Misuse Of Instruments",
+  "category": "principles-of-cranial-surgery",
+  "slug": "use-and-misuse-of-instruments",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/use-and-misuse-of-instruments.pdf",
+  "expected_page_count": 9,
+  "api_page_count": 9,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 6,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_UeDu41FwCMeyyfS32IeNGL7HlTEeJj8vuyhjDg6vx2o",
+  "request_id": "upyB_dfdwq1_wJcSpKOgHw",
+  "markdown_bytes": 21890,
+  "markdown_sha256": "f1a31a4ff64d56681053678cede8cb62898175357aa984a9b84c5e5443f4f467",
+  "image_count": 7,
+  "saved_at": "2026-04-14T13:39:12+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "stage": 0,
+  "pipeline": "nsatlas",
+  "generated_at": "2026-04-14T12:12:37+00:00",
+  "env_file": "/Users/fax/code/pkm-obsidian-wiki/.env",
+  "key_fingerprint": "f2b74f6c",
+  "health": {
+    "url": "https://www.datalab.to/api/v1/health",
+    "http_status": 200,
+    "body": {
+      "status": "ok"
+    }
+  },
+  "sources": {
+    "dir": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english",
+    "pdf_count": 106,
+    "total_size_bytes": 1445413219,
+    "total_size_mb": 1378.45,
+    "largest_file": "extramedullary-spinal-cord-tumor.pdf",
+    "largest_size_mb": 50.93,
+    "all_under_200mb_cap": true,
+    "sample_file": "intracranial-monitoring-study.pdf",
+    "sample_sha256": "12e99fe1168d41d42b0c4fe14f5703aa63b9fac85ac77717350c463f145d25b4"
+  },
+  "python": {
+    "version": "3.14.4",
+    "requests": "2.33.0"
+  },
+  "result": "OK"
+}

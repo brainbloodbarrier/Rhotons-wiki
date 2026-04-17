@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-nerve-compression-syndromes--menieres-disease",
+  "title": "Menieres Disease",
+  "category": "cranial-nerve-compression-syndromes",
+  "slug": "menieres-disease",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-nerve-compression-syndromes/menieres-disease.pdf",
+  "expected_page_count": 15,
+  "api_page_count": 15,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7
+  },
+  "checkpoint_id": "checkpoint_vQSiWC7NU4XEMzLxBKCaCbX6FNWfoTOvGVom5xIljQA",
+  "request_id": "K6iaYxrtBv7h7F0AJebm0Q",
+  "markdown_bytes": 33142,
+  "markdown_sha256": "be35834471c43d8faeee8334443487ec03209860a620ee2d2ed45d38304815dd",
+  "image_count": 9,
+  "saved_at": "2026-04-14T12:55:03+00:00"
+}

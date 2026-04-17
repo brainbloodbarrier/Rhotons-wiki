@@ -135,3 +135,4 @@ Optimal patient positioning uses gravity to retract the brain, eliminating the n
 - [[herniation-syndromes]] — When cisterns are obliterated
 - [[choroidal-fissure]] — Natural transchoroidal plane
 - [[cerebellomedullary-fissure]] — Telovelar access plane
+- [[operative-techniques]] — Microsurgical instrumentation and tissue handling

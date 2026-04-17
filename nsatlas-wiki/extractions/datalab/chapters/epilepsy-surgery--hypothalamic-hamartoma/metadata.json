@@ -1,0 +1,20 @@
+{
+  "article_id": "epilepsy-surgery--hypothalamic-hamartoma",
+  "title": "Hypothalamic Hamartoma",
+  "category": "epilepsy-surgery",
+  "slug": "hypothalamic-hamartoma",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/epilepsy-surgery/hypothalamic-hamartoma.pdf",
+  "expected_page_count": 14,
+  "api_page_count": 14,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7
+  },
+  "checkpoint_id": "checkpoint_Vdf9tc_QgN_WvnkJw0D0D4V5n9h4MBTa0bVPegy5iWY",
+  "request_id": "sSwLihQsZPk3mQGwEpZmmg",
+  "markdown_bytes": 30881,
+  "markdown_sha256": "d4e895de263107d16abd0b412d1580627f6a3c5cd928f69e2651eed7d640a9a8",
+  "image_count": 10,
+  "saved_at": "2026-04-14T13:01:40+00:00"
+}

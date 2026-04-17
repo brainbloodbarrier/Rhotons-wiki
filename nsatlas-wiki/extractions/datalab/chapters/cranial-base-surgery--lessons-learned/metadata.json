@@ -1,0 +1,19 @@
+{
+  "article_id": "cranial-base-surgery--lessons-learned",
+  "title": "Lessons Learned",
+  "category": "cranial-base-surgery",
+  "slug": "lessons-learned",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-base-surgery/lessons-learned.pdf",
+  "expected_page_count": 9,
+  "api_page_count": 9,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 5.0
+  },
+  "checkpoint_id": "checkpoint_8NJI8Xog-ILWd-Lqkh0_3yU8hMio6XYehjaJhCrH7iQ",
+  "request_id": "1F2yI5NhVFBAwVUCOwNJ7g",
+  "markdown_bytes": 21797,
+  "markdown_sha256": "6d5724180f82ed6395b04dde69813da6ab7e76fb400a39ed0c47ee5da722e6af",
+  "image_count": 4,
+  "saved_at": "2026-04-14T12:46:50+00:00"
+}

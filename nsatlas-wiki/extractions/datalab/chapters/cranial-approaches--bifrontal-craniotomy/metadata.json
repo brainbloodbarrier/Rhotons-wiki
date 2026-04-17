@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--bifrontal-craniotomy",
+  "title": "Bifrontal Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "bifrontal-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/bifrontal-craniotomy.pdf",
+  "expected_page_count": 17,
+  "api_page_count": 17,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 11,
+    "final_cost_cents": 8
+  },
+  "checkpoint_id": "checkpoint_OEb8-eM9E7Lswy6Xtqw_ntSk3x7sUoBmVaqJlurE2Es",
+  "request_id": "rFUiUE2h4SCPUrmdeoakRA",
+  "markdown_bytes": 28849,
+  "markdown_sha256": "a1a33b871c9ddd7f0503d133b9bcdacafd606c7dde6265e02def6aff26a6dd91",
+  "image_count": 14,
+  "saved_at": "2026-04-14T12:26:53+00:00"
+}

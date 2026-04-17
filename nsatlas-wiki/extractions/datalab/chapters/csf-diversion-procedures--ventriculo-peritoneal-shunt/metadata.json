@@ -1,0 +1,20 @@
+{
+  "article_id": "csf-diversion-procedures--ventriculo-peritoneal-shunt",
+  "title": "Ventriculo Peritoneal Shunt",
+  "category": "csf-diversion-procedures",
+  "slug": "ventriculo-peritoneal-shunt",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/ventriculo-peritoneal-shunt.pdf",
+  "expected_page_count": 18,
+  "api_page_count": 18,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 11,
+    "final_cost_cents": 9
+  },
+  "checkpoint_id": "checkpoint_X7nagxzp3_MJKFZSXRp4cOT8nbj5ydQFlQwYLGTHeJM",
+  "request_id": "AcTB6eGgoUccDaDEG-gLWQ",
+  "markdown_bytes": 31007,
+  "markdown_sha256": "8bfa6f2b9532390a6ec4a55a9a6933bf6d3beb4b84153b37c9d1dd1bb2d28c8a",
+  "image_count": 14,
+  "saved_at": "2026-04-14T12:58:48+00:00"
+}

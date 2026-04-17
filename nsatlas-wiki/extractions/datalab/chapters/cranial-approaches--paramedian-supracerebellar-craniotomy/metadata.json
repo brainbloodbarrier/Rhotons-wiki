@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--paramedian-supracerebellar-craniotomy",
+  "title": "Paramedian Supracerebellar Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "paramedian-supracerebellar-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/paramedian-supracerebellar-craniotomy.pdf",
+  "expected_page_count": 21,
+  "api_page_count": 21,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 13,
+    "final_cost_cents": 10
+  },
+  "checkpoint_id": "checkpoint_jrNxxmz0H9m57GD61lDFhz8f1VtkCY1nyF_zYd0CoQ0",
+  "request_id": "lZoxl2HyQUHkgUtVA_lgbg",
+  "markdown_bytes": 29040,
+  "markdown_sha256": "05f3da130af99aa8179dcff631d73d1320131c96766183f5533b8ca62133d834",
+  "image_count": 9,
+  "saved_at": "2026-04-14T12:32:53+00:00"
+}

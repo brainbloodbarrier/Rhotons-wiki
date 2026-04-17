@@ -1,0 +1,20 @@
+{
+  "article_id": "operative-neuroanatomy--infratentorial-operative-anatomy",
+  "title": "Infratentorial Operative Anatomy",
+  "category": "operative-neuroanatomy",
+  "slug": "infratentorial-operative-anatomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/infratentorial-operative-anatomy.pdf",
+  "expected_page_count": 2,
+  "api_page_count": 2,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 2,
+    "final_cost_cents": 1
+  },
+  "checkpoint_id": "checkpoint_XC9IJyNxaSELEDuXE7fcrarePqwOsExRAQQvW7b2rUY",
+  "request_id": "3ayQPWuOkRyQlG5HgI582Q",
+  "markdown_bytes": 2100,
+  "markdown_sha256": "1913ad6bf091dd940fdf7da3825025c85e9e7ea37e1a7d6801cda689150f299f",
+  "image_count": 4,
+  "saved_at": "2026-04-14T13:21:37+00:00"
+}

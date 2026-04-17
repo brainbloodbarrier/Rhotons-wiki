@@ -1,0 +1,20 @@
+{
+  "article_id": "spinal-cord-surgery--intramedullary-spinal-cord-tumor",
+  "title": "Intramedullary Spinal Cord Tumor",
+  "category": "spinal-cord-surgery",
+  "slug": "intramedullary-spinal-cord-tumor",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/intramedullary-spinal-cord-tumor.pdf",
+  "expected_page_count": 20,
+  "api_page_count": 20,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 12,
+    "final_cost_cents": 9
+  },
+  "checkpoint_id": "checkpoint_fq7HXX5AnnRHSYV8a87PlZ8pHZVo3gNfGGFE7xpjr2Q",
+  "request_id": "oa1gpts0mGbeXIYk-EkaAA",
+  "markdown_bytes": 35037,
+  "markdown_sha256": "f3a0ea2dfe7185d750c45cac807d4206d7f6f927effcfd7b5aa48b0dc69cb9f7",
+  "image_count": 15,
+  "saved_at": "2026-04-14T13:41:25+00:00"
+}

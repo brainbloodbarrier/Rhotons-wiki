@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--retromastoid-craniotomy",
+  "title": "Retromastoid Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "retromastoid-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/retromastoid-craniotomy.pdf",
+  "expected_page_count": 22,
+  "api_page_count": 22,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 14,
+    "final_cost_cents": 10
+  },
+  "checkpoint_id": "checkpoint_fA62uncvh5R7Lz0MO1DfPMYNezbs3FF1OfpsvyEounU",
+  "request_id": "ZgIKvzPOJh3wGqQGiNPMkg",
+  "markdown_bytes": 41344,
+  "markdown_sha256": "379060a621ac9e688dc018267e81f9201f0d32c6973f63828b1a0d9e07d31343",
+  "image_count": 22,
+  "saved_at": "2026-04-14T12:37:37+00:00"
+}

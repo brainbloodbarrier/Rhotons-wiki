@@ -1,0 +1,6 @@
+iteration	commit	metric	delta	guard	status	description
+0	-	0	0	pass	baseline	NSAtlas wiki scaffold created
+1	-	92	+60	pass	kept	cranial-approaches/general-principles.pdf → approaches/cranial-approaches-general-principles.md (11 figs, 6 principles, approach comparison table)
+2	-	175	+83	pass	kept	cranial-approaches/pterional-craniotomy.pdf → approaches/pterional-craniotomy.md (20 figs, full step-by-step, interfascial/subfascial techniques, Pearls)
+3	-	286	+111	pass	kept	supraorbital-craniotomy.pdf (13 figs) + bifrontal-craniotomy.pdf (14 figs) → 2 pages in approaches/
+4	-	354	+68	pass	kept	retromastoid-craniotomy.pdf (18 figs) → approaches/retromastoid-craniotomy.md (park-bench, extended retromastoid, supra/infralateral corridors)

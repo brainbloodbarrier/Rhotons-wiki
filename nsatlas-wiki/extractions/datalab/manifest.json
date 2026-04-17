@@ -1,0 +1,1896 @@
+{
+  "created_at": "2026-04-14T12:18:39+00:00",
+  "pipeline": "nsatlas",
+  "jobs": {
+    "cranial-approaches--occipital-craniotomy": {
+      "status": "complete",
+      "request_id": "WEva2Ixmb69EKmrFTSU96g",
+      "submitted_at": "2026-04-14T12:18:17+00:00",
+      "completed_at": "2026-04-14T12:18:39+00:00",
+      "page_count": 10,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--occipital-craniotomy",
+      "checkpoint_id": "checkpoint_but3bvaioghoSwCrXt7iScsRzhS2qfGs1FUQUS_gIdI"
+    },
+    "brain-tumors--general-principles": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "wp6Fx_-yUcG_RyF5jfpDQg",
+      "submitted_at": "2026-04-14T12:22:06+00:00",
+      "completed_at": "2026-04-14T12:22:49+00:00",
+      "page_count": 11,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 7,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/brain-tumors--general-principles",
+      "checkpoint_id": "checkpoint_UX8OYZ1ib5_fhbOdmXXFCUgfYCeF8YWI6AqFsf7uZa0",
+      "upload_seconds": 24.8,
+      "poll_seconds": 18.7
+    },
+    "brain-tumors--principles-of-intraventricular-surgery": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "L8OZFTnPAuyBr1HAlAmiog",
+      "submitted_at": "2026-04-14T12:22:49+00:00",
+      "completed_at": "2026-04-14T12:23:46+00:00",
+      "page_count": 37,
+      "parse_quality_score": null,
+      "cost_cents": 17,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 23,
+        "final_cost_cents": 17
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/brain-tumors--principles-of-intraventricular-surgery",
+      "checkpoint_id": "checkpoint_p7L4yVyOviD6K5sDUnHnXLB69aP4ZJS8UO4f2kdONzg",
+      "upload_seconds": 20.2,
+      "poll_seconds": 36.7
+    },
+    "cerebrovascular-surgery--microscope-and-mouthpiece": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "u2HsZ223g2rmCZGNOdlkdg",
+      "submitted_at": "2026-04-14T12:23:46+00:00",
+      "completed_at": "2026-04-14T12:24:18+00:00",
+      "page_count": 7,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cerebrovascular-surgery--microscope-and-mouthpiece",
+      "checkpoint_id": "checkpoint_0q6AB5Wwydqv87LH5JlReZANDKcfJRyaZp_yCbX8D00",
+      "upload_seconds": 7.7,
+      "poll_seconds": 24.6
+    },
+    "cranial-approaches--bifrontal-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "rFUiUE2h4SCPUrmdeoakRA",
+      "submitted_at": "2026-04-14T12:24:18+00:00",
+      "completed_at": "2026-04-14T12:26:53+00:00",
+      "page_count": 17,
+      "parse_quality_score": null,
+      "cost_cents": 8,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 11,
+        "final_cost_cents": 8
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--bifrontal-craniotomy",
+      "checkpoint_id": "checkpoint_OEb8-eM9E7Lswy6Xtqw_ntSk3x7sUoBmVaqJlurE2Es",
+      "upload_seconds": 32.4,
+      "poll_seconds": 121.9
+    },
+    "cranial-approaches--contralateral-interhemispheric-transfalcine-transprecuneus-approach": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "bX09Yeq6n_F69rvxmRLu-g",
+      "submitted_at": "2026-04-14T12:26:53+00:00",
+      "completed_at": "2026-04-14T12:28:20+00:00",
+      "page_count": 16,
+      "parse_quality_score": null,
+      "cost_cents": 8,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 10,
+        "final_cost_cents": 8
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--contralateral-interhemispheric-transfalcine-transprecuneus-approach",
+      "checkpoint_id": "checkpoint_Sk5pdZHZdh_yE3JmI2ilXZV37lk84cgjWa4ybGy5xys",
+      "upload_seconds": 35.9,
+      "poll_seconds": 51.4
+    },
+    "cranial-approaches--general-principles": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "kZi8I3ytNj0frXdE9h8Hmg",
+      "submitted_at": "2026-04-14T12:28:20+00:00",
+      "completed_at": "2026-04-14T12:29:27+00:00",
+      "page_count": 12,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 8,
+        "final_cost_cents": 6
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--general-principles",
+      "checkpoint_id": "checkpoint_kXWKGIQDOwEM8-B2GUzE-Rjy3RzXk1rleIZz7vxOTos",
+      "upload_seconds": 16.5,
+      "poll_seconds": 50.5
+    },
+    "cranial-approaches--interhemispheric-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "ScV__0vCwNIvmXRvFC8btg",
+      "submitted_at": "2026-04-14T12:29:27+00:00",
+      "completed_at": "2026-04-14T12:30:37+00:00",
+      "page_count": 19,
+      "parse_quality_score": null,
+      "cost_cents": 9,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 12,
+        "final_cost_cents": 9
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--interhemispheric-craniotomy",
+      "checkpoint_id": "checkpoint_ZF3chqJXMNIqrMqy5PfWtli5XwQa7EDkNks07BWfo2w",
+      "upload_seconds": 37.5,
+      "poll_seconds": 32.5
+    },
+    "cranial-approaches--microscope-guided-endonasal-transsphenoidal-approach": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "uG-inUp05-b73g_OZ9a6Ug",
+      "submitted_at": "2026-04-14T12:30:37+00:00",
+      "completed_at": "2026-04-14T12:31:46+00:00",
+      "page_count": 24,
+      "parse_quality_score": null,
+      "cost_cents": 11,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 15,
+        "final_cost_cents": 11
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--microscope-guided-endonasal-transsphenoidal-approach",
+      "checkpoint_id": "checkpoint_YE1jAkbEP200snYR-t9AUpW4EtMdSrxCQvtULkO-uGo",
+      "upload_seconds": 10.2,
+      "poll_seconds": 59.0
+    },
+    "cranial-approaches--midline-supracerebellar-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "vPURu7ILk0VgIU0DxqkZqw",
+      "submitted_at": "2026-04-14T12:31:46+00:00",
+      "completed_at": "2026-04-14T12:32:12+00:00",
+      "page_count": 19,
+      "parse_quality_score": null,
+      "cost_cents": 9,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 12,
+        "final_cost_cents": 9
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--midline-supracerebellar-craniotomy",
+      "checkpoint_id": "checkpoint_DfPQG1C5oZJe9yRnO12wr1H58b0kMjcGmixEmF2UfpE",
+      "upload_seconds": 3.6,
+      "poll_seconds": 22.2
+    },
+    "cranial-approaches--paramedian-supracerebellar-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "lZoxl2HyQUHkgUtVA_lgbg",
+      "submitted_at": "2026-04-14T12:32:12+00:00",
+      "completed_at": "2026-04-14T12:32:53+00:00",
+      "page_count": 21,
+      "parse_quality_score": null,
+      "cost_cents": 10,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 13,
+        "final_cost_cents": 10
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--paramedian-supracerebellar-craniotomy",
+      "checkpoint_id": "checkpoint_jrNxxmz0H9m57GD61lDFhz8f1VtkCY1nyF_zYd0CoQ0",
+      "upload_seconds": 18.7,
+      "poll_seconds": 22.2
+    },
+    "cranial-approaches--parasagittal-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "GB_WaeB_kPbbpXWo6DeXcw",
+      "submitted_at": "2026-04-14T12:32:53+00:00",
+      "completed_at": "2026-04-14T12:33:45+00:00",
+      "page_count": 12,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 6.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--parasagittal-craniotomy",
+      "checkpoint_id": "checkpoint_XNIJv8MB1BOU2TckZsiEFRLQvUiSosYxxavpzHRf-bQ",
+      "upload_seconds": 19.1,
+      "poll_seconds": 32.8
+    },
+    "cranial-approaches--parietal-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "rpNk7HLYj7Jd4aQ6XH0DBg",
+      "submitted_at": "2026-04-14T12:33:45+00:00",
+      "completed_at": "2026-04-14T12:34:15+00:00",
+      "page_count": 14,
+      "parse_quality_score": null,
+      "cost_cents": 7,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 9,
+        "final_cost_cents": 7
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--parietal-craniotomy",
+      "checkpoint_id": "checkpoint_wfEe_w82rvk-ryl57rJisQVOnf2v5rsz5lVMSwqHBfA",
+      "upload_seconds": 4.3,
+      "poll_seconds": 25.4
+    },
+    "cranial-approaches--pterional-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "run7nh89UFscQFYiRmP9fA",
+      "submitted_at": "2026-04-14T12:34:15+00:00",
+      "completed_at": "2026-04-14T12:35:13+00:00",
+      "page_count": 23,
+      "parse_quality_score": null,
+      "cost_cents": 11,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 14,
+        "final_cost_cents": 11
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--pterional-craniotomy",
+      "checkpoint_id": "checkpoint_tKB2KamM-1fGDslWYHsCrxMalCqNfmyD-yVzI1eVvtA",
+      "upload_seconds": 24.9,
+      "poll_seconds": 33.7
+    },
+    "cranial-approaches--retromastoid-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "ZgIKvzPOJh3wGqQGiNPMkg",
+      "submitted_at": "2026-04-14T12:35:13+00:00",
+      "completed_at": "2026-04-14T12:37:37+00:00",
+      "page_count": 22,
+      "parse_quality_score": null,
+      "cost_cents": 10,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 14,
+        "final_cost_cents": 10
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--retromastoid-craniotomy",
+      "checkpoint_id": "checkpoint_fA62uncvh5R7Lz0MO1DfPMYNezbs3FF1OfpsvyEounU",
+      "upload_seconds": 29.0,
+      "poll_seconds": 114.5
+    },
+    "cranial-approaches--suboccipital-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "JWXvhnOjlYNLK3X5NI3PAg",
+      "submitted_at": "2026-04-14T12:37:37+00:00",
+      "completed_at": "2026-04-14T12:38:31+00:00",
+      "page_count": 12,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 8,
+        "final_cost_cents": 6
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--suboccipital-craniotomy",
+      "checkpoint_id": "checkpoint_ewvlm9kWiSEuYbnx6dNtohYO3RpY-CJ701RKB4mhCtQ",
+      "upload_seconds": 23.1,
+      "poll_seconds": 31.0
+    },
+    "cranial-approaches--supraorbital-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "VVrgTPq_a7LUI_A1kQHJJg",
+      "submitted_at": "2026-04-14T12:38:31+00:00",
+      "completed_at": "2026-04-14T12:39:51+00:00",
+      "page_count": 17,
+      "parse_quality_score": null,
+      "cost_cents": 8,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 11,
+        "final_cost_cents": 8
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--supraorbital-craniotomy",
+      "checkpoint_id": "checkpoint_ncFvmCDU5qu7FiyVwA7o86CxYe-or7kdmdTUS7bFzb8",
+      "upload_seconds": 45.4,
+      "poll_seconds": 34.5
+    },
+    "cranial-approaches--telovelar-approach": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "P_MNC52GZR19dEB4RJWDAw",
+      "submitted_at": "2026-04-14T12:39:51+00:00",
+      "completed_at": "2026-04-14T12:41:15+00:00",
+      "page_count": 18,
+      "parse_quality_score": null,
+      "cost_cents": 9,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 11,
+        "final_cost_cents": 9
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--telovelar-approach",
+      "checkpoint_id": "checkpoint_Wj1OmxN6gp5Nw_z3jApbs0ppBd7yskKNyjGX-QNxBWw",
+      "upload_seconds": 47.5,
+      "poll_seconds": 36.5
+    },
+    "cranial-approaches--temporal-subtemporal-craniotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "ehuu1eyFD-ngZsV1GtL0fQ",
+      "submitted_at": "2026-04-14T12:41:15+00:00",
+      "completed_at": "2026-04-14T12:42:17+00:00",
+      "page_count": 16,
+      "parse_quality_score": null,
+      "cost_cents": 8,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 8.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--temporal-subtemporal-craniotomy",
+      "checkpoint_id": "checkpoint_OftjuGbeJudsSbG6Wi-f8Rqe0SiEzupUzjjex2VRvJs",
+      "upload_seconds": 22.5,
+      "poll_seconds": 39.3
+    },
+    "cranial-approaches--transtentorial-approach-to-parahippocampal-lesions": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "7zgXuS8c8W5A-Tto1w5kFw",
+      "submitted_at": "2026-04-14T12:42:17+00:00",
+      "completed_at": "2026-04-14T12:43:20+00:00",
+      "page_count": 18,
+      "parse_quality_score": null,
+      "cost_cents": 9,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 11,
+        "final_cost_cents": 9
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-approaches--transtentorial-approach-to-parahippocampal-lesions",
+      "checkpoint_id": "checkpoint_n3hDBgI2NHI_UCKaYGiAnErfJp2U7hJPRLUZV3sKZcQ",
+      "upload_seconds": 31.1,
+      "poll_seconds": 31.9
+    },
+    "cranial-base-surgery--anterior-petrosectomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "emqhANjy3O-HmgxZ5N7FgA",
+      "submitted_at": "2026-04-14T12:43:20+00:00",
+      "completed_at": "2026-04-14T12:45:41+00:00",
+      "page_count": 32,
+      "parse_quality_score": null,
+      "cost_cents": 15,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 20,
+        "final_cost_cents": 15
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-base-surgery--anterior-petrosectomy",
+      "checkpoint_id": "checkpoint_iphWe8xp2svKlIBbYYd2ZFFv3_V1i3of-Pa4GHEJyXs",
+      "upload_seconds": 14.0,
+      "poll_seconds": 127.7
+    },
+    "cranial-base-surgery--general-principles": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "CdbYcOW6cp6aici4h1kb0Q",
+      "submitted_at": "2026-04-14T12:45:41+00:00",
+      "completed_at": "2026-04-14T12:46:14+00:00",
+      "page_count": 8,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-base-surgery--general-principles",
+      "checkpoint_id": "checkpoint_zOfZ1a0PCaSU9LyRnX4oT_7MumwU1UAOEkB2JYCpiyc",
+      "upload_seconds": 9.1,
+      "poll_seconds": 23.5
+    },
+    "cranial-base-surgery--lessons-learned": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "1F2yI5NhVFBAwVUCOwNJ7g",
+      "submitted_at": "2026-04-14T12:46:14+00:00",
+      "completed_at": "2026-04-14T12:46:50+00:00",
+      "page_count": 9,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 5.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-base-surgery--lessons-learned",
+      "checkpoint_id": "checkpoint_8NJI8Xog-ILWd-Lqkh0_3yU8hMio6XYehjaJhCrH7iQ",
+      "upload_seconds": 12.8,
+      "poll_seconds": 23.1
+    },
+    "cranial-base-surgery--medial-sphenoid-wing-meningioma": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "1M-sRglMF6vLjw4by9_o9Q",
+      "submitted_at": "2026-04-14T12:46:50+00:00",
+      "completed_at": "2026-04-14T12:49:53+00:00",
+      "page_count": 46,
+      "parse_quality_score": null,
+      "cost_cents": 21,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 28,
+        "final_cost_cents": 21
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-base-surgery--medial-sphenoid-wing-meningioma",
+      "checkpoint_id": "checkpoint_lTPJ1KO6ULZK64G4mUx37zorc4nk0SC1Vf1cra4O06s",
+      "upload_seconds": 52.6,
+      "poll_seconds": 130.3
+    },
+    "cranial-base-surgery--preoperative-considerations-instrumentation-and-patient-positioning": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "2f5IneRPR_WHzEe-cueQ7g",
+      "submitted_at": "2026-04-14T12:49:53+00:00",
+      "completed_at": "2026-04-14T12:50:25+00:00",
+      "page_count": 12,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 8,
+        "final_cost_cents": 6
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-base-surgery--preoperative-considerations-instrumentation-and-patient-positioning",
+      "checkpoint_id": "checkpoint_lL-Gg5u8BPXk-4WN244SRG9QJ0VeyYaCPxC2hzNOjcQ",
+      "upload_seconds": 12.1,
+      "poll_seconds": 20.5
+    },
+    "cranial-base-surgery--selection-of-operative-corridor": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "5Ss7NkWu1rS-fTkoKAwHQw",
+      "submitted_at": "2026-04-14T12:50:25+00:00",
+      "completed_at": "2026-04-14T12:50:57+00:00",
+      "page_count": 17,
+      "parse_quality_score": null,
+      "cost_cents": 8,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 8.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-base-surgery--selection-of-operative-corridor",
+      "checkpoint_id": "checkpoint_SmIwEA4ievsP_v5IbcgpES4JRjDeVgOhwjYJ6pCVEQk",
+      "upload_seconds": 5.9,
+      "poll_seconds": 26.0
+    },
+    "cranial-nerve-compression-syndromes--geniculate-neuralgia": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "5j-phVOrn5JD9wip-0l6Jw",
+      "submitted_at": "2026-04-14T12:50:57+00:00",
+      "completed_at": "2026-04-14T12:52:51+00:00",
+      "page_count": 16,
+      "parse_quality_score": null,
+      "cost_cents": 8,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 8.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-nerve-compression-syndromes--geniculate-neuralgia",
+      "checkpoint_id": "checkpoint_3qM6IyVgCR-lDXw7aharIkfNbMMVUWzibIYJlR3GTls",
+      "upload_seconds": 7.0,
+      "poll_seconds": 107.2
+    },
+    "cranial-nerve-compression-syndromes--glossopharyngeal-neuralgia": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "gg8T9kXrUDuRKlOM2xI6Zw",
+      "submitted_at": "2026-04-14T12:52:51+00:00",
+      "completed_at": "2026-04-14T12:53:44+00:00",
+      "page_count": 27,
+      "parse_quality_score": null,
+      "cost_cents": 13,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 17,
+        "final_cost_cents": 13
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-nerve-compression-syndromes--glossopharyngeal-neuralgia",
+      "checkpoint_id": "checkpoint_KcZ8tG83_n08ylxVffQp_wcoxigX9umECXu_vL7YABQ",
+      "upload_seconds": 9.8,
+      "poll_seconds": 43.0
+    },
+    "cranial-nerve-compression-syndromes--hemifacial-spasm": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "aCn-wgvMlcw5SgTs9L96bg",
+      "submitted_at": "2026-04-14T12:53:44+00:00",
+      "completed_at": "2026-04-14T12:54:33+00:00",
+      "page_count": 28,
+      "parse_quality_score": null,
+      "cost_cents": 13,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 17,
+        "final_cost_cents": 13
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-nerve-compression-syndromes--hemifacial-spasm",
+      "checkpoint_id": "checkpoint_ajVjzDeK8WXXnxho8o6oFkiKYh0Ms41EC11nfRdMEjI",
+      "upload_seconds": 17.6,
+      "poll_seconds": 30.7
+    },
+    "cranial-nerve-compression-syndromes--menieres-disease": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "K6iaYxrtBv7h7F0AJebm0Q",
+      "submitted_at": "2026-04-14T12:54:33+00:00",
+      "completed_at": "2026-04-14T12:55:03+00:00",
+      "page_count": 15,
+      "parse_quality_score": null,
+      "cost_cents": 7,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 9,
+        "final_cost_cents": 7
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-nerve-compression-syndromes--menieres-disease",
+      "checkpoint_id": "checkpoint_vQSiWC7NU4XEMzLxBKCaCbX6FNWfoTOvGVom5xIljQA",
+      "upload_seconds": 7.1,
+      "poll_seconds": 23.7
+    },
+    "cranial-nerve-compression-syndromes--microvascular-decompression-for-trigeminal-neuralgia": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "NA7Bs6IUii_k4vJTlKsR3A",
+      "submitted_at": "2026-04-14T12:55:03+00:00",
+      "completed_at": "2026-04-14T12:55:41+00:00",
+      "page_count": 31,
+      "parse_quality_score": null,
+      "cost_cents": 14,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 14.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/cranial-nerve-compression-syndromes--microvascular-decompression-for-trigeminal-neuralgia",
+      "checkpoint_id": "checkpoint_5WTcUYg7062ehai7Qn8NhprFkfAQpjMLkEyUWIJnHW4",
+      "upload_seconds": 7.5,
+      "poll_seconds": 29.9
+    },
+    "csf-diversion-procedures--endoscopic-third-ventriculostomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "wJkUPaEDKnVq87SeqqamnA",
+      "submitted_at": "2026-04-14T12:55:41+00:00",
+      "completed_at": "2026-04-14T12:56:16+00:00",
+      "page_count": 20,
+      "parse_quality_score": null,
+      "cost_cents": 9,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 12,
+        "final_cost_cents": 9
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/csf-diversion-procedures--endoscopic-third-ventriculostomy",
+      "checkpoint_id": "checkpoint__Rm99afPDqBXaaj9_wN5cyCmdHHpFXcSRtGrtCn6vPo",
+      "upload_seconds": 7.2,
+      "poll_seconds": 28.3
+    },
+    "csf-diversion-procedures--external-ventricular-drain": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "5l7JaABhFsUyfHI5aLm1gg",
+      "submitted_at": "2026-04-14T12:56:16+00:00",
+      "completed_at": "2026-04-14T12:56:52+00:00",
+      "page_count": 11,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 7,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/csf-diversion-procedures--external-ventricular-drain",
+      "checkpoint_id": "checkpoint_sM77YI5e_HcEoj7icbw_UlxTCk3ClmaziorMdrD4UzE",
+      "upload_seconds": 7.2,
+      "poll_seconds": 28.5
+    },
+    "csf-diversion-procedures--ventricular-shunt-reference": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "BWz5UvMOgJ3zaf-4tC-UQA",
+      "submitted_at": "2026-04-14T12:56:52+00:00",
+      "completed_at": "2026-04-14T12:57:25+00:00",
+      "page_count": 13,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 8,
+        "final_cost_cents": 6
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/csf-diversion-procedures--ventricular-shunt-reference",
+      "checkpoint_id": "checkpoint_GvQ8pRCqr8itB4eNna0O6W7xVN3lxd3NyMxZaTPLtns",
+      "upload_seconds": 4.8,
+      "poll_seconds": 27.6
+    },
+    "csf-diversion-procedures--ventriculo-atrial-shunt": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "Y1vHaYhJcODQPm9fckd4MQ",
+      "submitted_at": "2026-04-14T12:57:25+00:00",
+      "completed_at": "2026-04-14T12:57:58+00:00",
+      "page_count": 10,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 6,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/csf-diversion-procedures--ventriculo-atrial-shunt",
+      "checkpoint_id": "checkpoint__fsd_oqBXIJU_cwkKaqLomUhRc6b9t_tHPp1wIt9zwA",
+      "upload_seconds": 8.3,
+      "poll_seconds": 25.1
+    },
+    "csf-diversion-procedures--ventriculo-gallbladder-shunt": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "ueuSfpVwHbt2PrpSbphESQ",
+      "submitted_at": "2026-04-14T12:57:58+00:00",
+      "completed_at": "2026-04-14T12:58:18+00:00",
+      "page_count": 6,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 3.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/csf-diversion-procedures--ventriculo-gallbladder-shunt",
+      "checkpoint_id": "checkpoint_j9MU79enz9Jf8uC3MvSdpfK7daiM8zhSQElJITXgvzY",
+      "upload_seconds": 2.9,
+      "poll_seconds": 17.1
+    },
+    "csf-diversion-procedures--ventriculo-peritoneal-shunt": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "AcTB6eGgoUccDaDEG-gLWQ",
+      "submitted_at": "2026-04-14T12:58:18+00:00",
+      "completed_at": "2026-04-14T12:58:48+00:00",
+      "page_count": 18,
+      "parse_quality_score": null,
+      "cost_cents": 9,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 11,
+        "final_cost_cents": 9
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/csf-diversion-procedures--ventriculo-peritoneal-shunt",
+      "checkpoint_id": "checkpoint_X7nagxzp3_MJKFZSXRp4cOT8nbj5ydQFlQwYLGTHeJM",
+      "upload_seconds": 1.9,
+      "poll_seconds": 27.7
+    },
+    "csf-diversion-procedures--ventriculo-pleural-shunt": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "Ah9PeZa_pRqsfj6g85WUtA",
+      "submitted_at": "2026-04-14T12:58:48+00:00",
+      "completed_at": "2026-04-14T12:59:18+00:00",
+      "page_count": 9,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 6,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/csf-diversion-procedures--ventriculo-pleural-shunt",
+      "checkpoint_id": "checkpoint_whyTS5V7eXgC8DhlklqxmbDMgbk6Akg44rbSCFq4PeY",
+      "upload_seconds": 5.9,
+      "poll_seconds": 24.1
+    },
+    "emergency-neurosurgery-and-trauma--decompressive-craniectomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "GPvOiDbCnNH9gpU0-KCvKg",
+      "submitted_at": "2026-04-14T12:59:18+00:00",
+      "completed_at": "2026-04-14T12:59:53+00:00",
+      "page_count": 14,
+      "parse_quality_score": null,
+      "cost_cents": 7,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 9,
+        "final_cost_cents": 7
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/emergency-neurosurgery-and-trauma--decompressive-craniectomy",
+      "checkpoint_id": "checkpoint_kfBMqXEhU25ZH-xIbpiI-8i0LnUJgVAjLQzd-1qD4iE",
+      "upload_seconds": 5.3,
+      "poll_seconds": 30.5
+    },
+    "emergency-neurosurgery-and-trauma--lacerated-dural-venous-sinus-repair": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "4YAECR0tbmx2vAebLsZ9-Q",
+      "submitted_at": "2026-04-14T12:59:53+00:00",
+      "completed_at": "2026-04-14T13:00:25+00:00",
+      "page_count": 11,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 7,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/emergency-neurosurgery-and-trauma--lacerated-dural-venous-sinus-repair",
+      "checkpoint_id": "checkpoint_Ews4Y_72NoRVGndfk0eShBWZNnqWRuS2OmwKI9dCVjo",
+      "upload_seconds": 9.0,
+      "poll_seconds": 22.8
+    },
+    "emergency-neurosurgery-and-trauma--open-skull-fracture": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "plADmKuIYGHU8MgYQgpiwQ",
+      "submitted_at": "2026-04-14T13:00:25+00:00",
+      "completed_at": "2026-04-14T13:00:54+00:00",
+      "page_count": 16,
+      "parse_quality_score": null,
+      "cost_cents": 8,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 10,
+        "final_cost_cents": 8
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/emergency-neurosurgery-and-trauma--open-skull-fracture",
+      "checkpoint_id": "checkpoint_nDbl3TdDyX3m5mMbyVDCg1kfRt-NXfPBqYqdDMv359c",
+      "upload_seconds": 5.7,
+      "poll_seconds": 22.7
+    },
+    "epilepsy-surgery--hypothalamic-hamartoma": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "sSwLihQsZPk3mQGwEpZmmg",
+      "submitted_at": "2026-04-14T13:00:54+00:00",
+      "completed_at": "2026-04-14T13:01:40+00:00",
+      "page_count": 14,
+      "parse_quality_score": null,
+      "cost_cents": 7,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 9,
+        "final_cost_cents": 7
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/epilepsy-surgery--hypothalamic-hamartoma",
+      "checkpoint_id": "checkpoint_Vdf9tc_QgN_WvnkJw0D0D4V5n9h4MBTa0bVPegy5iWY",
+      "upload_seconds": 10.7,
+      "poll_seconds": 35.7
+    },
+    "epilepsy-surgery--intracranial-monitoring-study": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "NVBUS3aZYJWYpBrs1MhIcA",
+      "submitted_at": "2026-04-14T13:01:40+00:00",
+      "completed_at": "2026-04-14T13:01:53+00:00",
+      "page_count": 2,
+      "parse_quality_score": null,
+      "cost_cents": 1,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 2,
+        "final_cost_cents": 1
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/epilepsy-surgery--intracranial-monitoring-study",
+      "checkpoint_id": "checkpoint_xEjQiqD7DDiDTqnxdfUZi33HpHj5fJOXRdx6J2F28aw",
+      "upload_seconds": 1.2,
+      "poll_seconds": 11.7
+    },
+    "epilepsy-surgery--peri-insular-hemispherotomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "ms6Zd11rLg4bigBOBRn9Kw",
+      "submitted_at": "2026-04-14T13:01:53+00:00",
+      "completed_at": "2026-04-14T13:02:58+00:00",
+      "page_count": 29,
+      "parse_quality_score": null,
+      "cost_cents": 14,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 18,
+        "final_cost_cents": 14
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/epilepsy-surgery--peri-insular-hemispherotomy",
+      "checkpoint_id": "checkpoint_xhdrOB1tEmPATvJONw7UxoMvoI7EXSV6JnmUmx_RmLg",
+      "upload_seconds": 31.3,
+      "poll_seconds": 33.3
+    },
+    "epilepsy-surgery--selection-of-surgical-candidates": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "Ag4PGodllvMMREZ8xhZ4gQ",
+      "submitted_at": "2026-04-14T13:02:58+00:00",
+      "completed_at": "2026-04-14T13:03:25+00:00",
+      "page_count": 11,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 7,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/epilepsy-surgery--selection-of-surgical-candidates",
+      "checkpoint_id": "checkpoint_PonZpC3vrZqpwlRPXtjJEaR9pm3-J7SsKZp9DO2ft7M",
+      "upload_seconds": 1.4,
+      "poll_seconds": 25.7
+    },
+    "medical-student-guide-for-matching-in-neurosurgery--applying-to-neurosurgery": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "An1UMnqzWzqEJz2Xfnn9KQ",
+      "submitted_at": "2026-04-14T13:03:25+00:00",
+      "completed_at": "2026-04-14T13:06:06+00:00",
+      "page_count": 8,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/medical-student-guide-for-matching-in-neurosurgery--applying-to-neurosurgery",
+      "checkpoint_id": "checkpoint_F8FKXCWfurSz0F0slmJtQsslMsSWsmhOtLtt3uE3rlo",
+      "upload_seconds": 5.2,
+      "poll_seconds": 156.6
+    },
+    "medical-student-guide-for-matching-in-neurosurgery--conducting-and-presenting-research": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "XCASWB_EGY_bm0fXKlZWEg",
+      "submitted_at": "2026-04-14T13:06:06+00:00",
+      "completed_at": "2026-04-14T13:07:10+00:00",
+      "page_count": 19,
+      "parse_quality_score": null,
+      "cost_cents": 9,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 12,
+        "final_cost_cents": 9
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/medical-student-guide-for-matching-in-neurosurgery--conducting-and-presenting-research",
+      "checkpoint_id": "checkpoint_h8wXUJgdeDuOshR8rymTZZ-aaX_BPnukshNgSYH9m8s",
+      "upload_seconds": 5.9,
+      "poll_seconds": 57.2
+    },
+    "medical-student-guide-for-matching-in-neurosurgery--interested-in-neurosurgery-as-a-career": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "WuNYmu7Qox5HnSbrAdmkjw",
+      "submitted_at": "2026-04-14T13:07:10+00:00",
+      "completed_at": "2026-04-14T13:07:56+00:00",
+      "page_count": 13,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 8,
+        "final_cost_cents": 6
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/medical-student-guide-for-matching-in-neurosurgery--interested-in-neurosurgery-as-a-career",
+      "checkpoint_id": "checkpoint_e5p7EHMnOapoozbSwKr3Tz1kIMhBLJ9VnuYRdf_a_s4",
+      "upload_seconds": 5.8,
+      "poll_seconds": 40.2
+    },
+    "medical-student-guide-for-matching-in-neurosurgery--interviews": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "2ERgPi9Uf1ezGSsswJwVow",
+      "submitted_at": "2026-04-14T13:07:56+00:00",
+      "completed_at": "2026-04-14T13:08:59+00:00",
+      "page_count": 26,
+      "parse_quality_score": null,
+      "cost_cents": 12,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 16,
+        "final_cost_cents": 12
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/medical-student-guide-for-matching-in-neurosurgery--interviews",
+      "checkpoint_id": "checkpoint_psW_VmwpNO8k3JiyQ8S4Z5qevzCY_DrdoLkXx9VKoTM",
+      "upload_seconds": 9.4,
+      "poll_seconds": 54.0
+    },
+    "medical-student-guide-for-matching-in-neurosurgery--letters-of-recommendation": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "qI_5TWfKuyTVom8TPGuxTg",
+      "submitted_at": "2026-04-14T13:08:59+00:00",
+      "completed_at": "2026-04-14T13:09:36+00:00",
+      "page_count": 5,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 3,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/medical-student-guide-for-matching-in-neurosurgery--letters-of-recommendation",
+      "checkpoint_id": "checkpoint_yvqZ9hI6ggnyFqak_0CPyDtJMjBwq8Lel1ZyRLuQDVE",
+      "upload_seconds": 4.1,
+      "poll_seconds": 32.6
+    },
+    "medical-student-guide-for-matching-in-neurosurgery--personal-statement": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "k4wrp_rfLtuTXB-MuZSOmw",
+      "submitted_at": "2026-04-14T13:09:36+00:00",
+      "completed_at": "2026-04-14T13:09:58+00:00",
+      "page_count": 3,
+      "parse_quality_score": null,
+      "cost_cents": 2,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 2,
+        "final_cost_cents": 2
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/medical-student-guide-for-matching-in-neurosurgery--personal-statement",
+      "checkpoint_id": "checkpoint_WKzUqOxIUoOI3_TgA5SYfgEMRMVm5OhbYciijxZtv74",
+      "upload_seconds": 2.6,
+      "poll_seconds": 19.7
+    },
+    "medical-student-guide-for-matching-in-neurosurgery--preclinical-and-early-clinical-years": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "bhVMF-p3Bo2Hovf9epU4rA",
+      "submitted_at": "2026-04-14T13:09:58+00:00",
+      "completed_at": "2026-04-14T13:10:38+00:00",
+      "page_count": 9,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 6,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/medical-student-guide-for-matching-in-neurosurgery--preclinical-and-early-clinical-years",
+      "checkpoint_id": "checkpoint_YVEIOoE2uFOwB4j0sPMZVgsax-59KScQ4De7ZTj8Nts",
+      "upload_seconds": 3.7,
+      "poll_seconds": 36.2
+    },
+    "medical-student-guide-for-matching-in-neurosurgery--preface": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "qJ73mSDZwOvWpvreczV9yw",
+      "submitted_at": "2026-04-14T13:10:38+00:00",
+      "completed_at": "2026-04-14T13:10:53+00:00",
+      "page_count": 4,
+      "parse_quality_score": null,
+      "cost_cents": 2,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 3,
+        "final_cost_cents": 2
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/medical-student-guide-for-matching-in-neurosurgery--preface",
+      "checkpoint_id": "checkpoint_iWAqug2gqIEakTFGGWuJQZdU-hspyZ_HEfPE-UHxDH8",
+      "upload_seconds": 2.9,
+      "poll_seconds": 12.3
+    },
+    "medical-student-guide-for-matching-in-neurosurgery--ranking-programs": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "52ZnKc-bI-cy06n5reccsA",
+      "submitted_at": "2026-04-14T13:10:53+00:00",
+      "completed_at": "2026-04-14T13:11:13+00:00",
+      "page_count": 6,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 4,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/medical-student-guide-for-matching-in-neurosurgery--ranking-programs",
+      "checkpoint_id": "checkpoint_SP0QJ-T6F2K3RA6Jt4mNQb_7oILYxR3ZzBhugWWo-TQ",
+      "upload_seconds": 3.1,
+      "poll_seconds": 17.1
+    },
+    "medical-student-guide-for-matching-in-neurosurgery--subinternships": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "o-s-EzzgRx6PzW8hau5B6A",
+      "submitted_at": "2026-04-14T13:11:13+00:00",
+      "completed_at": "2026-04-14T13:11:33+00:00",
+      "page_count": 12,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 6.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/medical-student-guide-for-matching-in-neurosurgery--subinternships",
+      "checkpoint_id": "checkpoint_s5segcfU4HvXpBPhwR_TLHyqnF1kU3w9MgH-6MhXEKc",
+      "upload_seconds": 5.1,
+      "poll_seconds": 15.0
+    },
+    "microsurgical-mastery--microsurgical-mastery-passion-for-technical-excellence": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "htrscKjahK-sHysuOwLPIA",
+      "submitted_at": "2026-04-14T13:11:33+00:00",
+      "completed_at": "2026-04-14T13:11:55+00:00",
+      "page_count": 8,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/microsurgical-mastery--microsurgical-mastery-passion-for-technical-excellence",
+      "checkpoint_id": "checkpoint_bpbzFBEECyk70Wp8qOHHzMheVSwC6rkR2hJQUXe7m5U",
+      "upload_seconds": 2.3,
+      "poll_seconds": 19.2
+    },
+    "neuroradiology--dysplastic-cerebellar-gangliocytoma-dcg": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "CHVSh7Z5DLyJkXNuzCMJsA",
+      "submitted_at": "2026-04-14T13:11:55+00:00",
+      "completed_at": "2026-04-14T13:12:18+00:00",
+      "page_count": 6,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 4,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/neuroradiology--dysplastic-cerebellar-gangliocytoma-dcg",
+      "checkpoint_id": "checkpoint_KRvmq-rJapFGlAfJ_PwBmvyALQ7ya66o3bgmEVF7rLE",
+      "upload_seconds": 3.0,
+      "poll_seconds": 20.6
+    },
+    "neuroradiology--imaging-evaluation-of-sah-and-aneurysm": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "eM5H07rt-WH9m9Z-CWiJvw",
+      "submitted_at": "2026-04-14T13:12:18+00:00",
+      "completed_at": "2026-04-14T13:13:14+00:00",
+      "page_count": 28,
+      "parse_quality_score": null,
+      "cost_cents": 13,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 17,
+        "final_cost_cents": 13
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/neuroradiology--imaging-evaluation-of-sah-and-aneurysm",
+      "checkpoint_id": "checkpoint_Ofmx-a3C9RWzuit8in-FcT6sVx7KBvBys4MhqSWs2uA",
+      "upload_seconds": 7.0,
+      "poll_seconds": 48.9
+    },
+    "neuroradiology--introduction-and-review-of-imaging-modalities": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "6GcSDG4Nqqeid5TCJ2jxsw",
+      "submitted_at": "2026-04-14T13:13:14+00:00",
+      "completed_at": "2026-04-14T13:13:56+00:00",
+      "page_count": 22,
+      "parse_quality_score": null,
+      "cost_cents": 10,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 14,
+        "final_cost_cents": 10
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/neuroradiology--introduction-and-review-of-imaging-modalities",
+      "checkpoint_id": "checkpoint_XR6MBcyw3512nJ7wHibm1pG7pZQ1YuC4ceH8N--DwJw",
+      "upload_seconds": 7.0,
+      "poll_seconds": 35.1
+    },
+    "neuroradiology--preface": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "vjBCfrSmN4zw5e7M9c0jpw",
+      "submitted_at": "2026-04-14T13:13:56+00:00",
+      "completed_at": "2026-04-14T13:14:07+00:00",
+      "page_count": 2,
+      "parse_quality_score": 5.0,
+      "cost_cents": 1,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 1.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/neuroradiology--preface",
+      "checkpoint_id": "checkpoint_ChZx8ebi3pEFZje_P8zfNiH1jL6Lt5uLgINZkeUFz4o",
+      "upload_seconds": 1.8,
+      "poll_seconds": 8.9
+    },
+    "neuroradiology--progressive-multifocal-leukoencephalopathy-pml": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "vitvICNfS_yb2x4Kj-BxGQ",
+      "submitted_at": "2026-04-14T13:14:07+00:00",
+      "completed_at": "2026-04-14T13:14:35+00:00",
+      "page_count": 5,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 3,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/neuroradiology--progressive-multifocal-leukoencephalopathy-pml",
+      "checkpoint_id": "checkpoint_rbKZRy1Zn3cOa8S7jiZ3WcxtKRyt0Ybezc_VaLHgrew",
+      "upload_seconds": 3.3,
+      "poll_seconds": 24.9
+    },
+    "non-technical-skills-in-neurosurgery--basics-of-nontechnical-skills": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "VzJT_JjaeDpj5tazivuwpg",
+      "submitted_at": "2026-04-14T13:14:35+00:00",
+      "completed_at": "2026-04-14T13:14:55+00:00",
+      "page_count": 6,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 4,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--basics-of-nontechnical-skills",
+      "checkpoint_id": "checkpoint_6xvsVAF5gL0YqINI5ap8vQM5q_ixML2aspp5fMI_VLM",
+      "upload_seconds": 3.0,
+      "poll_seconds": 16.5
+    },
+    "non-technical-skills-in-neurosurgery--dealing-with-burnout": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "603GTE0e4dCKt9di2Bv-4w",
+      "submitted_at": "2026-04-14T13:14:55+00:00",
+      "completed_at": "2026-04-14T13:15:08+00:00",
+      "page_count": 6,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 4,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--dealing-with-burnout",
+      "checkpoint_id": "checkpoint_hBUIU9dnryW1KusxHZPGlY2OXFiGf0Qfi0BZ610hfSA",
+      "upload_seconds": 1.8,
+      "poll_seconds": 11.7
+    },
+    "non-technical-skills-in-neurosurgery--emotional-intelligence": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "4mKPqnMk70-5Q_JAx8Uidg",
+      "submitted_at": "2026-04-14T13:15:08+00:00",
+      "completed_at": "2026-04-14T13:15:30+00:00",
+      "page_count": 9,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 6,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--emotional-intelligence",
+      "checkpoint_id": "checkpoint_4qjlmvdWnqRxdjfDTE7pusLNz4RO8FNkLAGEswADW8w",
+      "upload_seconds": 1.6,
+      "poll_seconds": 19.8
+    },
+    "non-technical-skills-in-neurosurgery--ethics-in-neurosurgery": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "FT2wo10pTapc9f9Cxg_D2A",
+      "submitted_at": "2026-04-14T13:15:30+00:00",
+      "completed_at": "2026-04-14T13:15:50+00:00",
+      "page_count": 6,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 4,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--ethics-in-neurosurgery",
+      "checkpoint_id": "checkpoint_r2yww6ozZh_vZn2Lutfu9YwkEWvuWHvUREzf0vNfNdE",
+      "upload_seconds": 2.0,
+      "poll_seconds": 18.6
+    },
+    "non-technical-skills-in-neurosurgery--leadership-principles": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "4vborQ9xgH6Stkt7B_HO9w",
+      "submitted_at": "2026-04-14T13:15:50+00:00",
+      "completed_at": "2026-04-14T13:16:15+00:00",
+      "page_count": 7,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--leadership-principles",
+      "checkpoint_id": "checkpoint_2i2Nk26nXyD5PnzkV7qnDkpcPr5bOEsTlMj9tKEyZyY",
+      "upload_seconds": 1.9,
+      "poll_seconds": 23.1
+    },
+    "non-technical-skills-in-neurosurgery--operating-room-etiquette": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "JAB9EcpmtFKSqNHRyP6h7w",
+      "submitted_at": "2026-04-14T13:16:15+00:00",
+      "completed_at": "2026-04-14T13:16:47+00:00",
+      "page_count": 14,
+      "parse_quality_score": null,
+      "cost_cents": 7,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 9,
+        "final_cost_cents": 7
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--operating-room-etiquette",
+      "checkpoint_id": "checkpoint_zjh17IAFDwBCvgGzRtoX55S3Wr85elyVi0rWkCB6BuU",
+      "upload_seconds": 5.8,
+      "poll_seconds": 25.7
+    },
+    "non-technical-skills-in-neurosurgery--resilience-in-neurosurgery": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "EbPq0bm-8YXE49CRYcU2RQ",
+      "submitted_at": "2026-04-14T13:16:47+00:00",
+      "completed_at": "2026-04-14T13:17:03+00:00",
+      "page_count": 9,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 5.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--resilience-in-neurosurgery",
+      "checkpoint_id": "checkpoint_wlScwO9XxkLXqqUj0BfjNvbaauiqkVyODgsiQkgoLTg",
+      "upload_seconds": 1.4,
+      "poll_seconds": 14.5
+    },
+    "non-technical-skills-in-neurosurgery--situation-awareness": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "fgL-OulnsoygR2BUk6ECFg",
+      "submitted_at": "2026-04-14T13:17:03+00:00",
+      "completed_at": "2026-04-14T13:17:44+00:00",
+      "page_count": 13,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 8,
+        "final_cost_cents": 6
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--situation-awareness",
+      "checkpoint_id": "checkpoint_g902f5wD9fRfyBtc67QjOIginn5EucJRMtta38Gufwg",
+      "upload_seconds": 2.6,
+      "poll_seconds": 38.5
+    },
+    "non-technical-skills-in-neurosurgery--surgical-decision-making": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "fjT9w6_mIKsrJCPjg7t2rg",
+      "submitted_at": "2026-04-14T13:17:44+00:00",
+      "completed_at": "2026-04-14T13:18:01+00:00",
+      "page_count": 6,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 4,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--surgical-decision-making",
+      "checkpoint_id": "checkpoint_G0ITnHQAQdOCzhoxYsnZK_lyfQqnJRtT4af7ribis1E",
+      "upload_seconds": 3.7,
+      "poll_seconds": 13.8
+    },
+    "non-technical-skills-in-neurosurgery--teamwork-communication": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "uuMnFs3TynRpL9T23cWKJQ",
+      "submitted_at": "2026-04-14T13:18:01+00:00",
+      "completed_at": "2026-04-14T13:18:34+00:00",
+      "page_count": 16,
+      "parse_quality_score": null,
+      "cost_cents": 8,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 10,
+        "final_cost_cents": 8
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--teamwork-communication",
+      "checkpoint_id": "checkpoint_EKeTufYWS0hZuttWyAvcb9cWFd1SiztV3sH11Me1XCQ",
+      "upload_seconds": 1.9,
+      "poll_seconds": 30.5
+    },
+    "non-technical-skills-in-neurosurgery--what-makes-a-great-resident": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "wxJR3LhUZZ0A9L4TXz9PVA",
+      "submitted_at": "2026-04-14T13:18:34+00:00",
+      "completed_at": "2026-04-14T13:19:02+00:00",
+      "page_count": 11,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 5.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/non-technical-skills-in-neurosurgery--what-makes-a-great-resident",
+      "checkpoint_id": "checkpoint_o5fXvooXQZv8WajfIF0iLr-1QbTMq9oFXSSf2p0dL1U",
+      "upload_seconds": 5.3,
+      "poll_seconds": 22.7
+    },
+    "operative-neuroanatomy--3d-anatomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "JO-xgdOfPJjBCKY-x8vyxA",
+      "submitted_at": "2026-04-14T13:19:02+00:00",
+      "completed_at": "2026-04-14T13:19:26+00:00",
+      "page_count": 4,
+      "parse_quality_score": null,
+      "cost_cents": 2,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 3,
+        "final_cost_cents": 2
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/operative-neuroanatomy--3d-anatomy",
+      "checkpoint_id": "checkpoint_ch_sk02Upfb1IjcsLnhXGvo0kWnqXslfWt90Y8xgYkg",
+      "upload_seconds": 2.2,
+      "poll_seconds": 22.2
+    },
+    "operative-neuroanatomy--cavernous-sinus-anatomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "DBlq0UOfS2_31l0ucgSFgA",
+      "submitted_at": "2026-04-14T13:19:26+00:00",
+      "completed_at": "2026-04-14T13:19:42+00:00",
+      "page_count": 1,
+      "parse_quality_score": null,
+      "cost_cents": 1,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 1,
+        "final_cost_cents": 1
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/operative-neuroanatomy--cavernous-sinus-anatomy",
+      "checkpoint_id": "checkpoint_8euNqFOM_G4LJfIS3Dgu2DK9EEgzgOSJN5HxD5dxSCg",
+      "upload_seconds": 1.3,
+      "poll_seconds": 14.5
+    },
+    "operative-neuroanatomy--cerebrovascular-anatomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "xeT4M0RKXKz384oo_3uQpg",
+      "submitted_at": "2026-04-14T13:19:42+00:00",
+      "completed_at": "2026-04-14T13:20:54+00:00",
+      "page_count": 10,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 6,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/operative-neuroanatomy--cerebrovascular-anatomy",
+      "checkpoint_id": "checkpoint_1Ahxj2yBmtIVZIFH3s3CchUOxiTHacBmr3mNQbrAdfs",
+      "upload_seconds": 3.5,
+      "poll_seconds": 68.2
+    },
+    "operative-neuroanatomy--infratentorial-operative-anatomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "3ayQPWuOkRyQlG5HgI582Q",
+      "submitted_at": "2026-04-14T13:20:54+00:00",
+      "completed_at": "2026-04-14T13:21:37+00:00",
+      "page_count": 2,
+      "parse_quality_score": null,
+      "cost_cents": 1,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 2,
+        "final_cost_cents": 1
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/operative-neuroanatomy--infratentorial-operative-anatomy",
+      "checkpoint_id": "checkpoint_XC9IJyNxaSELEDuXE7fcrarePqwOsExRAQQvW7b2rUY",
+      "upload_seconds": 1.6,
+      "poll_seconds": 42.1
+    },
+    "operative-neuroanatomy--skull-anatomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "mBFSYzqhaCFirhX7fm263Q",
+      "submitted_at": "2026-04-14T13:21:37+00:00",
+      "completed_at": "2026-04-14T13:23:10+00:00",
+      "page_count": 14,
+      "parse_quality_score": null,
+      "cost_cents": 7,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 9,
+        "final_cost_cents": 7
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/operative-neuroanatomy--skull-anatomy",
+      "checkpoint_id": "checkpoint_h1621f5rt9KR2WvyMrrECmB3yvVIGP7EDfeCrj5Hlf4",
+      "upload_seconds": 5.7,
+      "poll_seconds": 86.9
+    },
+    "operative-neuroanatomy--supratentorial-operative-anatomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "9G-_3zWHKgOXJlNrYWtY7g",
+      "submitted_at": "2026-04-14T13:23:10+00:00",
+      "completed_at": "2026-04-14T13:23:36+00:00",
+      "page_count": 1,
+      "parse_quality_score": null,
+      "cost_cents": 1,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 1,
+        "final_cost_cents": 1
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/operative-neuroanatomy--supratentorial-operative-anatomy",
+      "checkpoint_id": "checkpoint_dx1E_Y3TbIup9ABaOo5nU7lkfQmIJ0wAhiNMqyj9XJ0",
+      "upload_seconds": 2.5,
+      "poll_seconds": 23.8
+    },
+    "preface--preface": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "fw4wo6DJRe3G5ijcEBRlwQ",
+      "submitted_at": "2026-04-14T13:23:36+00:00",
+      "completed_at": "2026-04-14T13:24:49+00:00",
+      "page_count": 6,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 4,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/preface--preface",
+      "checkpoint_id": "checkpoint_8H1oy23NPbA4X4xfMxtJ8qWJ_Lbdi4s59d5VPwJNGMU",
+      "upload_seconds": 3.3,
+      "poll_seconds": 69.5
+    },
+    "principles-of-cranial-surgery--brain-mobilization-and-protection-2": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "Wv6Wnb1dRmazk7zX3AteOw",
+      "submitted_at": "2026-04-14T13:24:49+00:00",
+      "completed_at": "2026-04-14T13:25:08+00:00",
+      "page_count": 6,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 4,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--brain-mobilization-and-protection-2",
+      "checkpoint_id": "checkpoint_rqtFH0M7Qbo4d6dXfIe4UaCfbJtALAip15JT_ldliLk",
+      "upload_seconds": 4.0,
+      "poll_seconds": 14.8
+    },
+    "principles-of-cranial-surgery--burr-holes-and-bone-flaps": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "OcdNAeqZlg59j70pBmq_kg",
+      "submitted_at": "2026-04-14T13:25:08+00:00",
+      "completed_at": "2026-04-14T13:25:52+00:00",
+      "page_count": 13,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 8,
+        "final_cost_cents": 6
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--burr-holes-and-bone-flaps",
+      "checkpoint_id": "checkpoint_BkcAWutjsB9bT5f7VpBs7-XgKEe1m6HvlFdG2Ha97bc",
+      "upload_seconds": 13.3,
+      "poll_seconds": 30.5
+    },
+    "principles-of-cranial-surgery--dural-opening-and-closure": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "NvsYEPGxqg968EHEoJav0A",
+      "submitted_at": "2026-04-14T13:25:52+00:00",
+      "completed_at": "2026-04-14T13:26:45+00:00",
+      "page_count": 10,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 6,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--dural-opening-and-closure",
+      "checkpoint_id": "checkpoint_ZfDsOu_u-n3_3zsP58-EIfuqpvX5VykcEdT4slJtFpQ",
+      "upload_seconds": 11.6,
+      "poll_seconds": 41.7
+    },
+    "principles-of-cranial-surgery--external-ventricular-drain": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "fNFIj6-F1n7gy6057du_jw",
+      "submitted_at": "2026-04-14T13:26:45+00:00",
+      "completed_at": "2026-04-14T13:27:44+00:00",
+      "page_count": 11,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 7,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--external-ventricular-drain",
+      "checkpoint_id": "checkpoint_VdMzFB5kO04FbYnCTSVUbRrKNJz-1u3o3MzRT4B1ECc",
+      "upload_seconds": 9.3,
+      "poll_seconds": 49.6
+    },
+    "principles-of-cranial-surgery--instrumentation": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "04cs7C2G5Z7GHxaQTY13UQ",
+      "submitted_at": "2026-04-14T13:27:44+00:00",
+      "completed_at": "2026-04-14T13:28:41+00:00",
+      "page_count": 11,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 7,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--instrumentation",
+      "checkpoint_id": "checkpoint_uIBj3bdeDPgcag5dtCzIIcwmzn-rneBMn9Oiz9Zuiw8",
+      "upload_seconds": 8.3,
+      "poll_seconds": 48.9
+    },
+    "principles-of-cranial-surgery--intraoperative-hemostasis": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "JhAek9zXk6FpegUCbhX4MQ",
+      "submitted_at": "2026-04-14T13:28:41+00:00",
+      "completed_at": "2026-04-14T13:29:02+00:00",
+      "page_count": 8,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--intraoperative-hemostasis",
+      "checkpoint_id": "checkpoint_Wva17ME4xxftWKvkHhoBW-kkXSe4lfl1quIBmd1kqc4",
+      "upload_seconds": 4.7,
+      "poll_seconds": 15.9
+    },
+    "principles-of-cranial-surgery--lumbar-drain": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "HJ-hKQPSElCKe26cxzZ2nw",
+      "submitted_at": "2026-04-14T13:29:02+00:00",
+      "completed_at": "2026-04-14T13:29:29+00:00",
+      "page_count": 8,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--lumbar-drain",
+      "checkpoint_id": "checkpoint_H0Wuk298N_ymo0zMDwJkIok2H1ZKEdql0NelzyozWgM",
+      "upload_seconds": 3.9,
+      "poll_seconds": 22.7
+    },
+    "principles-of-cranial-surgery--microscope-and-mouthpiece-2": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "cox5o9sZBpRGItLj1C9AMg",
+      "submitted_at": "2026-04-14T13:29:29+00:00",
+      "completed_at": "2026-04-14T13:33:12+00:00",
+      "page_count": 6,
+      "parse_quality_score": null,
+      "cost_cents": 3,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 4,
+        "final_cost_cents": 3
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--microscope-and-mouthpiece-2",
+      "checkpoint_id": "checkpoint_jjGxJ_mz3oDQxRBp-qnjAhicRkKGY7tqWP5HRbo6LqI",
+      "upload_seconds": 4.4,
+      "poll_seconds": 219.5
+    },
+    "principles-of-cranial-surgery--operating-room-setup-and-workflow": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "_I119tbfrzJ4Wd9A0BuB1w",
+      "submitted_at": "2026-04-14T13:33:12+00:00",
+      "completed_at": "2026-04-14T13:33:41+00:00",
+      "page_count": 12,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 8,
+        "final_cost_cents": 6
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--operating-room-setup-and-workflow",
+      "checkpoint_id": "checkpoint_J8yHGJ6gHkUs7cr8VhK9uklU9ygtYjoeroShjiItqF4",
+      "upload_seconds": 8.0,
+      "poll_seconds": 20.3
+    },
+    "principles-of-cranial-surgery--patient-positioning": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "vj_SIiv8i1UvoM3okFWUxg",
+      "submitted_at": "2026-04-14T13:33:41+00:00",
+      "completed_at": "2026-04-14T13:34:18+00:00",
+      "page_count": 17,
+      "parse_quality_score": null,
+      "cost_cents": 8,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 11,
+        "final_cost_cents": 8
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--patient-positioning",
+      "checkpoint_id": "checkpoint_tRytDO-5Q8R3A4577fnxcOQGARmtWMjdQvKNZ9Ut96A",
+      "upload_seconds": 8.7,
+      "poll_seconds": 28.8
+    },
+    "principles-of-cranial-surgery--postoperative-care": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "oMX3I520mxxvwCoNKiKIxg",
+      "submitted_at": "2026-04-14T13:34:18+00:00",
+      "completed_at": "2026-04-14T13:34:44+00:00",
+      "page_count": 14,
+      "parse_quality_score": null,
+      "cost_cents": 7,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 9,
+        "final_cost_cents": 7
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--postoperative-care",
+      "checkpoint_id": "checkpoint_gtrzulARFvZAOhtK1dBg4-eT0YuFEpnjb5nZPw-TZbU",
+      "upload_seconds": 2.6,
+      "poll_seconds": 22.5
+    },
+    "principles-of-cranial-surgery--preoperative-evaluation": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "6gmOUYxSwHPggJ2leaMIMw",
+      "submitted_at": "2026-04-14T13:34:44+00:00",
+      "completed_at": "2026-04-14T13:35:14+00:00",
+      "page_count": 15,
+      "parse_quality_score": null,
+      "cost_cents": 7,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 9,
+        "final_cost_cents": 7
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--preoperative-evaluation",
+      "checkpoint_id": "checkpoint_qdTSJTBibTqg6W4bUae0S0enxmhHYqTPQgCn-LLCpGE",
+      "upload_seconds": 5.4,
+      "poll_seconds": 25.1
+    },
+    "principles-of-cranial-surgery--scalp-incisions": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "hr9h0AI2OLK6w5y8iCgCqg",
+      "submitted_at": "2026-04-14T13:35:14+00:00",
+      "completed_at": "2026-04-14T13:35:57+00:00",
+      "page_count": 15,
+      "parse_quality_score": null,
+      "cost_cents": 7,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 9,
+        "final_cost_cents": 7
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--scalp-incisions",
+      "checkpoint_id": "checkpoint_uVXsZBdBi5Lf_6CTF_O41PsbnxIOyhEn2RzSVBYZONE",
+      "upload_seconds": 12.6,
+      "poll_seconds": 29.8
+    },
+    "principles-of-cranial-surgery--skull-clamp-placement": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "43DB9hRoFEWApyTxPvx1Mw",
+      "submitted_at": "2026-04-14T13:35:57+00:00",
+      "completed_at": "2026-04-14T13:36:20+00:00",
+      "page_count": 12,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 8,
+        "final_cost_cents": 6
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--skull-clamp-placement",
+      "checkpoint_id": "checkpoint_eIs4v3_fuIHAxwjLnYWmWxUyEyAn_PAYc-SilyTAnUA",
+      "upload_seconds": 1.1,
+      "poll_seconds": 21.9
+    },
+    "principles-of-cranial-surgery--subarachnoid-dissection-2": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "wUoyeO_2jmH16r4j2bBHPQ",
+      "submitted_at": "2026-04-14T13:36:20+00:00",
+      "completed_at": "2026-04-14T13:36:43+00:00",
+      "page_count": 8,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--subarachnoid-dissection-2",
+      "checkpoint_id": "checkpoint_D8GOS9LD7NicbxUuQgdeh0vWhcxOkqx16cfnIfrh7PM",
+      "upload_seconds": 3.8,
+      "poll_seconds": 19.6
+    },
+    "principles-of-cranial-surgery--surgeons-philosophy-and-operating-position": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "8N_t1-uB_CeyBwZN7H2T7g",
+      "submitted_at": "2026-04-14T13:36:43+00:00",
+      "completed_at": "2026-04-14T13:37:49+00:00",
+      "page_count": 7,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--surgeons-philosophy-and-operating-position",
+      "checkpoint_id": "checkpoint_4ZYNLvYdIbmT9dc-MvSoU5I7KTN1Fd7aswXN1mR5hfg",
+      "upload_seconds": 3.5,
+      "poll_seconds": 62.3
+    },
+    "principles-of-cranial-surgery--suturing-and-closure": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "wDHt1a4cEFORFLWeKwAdSg",
+      "submitted_at": "2026-04-14T13:37:49+00:00",
+      "completed_at": "2026-04-14T13:38:22+00:00",
+      "page_count": 19,
+      "parse_quality_score": null,
+      "cost_cents": 9,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 12,
+        "final_cost_cents": 9
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--suturing-and-closure",
+      "checkpoint_id": "checkpoint_9oXuWqArEkcxCqVis3E91yC99Ly7Z5v8Ni9F4O9kJf0",
+      "upload_seconds": 4.3,
+      "poll_seconds": 28.8
+    },
+    "principles-of-cranial-surgery--techniques-of-sylvian-fissure-split-2": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "kOBdIoahygDZvFVTPdrfWw",
+      "submitted_at": "2026-04-14T13:38:22+00:00",
+      "completed_at": "2026-04-14T13:38:53+00:00",
+      "page_count": 16,
+      "parse_quality_score": null,
+      "cost_cents": 8,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 10,
+        "final_cost_cents": 8
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--techniques-of-sylvian-fissure-split-2",
+      "checkpoint_id": "checkpoint_nyjAlw0m7-lnE5TX3THLHFU_S4YTU0ksWcgUdWveBvw",
+      "upload_seconds": 1.6,
+      "poll_seconds": 29.5
+    },
+    "principles-of-cranial-surgery--use-and-misuse-of-instruments": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "upyB_dfdwq1_wJcSpKOgHw",
+      "submitted_at": "2026-04-14T13:38:53+00:00",
+      "completed_at": "2026-04-14T13:39:12+00:00",
+      "page_count": 9,
+      "parse_quality_score": null,
+      "cost_cents": 5,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 6,
+        "final_cost_cents": 5
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--use-and-misuse-of-instruments",
+      "checkpoint_id": "checkpoint_UeDu41FwCMeyyfS32IeNGL7HlTEeJj8vuyhjDg6vx2o",
+      "upload_seconds": 4.1,
+      "poll_seconds": 15.0
+    },
+    "principles-of-cranial-surgery--ventricular-shunt-reference": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "_PEq_4Bf4jw1Myx6OkNmDQ",
+      "submitted_at": "2026-04-14T13:39:12+00:00",
+      "completed_at": "2026-04-14T13:39:42+00:00",
+      "page_count": 13,
+      "parse_quality_score": null,
+      "cost_cents": 6,
+      "cost_breakdown_raw": {
+        "final_cost_cents": 6.0
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/principles-of-cranial-surgery--ventricular-shunt-reference",
+      "checkpoint_id": "checkpoint_BeqI1GYS_Zu5xDhE-o3uL7z6pLO-6Nb-eeGgKmtwlEg",
+      "upload_seconds": 3.1,
+      "poll_seconds": 26.5
+    },
+    "spinal-cord-surgery--extramedullary-spinal-cord-tumor": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "QN58YIvm2sOgaAWm7E6iOA",
+      "submitted_at": "2026-04-14T13:39:42+00:00",
+      "completed_at": "2026-04-14T13:40:40+00:00",
+      "page_count": 26,
+      "parse_quality_score": null,
+      "cost_cents": 12,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 16,
+        "final_cost_cents": 12
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/spinal-cord-surgery--extramedullary-spinal-cord-tumor",
+      "checkpoint_id": "checkpoint_NmSa4YrwOQ0cUcG3lpVNfkh1t06yyDmvkczKYR_Pc7I",
+      "upload_seconds": 24.3,
+      "poll_seconds": 34.2
+    },
+    "spinal-cord-surgery--intramedullary-spinal-cord-tumor": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "oa1gpts0mGbeXIYk-EkaAA",
+      "submitted_at": "2026-04-14T13:40:40+00:00",
+      "completed_at": "2026-04-14T13:41:25+00:00",
+      "page_count": 20,
+      "parse_quality_score": null,
+      "cost_cents": 9,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 12,
+        "final_cost_cents": 9
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/spinal-cord-surgery--intramedullary-spinal-cord-tumor",
+      "checkpoint_id": "checkpoint_fq7HXX5AnnRHSYV8a87PlZ8pHZVo3gNfGGFE7xpjr2Q",
+      "upload_seconds": 11.4,
+      "poll_seconds": 33.0
+    },
+    "spinal-cord-surgery--operative-spinal-cord-anatomy": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "KuiippFAhJNBkKNMnpIJLw",
+      "submitted_at": "2026-04-14T13:41:25+00:00",
+      "completed_at": "2026-04-14T13:44:47+00:00",
+      "page_count": 18,
+      "parse_quality_score": null,
+      "cost_cents": 9,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 11,
+        "final_cost_cents": 9
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/spinal-cord-surgery--operative-spinal-cord-anatomy",
+      "checkpoint_id": "checkpoint_O9UslwPHXdOJ_ZrcTXBzdK1dyHKPOCqZyrGDRa82DfQ",
+      "upload_seconds": 12.0,
+      "poll_seconds": 190.1
+    },
+    "spinal-cord-surgery--spinal-av-fistula-disconnection": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "riic_4pT6ljSQ65ZRszovg",
+      "submitted_at": "2026-04-14T13:44:47+00:00",
+      "completed_at": "2026-04-14T13:45:42+00:00",
+      "page_count": 23,
+      "parse_quality_score": null,
+      "cost_cents": 11,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 14,
+        "final_cost_cents": 11
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/spinal-cord-surgery--spinal-av-fistula-disconnection",
+      "checkpoint_id": "checkpoint_c5zAfCOyjoRDohGty6btcqK81bUmGbXcKdR-j3T3BAo",
+      "upload_seconds": 7.7,
+      "poll_seconds": 48.0
+    },
+    "spinal-cord-surgery--spinal-cord-avm": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "VeI6Svl3gV-bsnHPqkwnGA",
+      "submitted_at": "2026-04-14T13:45:42+00:00",
+      "completed_at": "2026-04-14T13:46:01+00:00",
+      "page_count": 14,
+      "parse_quality_score": null,
+      "cost_cents": 7,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 9,
+        "final_cost_cents": 7
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/spinal-cord-surgery--spinal-cord-avm",
+      "checkpoint_id": "checkpoint_f-87SV5bsiHIg98xiO2MwaRGTy-vdz76mhDOJ_Z5Tyg",
+      "upload_seconds": 1.4,
+      "poll_seconds": 17.0
+    },
+    "spinal-cord-surgery--spinal-cord-cavernous-malformation": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "16582RTOmk9kqpCd4PVCMA",
+      "submitted_at": "2026-04-14T13:46:01+00:00",
+      "completed_at": "2026-04-14T13:46:29+00:00",
+      "page_count": 8,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/spinal-cord-surgery--spinal-cord-cavernous-malformation",
+      "checkpoint_id": "checkpoint_xLSqF0CinLukuPZrRkRmWMl9Laxb9Zuhcoh_f_RD9mk",
+      "upload_seconds": 3.4,
+      "poll_seconds": 24.8
+    },
+    "trending-articles-in-neurosurgical-journals--trending-articles-october-2023": {
+      "status": "complete",
+      "output_format": "markdown",
+      "request_id": "zIZbzINwNq0RLWHXbsXASw",
+      "submitted_at": "2026-04-14T13:46:29+00:00",
+      "completed_at": "2026-04-14T13:46:59+00:00",
+      "page_count": 7,
+      "parse_quality_score": null,
+      "cost_cents": 4,
+      "cost_breakdown_raw": {
+        "list_cost_cents": 5,
+        "final_cost_cents": 4
+      },
+      "chapter_dir": "/Users/fax/code/pkm-obsidian-wiki/nsatlas-wiki/extractions/datalab/chapters/trending-articles-in-neurosurgical-journals--trending-articles-october-2023",
+      "checkpoint_id": "checkpoint_SUMIyTrJ6-n8LZjzadJQgzDFPL9lcJjcXkgIosM6peM",
+      "upload_seconds": 3.5,
+      "poll_seconds": 26.0
+    }
+  },
+  "updated_at": "2026-04-14T13:46:59+00:00"
+}

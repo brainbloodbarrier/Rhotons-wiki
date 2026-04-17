@@ -1,0 +1,32 @@
+{
+  "status": "complete",
+  "output_format": "markdown",
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "segmentation_results": null,
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 0,
+        "num_blocks": 8
+      },
+      {
+        "page_id": 1,
+        "num_blocks": 4
+      }
+    ]
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": 5.0,
+  "page_count": 2,
+  "total_cost": 1,
+  "cost_breakdown": {
+    "final_cost_cents": 1.0
+  },
+  "runtime": 6.5681633949279785,
+  "checkpoint_id": "checkpoint_ChZx8ebi3pEFZje_P8zfNiH1jL6Lt5uLgINZkeUFz4o",
+  "versions": null,
+  "evaluation": null,
+  "request_id": "vjBCfrSmN4zw5e7M9c0jpw"
+}

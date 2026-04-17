@@ -1,0 +1,258 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-04-17",
+  "bridges": [
+    {
+      "wiki_a": "rhoton",
+      "page_a": "concepts/basal-cisterns.md",
+      "wiki_b": "ncx",
+      "page_b": "concepts/basal-cisterns.md",
+      "confidence": 0.98,
+      "rationale": "Identical concept — rhoton covers anatomy and cistern relationships; ncx covers surgical context and approach corridors.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "entities/superficial-temporal-artery.md",
+      "wiki_b": "ncx",
+      "page_b": "entities/superficial-temporal-artery.md",
+      "confidence": 0.98,
+      "rationale": "Identical entity — rhoton documents anatomy; ncx documents use as donor vessel in EC-IC bypass.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "references/pterional-approach.md",
+      "wiki_b": "ncx",
+      "page_b": "procedures/pterional-approach.md",
+      "confidence": 0.97,
+      "rationale": "Same surgical approach — rhoton provides anatomy-centric description; ncx provides case-based operative technique.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "references/pterional-approach.md",
+      "wiki_b": "nsatlas",
+      "page_b": "approaches/pterional-craniotomy.md",
+      "confidence": 0.97,
+      "rationale": "Same approach — rhoton covers neurovascular relationships; nsatlas covers step-by-step craniotomy technique.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "ncx",
+      "page_a": "procedures/pterional-approach.md",
+      "wiki_b": "nsatlas",
+      "page_b": "approaches/pterional-craniotomy.md",
+      "confidence": 0.97,
+      "rationale": "Same craniotomy — ncx is case-driven; nsatlas is atlas-style step-by-step.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "references/far-lateral-approach.md",
+      "wiki_b": "ncx",
+      "page_b": "procedures/far-lateral-approach.md",
+      "confidence": 0.97,
+      "rationale": "Same approach — complementary perspectives on anatomy vs. operative technique.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "references/retrosigmoid-approach.md",
+      "wiki_b": "nsatlas",
+      "page_b": "approaches/retromastoid-craniotomy.md",
+      "confidence": 0.95,
+      "rationale": "Retrosigmoid and retromastoid are nomenclature variants for the same posterior fossa approach.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "ncx",
+      "page_a": "skull-base/cerebellopontine-angle.md",
+      "wiki_b": "nsatlas",
+      "page_b": "approaches/retromastoid-craniotomy.md",
+      "confidence": 0.90,
+      "rationale": "CPA pathology (schwannomas, meningiomas) is accessed via retromastoid craniotomy.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "entities/pica.md",
+      "wiki_b": "ncx",
+      "page_b": "pathology/pica-aneurysm.md",
+      "confidence": 0.92,
+      "rationale": "PICA anatomy (rhoton) is the prerequisite for understanding PICA aneurysm surgical planning (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "entities/basilar-artery.md",
+      "wiki_b": "ncx",
+      "page_b": "pathology/basilar-bifurcation-aneurysm.md",
+      "confidence": 0.90,
+      "rationale": "Basilar artery anatomy (rhoton) underpins basilar bifurcation aneurysm surgery (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "entities/ophthalmic-artery.md",
+      "wiki_b": "ncx",
+      "page_b": "pathology/ophthalmic-artery-aneurysm.md",
+      "confidence": 0.93,
+      "rationale": "Ophthalmic artery anatomy and ICA-ophthalmic segment relationships are critical for aneurysm clipping.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "entities/trigeminal-nerve.md",
+      "wiki_b": "ncx",
+      "page_b": "pathology/trigeminal-neuralgia.md",
+      "confidence": 0.90,
+      "rationale": "Trigeminal nerve anatomy at the root entry zone (rhoton) is the anatomical basis for MVD in TN (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "synthesis/herniation-syndromes.md",
+      "wiki_b": "ncx",
+      "page_b": "pathology/herniation-syndromes.md",
+      "confidence": 0.92,
+      "rationale": "Herniation anatomy (rhoton) maps directly to clinical herniation syndromes and critical-care management (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "synthesis/sylvian-fissure.md",
+      "wiki_b": "ncx",
+      "page_b": "concepts/sylvian-fissure.md",
+      "confidence": 0.93,
+      "rationale": "Sylvian fissure anatomy (rhoton) is essential for understanding sylvian dissection in MCA aneurysm surgery (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "entities/middle-cerebral-artery.md",
+      "wiki_b": "ncx",
+      "page_b": "pathology/mca-aneurysm.md",
+      "confidence": 0.88,
+      "rationale": "MCA anatomy (rhoton) is the direct anatomical substrate for MCA aneurysm surgical planning (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "entities/internal-carotid-artery.md",
+      "wiki_b": "ncx",
+      "page_b": "pathology/pcoa-aneurysm.md",
+      "confidence": 0.85,
+      "rationale": "ICA-PCoA junction anatomy (rhoton) defines the surgical anatomy for PCoA aneurysm clipping (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "concepts/cerebellopontine-cistern.md",
+      "wiki_b": "ncx",
+      "page_b": "skull-base/cerebellopontine-angle.md",
+      "confidence": 0.88,
+      "rationale": "CPA cistern anatomy (rhoton) provides the 3D framework for CPA surgical access and pathology (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "synthesis/aneurysm-surgery.md",
+      "wiki_b": "ncx",
+      "page_b": "synthesis/cerebrovascular-aneurysms-overview.md",
+      "confidence": 0.87,
+      "rationale": "Rhoton aneurysm surgery synthesis covers anatomical principles; ncx synthesis covers the clinical and technical overview.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "references/interhemispheric-approach.md",
+      "wiki_b": "ncx",
+      "page_b": "procedures/anterior-interhemispheric-approach.md",
+      "confidence": 0.92,
+      "rationale": "Same approach — rhoton covers falx and pericallosal anatomy; ncx covers operative steps and indications.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "references/interhemispheric-approach.md",
+      "wiki_b": "nsatlas",
+      "page_b": "approaches/bifrontal-craniotomy.md",
+      "confidence": 0.72,
+      "rationale": "Setup relationship only: a bifrontal craniotomy bone flap can provide access for an anterior interhemispheric dissection, but the two approaches target different corridors (subfrontal vs. falx/pericallosal). Not synonyms.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "ncx",
+      "page_a": "procedures/anterior-interhemispheric-approach.md",
+      "wiki_b": "nsatlas",
+      "page_b": "approaches/bifrontal-craniotomy.md",
+      "confidence": 0.72,
+      "rationale": "Setup relationship only: bifrontal craniotomy (subfrontal corridor) vs. interhemispheric approach (falx/pericallosal corridor) are distinct techniques; overlap is in the bone flap, not the surgical corridor.",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "concepts/cranial-base.md",
+      "wiki_b": "nsatlas",
+      "page_b": "approaches/cranial-approaches-general-principles.md",
+      "confidence": 0.85,
+      "rationale": "Cranial base anatomy (rhoton) is the anatomical context for cranial approach selection principles (nsatlas).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "ncx",
+      "page_a": "pathology/vestibular-schwannoma.md",
+      "wiki_b": "nsatlas",
+      "page_b": "approaches/retromastoid-craniotomy.md",
+      "confidence": 0.87,
+      "rationale": "Vestibular schwannoma (ncx) is the primary indication for retromastoid/retrosigmoid craniotomy (nsatlas).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "entities/vertebral-artery.md",
+      "wiki_b": "ncx",
+      "page_b": "pathology/pica-aneurysm.md",
+      "confidence": 0.80,
+      "rationale": "Vertebral artery anatomy (rhoton) is prerequisite for PICA aneurysm surgery at the vertebral-PICA junction (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "concepts/corpus-callosum.md",
+      "wiki_b": "ncx",
+      "page_b": "pathology/pericallosal-artery-aneurysm.md",
+      "confidence": 0.80,
+      "rationale": "Corpus callosum anatomy and pericallosal arterial relationships (rhoton) underpin pericallosal aneurysm surgery (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "entities/facial-nerve.md",
+      "wiki_b": "ncx",
+      "page_b": "pathology/vestibular-schwannoma.md",
+      "confidence": 0.78,
+      "rationale": "CN VII anatomy at the CPA and IAC (rhoton) is critical for facial nerve preservation in schwannoma surgery (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "rhoton",
+      "page_a": "synthesis/circle-of-willis.md",
+      "wiki_b": "ncx",
+      "page_b": "synthesis/cerebrovascular-aneurysms-overview.md",
+      "confidence": 0.82,
+      "rationale": "Circle of Willis anatomy (rhoton) is the anatomical framework underlying aneurysm distribution and surgical planning (ncx).",
+      "created_at": "2026-04-17"
+    },
+    {
+      "wiki_a": "ncx",
+      "page_a": "pathology/mca-aneurysm.md",
+      "wiki_b": "nsatlas",
+      "page_b": "approaches/pterional-craniotomy.md",
+      "confidence": 0.87,
+      "rationale": "Pterional craniotomy (nsatlas) is the primary approach for MCA bifurcation aneurysms (ncx).",
+      "created_at": "2026-04-17"
+    }
+  ]
+}

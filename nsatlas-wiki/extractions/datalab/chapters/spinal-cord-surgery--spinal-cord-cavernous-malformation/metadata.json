@@ -1,0 +1,20 @@
+{
+  "article_id": "spinal-cord-surgery--spinal-cord-cavernous-malformation",
+  "title": "Spinal Cord Cavernous Malformation",
+  "category": "spinal-cord-surgery",
+  "slug": "spinal-cord-cavernous-malformation",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/spinal-cord-surgery/spinal-cord-cavernous-malformation.pdf",
+  "expected_page_count": 8,
+  "api_page_count": 8,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 5,
+    "final_cost_cents": 4
+  },
+  "checkpoint_id": "checkpoint_xLSqF0CinLukuPZrRkRmWMl9Laxb9Zuhcoh_f_RD9mk",
+  "request_id": "16582RTOmk9kqpCd4PVCMA",
+  "markdown_bytes": 16665,
+  "markdown_sha256": "3bda292e1361dffb854f246283298091d07486766d07910df5e470b03cbb82e1",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:46:29+00:00"
+}

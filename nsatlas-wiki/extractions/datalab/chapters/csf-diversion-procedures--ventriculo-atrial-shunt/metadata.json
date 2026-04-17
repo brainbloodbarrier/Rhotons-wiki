@@ -1,0 +1,20 @@
+{
+  "article_id": "csf-diversion-procedures--ventriculo-atrial-shunt",
+  "title": "Ventriculo Atrial Shunt",
+  "category": "csf-diversion-procedures",
+  "slug": "ventriculo-atrial-shunt",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/ventriculo-atrial-shunt.pdf",
+  "expected_page_count": 10,
+  "api_page_count": 10,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 6,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint__fsd_oqBXIJU_cwkKaqLomUhRc6b9t_tHPp1wIt9zwA",
+  "request_id": "Y1vHaYhJcODQPm9fckd4MQ",
+  "markdown_bytes": 21658,
+  "markdown_sha256": "9542e5b60ab1513fba475767189f8a95a0038f383fcd627cee5767c553dcbf96",
+  "image_count": 7,
+  "saved_at": "2026-04-14T12:57:58+00:00"
+}

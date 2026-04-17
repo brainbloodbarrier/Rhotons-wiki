@@ -1,0 +1,19 @@
+{
+  "article_id": "cranial-approaches--parasagittal-craniotomy",
+  "title": "Parasagittal Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "parasagittal-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/parasagittal-craniotomy.pdf",
+  "expected_page_count": 12,
+  "api_page_count": 12,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 6.0
+  },
+  "checkpoint_id": "checkpoint_XNIJv8MB1BOU2TckZsiEFRLQvUiSosYxxavpzHRf-bQ",
+  "request_id": "GB_WaeB_kPbbpXWo6DeXcw",
+  "markdown_bytes": 24113,
+  "markdown_sha256": "3765c946df778f4bb2304eb1cb9b8083ef670822d75fc7bfe369efca0509ff45",
+  "image_count": 11,
+  "saved_at": "2026-04-14T12:33:45+00:00"
+}

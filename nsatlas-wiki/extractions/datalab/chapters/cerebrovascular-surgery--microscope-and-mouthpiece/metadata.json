@@ -1,0 +1,20 @@
+{
+  "article_id": "cerebrovascular-surgery--microscope-and-mouthpiece",
+  "title": "Microscope And Mouthpiece",
+  "category": "cerebrovascular-surgery",
+  "slug": "microscope-and-mouthpiece",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cerebrovascular-surgery/aneurysms/microscope-and-mouthpiece.pdf",
+  "expected_page_count": 7,
+  "api_page_count": 7,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 5,
+    "final_cost_cents": 4
+  },
+  "checkpoint_id": "checkpoint_0q6AB5Wwydqv87LH5JlReZANDKcfJRyaZp_yCbX8D00",
+  "request_id": "u2HsZ223g2rmCZGNOdlkdg",
+  "markdown_bytes": 10253,
+  "markdown_sha256": "e7117389e92dac75f5c867d6ae610af96fb849ef04ccb23695e32c4a31f16672",
+  "image_count": 8,
+  "saved_at": "2026-04-14T12:24:18+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--microscope-and-mouthpiece-2",
+  "title": "Microscope And Mouthpiece 2",
+  "category": "principles-of-cranial-surgery",
+  "slug": "microscope-and-mouthpiece-2",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/microscope-and-mouthpiece-2.pdf",
+  "expected_page_count": 6,
+  "api_page_count": 6,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 4,
+    "final_cost_cents": 3
+  },
+  "checkpoint_id": "checkpoint_jjGxJ_mz3oDQxRBp-qnjAhicRkKGY7tqWP5HRbo6LqI",
+  "request_id": "cox5o9sZBpRGItLj1C9AMg",
+  "markdown_bytes": 11201,
+  "markdown_sha256": "54b800f86b1a3d15f60eda76396471ca19b7281b36013725f298c7408f2b52c6",
+  "image_count": 3,
+  "saved_at": "2026-04-14T13:33:12+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--brain-mobilization-and-protection-2",
+  "title": "Brain Mobilization And Protection 2",
+  "category": "principles-of-cranial-surgery",
+  "slug": "brain-mobilization-and-protection-2",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/brain-mobilization-and-protection-2.pdf",
+  "expected_page_count": 6,
+  "api_page_count": 6,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 4,
+    "final_cost_cents": 3
+  },
+  "checkpoint_id": "checkpoint_rqtFH0M7Qbo4d6dXfIe4UaCfbJtALAip15JT_ldliLk",
+  "request_id": "Wv6Wnb1dRmazk7zX3AteOw",
+  "markdown_bytes": 13457,
+  "markdown_sha256": "233ea98434c8b407d30cf0b28a8075a55ff934ba074cbff3b132d3c7d99c6306",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:25:08+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--pterional-craniotomy",
+  "title": "Pterional Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "pterional-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/pterional-craniotomy.pdf",
+  "expected_page_count": 23,
+  "api_page_count": 23,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 14,
+    "final_cost_cents": 11
+  },
+  "checkpoint_id": "checkpoint_tKB2KamM-1fGDslWYHsCrxMalCqNfmyD-yVzI1eVvtA",
+  "request_id": "run7nh89UFscQFYiRmP9fA",
+  "markdown_bytes": 45536,
+  "markdown_sha256": "126b83c9f3f05f17ffb49bf8134f0051ee446b9881bbbc3327446fae507a5122",
+  "image_count": 20,
+  "saved_at": "2026-04-14T12:35:13+00:00"
+}

@@ -1,0 +1,97 @@
+{
+  "wiki": "ncx",
+  "created": "2026-04-15",
+  "sources_processed": {
+    "cerebrovascular/lawton-seven-aneurysms": {
+      "ingested_at": "2026-04-15",
+      "source_type": "document",
+      "pages_created": [
+        "pathology/pcoa-aneurysm.md",
+        "pathology/mca-aneurysm.md",
+        "pathology/acoa-aneurysm.md",
+        "pathology/ophthalmic-artery-aneurysm.md",
+        "pathology/pericallosal-artery-aneurysm.md",
+        "pathology/basilar-bifurcation-aneurysm.md",
+        "pathology/pica-aneurysm.md",
+        "concepts/subarachnoid-dissection.md",
+        "concepts/temporary-clipping.md",
+        "concepts/aneurysm-clipping-techniques.md",
+        "concepts/intraoperative-rupture.md",
+        "synthesis/cerebrovascular-aneurysms-overview.md"
+      ],
+      "pages_updated": []
+    },
+    "cerebrovascular/lawton-seven-avms": {
+      "ingested_at": "2026-04-15",
+      "source_type": "document",
+      "pages_created": [
+        "pathology/frontal-avm.md",
+        "pathology/temporal-avm.md",
+        "pathology/parieto-occipital-avm.md",
+        "pathology/cerebellar-avm.md",
+        "pathology/deep-avm.md",
+        "pathology/brainstem-avm.md",
+        "pathology/ventricular-avm.md",
+        "concepts/avm-feeding-arteries.md",
+        "concepts/avm-draining-veins.md",
+        "concepts/avm-resection-principles.md",
+        "classifications/spetzler-martin-grading.md",
+        "synthesis/cerebrovascular-avms-overview.md"
+      ],
+      "pages_updated": []
+    },
+    "cerebrovascular/lawton-seven-bypasses": {
+      "ingested_at": "2026-04-15",
+      "source_type": "document",
+      "pages_created": [
+        "procedures/ec-ic-bypass.md",
+        "procedures/in-situ-bypass.md",
+        "procedures/interposition-graft-bypass.md",
+        "procedures/reimplantation-bypass.md",
+        "procedures/pterional-approach.md",
+        "procedures/orbitozygomatic-approach.md",
+        "procedures/far-lateral-approach.md",
+        "procedures/anterior-interhemispheric-approach.md",
+        "concepts/microsurgical-anastomosis.md",
+        "concepts/bypass-arteriotomy.md",
+        "entities/superficial-temporal-artery.md",
+        "synthesis/cerebral-revascularization-overview.md"
+      ],
+      "pages_updated": []
+    },
+    "geral/greenberg-handbook-10ed": {
+      "ingested_at": "2026-04-15",
+      "source_type": "document",
+      "pages_created": [
+        "pathology/herniation-syndromes.md",
+        "classifications/glasgow-coma-scale.md",
+        "pathology/hydrocephalus.md",
+        "critical-care/coma-assessment.md",
+        "critical-care/brain-death.md",
+        "classifications/who-cns-tumor-classification.md",
+        "concepts/intracranial-pressure.md",
+        "pathology/meningioma.md",
+        "pathology/glioblastoma.md",
+        "synthesis/neurocritical-care-overview.md",
+        "pathology/normal-pressure-hydrocephalus.md",
+        "pathology/vestibular-schwannoma.md",
+        "pathology/chiari-malformation.md",
+        "pathology/pituitary-adenoma.md",
+        "pharmacology/anticoagulation-neurosurgery.md"
+      ],
+      "pages_updated": []
+    },
+    "neuroanatomia/chaddad-neto-microneuroanatomy": {
+      "ingested_at": "2026-04-15",
+      "source_type": "document",
+      "pages_created": [
+        "concepts/sylvian-fissure.md",
+        "concepts/basal-cisterns.md",
+        "concepts/cortical-surface-anatomy.md"
+      ],
+      "pages_updated": []
+    }
+  },
+  "pages_count": 54,
+  "last_updated": "2026-04-15"
+}

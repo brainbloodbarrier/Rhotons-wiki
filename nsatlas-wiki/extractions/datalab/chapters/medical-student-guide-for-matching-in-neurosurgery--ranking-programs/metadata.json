@@ -1,0 +1,20 @@
+{
+  "article_id": "medical-student-guide-for-matching-in-neurosurgery--ranking-programs",
+  "title": "Ranking Programs",
+  "category": "medical-student-guide-for-matching-in-neurosurgery",
+  "slug": "ranking-programs",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/ranking-programs.pdf",
+  "expected_page_count": 6,
+  "api_page_count": 6,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 4,
+    "final_cost_cents": 3
+  },
+  "checkpoint_id": "checkpoint_SP0QJ-T6F2K3RA6Jt4mNQb_7oILYxR3ZzBhugWWo-TQ",
+  "request_id": "52ZnKc-bI-cy06n5reccsA",
+  "markdown_bytes": 10127,
+  "markdown_sha256": "a86f594649bea4a845951cb710e7d112171c61c5942292b68ffafe47cd409e89",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:11:13+00:00"
+}

@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/brainbloodbarrier/Rhotons-wiki/.config/wikis.schema.json",
+  "title": "Obsidian Wiki Multi-Vault Registry",
+  "description": "Registry of Obsidian vaults managed by this repository. Consumed by lib/resolve-wiki.sh and .skills/autoresearch/.",
+  "type": "object",
+  "required": ["version", "default", "wikis"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Pointer to this schema for editor validation."
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$",
+      "description": "Semantic version of this registry file format."
+    },
+    "default": {
+      "type": "string",
+      "description": "Name of the default wiki (must match a key in `wikis`)."
+    },
+    "output_dir": {
+      "type": "string",
+      "default": ".autoresearch",
+      "description": "Directory where per-wiki autoresearch output is written."
+    },
+    "crossmap": {
+      "type": "string",
+      "default": "crossmap.json",
+      "description": "Path to the cross-wiki bridge registry (Phase 7)."
+    },
+    "wikis": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": { "$ref": "#/definitions/wiki" },
+      "description": "Map of wiki-name -> wiki-config."
+    }
+  },
+  "definitions": {
+    "wiki": {
+      "type": "object",
+      "required": ["vault", "domain", "description"],
+      "additionalProperties": false,
+      "properties": {
+        "vault": {
+          "type": "string",
+          "description": "Relative path from repo root to the Obsidian vault directory. REQUIRED and must exist on disk."
+        },
+        "sources": {
+          "type": ["string", "null"],
+          "description": "Path to raw source documents (PDFs, markdown corpus). Can be absolute (outside repo) or relative. May be null if the wiki has no external source corpus."
+        },
+        "raw_source": {
+          "type": ["string", "null"],
+          "description": "Optional absolute path to the raw source artifact (e.g., a single PDF) that lives outside the repository. Used only by extraction workflows, not by the autoresearch loop."
+        },
+        "extractions": {
+          "type": ["string", "null"],
+          "description": "Relative path to the processed intermediate output directory (e.g., Datalab chapter extractions). May be null if the wiki does not use an extraction pipeline."
+        },
+        "tools": {
+          "type": ["string", "null"],
+          "description": "Relative path to wiki-specific tooling (extraction scripts, augmenters). May be null."
+        },
+        "domain": {
+          "type": "string",
+          "description": "Short descriptor of the wiki's subject domain (e.g., 'anatomy', 'clinical', 'surgical')."
+        },
+        "description": {
+          "type": "string",
+          "description": "Human-readable description of the wiki."
+        }
+      }
+    }
+  }
+}

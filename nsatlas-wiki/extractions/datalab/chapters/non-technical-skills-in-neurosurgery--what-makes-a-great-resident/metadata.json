@@ -1,0 +1,19 @@
+{
+  "article_id": "non-technical-skills-in-neurosurgery--what-makes-a-great-resident",
+  "title": "What Makes A Great Resident",
+  "category": "non-technical-skills-in-neurosurgery",
+  "slug": "what-makes-a-great-resident",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/non-technical-skills-in-neurosurgery/what-makes-a-great-resident.pdf",
+  "expected_page_count": 11,
+  "api_page_count": 11,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 5.0
+  },
+  "checkpoint_id": "checkpoint_o5fXvooXQZv8WajfIF0iLr-1QbTMq9oFXSSf2p0dL1U",
+  "request_id": "wxJR3LhUZZ0A9L4TXz9PVA",
+  "markdown_bytes": 22421,
+  "markdown_sha256": "0cd9f3cf81f91b9dae9d2f41bd4c73a5e2d9dfa6f959658cfd2bfd60f0ab50d3",
+  "image_count": 2,
+  "saved_at": "2026-04-14T13:19:02+00:00"
+}

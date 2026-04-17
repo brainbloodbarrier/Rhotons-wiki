@@ -1,0 +1,19 @@
+{
+  "article_id": "cranial-nerve-compression-syndromes--microvascular-decompression-for-trigeminal-neuralgia",
+  "title": "Microvascular Decompression For Trigeminal Neuralgia",
+  "category": "cranial-nerve-compression-syndromes",
+  "slug": "microvascular-decompression-for-trigeminal-neuralgia",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-nerve-compression-syndromes/trigeminal-neuralgia/microvascular-decompression-for-trigeminal-neuralgia.pdf",
+  "expected_page_count": 31,
+  "api_page_count": 31,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "final_cost_cents": 14.0
+  },
+  "checkpoint_id": "checkpoint_5WTcUYg7062ehai7Qn8NhprFkfAQpjMLkEyUWIJnHW4",
+  "request_id": "NA7Bs6IUii_k4vJTlKsR3A",
+  "markdown_bytes": 57573,
+  "markdown_sha256": "f87ab163e0250f771f9fe129190048c79117239bd48d76c45a252316e39e54ce",
+  "image_count": 58,
+  "saved_at": "2026-04-14T12:55:41+00:00"
+}

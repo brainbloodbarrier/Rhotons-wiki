@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--suturing-and-closure",
+  "title": "Suturing And Closure",
+  "category": "principles-of-cranial-surgery",
+  "slug": "suturing-and-closure",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/suturing-and-closure.pdf",
+  "expected_page_count": 19,
+  "api_page_count": 19,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 12,
+    "final_cost_cents": 9
+  },
+  "checkpoint_id": "checkpoint_9oXuWqArEkcxCqVis3E91yC99Ly7Z5v8Ni9F4O9kJf0",
+  "request_id": "wDHt1a4cEFORFLWeKwAdSg",
+  "markdown_bytes": 35997,
+  "markdown_sha256": "569a48f28148a42a31274a399e0f94b3b3caca015ee113f5f7dd9b9b63959368",
+  "image_count": 11,
+  "saved_at": "2026-04-14T13:38:22+00:00"
+}

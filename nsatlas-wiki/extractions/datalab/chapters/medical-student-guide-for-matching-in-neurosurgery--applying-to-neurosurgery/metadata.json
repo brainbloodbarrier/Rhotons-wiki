@@ -1,0 +1,20 @@
+{
+  "article_id": "medical-student-guide-for-matching-in-neurosurgery--applying-to-neurosurgery",
+  "title": "Applying To Neurosurgery",
+  "category": "medical-student-guide-for-matching-in-neurosurgery",
+  "slug": "applying-to-neurosurgery",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/applying-to-neurosurgery.pdf",
+  "expected_page_count": 8,
+  "api_page_count": 8,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 5,
+    "final_cost_cents": 4
+  },
+  "checkpoint_id": "checkpoint_F8FKXCWfurSz0F0slmJtQsslMsSWsmhOtLtt3uE3rlo",
+  "request_id": "An1UMnqzWzqEJz2Xfnn9KQ",
+  "markdown_bytes": 16159,
+  "markdown_sha256": "d5b908d59304568651c8eef775b0d27ef0ea93213ebf48fe4467a2bae0e23c1b",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:06:06+00:00"
+}

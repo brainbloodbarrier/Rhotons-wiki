@@ -1,0 +1,20 @@
+{
+  "article_id": "medical-student-guide-for-matching-in-neurosurgery--preclinical-and-early-clinical-years",
+  "title": "Preclinical And Early Clinical Years",
+  "category": "medical-student-guide-for-matching-in-neurosurgery",
+  "slug": "preclinical-and-early-clinical-years",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/preclinical-and-early-clinical-years.pdf",
+  "expected_page_count": 9,
+  "api_page_count": 9,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 6,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_YVEIOoE2uFOwB4j0sPMZVgsax-59KScQ4De7ZTj8Nts",
+  "request_id": "bhVMF-p3Bo2Hovf9epU4rA",
+  "markdown_bytes": 17530,
+  "markdown_sha256": "269030b6464129abb3f4ce645cb1561eb5c2d12464a25c27c9d70e79ec79542c",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:10:38+00:00"
+}

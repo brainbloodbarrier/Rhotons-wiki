@@ -1,0 +1,20 @@
+{
+  "article_id": "medical-student-guide-for-matching-in-neurosurgery--personal-statement",
+  "title": "Personal Statement",
+  "category": "medical-student-guide-for-matching-in-neurosurgery",
+  "slug": "personal-statement",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/medical-student-guide-for-matching-in-neurosurgery/personal-statement.pdf",
+  "expected_page_count": 3,
+  "api_page_count": 3,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 2,
+    "final_cost_cents": 2
+  },
+  "checkpoint_id": "checkpoint_WKzUqOxIUoOI3_TgA5SYfgEMRMVm5OhbYciijxZtv74",
+  "request_id": "k4wrp_rfLtuTXB-MuZSOmw",
+  "markdown_bytes": 4302,
+  "markdown_sha256": "e8774d61ffff6d8f5850212e9f8dd4ba6b41c3b7c6d72fe69e0e7f13d819c85c",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:09:58+00:00"
+}

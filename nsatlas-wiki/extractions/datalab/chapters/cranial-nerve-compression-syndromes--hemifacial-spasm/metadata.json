@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-nerve-compression-syndromes--hemifacial-spasm",
+  "title": "Hemifacial Spasm",
+  "category": "cranial-nerve-compression-syndromes",
+  "slug": "hemifacial-spasm",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-nerve-compression-syndromes/hemifacial-spasm.pdf",
+  "expected_page_count": 28,
+  "api_page_count": 28,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 17,
+    "final_cost_cents": 13
+  },
+  "checkpoint_id": "checkpoint_ajVjzDeK8WXXnxho8o6oFkiKYh0Ms41EC11nfRdMEjI",
+  "request_id": "aCn-wgvMlcw5SgTs9L96bg",
+  "markdown_bytes": 46453,
+  "markdown_sha256": "d40944d1bb4cca6aded5a89b4ea1f83c08c385e549eaba1df79f7a34c453a4b6",
+  "image_count": 21,
+  "saved_at": "2026-04-14T12:54:33+00:00"
+}

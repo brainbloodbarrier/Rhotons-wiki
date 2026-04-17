@@ -1,0 +1,20 @@
+{
+  "article_id": "brain-tumors--principles-of-intraventricular-surgery",
+  "title": "Principles Of Intraventricular Surgery",
+  "category": "brain-tumors",
+  "slug": "principles-of-intraventricular-surgery",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/brain-tumors/intraventricular-tumors/principles-of-intraventricular-surgery.pdf",
+  "expected_page_count": 37,
+  "api_page_count": 37,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 23,
+    "final_cost_cents": 17
+  },
+  "checkpoint_id": "checkpoint_p7L4yVyOviD6K5sDUnHnXLB69aP4ZJS8UO4f2kdONzg",
+  "request_id": "L8OZFTnPAuyBr1HAlAmiog",
+  "markdown_bytes": 72537,
+  "markdown_sha256": "9b7c0d04ecb6fc6dddbee72d4ad47e4da87c9e0466eda68a8ab7a3af90895969",
+  "image_count": 17,
+  "saved_at": "2026-04-14T12:23:46+00:00"
+}

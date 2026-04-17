@@ -1,0 +1,20 @@
+{
+  "article_id": "operative-neuroanatomy--supratentorial-operative-anatomy",
+  "title": "Supratentorial Operative Anatomy",
+  "category": "operative-neuroanatomy",
+  "slug": "supratentorial-operative-anatomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/supratentorial-operative-anatomy.pdf",
+  "expected_page_count": 1,
+  "api_page_count": 1,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 1,
+    "final_cost_cents": 1
+  },
+  "checkpoint_id": "checkpoint_dx1E_Y3TbIup9ABaOo5nU7lkfQmIJ0wAhiNMqyj9XJ0",
+  "request_id": "9G-_3zWHKgOXJlNrYWtY7g",
+  "markdown_bytes": 757,
+  "markdown_sha256": "6f46a24d1a3ba44e20c45fabff99ed5e8f1cb2a4bf5f3582cb22d504dd20c21f",
+  "image_count": 1,
+  "saved_at": "2026-04-14T13:23:36+00:00"
+}

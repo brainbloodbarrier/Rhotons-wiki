@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--parietal-craniotomy",
+  "title": "Parietal Craniotomy",
+  "category": "cranial-approaches",
+  "slug": "parietal-craniotomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/parietal-craniotomy.pdf",
+  "expected_page_count": 14,
+  "api_page_count": 14,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7
+  },
+  "checkpoint_id": "checkpoint_wfEe_w82rvk-ryl57rJisQVOnf2v5rsz5lVMSwqHBfA",
+  "request_id": "rpNk7HLYj7Jd4aQ6XH0DBg",
+  "markdown_bytes": 24602,
+  "markdown_sha256": "7b6ace62f298c138cb6b5d4585cdaa6aefe1543b8a9407a31efd57fe96afd494",
+  "image_count": 11,
+  "saved_at": "2026-04-14T12:34:15+00:00"
+}

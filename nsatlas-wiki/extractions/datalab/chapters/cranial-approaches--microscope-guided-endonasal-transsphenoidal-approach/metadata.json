@@ -1,0 +1,20 @@
+{
+  "article_id": "cranial-approaches--microscope-guided-endonasal-transsphenoidal-approach",
+  "title": "Microscope Guided Endonasal Transsphenoidal Approach",
+  "category": "cranial-approaches",
+  "slug": "microscope-guided-endonasal-transsphenoidal-approach",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/cranial-approaches/transnasal-transsphenoidal-approaches/microscope-guided-endonasal-transsphenoidal-approach.pdf",
+  "expected_page_count": 24,
+  "api_page_count": 24,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 15,
+    "final_cost_cents": 11
+  },
+  "checkpoint_id": "checkpoint_YE1jAkbEP200snYR-t9AUpW4EtMdSrxCQvtULkO-uGo",
+  "request_id": "uG-inUp05-b73g_OZ9a6Ug",
+  "markdown_bytes": 42570,
+  "markdown_sha256": "bbe764894b9356546b2883ec06dc4c5a69f23569ac81b1ae7167e515f1b1ebe7",
+  "image_count": 50,
+  "saved_at": "2026-04-14T12:31:46+00:00"
+}

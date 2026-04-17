@@ -1,0 +1,20 @@
+{
+  "article_id": "principles-of-cranial-surgery--operating-room-setup-and-workflow",
+  "title": "Operating Room Setup And Workflow",
+  "category": "principles-of-cranial-surgery",
+  "slug": "operating-room-setup-and-workflow",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/principles-of-cranial-surgery/operating-room-setup-and-workflow.pdf",
+  "expected_page_count": 12,
+  "api_page_count": 12,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 8,
+    "final_cost_cents": 6
+  },
+  "checkpoint_id": "checkpoint_J8yHGJ6gHkUs7cr8VhK9uklU9ygtYjoeroShjiItqF4",
+  "request_id": "_I119tbfrzJ4Wd9A0BuB1w",
+  "markdown_bytes": 21102,
+  "markdown_sha256": "9fe7d6c6712b980dec242a3694feb5cfd5ed965b59b1c865a427220b44208b1a",
+  "image_count": 13,
+  "saved_at": "2026-04-14T13:33:41+00:00"
+}

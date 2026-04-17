@@ -1,0 +1,20 @@
+{
+  "article_id": "operative-neuroanatomy--skull-anatomy",
+  "title": "Skull Anatomy",
+  "category": "operative-neuroanatomy",
+  "slug": "skull-anatomy",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/operative-neuroanatomy/3d-anatomy/skull-anatomy.pdf",
+  "expected_page_count": 14,
+  "api_page_count": 14,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 9,
+    "final_cost_cents": 7
+  },
+  "checkpoint_id": "checkpoint_h1621f5rt9KR2WvyMrrECmB3yvVIGP7EDfeCrj5Hlf4",
+  "request_id": "mBFSYzqhaCFirhX7fm263Q",
+  "markdown_bytes": 26661,
+  "markdown_sha256": "7e20019f8ed675fde717316ae9e24b46a6d1b1dbf1dfd72282660ee0234b9d69",
+  "image_count": 9,
+  "saved_at": "2026-04-14T13:23:10+00:00"
+}

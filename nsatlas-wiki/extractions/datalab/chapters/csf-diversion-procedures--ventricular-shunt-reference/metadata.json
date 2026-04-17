@@ -1,0 +1,20 @@
+{
+  "article_id": "csf-diversion-procedures--ventricular-shunt-reference",
+  "title": "Ventricular Shunt Reference",
+  "category": "csf-diversion-procedures",
+  "slug": "ventricular-shunt-reference",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/csf-diversion-procedures/ventricular-shunt-reference.pdf",
+  "expected_page_count": 13,
+  "api_page_count": 13,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 8,
+    "final_cost_cents": 6
+  },
+  "checkpoint_id": "checkpoint_GvQ8pRCqr8itB4eNna0O6W7xVN3lxd3NyMxZaTPLtns",
+  "request_id": "BWz5UvMOgJ3zaf-4tC-UQA",
+  "markdown_bytes": 25820,
+  "markdown_sha256": "da96a0f589dcf05bfff3e7d7a99d25b9f19a0119ad721e351311e944db9ac9a7",
+  "image_count": 27,
+  "saved_at": "2026-04-14T12:57:25+00:00"
+}

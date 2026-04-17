@@ -1,0 +1,20 @@
+{
+  "article_id": "emergency-neurosurgery-and-trauma--lacerated-dural-venous-sinus-repair",
+  "title": "Lacerated Dural Venous Sinus Repair",
+  "category": "emergency-neurosurgery-and-trauma",
+  "slug": "lacerated-dural-venous-sinus-repair",
+  "pdf_path": "/Users/fax/code/dev-nsatlas/nsatlas/pdfs/english/emergency-neurosurgery-and-trauma/lacerated-dural-venous-sinus-repair.pdf",
+  "expected_page_count": 11,
+  "api_page_count": 11,
+  "parse_quality_score": null,
+  "cost_breakdown": {
+    "list_cost_cents": 7,
+    "final_cost_cents": 5
+  },
+  "checkpoint_id": "checkpoint_Ews4Y_72NoRVGndfk0eShBWZNnqWRuS2OmwKI9dCVjo",
+  "request_id": "4YAECR0tbmx2vAebLsZ9-Q",
+  "markdown_bytes": 21830,
+  "markdown_sha256": "621ae787b44f5f12a297414ac14d497b88276f8d38ecda683247684d8ab82e29",
+  "image_count": 11,
+  "saved_at": "2026-04-14T13:00:25+00:00"
+}
