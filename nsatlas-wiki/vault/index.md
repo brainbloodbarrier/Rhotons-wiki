@@ -20,6 +20,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[procedures/]] | 4 | Bypass and revascularization procedures |
 | [[techniques/]] | 0 | Operative principles and skills |
 | [[pathology/]] | 0 | Disease-specific operative chapters |
+| [[references/]] | 1 | General-principles chapters and cross-cutting references |
 | [[csf-procedures/]] | 0 | CSF diversion and shunt procedures |
 | [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
 | [[operative-anatomy/]] | 0 | Operative neuroanatomy |
@@ -58,8 +59,16 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[postoperative-care]] -- PACU/ICU management, ERAS, multimodal analgesia, procedure-specific postop
 - [[suturing-and-closure]] -- suture materials/sizes, needle types, mattress/subcuticular, layered cranial closure
 
+### References
+
+- [[brain-tumors-general-principles]] -- non-neoplastic mimics, MRI workup, anesthetic/positioning/resection philosophy, brain shift
+
+### Pathology
+
+_(phase-E1 — in progress)_
+
 **Total pages:** 8
-**Last updated:** 2026-04-15
+**Last updated:** 2026-04-17
 
 ## Campaigns
 

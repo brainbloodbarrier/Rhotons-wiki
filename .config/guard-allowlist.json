@@ -1008,7 +1008,10 @@
     "missing_frontmatter": []
   },
   "nsatlas": {
-    "orphans": [],
+    "orphans": [
+      "procedures/endoscopic-third-ventriculostomy.md",
+      "references/brain-tumors-general-principles.md"
+    ],
     "broken_wikilinks": [
       "approaches/bifrontal-craniotomy.md -> [[burr-holes-and-bone-flaps]]",
       "approaches/bifrontal-craniotomy.md -> [[dural-opening-and-closure]]",
@@ -1452,7 +1455,16 @@
       "principles/ventricular-shunt-reference.md -> [[suturing-and-closure]]",
       "principles/ventricular-shunt-reference.md -> [[techniques-of-sylvian-fissure-split]]",
       "principles/ventricular-shunt-reference.md -> [[use-and-misuse-of-instruments]]",
-      "principles/dural-opening-and-closure.md -> [[anterior-petrosectomy]]"
+      "principles/dural-opening-and-closure.md -> [[anterior-petrosectomy]]",
+      "procedures/endoscopic-third-ventriculostomy.md -> [[foramen-of-monro]]",
+      "procedures/endoscopic-third-ventriculostomy.md -> [[external-ventricular-drain-placement]]",
+      "procedures/endoscopic-third-ventriculostomy.md -> [[csf-ventricular-shunt-reference]]",
+      "procedures/endoscopic-third-ventriculostomy.md -> [[ventriculo-peritoneal-shunt]]",
+      "references/brain-tumors-general-principles.md -> [[principles-of-intraventricular-surgery]]",
+      "references/brain-tumors-general-principles.md -> [[medial-sphenoid-wing-meningioma]]",
+      "references/brain-tumors-general-principles.md -> [[ultrasound]]",
+      "references/brain-tumors-general-principles.md -> [[sensorimotor-mapping]]",
+      "references/brain-tumors-general-principles.md -> [[language-mapping]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
