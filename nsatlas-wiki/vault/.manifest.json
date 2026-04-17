@@ -53,6 +53,12 @@
       "pages_created": 1,
       "wiki_page": "approaches/microscope-guided-endonasal-transsphenoidal-approach.md",
       "method": "datalab-extraction"
+    },
+    "cranial-approaches/midline-supracerebellar-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:15:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/midline-supracerebellar-craniotomy.md",
+      "method": "datalab-extraction"
     }
   },
   "duplicates": {
