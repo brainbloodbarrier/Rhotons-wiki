@@ -20,7 +20,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[procedures/]] | 4 | Bypass and revascularization procedures |
 | [[techniques/]] | 0 | Operative principles and skills |
 | [[pathology/]] | 0 | Disease-specific operative chapters |
-| [[references/]] | 1 | General-principles chapters and cross-cutting references |
+| [[references/]] | 2 | General-principles chapters and cross-cutting references |
 | [[csf-procedures/]] | 0 | CSF diversion and shunt procedures |
 | [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
 | [[operative-anatomy/]] | 0 | Operative neuroanatomy |
@@ -62,6 +62,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 ### References
 
 - [[brain-tumors-general-principles]] -- non-neoplastic mimics, MRI workup, anesthetic/positioning/resection philosophy, brain shift
+- [[principles-of-intraventricular-surgery]] -- corridor priority, venous preservation, thalamostriate sacrosanct, forniceal caution
 
 ### Pathology
 

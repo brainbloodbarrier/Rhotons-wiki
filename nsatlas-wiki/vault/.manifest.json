@@ -275,6 +275,13 @@
       "pages_created": 1,
       "wiki_page": "references/brain-tumors-general-principles.md",
       "method": "claude-chapter-distill"
+    },
+    "brain-tumors/principles-of-intraventricular-surgery": {
+      "ingested_at": "2026-04-17T02:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "references/principles-of-intraventricular-surgery.md",
+      "method": "claude-chapter-distill",
+      "phase": "E1"
     }
   },
   "duplicates": {
