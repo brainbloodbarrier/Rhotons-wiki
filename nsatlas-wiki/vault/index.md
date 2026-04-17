@@ -97,6 +97,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 
 - [[decompressive-craniectomy]] -- DC for refractory ICP/TBI and malignant MCA infarct — RESCUEicp/HAMLET, Kempe incision, ≥12 cm flap, expansile duraplasty
 - [[lacerated-dural-venous-sinus-repair]] -- Intraop sinus laceration management — air embolism watch, technique ladder, ligation map
+- [[open-skull-fracture-management]] -- Compound fracture OR decisions, debride/elevate, frontal sinus cranialization, bone flap keep/discard
 
 **Total pages:** 8
 **Last updated:** 2026-04-17
