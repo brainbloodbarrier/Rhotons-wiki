@@ -1718,7 +1718,9 @@
       "procedures/hypothalamic-hamartoma-surgery.md -> [[peri-insular-hemispherotomy]]",
       "procedures/hypothalamic-hamartoma-surgery.md -> [[microsurgical-mastery]]",
       "pathology/medial-sphenoid-wing-meningioma.md -> [[convexity-meningioma]]",
-      "pathology/medial-sphenoid-wing-meningioma.md -> [[lateral-sphenoid-wing-meningioma]]"
+      "pathology/medial-sphenoid-wing-meningioma.md -> [[lateral-sphenoid-wing-meningioma]]",
+      "procedures/intracranial-eeg-monitoring.md -> [[epilepsy-surgery-candidate-selection]]",
+      "procedures/intracranial-eeg-monitoring.md -> [[peri-insular-hemispherotomy]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []

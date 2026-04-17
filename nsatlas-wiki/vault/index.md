@@ -97,6 +97,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[lacerated-dural-venous-sinus-repair]] -- Intraop sinus laceration management — air embolism watch, technique ladder, ligation map
 - [[open-skull-fracture-management]] -- Compound fracture OR decisions, debride/elevate, frontal sinus cranialization, bone flap keep/discard
 - [[hypothalamic-hamartoma-surgery]] -- HH Delalande classification, transcallosal/endoscopic/pterional/LITT approaches, fornix preservation
+- [[intracranial-eeg-monitoring]] -- Invasive iEEG (subdural grids vs SEEG), hypothesis-driven implantation, functional mapping
 
 **Total pages:** 8
 **Last updated:** 2026-04-17
