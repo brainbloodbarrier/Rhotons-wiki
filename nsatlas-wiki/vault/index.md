@@ -20,7 +20,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[procedures/]] | 4 | Bypass and revascularization procedures |
 | [[techniques/]] | 0 | Operative principles and skills |
 | [[pathology/]] | 0 | Disease-specific operative chapters |
-| [[references/]] | 3 | General-principles chapters and cross-cutting references |
+| [[references/]] | 4 | General-principles chapters and cross-cutting references |
 | [[csf-procedures/]] | 0 | CSF diversion and shunt procedures |
 | [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
 | [[operative-anatomy/]] | 0 | Operative neuroanatomy |
@@ -64,6 +64,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[brain-tumors-general-principles]] -- non-neoplastic mimics, MRI workup, anesthetic/positioning/resection philosophy, brain shift
 - [[principles-of-intraventricular-surgery]] -- corridor priority, venous preservation, thalamostriate sacrosanct, forniceal caution
 - [[cerebrovascular-microscope-technique]] -- mouthpiece for aneurysm/AVM dynamic retraction, seated ergonomics, ICG workflow
+- [[cranial-base-surgery-general-principles]] -- bone-for-retraction trade, corridor hierarchy, multidisciplinary planning, closure-first
 
 ### Pathology
 
@@ -74,6 +75,7 @@ _(phase-E1 — in progress)_
 - [[endoscopic-third-ventriculostomy]] -- ETV technique, ETVSS, foramen of Monro navigation, tuber cinereum + Liliequist fenestration
 - [[external-ventricular-drain-placement]] -- Kocher's point, perpendicular trajectory, medial-canthus aiming, three-pass rule, ICP targets
 - [[ventriculo-peritoneal-shunt]] -- VP shunt technique, Kocher/Frazier entry, peritoneal access, tunneling safety, intrathecal antibiotic tap
+- [[ventriculo-atrial-shunt]] -- VA shunt via facial/IJ vein cutdown or Seldinger, T6-T7 tip target, shunt-nephritis awareness
 
 **Total pages:** 8
 **Last updated:** 2026-04-17

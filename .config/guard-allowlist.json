@@ -1475,7 +1475,10 @@
       "approaches/anterior-petrosectomy.md -> [[cranial-base-surgery-general-principles]]",
       "approaches/anterior-petrosectomy.md -> [[cranial-base-preoperative-considerations]]",
       "approaches/anterior-petrosectomy.md -> [[cranial-base-operative-corridor-selection]]",
-      "approaches/anterior-petrosectomy.md -> [[dermoid]]"
+      "approaches/anterior-petrosectomy.md -> [[dermoid]]",
+      "procedures/ventriculo-atrial-shunt.md -> [[csf-ventricular-shunt-reference]]",
+      "procedures/ventriculo-atrial-shunt.md -> [[ventriculo-gallbladder-shunt]]",
+      "procedures/ventriculo-atrial-shunt.md -> [[ventriculo-pleural-shunt]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
