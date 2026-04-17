@@ -1085,7 +1085,8 @@
       "approaches/pterional-craniotomy.md -> [[dural-opening-and-closure]]",
       "approaches/midline-supracerebellar-craniotomy.md -> [[paramedian-supracerebellar-craniotomy]]",
       "approaches/occipital-craniotomy.md -> [[paramedian-supracerebellar-craniotomy]]",
-      "approaches/suboccipital-craniotomy.md -> [[telovelar-approach]]"
+      "approaches/suboccipital-craniotomy.md -> [[telovelar-approach]]",
+      "approaches/temporal-subtemporal-craniotomy.md -> [[transtentorial-approach-to-parahippocampal-lesions]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []

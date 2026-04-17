@@ -95,6 +95,12 @@
       "pages_created": 1,
       "wiki_page": "approaches/telovelar-approach.md",
       "method": "datalab-extraction"
+    },
+    "cranial-approaches/temporal-subtemporal-craniotomy.pdf": {
+      "ingested_at": "2026-04-17T00:50:00Z",
+      "pages_created": 1,
+      "wiki_page": "approaches/temporal-subtemporal-craniotomy.md",
+      "method": "datalab-extraction"
     }
   },
   "duplicates": {
