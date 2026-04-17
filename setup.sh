@@ -174,7 +174,10 @@ else
     echo ""
     read -rp "  Where is your Obsidian vault? (absolute path): " VAULT_PATH
     if [[ -n "$VAULT_PATH" ]]; then
-      printf 'OBSIDIAN_VAULT_PATH=%s\n' "$VAULT_PATH" >> "$SCRIPT_DIR/.env"
+      # Use # as sed delimiter; escape #, &, \ in path to avoid collision.
+      ESCAPED_PATH=$(printf '%s' "$VAULT_PATH" | sed 's/[#&\\]/\\&/g')
+      sed -i.bak "s#^OBSIDIAN_VAULT_PATH=.*#OBSIDIAN_VAULT_PATH=$ESCAPED_PATH#" "$SCRIPT_DIR/.env"
+      rm -f "$SCRIPT_DIR/.env.bak"
     fi
   fi
   cat > "$GLOBAL_CONFIG" <<EOF
