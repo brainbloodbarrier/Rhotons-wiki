@@ -102,6 +102,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[epilepsy-surgery-candidate-selection]] -- Presurgical evaluation tiers, concordance logic, syndrome pathways, palliative options
 - [[microsurgical-mastery]] -- Deliberate practice, mental rehearsal, lab training, video review, psychological discipline
 - [[operative-spinal-cord-anatomy]] -- Dorsal/ventral surface landmarks, safe entry zones, ASA/PSA, IONM
+- [[extramedullary-spinal-cord-tumor-resection]] -- IDEM tumors (schwannoma, meningioma, neurofibroma) microsurgical resection
 
 **Total pages:** 8
 **Last updated:** 2026-04-17

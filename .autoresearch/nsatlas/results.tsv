@@ -71,3 +71,4 @@ iteration	commit	metric	delta	guard	status	description
 49	-	3662	-	pass	-	kept	phase-E1-resume iter49 — ingest geniculate-neuralgia
 75	-	3662	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/operative-spinal-cord-anatomy
 50	-	3739	-	pass	-	kept	phase-E1-resume iter50 — ingest glossopharyngeal-neuralgia
+76	-	3739	keep	pass	-	kept	phase-E2: ingest spinal-cord-surgery/extramedullary-spinal-cord-tumor
