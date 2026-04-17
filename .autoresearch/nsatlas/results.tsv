@@ -51,3 +51,5 @@ iteration	commit	metric	delta	guard	status	description
 43	e1c343d	2723	+121	pass	0	kept	phase-E1 iter43 — ingest cranial-base-surgery/anterior-petrosectomy
 62	-	2723	+169	pass	-	kept	phase-E2: ingest csf-diversion-procedures/ventriculo-peritoneal-shunt
 63	-	2766	+43	pass	-	kept	phase-E2: ingest csf-diversion-procedures/ventriculo-atrial-shunt
+44	8135a8c	2842	+119	pass	0	kept	phase-E1 iter44 — ingest cranial-base-surgery/general-principles
+64	-	2878	+?	pass	-	kept	phase-E2: ingest csf-diversion-procedures/ventriculo-pleural-shunt

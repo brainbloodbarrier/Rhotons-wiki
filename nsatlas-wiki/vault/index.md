@@ -76,6 +76,7 @@ _(phase-E1 — in progress)_
 - [[external-ventricular-drain-placement]] -- Kocher's point, perpendicular trajectory, medial-canthus aiming, three-pass rule, ICP targets
 - [[ventriculo-peritoneal-shunt]] -- VP shunt technique, Kocher/Frazier entry, peritoneal access, tunneling safety, intrathecal antibiotic tap
 - [[ventriculo-atrial-shunt]] -- VA shunt via facial/IJ vein cutdown or Seldinger, T6-T7 tip target, shunt-nephritis awareness
+- [[ventriculo-pleural-shunt]] -- Salvage VPl, anti-siphon mandate, rib-top pleural entry, hydrothorax surveillance
 
 **Total pages:** 8
 **Last updated:** 2026-04-17

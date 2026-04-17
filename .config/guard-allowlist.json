@@ -1482,7 +1482,9 @@
       "references/cranial-base-surgery-general-principles.md -> [[cranial-base-operative-corridor-selection]]",
       "references/cranial-base-surgery-general-principles.md -> [[cranial-base-preoperative-considerations]]",
       "references/cranial-base-surgery-general-principles.md -> [[cranial-base-surgery-lessons-learned]]",
-      "references/cranial-base-surgery-general-principles.md -> [[medial-sphenoid-wing-meningioma]]"
+      "references/cranial-base-surgery-general-principles.md -> [[medial-sphenoid-wing-meningioma]]",
+      "procedures/ventriculo-pleural-shunt.md -> [[csf-ventricular-shunt-reference]]",
+      "procedures/ventriculo-pleural-shunt.md -> [[ventriculo-gallbladder-shunt]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
