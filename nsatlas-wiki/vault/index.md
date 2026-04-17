@@ -99,6 +99,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[hypothalamic-hamartoma-surgery]] -- HH Delalande classification, transcallosal/endoscopic/pterional/LITT approaches, fornix preservation
 - [[intracranial-eeg-monitoring]] -- Invasive iEEG (subdural grids vs SEEG), hypothesis-driven implantation, functional mapping
 - [[peri-insular-hemispherotomy]] -- Modern disconnective hemispherotomy — suprasylvian/infrasylvian corridors, full callosotomy
+- [[epilepsy-surgery-candidate-selection]] -- Presurgical evaluation tiers, concordance logic, syndrome pathways, palliative options
 
 **Total pages:** 8
 **Last updated:** 2026-04-17
