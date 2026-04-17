@@ -1733,7 +1733,9 @@
       "procedures/operative-spinal-cord-anatomy.md -> [[extramedullary-spinal-cord-tumor-resection]]",
       "procedures/operative-spinal-cord-anatomy.md -> [[spinal-av-fistula-disconnection]]",
       "procedures/operative-spinal-cord-anatomy.md -> [[spinal-cord-avm-surgery]]",
-      "procedures/operative-spinal-cord-anatomy.md -> [[spinal-cord-cavernous-malformation-resection]]"
+      "procedures/operative-spinal-cord-anatomy.md -> [[spinal-cord-cavernous-malformation-resection]]",
+      "procedures/extramedullary-spinal-cord-tumor-resection.md -> [[intramedullary-spinal-cord-tumor-resection]]",
+      "procedures/extramedullary-spinal-cord-tumor-resection.md -> [[spinal-cord-cavernous-malformation-resection]]"
     ],
     "taxonomy_violations": [],
     "missing_frontmatter": []
