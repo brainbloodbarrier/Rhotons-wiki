@@ -221,6 +221,12 @@
       "pages_created": 1,
       "wiki_page": "principles/surgeons-philosophy-and-operating-position.md",
       "method": "claude-chapter-distill"
+    },
+    "principles-of-cranial-surgery/operating-room-setup-and-workflow": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "pages_created": 1,
+      "wiki_page": "principles/operating-room-setup-and-workflow.md",
+      "method": "claude-chapter-distill"
     }
   },
   "duplicates": {
