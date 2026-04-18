@@ -58,7 +58,7 @@ Counted across every `.md` in the vault except `index.md`, `log.md`, and files u
 
 ### Result TSVs
 
-Per-wiki iteration log lives at `.autoresearch/<wiki>/results.tsv` (gitignored except `.gitkeep`). Columns: `iteration | commit | metric | delta | guard | status | description`.
+Per-wiki iteration log lives at `.autoresearch/<wiki>/results.tsv` (gitignored except `.gitkeep`). Columns: `iteration | commit | metric | delta | guard | guard_code | status | description`. `guard_code` is the exit-code-like signal from the guard script (`"0"` for pass, `"-"` when the run pre-dated the schema).
 
 ### Loop Invariant
 
