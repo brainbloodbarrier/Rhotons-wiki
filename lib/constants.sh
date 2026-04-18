@@ -10,4 +10,5 @@
 # Six typed relation pairs expressed in frontmatter. Update here when the
 # ontology changes; every guard/verify/status script picks it up via source.
 # Matching regex is anchored to start-of-line and expects `key:` form.
+# shellcheck disable=SC2034  # consumed via `source`, shellcheck can't see callers
 BREADCRUMB_RE='^(parent|child|branch-of|branches|innervates|innervated-by|traverses|traversed-by|approach-to|approached-via|drains-to|drained-by):'

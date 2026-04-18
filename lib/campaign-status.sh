@@ -43,12 +43,19 @@ source "$SCRIPT_DIR/constants.sh"
 # After:  1 jq invocation; per-subdir lookup walks an in-memory TSV blob.
 MANIFEST_PAGES_TSV=""
 if [[ -f "$MANIFEST" ]]; then
-  MANIFEST_PAGES_TSV=$(jq -r '
+  JQ_STDERR=$(mktemp)
+  if ! MANIFEST_PAGES_TSV=$(jq -r '
     .sources | to_entries[]
     | select(.key | test("/"))
     | [(.key | split("/")[0]), (.value.wiki_page // "")]
     | @tsv
-  ' "$MANIFEST" 2>/dev/null || true)
+  ' "$MANIFEST" 2>"$JQ_STDERR"); then
+    echo "campaign-status: manifest parse error ($MANIFEST):" >&2
+    cat "$JQ_STDERR" >&2
+    rm -f "$JQ_STDERR"
+    exit 66
+  fi
+  rm -f "$JQ_STDERR"
 fi
 
 # Relation-frontmatter detection for one page. Prints 1 if >=1 typed breadcrumb
@@ -81,14 +88,6 @@ page_unique_wikilinks() {
     }
     END { n=0; for (k in targets) n++; print n }
   ' "$1"
-}
-
-# Does this page appear as a value of .sources[*].wiki_page in the manifest?
-page_in_manifest() {
-  local rel="$1"
-  [[ ! -f "$MANIFEST" ]] && { echo 0; return; }
-  jq -e --arg p "$rel" '[.sources[]?.wiki_page] | index($p)' "$MANIFEST" \
-    >/dev/null 2>&1 && echo 1 || echo 0
 }
 
 # Per-subdir stats. A "subdir" is a top-level dir under $SOURCES; "ingested PDFs"
