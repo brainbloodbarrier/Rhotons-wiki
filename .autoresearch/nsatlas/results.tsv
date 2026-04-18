@@ -93,3 +93,4 @@ iteration	commit	metric	delta	guard	status	description
 87	d7f3e16	4249	+6	pass	0	keep	C2 iter87 — expand peri-insular-hemispherotomy
 88	eef5666	4254	+5	pass	0	keep	C2 iter88 — expand spinal-cord-avm-surgery
 89	d26daf0	4262	+8	pass	0	keep	C2 iter89 — expand open-skull-fracture-management
+90	1e3d96c	4269	+7	pass	0	keep	C2 iter90 — expand microsurgical-mastery
