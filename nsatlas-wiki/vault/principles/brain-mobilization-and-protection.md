@@ -17,7 +17,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_chapter: "principles-of-cranial-surgery/brain-mobilization-and-protection"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Principles of brain mobilization — dynamic vs fixed retraction, gravity
   retraction, arachnoid dissection, and pharmacologic/physiologic strategies
@@ -40,6 +40,29 @@ provenance:
 *DOI: 10.18791/nsatlas.v3.ch01.6*
 
 **Source:** NSAtlas, Cohen-Gadol
+
+## Terminology: "Dynamic Mobilization" over "Retraction"
+
+Cohen-Gadol prefers **"dynamic mobilization"** to **"retraction"**. The distinction is deliberate:
+
+- **Retraction** implies constant force on passive tissue — cortical compression independent of dissection progress.
+- **Dynamic mobilization** = ever-changing gentle tension applied by instruments (suction, bipolar, microscissors), continuously modulated by the surgeon's tactile feedback from the brain's resistance. The pressure is distributed, intermittent, and aligned with the dissection plane.
+
+## Two Mechanisms of Retraction Injury
+
+Fixed retractor blades injure parenchyma through two distinct pathways — distinguishing them clarifies why dynamic retraction matters:
+
+1. **Direct mechanical damage** — the force of the blade on brain causes contusion, hematoma, and frank parenchymal necrosis beneath the blade edge.
+2. **Pressure-gradient ischemia** — the pressure across the blade margin occludes regional vessels, producing an ischemic injury that may **not manifest intraoperatively** but leaves long-term neurologic deficit. This is the silent, delayed complication that postoperative scans expose weeks later.
+
+Dynamic retraction avoids both: the pressure is transient, applied only during active dissection, and continuously recalibrated to the tissue's compliance.
+
+## Why Dynamic Retraction Outperforms Fixed Blades
+
+- **Continuous feedback loop** — the surgeon senses resistance through the suction shaft and adjusts moment-to-moment.
+- **Distributed pressure** — the contact area is momentary, not sustained; ischemic gradients do not accumulate.
+- **Alignment with dissection** — retraction vector = dissection vector, not a fixed geometric preset.
+- **No occupied space** in narrow deep corridors — broad blades crowd the exact region where exposure is scarce.
 
 ## Operative Conditions
 
@@ -134,8 +157,27 @@ The core microsurgical skill for "retractorless" surgery:
 
 ### Illustrative cases
 
-- **Contralateral P1 aneurysm clipping** via dynamic retraction — fixed retractors would compromise deep exposure
-- **Large partially thrombotic AComA aneurysm** — dynamic retraction permits safe clot decompression
+- **Contralateral P1 aneurysm clipping** via dynamic retraction — fixed retractors would compromise the very deep operative corridor and increase operative risk.
+- **Large partially thrombotic AComA aneurysm** — dynamic retraction permits safe clot decompression with continuous feedback on brain compliance.
+- **ACoA clip ligation via supraorbital "eye-brow" craniotomy** — minimal brain mobilization; the small corridor itself enforces dynamic rather than fixed retraction.
+
+## Why Intraoperative Fluorescence Angiography Needs Care
+
+- Direct distal retraction on a branching artery with a fixed blade can **mimic occlusion on ICG** — intraoperative angio then underestimates patency.
+- Interpret ICG only after releasing any retractor exerting tension on branching vessels.
+- Dynamic retraction, applied momentarily and released for ICG runs, avoids this artifact.
+
+## Preoperative / Anesthetic Optimization Summary
+
+Before any retraction is applied, stack the conditions in your favor:
+
+1. **Positioning** — neck extension, lateral tilt as appropriate for the corridor; gravity does work for free.
+2. **Bone removal** to the floor of the anterior fossa, sphenoid ridge, anterior clinoid, petrous apex, condyle — wider bone window = less brain work.
+3. **Mannitol** — prolonged low-dose > single bolus for sustained edema control.
+4. **CSF drainage** — lumbar drain, cisternal opening, cisterna magna puncture in posterior fossa cases. See [[lumbar-drain]].
+5. **Normotension or mild hypertension** (not hypotension), **normocapnia or mild hypercapnia** (not hyperventilation) during retraction windows.
+6. **Mild hypothermia** for prolonged complex procedures.
+7. **Wide arachnoid dissection** before any retraction vector is introduced — see [[subarachnoid-dissection]].
 
 ## Pearls and Pitfalls
 
