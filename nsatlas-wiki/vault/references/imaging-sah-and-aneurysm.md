@@ -18,7 +18,7 @@ sources:
   - "NSAtlas - Cohen-Gadol (Aaron Kamer, MD et al.)"
 source_pdf: "neuroradiology/imaging-evaluation-of-sah-and-aneurysm.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Imaging workup of SAH and cerebral aneurysm — NECT first (sensitivity ~98%
   within 6h), Fisher grading, SAH distribution as a proxy for aneurysm
@@ -144,12 +144,52 @@ Fisher grade correlates with vasospasm risk — **Grade 3 highest**.
 - **Dome-to-neck ratio**, **aspect ratio**, branch take-off proximity
 - Wall irregularity, daughter sac — markers of recent / impending rupture
 
+## CTA Sensitivity by Size
+
+- **≥ 4 mm**: sensitivity **96–99.7%**, specificity ~100%.
+- **≥ 2 mm**: sensitivity **90–95%**.
+- **< 3 mm, blister aneurysms, aneurysms adjacent to bone/coil mass**: frequently missed — DSA required.
+- **Dual-energy CT** improves skull-base/posterior-fossa aneurysm detection (HU thresholding removes bony interference).
+
+## The Infundibulum Trap
+
+- **Vessel infundibulum**: a **< 3-mm conical protrusion** at the origin of a branch vessel, with the branch arising directly from the apex.
+- CTA / MRA cannot always distinguish it from a small aneurysm.
+- **Classic location**: origin of the PComA from the distal ICA.
+- **DSA (lateral projection)** clarifies — a visible branch vessel emerging from the apex supports infundibulum; a focal outpouching without branch emergence is an aneurysm until proven otherwise.
+
 ## MRI / MRA
 
 - **Not first-line** for acute SAH (time, motion, patient instability)
-- **FLAIR** can show SAH (hyperintensity in normally dark CSF)
-- **SWI/GRE** demonstrates blood products and chronic **superficial siderosis** in unrecognized old SAH
-- **TOF-MRA** and contrast-enhanced MRA: surveillance of **unruptured and previously treated aneurysms** (avoid ionizing radiation)
+- **FLAIR** can show SAH (hyperintensity in normally dark CSF) — **87% sensitivity** for SAH alone; **~100%** combined with SWI.
+- **SWI/GRE** (88% sensitivity) demonstrates blood products and chronic **superficial siderosis** in unrecognized old SAH; "blooming artifact" exaggerates volume with progressive stages.
+- **TOF-MRA** and contrast-enhanced MRA: surveillance of **unruptured and previously treated aneurysms** (avoid ionizing radiation).
+
+### Blood-Product Evolution on MRI (the classic 5 stages)
+
+| Stage | Time | Blood product | T1 | T2 |
+|---|---|---|---|---|
+| Hyperacute | < 24 h | Intracellular oxyHb | Isointense | Iso → hyper |
+| Acute | 1–2 d | Intracellular deoxyHb | Iso → dark | Dark |
+| Early subacute | 2–7 d | Intracellular metHb | Hyper | Dark |
+| Late subacute | 7 d – 4 wk | Extracellular metHb | Hyper | Hyper |
+| Chronic | > 4 wk | Hemosiderin | Dark | Dark |
+
+Hemosiderin may persist indefinitely depending on BBB integrity. **Superficial siderosis** (hemosiderin cortical coating) from chronic/repeated SAH causes cortical atrophy and dysfunction.
+
+### Large / Giant Aneurysm MRI Advantages
+
+- Detects **mural thrombus** that CT cannot distinguish from flowing blood — crucial for partially thrombosed giant aneurysms that mimic hematoma.
+- **Pulsation artifact** supports patency.
+- **SPGR post-contrast T1** shows intra-aneurysmal enhancement clearly.
+- MRI is **superior to CT and conventional angiography** for characterizing complex giant aneurysms.
+- Assesses **mass-effect sequelae** (parenchymal edema on FLAIR).
+
+### MRI Limitations
+
+- Less cost-effective; less available than CT.
+- Unsuitable for unstable, combative, or claustrophobic patients.
+- **Contraindicated with ferromagnetic aneurysm clips** — modern clips are non-ferromagnetic, but verify pre-scan.
 
 ## Digital Subtraction Angiography (DSA)
 
