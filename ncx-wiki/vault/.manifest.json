@@ -1,97 +1,379 @@
 {
-  "wiki": "ncx",
-  "created": "2026-04-15",
-  "sources_processed": {
-    "cerebrovascular/lawton-seven-aneurysms": {
-      "ingested_at": "2026-04-15",
-      "source_type": "document",
-      "pages_created": [
-        "pathology/pcoa-aneurysm.md",
-        "pathology/mca-aneurysm.md",
-        "pathology/acoa-aneurysm.md",
-        "pathology/ophthalmic-artery-aneurysm.md",
-        "pathology/pericallosal-artery-aneurysm.md",
-        "pathology/basilar-bifurcation-aneurysm.md",
-        "pathology/pica-aneurysm.md",
-        "concepts/subarachnoid-dissection.md",
-        "concepts/temporary-clipping.md",
-        "concepts/aneurysm-clipping-techniques.md",
-        "concepts/intraoperative-rupture.md",
-        "synthesis/cerebrovascular-aneurysms-overview.md"
-      ],
-      "pages_updated": []
+  "version": "1.0",
+  "project": "ncx-wiki",
+  "source": "Internal neurosurgery corpus (books, chapters, cases)",
+  "note": "Backfilled post-reset 2026-04-18. Original manifest was empty; entries reconstructed from filesystem state with method=manifest-backfill.",
+  "sources": {
+    "ncx-vault/classifications/glasgow-coma-scale.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "classifications/glasgow-coma-scale.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
     },
-    "cerebrovascular/lawton-seven-avms": {
-      "ingested_at": "2026-04-15",
-      "source_type": "document",
-      "pages_created": [
-        "pathology/frontal-avm.md",
-        "pathology/temporal-avm.md",
-        "pathology/parieto-occipital-avm.md",
-        "pathology/cerebellar-avm.md",
-        "pathology/deep-avm.md",
-        "pathology/brainstem-avm.md",
-        "pathology/ventricular-avm.md",
-        "concepts/avm-feeding-arteries.md",
-        "concepts/avm-draining-veins.md",
-        "concepts/avm-resection-principles.md",
-        "classifications/spetzler-martin-grading.md",
-        "synthesis/cerebrovascular-avms-overview.md"
-      ],
-      "pages_updated": []
+    "ncx-vault/classifications/spetzler-martin-grading.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "classifications/spetzler-martin-grading.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
     },
-    "cerebrovascular/lawton-seven-bypasses": {
-      "ingested_at": "2026-04-15",
-      "source_type": "document",
-      "pages_created": [
-        "procedures/ec-ic-bypass.md",
-        "procedures/in-situ-bypass.md",
-        "procedures/interposition-graft-bypass.md",
-        "procedures/reimplantation-bypass.md",
-        "procedures/pterional-approach.md",
-        "procedures/orbitozygomatic-approach.md",
-        "procedures/far-lateral-approach.md",
-        "procedures/anterior-interhemispheric-approach.md",
-        "concepts/microsurgical-anastomosis.md",
-        "concepts/bypass-arteriotomy.md",
-        "entities/superficial-temporal-artery.md",
-        "synthesis/cerebral-revascularization-overview.md"
-      ],
-      "pages_updated": []
+    "ncx-vault/classifications/who-cns-tumor-classification.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "classifications/who-cns-tumor-classification.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
     },
-    "geral/greenberg-handbook-10ed": {
-      "ingested_at": "2026-04-15",
-      "source_type": "document",
-      "pages_created": [
-        "pathology/herniation-syndromes.md",
-        "classifications/glasgow-coma-scale.md",
-        "pathology/hydrocephalus.md",
-        "critical-care/coma-assessment.md",
-        "critical-care/brain-death.md",
-        "classifications/who-cns-tumor-classification.md",
-        "concepts/intracranial-pressure.md",
-        "pathology/meningioma.md",
-        "pathology/glioblastoma.md",
-        "synthesis/neurocritical-care-overview.md",
-        "pathology/normal-pressure-hydrocephalus.md",
-        "pathology/vestibular-schwannoma.md",
-        "pathology/chiari-malformation.md",
-        "pathology/pituitary-adenoma.md",
-        "pharmacology/anticoagulation-neurosurgery.md"
-      ],
-      "pages_updated": []
+    "ncx-vault/coluna/atlas-fractures.md": {
+      "ingested_at": "2026-04-16T00:00:00Z",
+      "wiki_page": "coluna/atlas-fractures.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
     },
-    "neuroanatomia/chaddad-neto-microneuroanatomy": {
-      "ingested_at": "2026-04-15",
-      "source_type": "document",
-      "pages_created": [
-        "concepts/sylvian-fissure.md",
-        "concepts/basal-cisterns.md",
-        "concepts/cortical-surface-anatomy.md"
-      ],
-      "pages_updated": []
+    "ncx-vault/concepts/aneurysm-clipping-techniques.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/aneurysm-clipping-techniques.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/avm-draining-veins.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/avm-draining-veins.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/avm-feeding-arteries.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/avm-feeding-arteries.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/avm-resection-principles.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/avm-resection-principles.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/basal-cisterns.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/basal-cisterns.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/bypass-arteriotomy.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/bypass-arteriotomy.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/cortical-surface-anatomy.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/cortical-surface-anatomy.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/intracranial-pressure.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/intracranial-pressure.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/intraoperative-rupture.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/intraoperative-rupture.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/microsurgical-anastomosis.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/microsurgical-anastomosis.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/subarachnoid-dissection.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/subarachnoid-dissection.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/sylvian-fissure.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/sylvian-fissure.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/concepts/temporary-clipping.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "concepts/temporary-clipping.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/critical-care/brain-death.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "critical-care/brain-death.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/critical-care/coma-assessment.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "critical-care/coma-assessment.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/entities/superficial-temporal-artery.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "entities/superficial-temporal-artery.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/neurocirurgia-funcional/deep-brain-stimulation.md": {
+      "ingested_at": "2026-04-16T00:00:00Z",
+      "wiki_page": "neurocirurgia-funcional/deep-brain-stimulation.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/acoa-aneurysm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/acoa-aneurysm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/basilar-bifurcation-aneurysm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/basilar-bifurcation-aneurysm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/brainstem-avm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/brainstem-avm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/cavernous-malformation.md": {
+      "ingested_at": "2026-04-16T00:00:00Z",
+      "wiki_page": "pathology/cavernous-malformation.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/cerebellar-avm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/cerebellar-avm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/chiari-malformation.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/chiari-malformation.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/deep-avm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/deep-avm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/frontal-avm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/frontal-avm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/glioblastoma.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/glioblastoma.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/herniation-syndromes.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/herniation-syndromes.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/hydrocephalus.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/hydrocephalus.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/mca-aneurysm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/mca-aneurysm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/meningioma.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/meningioma.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/normal-pressure-hydrocephalus.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/normal-pressure-hydrocephalus.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/ophthalmic-artery-aneurysm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/ophthalmic-artery-aneurysm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/parieto-occipital-avm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/parieto-occipital-avm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/pcoa-aneurysm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/pcoa-aneurysm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/pericallosal-artery-aneurysm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/pericallosal-artery-aneurysm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/pica-aneurysm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/pica-aneurysm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/pituitary-adenoma.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/pituitary-adenoma.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/temporal-avm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/temporal-avm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/trigeminal-neuralgia.md": {
+      "ingested_at": "2026-04-16T00:00:00Z",
+      "wiki_page": "pathology/trigeminal-neuralgia.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/ventricular-avm.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/ventricular-avm.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pathology/vestibular-schwannoma.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pathology/vestibular-schwannoma.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/pharmacology/anticoagulation-neurosurgery.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "pharmacology/anticoagulation-neurosurgery.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/procedures/anterior-interhemispheric-approach.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "procedures/anterior-interhemispheric-approach.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/procedures/ec-ic-bypass.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "procedures/ec-ic-bypass.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/procedures/far-lateral-approach.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "procedures/far-lateral-approach.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/procedures/in-situ-bypass.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "procedures/in-situ-bypass.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/procedures/interposition-graft-bypass.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "procedures/interposition-graft-bypass.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/procedures/orbitozygomatic-approach.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "procedures/orbitozygomatic-approach.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/procedures/pterional-approach.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "procedures/pterional-approach.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/procedures/reimplantation-bypass.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "procedures/reimplantation-bypass.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/skull-base/cerebellopontine-angle.md": {
+      "ingested_at": "2026-04-16T00:00:00Z",
+      "wiki_page": "skull-base/cerebellopontine-angle.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/synthesis/cerebral-revascularization-overview.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "synthesis/cerebral-revascularization-overview.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/synthesis/cerebrovascular-aneurysms-overview.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "synthesis/cerebrovascular-aneurysms-overview.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/synthesis/cerebrovascular-avms-overview.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "synthesis/cerebrovascular-avms-overview.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
+    },
+    "ncx-vault/synthesis/neurocritical-care-overview.md": {
+      "ingested_at": "2026-04-15T00:00:00Z",
+      "wiki_page": "synthesis/neurocritical-care-overview.md",
+      "method": "manifest-backfill",
+      "phase": "post-reset-backfill"
     }
   },
-  "pages_count": 54,
-  "last_updated": "2026-04-15"
+  "stats": {
+    "content_pages": 59,
+    "pathology": 24,
+    "concepts": 13,
+    "procedures": 8,
+    "synthesis": 4,
+    "classifications": 3,
+    "critical_care": 2,
+    "coluna": 1,
+    "entities": 1,
+    "skull_base": 1,
+    "pharmacology": 1,
+    "neurocirurgia_funcional": 1,
+    "score": 2914,
+    "last_iteration": 4,
+    "last_updated": "2026-04-18"
+  }
 }
