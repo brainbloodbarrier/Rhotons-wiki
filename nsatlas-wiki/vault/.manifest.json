@@ -423,15 +423,15 @@
     "operative-neuroanatomy/3d-anatomy/cavernous-sinus-anatomy.pdf"
   ],
   "stats": {
-    "content_pages": 5,
-    "approaches": 5,
-    "techniques": 0,
-    "pathology": 0,
-    "csf_procedures": 0,
-    "neuroradiology": 0,
-    "operative_anatomy": 0,
-    "professional": 0,
-    "synthesis": 0,
-    "score": 354
+    "content_pages": 83,
+    "approaches": 18,
+    "concepts": 6,
+    "pathology": 8,
+    "principles": 20,
+    "procedures": 21,
+    "references": 10,
+    "score": 4403,
+    "last_iteration": 119,
+    "last_updated": "2026-04-18"
   }
 }
