@@ -14,5 +14,18 @@
       "Bash(chmod +x lib/guard-bootstrap-allowlist.sh)",
       "Bash(lib/guard-bootstrap-allowlist.sh)"
     ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/post-commit-quality-guard.sh"
+          }
+        ]
+      }
+    ]
   }
 }
