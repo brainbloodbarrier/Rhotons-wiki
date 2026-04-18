@@ -18,7 +18,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_pdf: "cranial-base-surgery/general-principles.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Overarching framework for skull base surgery — bone removal instead of brain
   retraction, multidisciplinary planning, osteotomy-based corridor selection,
@@ -30,6 +30,50 @@ summary: >-
 *Source: NSAtlas, Cohen-Gadol*
 
 Cranial base surgery is the discipline of **trading bone for brain retraction**. Lesions at the floor of the anterior, middle, and posterior fossae sit behind dense osseous barriers, surrounded by cranial nerves, named arteries, and venous sinuses that tolerate no force. The founding insight of modern skull base surgery — pioneered by Dolenc, Al-Mefty, Fukushima, Yasargil, and Sekhar — is that aggressive **extradural osteotomy** converts a long, retracted, narrow intradural dissection into a short, unretracted, wide one. The brain thanks you with preserved function; the cranial nerves thank you with preserved function; the patient thanks you with a shorter ICU stay.
+
+## The "One Size Does Not Fit All" Principle
+
+Overzealous application of skull base osteotomies produced the backlash of recent years. Cohen-Gadol's stated position:
+
+- **Not every ACoA aneurysm needs an orbitozygomatic osteotomy.**
+- **Not every petroclival meningioma needs a petrosectomy.**
+- **Extensive petrosectomy is reserved for clearly ventral, mainly clival fibrous meningiomas.**
+- For ventral midline epidermoid cysts, **expanded retrosigmoid + supracerebellar transtentorial** routes give gross total resection with far less tissue trauma.
+- **Intradural petrous bone drilling** delivers tailored corridors without the full petrosectomy price.
+
+**"Every skull base approach has relatively well-defined indications and should not be over-utilized or abandoned only because of one's familiarity or unfamiliarity with other techniques."** — Cohen-Gadol
+
+## Transpetrosal Osteotomy Ladder (Figure 1)
+
+Progressive ventrolateral/ventral brainstem exposure with increasing morbidity:
+
+| Approach | Exposure | Cost |
+|---|---|---|
+| **Retrosigmoid** | Lateral CPA, posterolateral brainstem | Low morbidity |
+| **Retrolabyrinthine** | Adds middle-fossa petrous apex | Preserves hearing, extended operative time |
+| **Translabyrinthine** | Ventral CPA + pons laterally | **Sacrifices hearing**; higher CSF leak |
+| **Transcochlear** | Most radical ventral exposure | Sacrifices hearing + facial nerve rerouting |
+
+Surgeons often underweight **operative duration and invasiveness as quality-of-life factors** when comparing approaches — a more aggressive osteotomy that adds 3 hours to the case is not "free" even if the exposure is wider.
+
+## Transcranial vs Endoscopic Endonasal — Not Separate Disciplines
+
+Cohen-Gadol explicitly rejects the false dichotomy between "transcranial" and "endoscopic" skull base surgeons.
+
+- **Transcranial approaches** rely on **"inside-out" anatomy** — the surgeon sees the dura, vessels, and nerves from the subarachnoid side.
+- **Endoscopic endonasal** demands **"outside-in" anatomy** — same structures approached through the nose, with bony landmarks (sphenoid, clival recess, paraclival carotid) defining orientation.
+- **Every modern skull base surgeon should master both** — the patient deserves the choice driven by pathology, not by operator toolkit.
+- Endoscopic endonasal is ideal for: **sellar/parasellar, midline clival, olfactory groove, suprasellar** lesions without significant lateral extension.
+- Transcranial retains indications for: lateral extensions, encasement of major arteries (vertebrobasilar, cavernous carotid), significant brain-stem involvement requiring microsurgical dissection.
+
+## The Balloon Test Occlusion (BTO) Principle
+
+When ipsilateral **ICA sacrifice** is contemplated (giant aneurysm, extensive tumor encasement):
+
+- BTO evaluates **tolerance to temporary ICA occlusion** — identifies patients who will need **revascularization (EC-IC bypass)** before definitive sacrifice.
+- **BTO does NOT predict the feasibility of definitive Hunterian ligation** in isolation — it predicts whether bypass will be required.
+- A "pass" on BTO may still warrant bypass if long-term hemodynamic deficit is suspected on perfusion imaging.
+- "Fail" → mandatory bypass or alternative strategy (endovascular flow diversion).
 
 ## Foundational Tenets
 
