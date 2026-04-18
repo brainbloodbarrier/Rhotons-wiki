@@ -401,6 +401,128 @@
       "wiki_page": "references/imaging-sah-and-aneurysm.md",
       "method": "claude-chapter-distill",
       "phase": "E1-resume"
+    },
+    "csf-diversion-procedures/ventricular-shunt-reference.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/csf-ventricular-shunt-reference.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "emergency-neurosurgery-and-trauma/decompressive-craniectomy.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/decompressive-craniectomy.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "epilepsy-surgery/selection-of-surgical-candidates.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/epilepsy-surgery-candidate-selection.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "csf-diversion-procedures/external-ventricular-drain-placement.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/external-ventricular-drain-placement.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill",
+      "note": "distinct from principles/external-ventricular-drain.md"
+    },
+    "spinal-cord-surgery/extramedullary-spinal-cord-tumor.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/extramedullary-spinal-cord-tumor-resection.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "epilepsy-surgery/hypothalamic-hamartoma.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/hypothalamic-hamartoma-surgery.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "epilepsy-surgery/intracranial-monitoring-study.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/intracranial-eeg-monitoring.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill",
+      "note": "source_slug/wiki_slug mismatch — see follow-up issue"
+    },
+    "spinal-cord-surgery/intramedullary-spinal-cord-tumor.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/intramedullary-spinal-cord-tumor-resection.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "emergency-neurosurgery-and-trauma/lacerated-dural-venous-sinus-repair.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/lacerated-dural-venous-sinus-repair.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "microsurgical-mastery/microsurgical-mastery-passion-for-technical-excellence.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/microsurgical-mastery.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "emergency-neurosurgery-and-trauma/open-skull-fracture.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/open-skull-fracture-management.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "spinal-cord-surgery/operative-spinal-cord-anatomy.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/operative-spinal-cord-anatomy.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "epilepsy-surgery/peri-insular-hemispherotomy.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/peri-insular-hemispherotomy.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "spinal-cord-surgery/spinal-av-fistula-disconnection.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/spinal-av-fistula-disconnection.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "spinal-cord-surgery/spinal-cord-avm.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/spinal-cord-avm-surgery.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "spinal-cord-surgery/spinal-cord-cavernous-malformation.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/spinal-cord-cavernous-malformation-resection.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "csf-diversion-procedures/ventriculo-atrial-shunt.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/ventriculo-atrial-shunt.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "csf-diversion-procedures/ventriculo-gallbladder-shunt.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/ventriculo-gallbladder-shunt.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "csf-diversion-procedures/ventriculo-peritoneal-shunt.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/ventriculo-peritoneal-shunt.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
+    },
+    "csf-diversion-procedures/ventriculo-pleural-shunt.pdf": {
+      "ingested_at": "2026-04-17T00:00:00Z",
+      "wiki_page": "procedures/ventriculo-pleural-shunt.md",
+      "method": "manifest-backfill",
+      "phase": "C2-backfill"
     }
   },
   "duplicates": {
@@ -431,7 +553,7 @@
     "procedures": 21,
     "references": 10,
     "score": 4403,
-    "last_iteration": 119,
+    "last_iteration": 123,
     "last_updated": "2026-04-18"
   }
 }
