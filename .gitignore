@@ -19,8 +19,17 @@ __pycache__/
 # Autoresearch output (moved to .autoresearch/<wiki>/ in Phase 3)
 autoresearch-results.tsv
 *-autoresearch-results.tsv
-.autoresearch/*
+.autoresearch/**
 !.autoresearch/.gitkeep
+# Track curated per-wiki deliverables (audits, campaign specs, revise queue).
+# Raw iteration logs (results.tsv) remain ignored.
+!.autoresearch/*/
+.autoresearch/*/**
+!.autoresearch/*/audits/
+!.autoresearch/*/audits/**
+!.autoresearch/*/campaigns/
+!.autoresearch/*/campaigns/**
+!.autoresearch/*/revise-queue.md
 
 # Obsidian plugin state (machine-generated, per-user)
 .obsidian/workspace.json
