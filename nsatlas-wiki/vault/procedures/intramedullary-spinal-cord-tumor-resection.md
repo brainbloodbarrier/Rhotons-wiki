@@ -18,7 +18,7 @@ sources:
 source_chapter: "spinal-cord-surgery/intramedullary-spinal-cord-tumor"
 source_pdf: "spinal-cord-surgery/intramedullary-spinal-cord-tumor.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Microsurgical resection of intramedullary spinal cord tumors (ependymoma,
   astrocytoma, hemangioblastoma) — histology-dependent plane, posterior
@@ -31,6 +31,54 @@ summary: >-
 *Spinal Cord Surgery — Intramedullary Spinal Cord Tumor*
 
 **Source:** NSAtlas, Cohen-Gadol
+
+## Epidemiology and Genetic Associations
+
+- **16–58% of all primary spinal cord tumors**; 2–8.5% of all primary CNS tumors.
+- **Ependymomas (30–40%) + astrocytomas (30–35%) + hemangioblastomas (2–15%) = > 90%**.
+- **Genetic syndromes to consider**:
+  - **NF1** → astrocytoma (up to 20% develop a spinal intramedullary tumor).
+  - **NF2** → ependymoma (up to 20% develop one).
+  - **VHL** → hemangioblastoma — **20–43% of patients with a spinal hemangioblastoma have VHL**.
+- **Syringomyelia accompanies 25–58%** of IMSCT, most often lower cervical / upper thoracic. Distribution: **50% above**, 40% above + below, 10% below only. Presence of a syrinx is a **good prognostic sign** — suggests a non-infiltrative tumor and rapid postoperative improvement once the obstruction is relieved.
+
+## Histology Profiles
+
+### Ependymoma
+
+- Soft, slow-growing, well-circumscribed, **gray-reddish moderately vascular** mass.
+- **3rd–4th decade**, **M:F ~2:1**; rare in children.
+- **NF2 in up to 8%**.
+- **Most common IMSCT associated with syrinx**.
+- **Cervical + thoracic** predominance; conus location is rare.
+- **Midline, symmetric cord expansion over multiple levels** on imaging; eccentric/extramedullary configurations are rare.
+- **Hemosiderin caps** at the tumor poles are a classic MRI tell.
+- **GTR is curative** for most patients — but **highest surgical-morbidity rate among IMSCT**, so operator experience matters.
+
+### Astrocytoma
+
+- **Second most common IMSCT in adults**; **most common in pediatric patients**.
+- Ill-defined, infiltrative; high-grade lesions more common in adults; **malignant degeneration occurs in ~25% of adult astrocytomas**.
+- Predominantly **cervical cord**; syrinx in ~20%.
+- Pediatric presentation: **motor weakness dominates**; small children can present with **abdominal pain, torticollis, muscle atrophy**, or **progressive scoliosis (4% of children with IMSCT)**.
+- **Holocord** involvement is rare and usually a **pilocytic astrocytoma**.
+- Distinction from inflammatory/demyelinating lesions is troublesome when there is no contrast uptake.
+
+### Hemangioblastoma
+
+- Small, benign, **richly vascular mass with mural nodule + cyst** configuration; perilesional edema common.
+- 4th decade; **male predominance**; mostly sporadic — **spinal occurrence mandates VHL screen**.
+- Typically **posterior or posterolateral cervical cord**.
+- **Cystic degeneration in up to 70%**; syrinx is less common than with gliomas.
+- **T1 iso-hyper, T2 hyper, homogeneous enhancement**.
+
+## Imaging Discrimination
+
+- MR signal patterns **overlap significantly** between ependymoma, astrocytoma, and hemangioblastoma.
+- **Ependymoma**: midline, symmetric, hemosiderin caps, heterogeneous enhancement.
+- **Astrocytoma**: eccentric, infiltrative, variable enhancement.
+- **Hemangioblastoma**: homogeneous nodule + cyst, flow voids, VHL context.
+- **Cranial imaging** if hydrocephalus is suspected — rare but reported association.
 
 ## Tumor Types
 

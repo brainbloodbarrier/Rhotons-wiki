@@ -105,3 +105,4 @@ iteration	commit	metric	delta	guard	status	description
 99	7ba7779	4319	+5	pass	0	keep	C2 iter99 — expand external-ventricular-drain-placement
 100	17b8687	4329	+10	pass	0	keep	C2 iter100 — expand operative-spinal-cord-anatomy
 101	7181437	4335	+6	pass	0	keep	C2 iter101 — expand extramedullary-spinal-cord-tumor-resection
+102	ef3c47c	4339	+4	pass	0	keep	C2 iter102 — expand intramedullary-spinal-cord-tumor-resection
