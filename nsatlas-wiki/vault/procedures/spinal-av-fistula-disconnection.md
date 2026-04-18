@@ -17,7 +17,7 @@ sources:
 source_chapter: "spinal-cord-surgery/spinal-av-fistula-disconnection"
 source_pdf: "spinal-cord-surgery/spinal-av-fistula-disconnection.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Surgical disconnection of spinal dural arteriovenous fistula (Type I spinal
   vascular malformation) — Foix-Alajouanine syndrome presentation, spinal
@@ -37,6 +37,36 @@ Spinal dural arteriovenous fistulas (sDAVF / Type I spinal vascular malformation
 
 Patient profile: middle-aged man, progressive leg weakness, sensory changes, bowel/bladder, worsened by exercise or upright posture.
 
+## Epidemiology
+
+- Spinal vascular malformations ≈ **10% of all CNS vascular malformations**; sDAVFs are **50–85%** of spinal vascular lesions — by far the most common.
+- **Acquired, not congenital** — distinguishes from Type II/III AVMs. Intracranial DAVF analog involves sinus thrombosis + neoangiogenesis; spinal DAVF pathogenesis incompletely understood.
+- **Thoracolumbar predominance**: > 90% between **T4 and L3**.
+- **Male ≫ female, ~5:1**; mean age **50–60 y** (sixth decade).
+- **Prior spinal trauma or surgery implicated in up to 20%** of patients — vertebral fracture history matters.
+- **15% derive supply from internal iliac arteries**; 5–15% from intercostal arteries — bilateral iliac catheterization is required on negative standard angiograms.
+- Subclassified by feeders: **Type A** (single feeder), **Type B** (multiple feeders).
+
+## Pathophysiology
+
+Four mechanisms operate in spinal vascular anomalies:
+1. **Venous hypertension** — dominant driver in dorsal sDAVF.
+2. **Vascular steal syndrome**.
+3. **Subarachnoid hemorrhage**.
+4. **Intraparenchymal hemorrhage (hematomyelia)**.
+
+Low-flow shunt raises downstream venous pressure → shrinks arteriovenous pressure gradient → cord hypoperfusion → chronic hypoxia → progressive myelopathy. **Venous hypertension, not direct compression, is the injury mechanism** — which is why single-point disconnection cures the disease.
+
+## Clinical Presentation
+
+- **Insidious, progressive** neurologic decline over months to years; interim remissions and acute exacerbations are described.
+- **Paraparesis 60–75%**, thoracolumbar pain ± radiculopathy 20–50%, bladder/bowel dysfunction 40–63%.
+- Classic exacerbating triggers: **standing, walking, Valsalva, exertion** (all raise intra-abdominal/intrathoracic → vena caval → intraspinal venous pressures). Relief when seated.
+- **Acute deterioration uncommon but possible** — SAH or spinal cord infarction (end-stage; ~15% present acute/subacute).
+- **Cervical sDAVF is a critical differential for angiographically-negative intracranial SAH**, especially with onset neck pain or subarachnoid blood around the craniocervical junction — image the vertebral arteries carefully.
+- **Frequent misdiagnosis** as spinal stenosis or herniated disk because positional change can modulate pain → unnecessary spinal procedures before the fistula is considered.
+- Differential: Type II AVM (younger, age 15–40 y), spinal cord tumor, demyelinating disease.
+
 ## Classification (Spetzler)
 
 | Type | Description |
@@ -50,11 +80,14 @@ This chapter focuses on **Type I** disconnection.
 
 ## Preoperative Evaluation
 
-- **MRI**: T2 cord hyperintensity, dilated perimedullary flow voids
-- **Spinal angiography**: gold standard — identifies feeding radicular artery, fistula point at nerve root sleeve, draining intradural vein
-- **Rule out Adamkiewicz** at or near the level — critical
-- Neurologic baseline (Aminoff-Logue scale for gait/micturition)
-- Consent: endovascular alternative (selective glue/onyx embolization of the fistula)
+- **MRI**: T2 cord hyperintensity (edema), engorged posterior perimedullary flow voids. **Cord edema may be the only imaging finding** — maintain suspicion. Contrast enhancement is infrequent and heterogeneous; rare ring enhancement mimics tumor.
+- **MRA / fast contrast-enhanced MRA / CTA** can localize the fistulous level in **~80%** of patients — useful to focus the subsequent catheter angiogram, reduce radiation and contrast load.
+- **Digital subtraction spinal angiography (DSA)** — **gold standard**. Identifies all feeders, the fistulous point, the draining venous system, and relationship to the **artery of Adamkiewicz**. Delayed venous return after anterior spinal artery injection is a diagnostic clue (venous hypertension).
+- T2 cord signal and the level of venous engorgement do **not reliably localize the fistula** rostrocaudally — angio every relevant level.
+- **Negative DSA requires bilateral iliac catheterization** (up to 15% of feeders).
+- **Complex/multilevel feeders** and craniocervical-junction lesions exist — the latter can produce brainstem edema/ischemia via steal.
+- Neurologic baseline (**Aminoff-Logue disability scale** for gait, micturition, bowel).
+- Consent: endovascular alternative (selective glue/Onyx embolization of the fistula).
 
 ## Endovascular vs Surgical
 
@@ -90,7 +123,21 @@ This chapter focuses on **Type I** disconnection.
 4. **Divide** the vein sharply
 5. Repeat ICG angiography — confirm **no residual shunt**
 
-Single-point disconnection cures the fistula. Resection of the dural nidus is NOT required.
+Single-point disconnection cures the fistula. Resection of the dural nidus is NOT required. *Multiple fistulous connections may exist within the dural root sleeve; the surgical target is always the draining vein at its emergence on the inner dural surface.*
+
+## Variants and Technique Modifications
+
+- **Dorsal intradural (Type I, classic)** — exposure via laminectomy/hemilaminectomy, midline durotomy, single-point vein disconnection at the root sleeve (technique above).
+- **Ventral intradural (Spetzler ventral type IV/ventral dural AVF)** — access is restricted; may require extensive dentate ligament division or anterior corridor; bipolar coagulation risk to the anterior spinal artery is higher. Endovascular first-line when feasible.
+- **Extradural sDAVF** — shunt outside the dura; epidural venous plexus drainage. May not require intradural exposure; disconnection of the extradural draining vein at the dural entry suffices.
+- **Perimedullary AVF (Type IV)** — pial-surface shunt:
+  - **IVa** (single small feeder): microsurgical clip/coagulation at the pial surface.
+  - **IVb** (medium-size with dilated venous varices): combined embolization + surgery.
+  - **IVc** (giant, multiple feeders, often conus/cauda/filum terminale): staged multimodal.
+  - Locations: ventral cord ~45%, filum terminale ~28%, ventral root ~18%.
+  - ~80% of PAVFs occur in the conus/cauda region — nidal resection often precluded by root involvement.
+  - Up to ~25% of PAVFs present with acute deterioration (SAH).
+- **Complex multilevel sDAVF** or **craniocervical junction fistulas** — team with endovascular colleagues; brainstem steal warrants early definitive treatment.
 
 ## Neuromonitoring
 
