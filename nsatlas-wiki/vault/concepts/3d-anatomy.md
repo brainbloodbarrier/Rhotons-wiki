@@ -16,7 +16,7 @@ sources:
   - "Operative Neurosurgery (journal series, 2018-)"
 source_pdf: "operative-neuroanatomy/3d-anatomy.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Hub page for the Neurosurgical Atlas interactive 3D anatomy series — a
   multi-year project to render cranial, cerebrovascular, cavernous-sinus,
@@ -96,6 +96,23 @@ Each 3D model ships with a standardized control scheme:
 The full-screen function is recommended for optimal visualization,
 especially when inspecting microanatomy (e.g., inner ear, perforators)
 that requires aggressive zoom.
+
+## The Cognitive Gap the Models Address
+
+- Anatomy education has relied on **2D schematics** since the Middle Ages — ventricles framed by disorganized neural tissue.
+- The **cognitive burden** of converting 2D illustrations into 3D mental maps is precisely the skill that **breaks down under intraoperative load**.
+- **Cadaveric dissection** remains the gold standard for microsurgical detail but is cost-, time-, and specimen-limited.
+- Static 3D renderings improve on 2D but lack the **layered transparency, arbitrary rotation, and annotation toggling** needed for learner-driven exploration.
+- Interactive 3D models **eliminate the 2D→3D mental conversion**, unlock unlimited repeat access, and scale better than cadaver labs.
+
+## Why 5 Years of Sculpting
+
+The NSAtlas series is built on **intense computerized sculpting** rather than automated segmentation because:
+
+1. Automatic segmentation of clinical CT/MRI misses fine osteologic detail (carotid canal ridges, jugular tubercle, petrous ridges) that define surgical corridors.
+2. Interactive models must support **selective transparency** without rendering artifacts — hand-sculpted geometry supports this better than voxel-derived meshes.
+3. Annotations need **consistent anatomic ontology** across every model — only feasible with human curation.
+4. Integration of **radiographic reconstructions** (DSA vascular trees, CT-bone meshes) with cadaveric surface detail requires manual registration.
 
 ## Educational Rationale
 

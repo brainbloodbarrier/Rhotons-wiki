@@ -110,3 +110,4 @@ iteration	commit	metric	delta	guard	status	description
 104	bd830c5	4351	+9	pass	0	keep	C2 iter104 — expand brain-mobilization-and-protection
 105	8c0b324	4353	+2	pass	0	keep	C2 iter105 — expand surgeons-philosophy-and-operating-position
 106	1e169b1	4357	+4	pass	0	keep	C2 iter106 — expand operating-room-setup-and-workflow
+107	5ab8efc	4359	+2	pass	0	keep	C2 iter107 — expand 3d-anatomy
