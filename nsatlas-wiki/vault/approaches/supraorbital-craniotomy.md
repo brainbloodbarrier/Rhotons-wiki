@@ -23,7 +23,7 @@ source_pdf: "cranial-approaches/supraorbital-craniotomy.pdf"
 source_pages: 17
 figure_count: 13
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-18
 summary: >-
   Minimally invasive keyhole approach via eyebrow incision for anterior skull
   base tumors <5cm, AComA aneurysms, and parasellar pathologies. Longer working
@@ -62,6 +62,44 @@ With an **eyebrow incision**, this becomes a minimally invasive keyhole approach
 Compared to the [[pterional-craniotomy|standard pterional]], the supraorbital subfrontal corridor affords a **longer operative working distance** but potentially less brain manipulation. Dynamic retraction via suction apparatus and dissectors provides flexible working angles for anterior circulation aneurysms and large anterior skull base tumors.
 
 > Orbitofrontal and mediobasal cortices are often misleadingly considered "silent" — subfrontal injury leads to **disinhibition** (orbitofrontal) and **anterograde/retrograde amnesia** (mediobasal).
+
+## Supraorbital vs Pterional vs Variants — Decision Table
+
+| Approach | Working corridor | Vertical reach | Brain manipulation | Sphenoid-wing access | Cosmetic risk |
+|---|---|---|---|---|---|
+| **Supraorbital (eyebrow)** | Longer | Limited | Lowest | Poor | Eyebrow scar; frontalis palsy risk |
+| **Lateral supraorbital (Hernesniemi)** | Moderate | Moderate | Low | Limited | Hairline scar, frontalis risk lower |
+| **Minipterional (Figueiredo)** | Moderate | Moderate | Moderate | Good | Hidden hairline |
+| **Standard pterional** | Shorter, wide | Best | Higher | Excellent | Hidden hairline |
+| **Orbitozygomatic** | Best for inferior-superior | Excellent | Lowest at depth | Excellent | Orbitofacial asymmetry risk |
+
+Rhoton dissections show **substantial overlap** among the anterolateral approaches — pick based on vertical reach needed, sphenoid-wing involvement, and cosmesis.
+
+## Why the "Silent Frontal Lobe" Is Not Silent
+
+Orbitofrontal and mediobasal cortices are frequently but **misleadingly** labeled as silent. Consequences of subfrontal injury:
+
+- **Orbitofrontal damage** → **disinhibition**, impulse-control loss, socially inappropriate behavior.
+- **Mediobasal temporal lobe / basal forebrain damage** → **anterograde + retrograde amnesia** (fornix, septal nuclei, hippocampal formation).
+
+Keyhole approaches reduce but do not eliminate the risk; preserve venous drainage, avoid prolonged retraction, and drain CSF before any retraction begins.
+
+## Frontalis Nerve — Why Two Incision Styles
+
+- **Frontalis branches of the facial nerve** travel in the **superficial fascia over the fat pad** above the zygoma.
+- **Horizontal transection of the fat pad** cuts these branches → **temporary frontalis palsy** that may become permanent if transected rather than retracted.
+- **Subfascial dissection** reflecting the fat pad **posteriorly** preserves the nerve.
+- The **supraorbital nerve** exits through the supraorbital notch and defines the **medial edge** of a safe eyebrow incision — stay lateral to it, dissect subperiosteally, and retract rather than cut.
+
+## Frontal Sinus — Decision Principles
+
+- **Pre-op imaging** (CT) delineates the lateral extent of the frontal sinus — often asymmetric, may extend laterally into the planned craniotomy window.
+- If entered:
+  - **Remove all mucosa** (pituitary rongeurs + monopolar).
+  - Pack with **muscle, betadine-soaked bone wax, or betadine-soaked Gelfoam**.
+  - Cover the defect with the pre-harvested **vascularized pericranial flap**.
+  - **Do not place fixation plates/screws directly over the sinus** — screws invade the cavity and cause CSF leak.
+- Prophylactic **lumbar drain for 1–2 days** post-op if the sinus was entered or if the skull base defect is large.
 
 ## Indications
 
