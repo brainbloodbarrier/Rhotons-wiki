@@ -38,6 +38,19 @@ fi
 # shellcheck disable=SC1091
 source "$SCRIPT_DIR/constants.sh"
 
+# Pre-compute manifest subdir→wiki_page mapping with a single jq call.
+# Before: N jq invocations per run (one per subdir).
+# After:  1 jq invocation; per-subdir lookup walks an in-memory TSV blob.
+MANIFEST_PAGES_TSV=""
+if [[ -f "$MANIFEST" ]]; then
+  MANIFEST_PAGES_TSV=$(jq -r '
+    .sources | to_entries[]
+    | select(.key | test("/"))
+    | [(.key | split("/")[0]), (.value.wiki_page // "")]
+    | @tsv
+  ' "$MANIFEST" 2>/dev/null || true)
+fi
+
 # Relation-frontmatter detection for one page. Prints 1 if >=1 typed breadcrumb
 # present, else 0.
 page_has_breadcrumb() {
@@ -88,12 +101,10 @@ emit_row() {
     | wc -l | tr -d ' ')
 
   local manifest_pages=()
-  if [[ -f "$MANIFEST" ]]; then
-    while IFS= read -r p; do
-      [[ -n "$p" ]] && manifest_pages+=("$p")
-    done < <(jq -r --arg s "$subdir/" \
-      '.sources | to_entries[] | select(.key | startswith($s)) | .value.wiki_page // empty' \
-      "$MANIFEST" 2>/dev/null)
+  if [[ -n "$MANIFEST_PAGES_TSV" ]]; then
+    while IFS=$'\t' read -r sd page; do
+      [[ "$sd" == "$subdir" && -n "$page" ]] && manifest_pages+=("$page")
+    done <<< "$MANIFEST_PAGES_TSV"
   fi
   ingested=${#manifest_pages[@]}
 
