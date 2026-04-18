@@ -19,7 +19,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_pdf: "cranial-nerve-compression-syndromes/microvascular-decompression-for-trigeminal-neuralgia.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Classic trigeminal neuralgia — unilateral paroxysmal lancinating facial pain,
   mostly from SCA (75%) or AICA (10%) conflict at CN V REZ. MVD via retromastoid
@@ -38,6 +38,35 @@ summary: >-
 - Peak age **50–60**, rising with age
 - ~**10%** refractory to medication → surgical candidates
 - **~80% pain-free at 10–20 years** after MVD, 10% recurrence
+
+## Historical Timeline
+
+- **1773** — John Fothergill first fully describes TN in *On a Painful Affliction of the Face* to the Medical Society of London.
+- **1829** — Charles Bell distinguishes trigeminal vs facial nerve function and proposes that paroxysmal facial pain relates to nerve dysfunction.
+- **Harvey Cushing** — early subtemporal sensory nerve avulsion; photographs of his TN patients are among the earliest documented.
+- **1934** — Walter Dandy, performing retrogasserian trigeminal neurotomy via lateral suboccipital craniectomy, observes vascular compression of the nerve in many cases — the seminal anatomic observation.
+- **1967** — Peter Jannetta popularizes **microvascular decompression** as a non-destructive procedure producing durable relief.
+
+## Peripheral vs Central Hypothesis
+
+Neither hypothesis explains TN alone:
+
+- **Peripheral (neurovascular conflict)** — vascular compression of the REZ causes **demyelination** → **ephaptic transmission** between afferent fibers. Supported by intraoperative findings and MVD outcomes.
+- **Central hypothesis** — **hyperactivity of the trigeminal nucleus** (and facial nucleus in HFS) contributes to symptom generation. Supported by:
+  - Cases where **no compressive vessel** is found on detailed exploration.
+  - **Cadaveric studies** showing intimate nerve-vessel relationships in patients **without any history of cranial hyperactivity syndrome**.
+- Clinical implication: **MVD works whether via decompression or via perturbation of central circuitry** — a combined model best fits the evidence.
+
+## Why MVD Over Percutaneous Procedures
+
+Percutaneous rhizotomy is faster and less invasive but **destructive** — it ablates or compresses the ganglion/root, trading pain for sensory loss and a fixed recurrence trajectory. **MVD is the only operation that:**
+
+- Identifies and removes the **etiologic offender** (vessel) rather than destroying the messenger (nerve).
+- Preserves sensation entirely in the vast majority of patients.
+- Produces **durable (10–20 year) pain-free outcomes** in ~80%.
+- Offers the only opportunity to diagnose secondary pathology (CPA tumor, vessel anomaly) intraoperatively.
+
+The tradeoff is general anesthesia, posterior-fossa craniotomy risk, and age/comorbidity ceiling (~70 y).
 
 ## Pathophysiology
 
@@ -80,6 +109,15 @@ summary: >-
 - CPA tumor (meningioma, schwannoma, **epidermoid**)
 - MS, brainstem ischemia/demyelination
 - **Tic convulsif** — TN + [[hemifacial-spasm]] coexist
+
+## The Dental Misdiagnosis Trap
+
+TN **initially presents as dental pain** in many patients because V2 and V3 distributions dominate. Consequences:
+
+- **Unnecessary and sometimes irreversible dental interventions** — extractions, root canals, restorations — preceding the correct diagnosis.
+- The pain does not remit; the patient returns with "recurrence after dental work".
+- **Ask every TN patient about dental history**; if multiple procedures failed to relieve pain in the same distribution, suspect TN retrospectively.
+- Reverse educational principle: **any neuralgiform pain in V2/V3 distribution mandates a neurological evaluation before further dental destruction**.
 
 ## Imaging
 

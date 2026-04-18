@@ -117,3 +117,4 @@ iteration	commit	metric	delta	guard	status	description
 111	4d3e681	4372	+5	pass	0	keep	C2 iter111 — expand intraoperative-hemostasis
 112	d610302	4375	+3	pass	0	keep	C2 iter112 — expand bifrontal-craniotomy
 113	47842e8	4379	+4	pass	0	keep	C2 iter113 — expand supraorbital-craniotomy
+114	02608bc	4383	+4	pass	0	keep	C2 iter114 — expand trigeminal-neuralgia-mvd
