@@ -19,7 +19,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_pdf: "cranial-nerve-compression-syndromes/glossopharyngeal-neuralgia.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Glossopharyngeal neuralgia — rare CN IX neuralgia (1/100 of trigeminal),
   pain in ear/tongue-base/tonsillar pillar/angle-of-jaw, 10% with
@@ -36,6 +36,15 @@ Glossopharyngeal neuralgia (GN) is **100× rarer than trigeminal neuralgia**, pr
 
 **Vagoglossopharyngeal neuralgia (~10%)** — paroxysms with **bradycardia, hypotension, syncope, asystole, seizures**. CN IX impulses stimulate CN X dorsal nucleus.
 
+## IHS Subclassification
+
+The International Headache Society divides GN into two forms:
+
+- **Classical GN** — intermittent pain only, no interictal pain, no sensory deficit, no structural lesion.
+- **Symptomatic GN** — same paroxysmal pain pattern **plus persistent aching between episodes** and/or sensory impairment in the IX/X distribution, driven by a structural lesion (tumor, calcified stylohyoid, etc.).
+
+Distinguishing the two preoperatively changes both expectations and imaging workup — symptomatic GN mandates pursuit of the underlying lesion.
+
 ## Etiology and History
 
 - Most **idiopathic** — possibly severe CN IX/X demyelination
@@ -51,6 +60,13 @@ Glossopharyngeal neuralgia (GN) is **100× rarer than trigeminal neuralgia**, pr
 - **High-definition MRI CPA** — look for vascular loop at lower CN REZ, styloid length, tumors; **absence of visible loop does not disqualify surgery**
 - **Neurologic exam**: CN V–X sensory, uvular deviation, gag/cough reflex, voice quality
 - ENT consultation to exclude occult neoplasm
+- **Targeted nerve block** — cessation of pain after CN IX block at the jugular foramen, or after topical pharyngeal anesthesia, supports the diagnosis. Useful but not superior to a precise clinical history.
+- **Pain-pattern overlaps to track consciously**:
+  - **Trigeminal neuralgia** — jaw-angle overlap is the common misdiagnosis.
+  - **Nervus intermedius / Jacobson's neuralgia (geniculate)** — isolated ear pain.
+  - **Superior laryngeal neuralgia** — lateral neck/throat component.
+  - **TMJ disorders** and **temporal arteritis** share pain locations but differ in character and exam.
+  - **Multiple sclerosis** — an extremely rare but reported cause.
 
 ## Indications
 
@@ -87,9 +103,18 @@ Cohen-Gadol's preferred: **CN IX transection + CN X decompression** via **retrom
 
 ### Jugular foramen anatomy (Rhoton)
 
-- **Glossopharyngeal meatus** and **vagal meatus** separated by **dural septum**
-- Vertebral artery, PICA loops are the classic offenders at CN IX-X REZ
-- Choroid plexus + **rhomboid lip** adjacent to CN IX
+- **Glossopharyngeal meatus** and **vagal meatus** separated by a **dural septum** at the jugular foramen — CN IX exits separately from CN X/XI, a key anatomic landmark at the foramen.
+- **Jugular dural fold** demarcates CN IX and the IX/X/XI complex entering the foramen.
+- Vertebral artery and **PICA loops** are the classic offenders at the CN IX–X REZ.
+- **Choroid plexus** protrudes from the foramen of Luschka and the **rhomboid lip** of the lateral recess sits adjacent to CN IX — both are useful orientation markers when searching for the REZ.
+
+### Alternative Approaches Considered
+
+- **Suboccipital infratemporal (retromastoid infrafloccular)** — Cohen-Gadol's preferred. No condylar drilling; adequate exposure of CN IX/X REZ.
+- **Transcondylar** — wider ventrolateral exposure but requires occipital-condyle drilling → increased disruption, craniocervical stability considerations. Reserved for lesions demanding ventrolateral access.
+- **Extracranial nerve ablation** — abandoned historically; high morbidity, high recurrence.
+- **Intracranial rhizotomy alone** (Dandy-era) — good short-term results, long-term recurrence; now combined with MVD rather than used standalone.
+- **Stereotactic radiosurgery** — emerging option, limited long-term data; consider when open surgery is contraindicated.
 
 ### MVD maneuvers
 
@@ -99,6 +124,19 @@ Cohen-Gadol's preferred: **CN IX transection + CN X decompression** via **retrom
 4. **Decompress CN X** — mobilize offending vessel along entire length with multiple pieces of **shredded Teflon**
 5. **Do NOT rhizotomize CN X** — swallowing/hoarseness unacceptable (abandoned historically)
 6. Check for tortuous vertebral artery — may require creative mobilization with Teflon "slings"
+
+### Rationale for CN IX Rhizotomy + CN X Decompression (Cohen-Gadol)
+
+- **CN IX transection** eliminates the pain generator cleanly; functional loss from isolated CN IX section is minimal (taste posterior one-third of tongue, minor sensory to the pharynx). Combined with CN X decompression, it reliably converts MVD success rates toward the 90% range cited for experienced operators.
+- **CN X rhizotomy has been abandoned** — unacceptable rates of dysphagia, hoarseness, aspiration. CN X is never cut; only the offender is padded off it.
+- **Ventral surface of the jugular foramen side of the REZ** is the correct rhizotomy plane — proximal enough to be effective without injuring adjacent rootlets of CN X.
+
+### Hemodynamic Intraoperative Events
+
+- CN IX manipulation can trigger abrupt **bradycardia/asystole** via reflex stimulation of the CN X dorsal nucleus.
+- Warn anesthesia before every CN IX manipulation; have **atropine drawn and ready** on the field.
+- **Transcutaneous or transvenous pacing** pre-positioned in patients with preoperative syncope or asystole history.
+- Release manipulation immediately on rhythm change; resume only after HR recovery.
 
 ### Closure
 

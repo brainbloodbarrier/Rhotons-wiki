@@ -96,3 +96,4 @@ iteration	commit	metric	delta	guard	status	description
 90	1e3d96c	4269	+7	pass	0	keep	C2 iter90 — expand microsurgical-mastery
 91	87895f9	4276	+7	pass	0	keep	C2 iter91 — expand spinal-av-fistula-disconnection
 92	5634071	4282	+6	pass	0	keep	C2 iter92 — expand hemifacial-spasm
+93	990f120	4287	+5	pass	0	keep	C2 iter93 — expand glossopharyngeal-neuralgia
