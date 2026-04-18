@@ -19,7 +19,7 @@ sources:
 source_chapter: "emergency-neurosurgery-and-trauma/decompressive-craniectomy"
 source_pdf: "emergency-neurosurgery-and-trauma/decompressive-craniectomy.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Decompressive craniectomy for refractory intracranial hypertension from TBI,
   malignant MCA infarction, and other cerebral swelling — indications (DECRA,
@@ -32,6 +32,29 @@ summary: >-
 *Emergency Neurosurgery and Trauma — Decompressive Craniectomy*
 
 **Source:** NSAtlas, Cohen-Gadol
+
+## Rationale
+
+Rooted in the **Monro-Kellie doctrine** (Alexander Monro + George Kellie): the cranium is a rigid box; any volume added (hematoma, edema) must be offset by displacement of CSF or blood. Once those buffers are exhausted, ICP rises exponentially and herniation follows. Decompressive craniectomy **breaks the box** — it provides a controlled outlet through which swollen but viable tissue can bulge instead of compressing the brainstem.
+
+## Primary vs Secondary Decompression
+
+- **Primary (prophylactic)** — performed at the time of hematoma evacuation when post-op swelling is anticipated (acute EDH/SDH/IPH with contused underlying cortex, bloody brain on durotomy).
+- **Secondary (therapeutic)** — performed later for refractory ICP after medical therapy has failed (malignant MCA infarct, delayed post-traumatic edema 2–3 days after injury).
+
+**Operate before herniation, not at herniation.** Deciding only when pupils fix, motor scores collapse, or brainstem reflexes go is associated with devastating, often irreversible outcomes that earlier decompression could have prevented.
+
+## Tiered Medical Therapy (max out before DC)
+
+DC is the last step of a pyramid — document that each tier was applied:
+
+1. **Head of bed elevated**, cervical collar removed (if spine cleared) for venous return.
+2. **Osmotherapy** — mannitol and/or hypertonic saline (3% or 23.4%). Hold if Na ≥ 160 mEq/L or serum osm ≥ 320 mOsm/kg.
+3. **Normothermia** — aggressive fever control; therapeutic hypothermia remains controversial.
+4. **Short-window hyperventilation** as a bridge: PaCO₂ 30–35 mmHg, peak effect ~30 min; avoid prolonged use (rebound vasodilation, ischemia).
+5. **EVD / ICP monitor** — quantitative feedback; target CPP > 60 mmHg.
+6. **Barbiturate coma** (pentobarbital) — suppress metabolic demand and CBV.
+7. **DC** when ICP remains refractory, exam deteriorates, or imaging shows progressing herniation despite all of the above.
 
 ## Indications
 
@@ -48,9 +71,31 @@ summary: >-
 
 ### Other
 
-- Cerebellar stroke with brainstem compression → suboccipital DC
-- Severe venous sinus thrombosis with mass effect
-- Spontaneous ICH with herniation syndrome (controversial)
+- **Cerebellar stroke with brainstem compression** → suboccipital DC. Retrospective cohort and matched case-control data show **improved mortality and functional outcome when there is no intrinsic brainstem pathology**. RCT-level evidence is lacking (clinical equipoise prevents randomization). Operate on the deteriorating patient who still has preserved brainstem integrity — intervening after brainstem infarct is futile.
+- **Posterior fossa trauma** — only retrospective data; early, aggressive DC is the general recommendation when pre-op neuro status supports it.
+- **Severe venous sinus thrombosis** with mass effect and midline shift.
+- **Spontaneous ICH with herniation syndrome** — controversial; role poorly defined, decide case by case.
+- **Subdural empyema / cerebral abscess / encephalitis** with refractory edema or mass effect.
+
+## Evidence Summary
+
+### Malignant MCA infarction
+
+- **DESTINY**, **DECIMAL**, **HAMLET** (pooled, < 60 y, within 48 h of onset) — reduce mortality; functional outcome improved (mRS ≤ 3) in pooled analyses; no increase in severe disability vs medical arm.
+- **DESTINY II** (> 60 y) — mortality benefit persists but at the cost of higher mRS; individualize. The ethical tension: surgery converts death into a range of disability — including mRS 4, which many families would not choose.
+- Systematic reviews across ≥ 6 RCTs support improved survival and functional outcome in selected patients, with acknowledgment of a residual population surviving dependent.
+
+### TBI
+
+- **DECRA** — early bifrontotemporoparietal DC for moderate ICP elevation (ICP > 20 mmHg > 15 min, first-tier care): surgical arm had **worse** 6-month outcomes despite better ICP control. Do not use DC as a first-line maneuver for moderate hypertension.
+- **RESCUEicp** — DC for truly refractory ICP > 25 mmHg: **22% absolute mortality reduction at 6 months**; compensatory rise in vegetative state / severe disability. Proportion with good recovery is comparable between arms.
+- Together: DC in TBI is a **last-line rescue** for refractory hypertension, not a proactive maneuver.
+
+### Contraindications (relative)
+
+- Age > 50–65 y in TBI context (controversial; not a hard cutoff).
+- Severe coagulopathy not reversible.
+- Unreactive pupils, absent brainstem reflexes, GCS 3 with no response — consider futility, align with family goals.
 
 ## Preoperative Considerations
 
