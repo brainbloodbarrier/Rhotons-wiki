@@ -18,7 +18,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_pdf: "cranial-nerve-compression-syndromes/menieres-disease.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Meniere's disease — episodic vertigo, fluctuating low-frequency sensorineural
   hearing loss, tinnitus, aural fullness from endolymphatic hydrops. Vestibular
@@ -31,7 +31,19 @@ summary: >-
 
 *Source: NSAtlas, Cohen-Gadol*
 
-Characterized by the classic triad: **episodic vertigo (>20 min), fluctuating low-frequency sensorineural hearing loss, tinnitus**, plus **aural fullness**. Pathophysiology = **endolymphatic hydrops** — distension of endolymphatic spaces; K-rich endolymph leaking into K-poor perilymph depolarizes vestibular nerve endings.
+Characterized by the classic triad: **episodic vertigo (>20 min), fluctuating low-frequency sensorineural hearing loss, tinnitus**, plus **aural fullness**. Pathophysiology = **endolymphatic hydrops** — distension of endolymphatic spaces; K-rich endolymph leaking into K-poor perilymph depolarizes vestibular nerve endings. **Labyrinthine fibrosis** develops in chronic disease.
+
+## Contributing Factors to Hydrops
+
+No single unifying cause — likely multifactorial:
+
+- Increased endolymph production or decreased absorption
+- Ionic imbalance within the labyrinth
+- Genetic predisposition
+- Viral infection (herpes family hypothesized)
+- Autonomic or vascular dysregulation
+- Dietary triggers (high sodium, caffeine, alcohol, nicotine, MSG)
+- Autoimmune and allergic contributions
 
 ## AAO-HNS Diagnostic Categories
 
@@ -63,10 +75,31 @@ Characterized by the classic triad: **episodic vertigo (>20 min), fluctuating lo
 1. **Lifestyle**: salt restriction, caffeine/alcohol/nicotine/MSG avoidance, stress management
 2. **Medical**: diuretics, betahistine, vestibular suppressants (meclizine, promethazine) for acute attacks
 3. **Intratympanic gentamicin** — ~75% complete / ~93% substantial vertigo control (chemical ablation)
-4. **Nonablative surgery**: endolymphatic sac shunting/decompression, sacculotomy
-5. **Ablative surgery**: labyrinthectomy (sacrifices hearing), **vestibular neurotomy** (preserves hearing)
+4. **Nonablative surgery**: endolymphatic sac shunting/decompression (drains into subarachnoid or perilymphatic space), sacculotomy — low SNHL risk.
+5. **Ablative surgery**: labyrinthotomy or labyrinthectomy (disrupts cochlear duct / drills out the vestibule — sacrifices hearing); **vestibular neurotomy** (preserves hearing).
 
 **~10% of patients are refractory** and become surgical candidates.
+
+### Central vs Peripheral Nystagmus — Triage
+
+Any **focal neurologic finding** on exam, or nystagmus with **central features** (direction-changing, vertical, non-fatiguing, no suppression with fixation), mandates MRI to rule out a central lesion. BPPV has no SNHL; vestibular neuritis has vertigo without hearing loss. Meniere's is the combination.
+
+### Metabolic / Infectious Rule-Outs
+
+Before labeling symptoms as Meniere's:
+
+- **Urine**: proteinuria/hematuria → oto-renal syndrome
+- **VDRL / FTA-ABS**: neurosyphilis
+- **Lyme serology** where epidemiologically relevant
+- **TSH, fasting glucose / HbA1c** — thyroid disease and diabetes can mimic
+- **Migraine history** — vestibular migraine is a frequent differential in younger patients
+- **Systemic vasculitic / inflammatory workup** if Cogan's suspected (ocular + vestibulocochlear + systemic vasculitis)
+
+### Emerging / Adjunct Tests
+
+- **VEMP** (vestibular-evoked myogenic potentials)
+- **CHAMPs** (cochlear hydrops analysis masking procedures)
+- **3D-FLAIR MRI 24 h after intratympanic gadolinium** — direct hydrops visualization. Useful when conventional testing is equivocal.
 
 ## Vestibular Neurotomy — Cohen-Gadol's Operation
 
@@ -96,10 +129,23 @@ Characterized by the classic triad: **episodic vertigo (>20 min), fluctuating lo
 ### Approach
 
 - [[retromastoid-craniotomy]] — identical to MVD for trigeminal neuralgia
-- **Supralateral cerebellar corridor** (as for [[trigeminal-neuralgia-mvd]]), not infrafloccular
-- Retraction vectors **parallel to CN V and CN IX**, **never parallel to CN VII/VIII**
-- Rubber-dam glove + dynamic suction retraction; no fixed retractors
-- Generous arachnoid opening over cranial nerves
+- **Supralateral cerebellar corridor** (as for [[trigeminal-neuralgia-mvd]]), not infrafloccular — the vestibular nerve target sits in the upper CPA, nearest the trigeminal trajectory.
+- **Alternating retraction vectors parallel to CN V and CN IX**, **never parallel to CN VII/VIII** — any retraction vector aligned with CN VIII transmits directly to the cochlear fibers.
+- Rubber-dam glove + dynamic suction retraction; **no fixed retractors** — fixed retraction causes exposure in places that are not needed and increases hearing-loss risk.
+- **Generous arachnoid opening** over cranial nerves is the primary mobilization technique; retraction is intermittent and "only where needed."
+- Identify the **petrous-tentorium junction** and advance the cottonoid over the rubber dam toward the lower CN V / upper CN VII/VIII region.
+
+### CN VII/VIII Complex — Internal Anatomy (Rhoton)
+
+The key to hearing preservation is identifying the sub-fascicular arrangement of CN VIII:
+
+- **CN VII** anterior within the complex.
+- **Superior vestibular nerve** posterior-superior to CN VII.
+- **Inferior vestibular nerve** postero-inferior.
+- **Cochlear nerve** along the **inferior aspect** of CN VIII, with the **transverse crest** marking the IAC-side separation between inferior vestibular and cochlear nerves.
+- **Nervus intermedius** travels with CN VII — preserve.
+- A small **arteriole** typically crosses the nerve at the vestibular-cochlear demarcation — the landmark for the section plane.
+- **Labyrinthine branch of AICA** often crosses the complex — do not sacrifice.
 
 ### Intradural technique
 
