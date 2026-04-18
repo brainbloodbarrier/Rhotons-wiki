@@ -16,7 +16,7 @@ sources:
 source_chapter: "emergency-neurosurgery-and-trauma/open-skull-fracture"
 source_pdf: "emergency-neurosurgery-and-trauma/open-skull-fracture.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-17T03
 summary: >-
   Operative management of open (compound) skull fractures — indications for
   elevation, debridement principles, dural inspection, sinus involvement
@@ -55,6 +55,26 @@ Open skull fracture = skull fracture with overlying scalp laceration exposing bo
 
 Non-operative candidates: closed depressed fractures without neurologic deficit, dural integrity, minimal cosmetic issue.
 
+### Diagnostic principles
+
+- **Focal neurologic signs are NOT a surgical indication for the fracture itself** — deficits almost always reflect underlying parenchymal contusion/hematoma from the initial insult, which elevation of the bone does not fix.
+- **Dural violation cannot be reliably excluded on imaging or exam** — any depression > full skull thickness should be presumed to have a dural tear until surgically disproven.
+- **Scalp shift misleads** — the skin laceration may not sit directly over the fracture. Palpate, image, and re-examine.
+- **Inner/outer table separation** can mask a severe depression that looks mild on the surface. The classic error-source in avoidable complications is a missed depressed fracture.
+- **Mechanism matters**: motor-vehicle-accident injuries are typically more severe than assault injuries; history from eyewitnesses guides suspicion.
+
+### Timing
+
+- **Operate within ~12 h** to minimize infection risk when possible.
+- **Delays up to 48 h** have not been shown to increase infection rates — an isolated depressed fracture is urgent, not emergent, unless there is an expanding mass lesion or herniation risk.
+- **Plastic surgery colleagues** should be engaged pre-op for stellate or complex avulsion scalp injuries.
+
+### Imaging
+
+- **Non-contrast CT with dedicated bone windows** is the study of choice — x-ray misses small depressions.
+- **CT angiography or catheter angiography** whenever the fracture approaches a dural venous sinus — to document sinus lumen patency *before* bone manipulation.
+- **Post-op contrast CT at ~2 weeks** if managed non-operatively with potential dural violation — screen for early abscess.
+
 ## Preoperative Considerations
 
 - **Tetanus prophylaxis** status
@@ -78,25 +98,53 @@ Non-operative candidates: closed depressed fractures without neurologic deficit,
 
 ### Bone Management
 
-- Remove free, contaminated, and devitalized bone fragments
-- Elevate depressed segments with a periosteal elevator through an adjacent burr hole (see [[burr-holes-and-bone-flaps]])
+- Remove free, contaminated, and devitalized bone fragments.
+- **Piecemeal elevation under direct vision** via an adjacent burr hole in normal dura, starting from the periphery toward the depression — never blind-pry directly through the impacted fragment (risk: dural sinus tear, cortical laceration).
+- **Retain all removed fragments** — soak in antibiotic irrigation, plan to replace with miniplates at closure.
+- **Prefer autologous bone-fragment reconstruction** over prosthetic cranioplasty when contamination permits — lower infection risk.
 - **Bone flap replacement**:
   - **Clean contamination, viable bone, < 6 h injury** → replace after copious irrigation
-  - **Gross contamination, devitalized bone, > 6 h injury, frank infection** → discard; plan cranioplasty later
+  - **Gross contamination, devitalized bone, > 6 h injury, frank infection** → discard; plan delayed cranioplasty with a custom alloplastic implant no sooner than **4–6 months** post-injury
   - Frontal sinus involvement with through-and-through → cranialization protocol
+- **Wire mesh** is preferred over methyl methacrylate when fragments cannot be reapproximated and prosthetic reconstruction is unavoidable — lower infection risk.
+- **Avoid allograft dura** — higher infection rate than autologous pericranium.
+- **Bone fragment embedded in a patent sinus** → do NOT displace it. Leave it in situ; manage around it.
 
 ### Dural Inspection and Repair
 
-- Open dura if violation suspected
-- Irrigate copiously; debride contaminated dura
-- Primary repair if possible; otherwise **duraplasty** with pericranium or synthetic graft (see [[dural-opening-and-closure]])
-- Evacuate underlying hematoma, debride contused cortex only if necrotic
+- **Do NOT open an intact dura** when pre-op CT shows no subdural pathology and no dural laceration is apparent — a prophylactic durotomy trades an infection risk for nothing.
+- Open dura only when violation is suspected or when an intracranial hematoma must be evacuated.
+- Irrigate copiously; debride contaminated dura.
+- **Primary watertight repair** if possible; otherwise **pericranial autograft** harvested away from the laceration zone (see [[dural-opening-and-closure]]).
+- Evacuate underlying hematoma via manual irrigation and suction. **Extend bony exposure** if hematoma extends beyond the fracture edges.
+- **Gently aspirate frankly necrotic / contused cortex** until healthy brain is reached — do not pursue deeply embedded bone fragments if the cost is further cortical disruption near eloquent areas.
+- Avoid aggressive necrosectomy near functional cortex — causes more injury and bleeding than it saves.
 
 ### Frontal Sinus Involvement
 
-- **Anterior wall only**: reduce and reconstruct; preserve drainage through nasofrontal duct
-- **Posterior wall with dural tear**: cranialize sinus (remove posterior wall, strip mucosa, plug nasofrontal duct with muscle or fat, cover with pericranial flap)
-- Preserve pericranial flap vascularized on supraorbital pedicle for reconstruction
+- **Anterior wall only, non-displaced** → conservative management acceptable; reduce and reconstruct if displaced and cosmetic impact matters.
+- **Posterior wall involvement** → strong indication for exploration because of the high likelihood of dural tear and CSF fistula. Minimally displaced posterior-wall fractures can be managed expectantly **only if CSF leak is definitively excluded**.
+- **Posterior wall with dural tear / through-and-through** → cranialize sinus: remove the posterior wall, strip sinus mucosa completely, plug the nasofrontal duct with muscle or fat, cover with a vascularized pericranial flap on the supraorbital pedicle.
+- **Clinical pearls of frontal sinus fracture**: supraorbital anesthesia, CSF rhinorrhea, subconjunctival ecchymosis, visible forehead depression.
+- **CT signs of occult posterior-wall injury**: pneumocranium, intracranial hematoma immediately posterior to the sinus.
+
+### Compound Fractures Over Dural Venous Sinuses
+
+These deserve a distinct playbook — sinus injury can kill from exsanguination or air embolism:
+
+- **Pre-op CTA or catheter angiography** is mandatory.
+- **Patent sinus with small non-significant deformity, asymptomatic patient** → prefer **non-operative** management even with compound fracture. Aggressive IV antibiotics, frequent wound checks, contrast CT at ~2 weeks to rule out brain abscess.
+- **Symptomatic occluded sinus** → exploration and re-establishment of flow; see [[lacerated-dural-venous-sinus-repair]].
+- **Asymptomatic occluded sinus needing hematoma evacuation** → sinus may be ligated during clot evacuation if clinically tolerated.
+- If operating is unavoidable:
+  - **Air-embolism precautions:** TEE, precordial Doppler, end-tidal CO₂, monitor end-expired nitrogen, right-heart catheter for bubble aspiration.
+  - Head **slightly** elevated — enough to reduce bleeding, not enough to promote air entrainment.
+  - **Proximal and distal control first** — open bone distant from the fracture before approaching the injured sinus.
+  - Place a burr hole at the fracture periphery; strip bone from proximal and distal sinus aspects; save the bone strip directly over the patent sinus for last (or leave it in place).
+  - **Control bleeding** with aneurysm clips/hemostats at both ends; close small sinus lacerations with **5-0 non-absorbable suture**.
+  - **Graft options** when edges will not approximate: pericranial autograft patch, or a rotational flap of adjacent dura sewn over the defect.
+  - **Avoid Gelfoam packing inside the sinus** — causes permanent occlusion. Use transient cotton-ball tamponade proximal/distal instead.
+  - **Post-op aspirin** for sinus patency is controversial but generally recommended.
 
 ### Closure
 
