@@ -16,7 +16,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_chapter: "principles-of-cranial-surgery/dural-opening-and-closure"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Principles of dural opening and closure — curvilinear supratentorial
   flaps, sinus-based infratentorial incisions, watertight posterior fossa
@@ -40,6 +40,16 @@ provenance:
 *DOI: 10.18791/nsatlas.v2*
 
 **Source:** NSAtlas, Cohen-Gadol
+
+## Historical Note
+
+**Harvey Cushing (1909)** illustrated subtemporal decompression with dural closure at a time when **intradural surgery was considered risky** and tumor localization unreliable. Subtemporal decompression temporized intracranial hypertension until localizing signs developed. His technique reflected the era's priorities — a scalp tourniquet substituted for modern hemostasis. The modern dural-closure principles (curvilinear flaps, base retention sutures, watertight posterior-fossa closure, sealed air sinuses) are direct descendants of that early work, refined with microsurgery, pericranial grafts, and better adhesives.
+
+## Why Dural Technique Matters
+
+- Restricted operative corridors from poor flap planning waste exposure and increase retraction morbidity.
+- CSF leak is the dominant preventable complication of posterior-fossa surgery — driven by dural closure, not by any single intradural maneuver.
+- Wound breakdown, aseptic meningitis, pseudomeningocele, and infection all track back to dural/scalp closure quality.
 
 ## Two Principles of Dural Opening
 
@@ -104,6 +114,24 @@ A watertight closure must be done **judiciously** — unnecessary watertight clo
 - Few stitches to approximate dural edges
 - **Gelfoam** over epidural space — scaffolding for scar formation
 - Running sutures for watertight when required
+
+## Running vs Interrupted — Practical Notes
+
+- **Running sutures** best for watertight closure; fewer knots, faster, more uniform seal.
+- **Interrupted** stitches for the initial edge-approximation pass or where dural retraction left irregular edges.
+- **Valsalva test at 30–40 cmH₂O** confirms watertight closure before moving to bone and soft-tissue work — correct leaks while the field is clean.
+- **Dural tension that pulls against the sutures** → harvest pericranium or onlay muscle rather than force primary closure. Over-tensioned dural sutures cut through the edge and create a larger defect.
+
+## Why Supratentorial Closure Can Tolerate Gaps
+
+Cohen-Gadol does NOT close supratentorial dura watertight (except when air sinuses are violated). Rationale:
+
+- Postoperative supratentorial CSF pressure is low compared with posterior fossa.
+- **Hydrocephalus is the usual driver of supratentorial CSF leak** — those patients need diversion regardless of suture technique.
+- Gelfoam over the epidural space scaffolds adequate scar formation.
+- Watertight closure costs operative time with negligible benefit.
+
+The exception is air-sinus violation (frontal, ethmoid, sphenoid, mastoid) — these are **direct conduits to contaminated cavities** and leak CSF as rhinorrhea/otorrhea. Watertight dura + air-cell obliteration + vascularized flap coverage is mandatory here.
 
 ## Air Sinus Management
 
