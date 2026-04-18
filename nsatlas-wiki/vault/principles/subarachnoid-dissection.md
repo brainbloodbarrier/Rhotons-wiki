@@ -18,7 +18,7 @@ sources:
   - "Contributor: Jonathan Weyhenmeyer, MD"
 source_chapter: "principles-of-cranial-surgery/subarachnoid-dissection"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Principles of subarachnoid microsurgical dissection — cisternal anatomy,
   arachnoid knife/scissors/bipolar technique, trajectory planning, proximal
@@ -165,6 +165,34 @@ Distal control occurs naturally during circumdissection — identify all efferen
 ### The endgame
 
 Trace cortical/fissure arteries down to basal cisterns and circle of Willis. **The anatomy of the circle of Willis is the decisive map for the aneurysm surgeon.**
+
+## Arachnoid Membrane Mechanics
+
+Understanding *why* the techniques work clarifies *when* to modify them:
+
+- **Thin arachnoid membranes**: can be split by **bipolar spring action** parallel to vessels (non-coagulating use of the forceps). The tines distribute force across a surface that will not injure pia.
+- **Thick arachnoid** (especially in the cerebellopontine angle, basal cisterns after SAH, or reoperations): **must be cut sharply** — forcing a spring-open through thick membranes avulses perforators and lacerates pia. Round arachnoid knife first, then microscissors.
+- **Pores and trabeculations** inside and between cisterns dictate the CSF-flow map — occlusion after aSAH explains post-SAH hydrocephalus *and* the blurred dissection planes in the first operative hours after bleed.
+- **Vector of arachnoid spring opening should parallel vessels and the fissure**, never perpendicular. Perpendicular spread transmits force into pial vessels.
+
+## Why "Tips First, Blades Second" With Microscissors
+
+The sequence matters:
+
+1. **Scissor tips** slide between the arachnoid and the vascular element, under direct vision — confirms the plane is empty.
+2. **Lower jaw lifts** the arachnoid band, elevating it off structures beneath; any hidden perforator, vein, or nerve displaces before the blades close.
+3. **Blades transect** only the now-isolated arachnoid band — blind-on-blind cuts never happen.
+
+A single fluid sequence replaces multiple instrument exchanges — the bipolar does not re-enter between steps. Efficiency + safety compound.
+
+## Rationale for the "Special Set"
+
+Cohen-Gadol's rationale for shrinking the instrument set rather than expanding it:
+
+- **Muscle memory is tool-specific** — each new instrument is a small learning curve.
+- **A mastered instrument is used to its full potential** in multiple roles (dissector, forceps, scissors, coagulator).
+- **OR staff confusion drops** when the set is small and consistent.
+- **Operative efficiency rises** with reduced instrument-exchange time and reduced cognitive load.
 
 ## Pearls and Pitfalls
 
