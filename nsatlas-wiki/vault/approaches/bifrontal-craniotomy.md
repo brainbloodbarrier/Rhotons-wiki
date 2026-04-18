@@ -19,7 +19,7 @@ source_pdf: "cranial-approaches/bifrontal-craniotomy.pdf"
 source_pages: 17
 figure_count: 14
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-18
 summary: >-
   Bifrontal craniotomy for large tumors with anterior skull base invasion
   (esthesioblastomas, chondrosarcomas). Cohen-Gadol reserves this for extradural
@@ -83,6 +83,35 @@ Cohen-Gadol does NOT believe expanded variations with bilateral orbital rim mobi
 - Anterior cranial fossa: frontal sinuses (asymmetric), olfactory bulbs adjacent to cribriform plate in a "valley" relative to orbital roofs
 - Crista Galli proximity to olfactory structures
 - Extradural dissection at crista galli/cribriform plate level leads to intradural space
+
+## Why Cohen-Gadol Prefers Unilateral for Intradural Tumors
+
+The logic is anatomic and infection-risk:
+
+1. **Olfactory groove meningiomas** — even giant ones — can be reached via an extended pterional or lateral supraorbital, with anterior-falx transection granting contralateral access without entering either frontal sinus.
+2. **Frontal-sinus entry** is the dominant CSF-leak and infection risk of bifrontal craniotomy. Avoid it whenever intradural-only access suffices.
+3. **Anterior superior sagittal sinus ligation** is required for a bifrontal intradural exposure — unilateral pterional avoids it.
+4. **Bilateral frontal lobe manipulation** doubles the olfactory/frontal deficit risk compared with unilateral approaches.
+5. **Early identification of the optic nerve and carotid** is achieved more quickly via the trans-Sylvian corridor than via the subfrontal bifrontal corridor.
+
+### When Colleagues Prefer Bifrontal for Intradural
+
+Some surgeons favor bifrontal even for intradural midline anterior cranial fossa lesions because of:
+
+- More flexible operative working angles.
+- More generous tumor exposure (useful for very large tumors with extensive bilateral extension).
+
+Cohen-Gadol's position: **reserve bifrontal for extradural invasion** of ethmoid/sphenoid sinuses that cannot be managed via a transnasal route (e.g., midline septal invasion destroying the nasoseptal flap).
+
+## Alternatives to Bifrontal With Orbital Rim Osteotomies
+
+Expanded bifrontal variants that mobilize bilateral orbital rims offer little additional tumor exposure (tumor enucleation itself opens working space) at the cost of:
+
+- **Cosmetic deformity** from bilateral orbital manipulation.
+- **Increased CSF leak** risk from additional skull base disruption.
+- Longer operative time, more bone hardware.
+
+Skip unless the tumor mandates it.
 
 ## Steps of the Operation
 
