@@ -10,8 +10,9 @@ __pycache__/
 # Large binary sources (kept outside repo per AGENTS.md)
 *.pdf
 
-# Agent state (local only)
-.omc/
+# Agent state (local only) — recursive patterns cover every vault
+**/.omc/
+**/.trash/
 .remember/
 .ruff_cache/
 .claude/worktrees/
