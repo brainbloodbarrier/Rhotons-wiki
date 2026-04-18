@@ -17,7 +17,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_chapter: "principles-of-cranial-surgery/intraoperative-hemostasis"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Principles of intraoperative hemostasis — prevention through devascularization,
   electrical/mechanical/chemical coagulation methods, management of arterial,
@@ -143,6 +143,39 @@ For cortical ooze OR inadvertent **perforator avulsion** from a parent artery:
 
 - **Bone wax** — first-line
 - **Floseal** — alternative, especially endonasal endoscopic
+
+## Why Prevention Beats Treatment
+
+Operations lose hours to perpetual bleeding-control cycles that could have been prevented with better planning. The dominant sources of preventable bleeding are:
+
+1. **Aggressive fixed retraction** → venous congestion → cortical bleeding. Dynamic retraction eliminates the cause; see [[brain-mobilization-and-protection]].
+2. **Aggressive suction on pial surfaces** → pial tears → relentless oozing.
+3. **Forced blunt dissection through thick arachnoid** → perforator avulsions that then need cotton tamponade or worse.
+4. **Inadequate pre-dural hemostasis** → epidural blood drains into the deep field throughout the case.
+5. **Missed tumor devascularization** → tumor bleeds continuously during piecemeal removal.
+
+The fix is almost always upstream of the bleed: plan the corridor, devascularize early, use natural arachnoid planes, keep retraction dynamic.
+
+## Why Cotton Tamponade Works on Perforators
+
+- **Perforator caliber** is small enough that **the patient's own platelet/clotting cascade can seal it** within minutes if the tear is not enlarged by bipolar current.
+- **Bipolar on an indispensable parent vessel** risks stenosis, thrombosis, or wall injury — all irreversible.
+- The cotton pledget provides mechanical stasis without thermal or mechanical injury to the vessel wall.
+- **Leaving the pledget in place** at case end is acceptable when hemostasis is secure and it sits in a non-critical space.
+
+## The Cortical-Coagulation Error
+
+The single most common hemostasis mistake is **indiscriminate cortical coagulation** of a bleeding point:
+
+- Surgeon panics at a visible bleed → large-arc bipolar applied broadly to cortex.
+- Result: pial injury extends, bleeding source still active, heat transmits to adjacent perforators.
+
+Correct approach:
+
+1. **Irrigate** — identifies the exact source (seconds of patience beats minutes of bipolar).
+2. **Align bipolar tips along the source axis**, not across cortex.
+3. **Tips 0.5–1 mm apart** with a small tissue bite between them — full approximation prevents current from doing the work.
+4. **Short bursts at low current** — high current chars without hemostasis.
 
 ## The Irrigation Rule
 
