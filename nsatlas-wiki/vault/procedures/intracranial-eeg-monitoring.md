@@ -13,6 +13,7 @@ aliases:
   - stereo-EEG
   - SEEG
   - invasive EEG
+  - intracranial-monitoring-study
 sources:
   - "NSAtlas - Cohen-Gadol"
 source_chapter: "epilepsy-surgery/intracranial-monitoring-study"

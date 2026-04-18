@@ -539,11 +539,7 @@
       "status": "duplicate-of"
     }
   },
-  "stubs": [
-    "epilepsy-surgery/intracranial-monitoring-study.pdf",
-    "operative-neuroanatomy/supratentorial-operative-anatomy.pdf",
-    "operative-neuroanatomy/3d-anatomy/cavernous-sinus-anatomy.pdf"
-  ],
+  "stubs": [],
   "stats": {
     "content_pages": 83,
     "approaches": 18,
