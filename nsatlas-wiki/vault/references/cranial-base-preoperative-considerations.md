@@ -19,7 +19,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_pdf: "cranial-base-surgery/preoperative-considerations-instrumentation-and-patient-positioning.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Preoperative imaging hierarchy (CTA/MRA/MRV + CT bone window), instrument
   philosophy (limited curated set, irrigating bipolars, Rhoton #6, round knife,
@@ -100,6 +100,35 @@ See [[cranial-base-operative-corridor-selection]] for the anatomic decision tree
 
 - **Aggressive intracapsular debulking** for firm tumors before capsule mobilization
 - Narrow skull base corridors + adherent tumor = piecemeal resection is mandatory. Inadequate debulking forces excessive capsule manipulation → traction injury.
+
+## The Arachnoid-as-Handle Principle (Detailed)
+
+The two-handed grammar central to Cohen-Gadol's cranial-base technique:
+
+1. **Dominant hand** holds **tumor forceps** or the **suction tip** — mobilizes the **tumor capsule** away from the brainstem and cranial nerves, applying tension across the intervening arachnoid envelope.
+2. **Non-dominant hand** holds **fine forceps** — grasps the **arachnoid encapsulating the cranial nerves** and peels it off the tumor capsule.
+3. **The nerve itself is never grasped.** The arachnoid is the "handle"; the nerve is the protected cargo.
+4. **Sharp microscissors** transect the arachnoid under direct vision once the plane is developed.
+
+This sequence protects CN V, VII, IX, X during meningioma and schwannoma capsule mobilization — the alternative (blunt spread against the nerve surface) causes ischemic and traction injury even when the nerve appears intact intraoperatively.
+
+## Adherent Fibrous Tumors and the Customized Angled Dissector
+
+Fibrous tumors (some acoustic neuromas, meningiomas) resist the standard peeling sequence:
+
+- **Aggressive intracapsular debulking with ultrasonic aspirator** first — creates working space inside the tumor.
+- **Customized angled, sharp-tipped dissector** mobilizes residual capsule off the brainstem in the deep narrow corridor.
+- **Piecemeal resection** is mandatory in skull base narrow corridors — inadequate debulking forces excessive capsule traction → brainstem/CN injury.
+- Persistent en-bloc attempts in adherent lesions are a failure mode — switch to piecemeal explicitly.
+
+## Why Blind Sharp Dissection Grows Tempting Late in the Case
+
+A specific pitfall warning: **sharp dissection without direct visualization is dangerous at all times, but temptation rises as the surgeon fatigues late in the operation**. Fatigue erodes patience; patience is the only thing preventing a blind snip. Countermeasures:
+
+- **Seated posture + armrests** (see [[surgeons-philosophy-and-operating-position]]) delays fatigue.
+- **Mouthswitch efficiency** keeps focus on the dissection, not on scope adjustment.
+- **Assistant calls out the plane** when the primary surgeon's attention drifts.
+- **Short scheduled pauses** (hemostasis check, irrigation, brief step-back) reset attention before the closing dissection.
 
 ## Patient Positioning
 
