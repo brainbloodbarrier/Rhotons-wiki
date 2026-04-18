@@ -100,3 +100,4 @@ iteration	commit	metric	delta	guard	status	description
 94	34770e1	4291	+4	pass	0	keep	C2 iter94 — expand menieres-disease
 95	1c4a00c	4296	+5	pass	0	keep	C2 iter95 — expand geniculate-neuralgia
 96	d1fccdb	4302	+6	pass	0	keep	C2 iter96 — expand decompressive-craniectomy
+97	5b8ef6a	4308	+6	pass	0	keep	C2 iter97 — expand lacerated-dural-venous-sinus-repair
