@@ -84,3 +84,5 @@ iteration	commit	metric	delta	guard	status	description
 56	-	4119	-	pass	-	kept	phase-E1-resume iter56 — ingest neuroradiology-imaging-modalities
 57	-	4153	-	pass	-	kept	phase-E1-resume iter57 — ingest neuroradiology-preface
 58	-	4193	-	pass	-	kept	phase-E1-resume iter58 — ingest imaging-sah-and-aneurysm
+81	0f16547	4204	+11	pass	0	keep	C2 iter81 — expand ventriculo-gallbladder-shunt
+82	-	4204	0	pass	-	discard	C2 iter82 — neuroradiology-preface: no extract headroom (source thin, page already exceeds)
