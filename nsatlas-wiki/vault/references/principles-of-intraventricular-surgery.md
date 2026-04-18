@@ -17,7 +17,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_pdf: "brain-tumors/principles-of-intraventricular-surgery.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Framework for ventricular tumor surgery — corridor selection around depth and
   long-axis access, venous preservation discipline (thalamostriate, internal
@@ -30,6 +30,17 @@ summary: >-
 *Source: NSAtlas, Cohen-Gadol | DOI via nsatlas.v4*
 
 Ventricular tumors are <1% of intracranial lesions and ~10% of CNS neoplasms — of which only 10% are strictly intraventricular. They are technically punishing: deep, often highly vascular, surrounded by eloquent diencephalic and brainstem structures, and usually large by the time they are found because slow growth tolerates silent expansion until hydrocephalus or compression declares itself.
+
+## Tumor Pool — Primary vs Secondary
+
+- **Primary intraventricular tumors**: colloid cyst, craniopharyngioma, astrocytoma, choroid plexus papilloma, ependymoma, epidermoid, dermoid cyst.
+- **Secondary (extending into the ventricle)**: meningioma, glioma, pituitary adenoma, arachnoid cyst.
+- **Classification axis**: intra-axial vs extra-axial components — dictates whether the tumor can be extracted along a natural ventricular corridor or requires transgression of parenchyma.
+- **Blood supply**: choroidal vessels feed most of these masses, and **the feeders are reached late in the resection** — hence the need for early isolation and a dry field strategy.
+
+## Historical Anchor
+
+**Walter Dandy** pioneered surgical access to the ventricular system — parietal transcortical manual removal of large ventricular tumors was his signature maneuver before the microsurgical era. Modern principles (long-axis corridor, dynamic retraction, venous preservation) are refinements rather than departures from Dandy's basic framework: **reach the tumor along its natural axis, control the vascular supply, leave the deep nuclei alone.**
 
 ## Clinical Presentation
 
@@ -52,13 +63,18 @@ Key imaging priorities:
 
 ### Tumor-specific imaging clues (selected)
 
-- **Colloid cyst** — T1 hyperintense, T2 hypointense with hyperintense rim; foramen of Monro; rare calcification.
-- **Craniopharyngioma** — heterogeneous cystic/solid; T1 hyperintense cystic components; calcification.
-- **Low-grade astrocytoma** — T1 hypo / T2 hyper, minimal enhancement, ~15% calcified.
-- **Ependymoma** — heterogeneous on T1/T2, cystic, ~50% calcified.
-- **Central neurocytoma** — heterogeneous with cysts, calcifications, moderate enhancement.
-- **Subependymoma** — lobulated, minimal enhancement.
-- **Choroid plexus papilloma** — isointense T1/T2, homogeneous enhancement; MRI cannot reliably distinguish papilloma from carcinoma.
+- **Colloid cyst** — T1 hyperintense homogeneous, T2 hypointense with hyperintense circumferential rim; foramen of Monro; rare calcification; isodense to mildly hyperdense on CT.
+- **Craniopharyngioma** — heterogeneous cystic/solid; T1 hyperintense cystic components; **intense enhancement of solid portion**; calcification on CT.
+- **Low-grade astrocytoma** — T1 hypo / T2 hyper, minimal enhancement, **~15% calcified**.
+- **Ependymoma** — heterogeneous on T1/T2, cystic features, intralesional necrosis + hemorrhage + hemosiderin; **~50% calcified**; homogeneous enhancement.
+- **Central neurocytoma** — heterogeneous with cysts + calcifications + core necrosis, moderate enhancement; hyperdense on CT.
+- **Subependymoma** — lobulated, T1 hypo/iso, T2 hyper, **minimal or no enhancement**; well-delineated iso- to hyperdense on CT.
+- **Choroid plexus papilloma** — isointense T1/T2, homogeneous enhancement; **MRI cannot reliably distinguish papilloma from carcinoma**.
+- **Meningioma (intraventricular)** — T1 isointense, homogeneous enhancement, hyperdense on CT.
+- **Glioblastoma** — T1 heterogeneous hypo, T2 hyper, **ring enhancement around necrotic core**; peripheral heterogeneous enhancement on CT.
+- **Anaplastic astrocytoma** — T1 hypo, T2 hyper, heterogeneous enhancement; rare calcifications.
+- **Pineocytoma** — T1 hypo, T2 hyper, **homogeneous enhancement**; well-delineated with calcifications on CT.
+- **Cavernous malformation** — mixed intensity, minimal enhancement, hemosiderin rim, no mass effect.
 
 ## Indications for Surgery
 

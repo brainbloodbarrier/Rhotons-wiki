@@ -112,3 +112,4 @@ iteration	commit	metric	delta	guard	status	description
 106	1e169b1	4357	+4	pass	0	keep	C2 iter106 — expand operating-room-setup-and-workflow
 107	5ab8efc	4359	+2	pass	0	keep	C2 iter107 — expand 3d-anatomy
 108	9dcab05	4362	+3	pass	0	keep	C2 iter108 — expand instrumentation
+109	b13ce21	4364	+2	pass	0	keep	C2 iter109 — expand principles-of-intraventricular-surgery
