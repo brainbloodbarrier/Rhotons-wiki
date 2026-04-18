@@ -17,7 +17,7 @@ sources:
 source_chapter: "csf-diversion-procedures/external-ventricular-drain"
 source_pdf: "csf-diversion-procedures/external-ventricular-drain.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Bedside / OR placement of an external ventricular drain at Kocher's point —
   landmark technique, perpendicular drill trajectory, medial-canthus/tragus
@@ -33,6 +33,22 @@ summary: >-
 **Source:** NSAtlas, Cohen-Gadol
 
 This procedure page details the operative technique. For the general-principles view (indications, waveform interpretation, postoperative management) see [[external-ventricular-drain]].
+
+## When to Place an EVD vs an Intraparenchymal Bolt
+
+- **EVD** — simultaneously diagnostic (ICP monitoring) and therapeutic (CSF drainage). Indicated whenever CSF diversion might be needed: hydrocephalus, intraventricular hemorrhage, posterior fossa mass with obstructive hydrocephalus, aneurysmal SAH with IVH.
+- **Intraparenchymal ICP monitor (bolt)** — preferred for **severe TBI with GCS < 8** where most patients maintain physiologic ICP, do not develop hydrocephalus, and will not require CSF drainage. Lower infection and hemorrhage risk than an EVD.
+- Convert from bolt to EVD only if ICP becomes medically refractory and CSF drainage is indicated.
+
+## Side Selection
+
+- **Right frontal (non-dominant) is the default** — avoids dominant-hemisphere parenchyma on every pass.
+- **Choose the left side** when:
+  - Right frontal lobe has structural injury preventing safe passage.
+  - **"Blood-casted" right frontal horn** — the IVH clot will immediately obstruct a right-sided catheter lumen; place the EVD in the contralateral (cleaner) ventricle.
+  - **Trapped left lateral ventricle** — must drain from the affected side itself.
+- Ventricular distortion from mass effect may force a non-standard trajectory; **plan from the CT** each time, don't rely on landmarks alone when anatomy is distorted.
+- **Small ventricles** from diffuse swelling or effaced ventricles are the classic stereotaxy-or-fail case — escalate early rather than multi-passing blind.
 
 ## Operative Landmarks
 
@@ -86,6 +102,23 @@ Cohen-Gadol's preferred entry is ~1 cm lateral to classic Kocher's point to furt
 - **Do not prematurely remove and reinsert**
 - Use a 10 mL syringe on the catheter hub to **gently aspirate** — aspirating clear CSF confirms position
 - If still no return, consider imaging before a second pass
+
+## Why the "Blind" Procedure Fails
+
+Key failure modes and their pre-empting technique:
+
+1. **Head rotated on the pillow** → midline assumed from the nasion is wrong, Kocher's point shifts relative to intracranial midline, trajectory aims off-target. *Fix: strict neutral head, assistant immobilizes.*
+2. **Inadequate craniostomy** (small bit, unchamfered inner table) → **silent deflection** of the flexible catheter tip as it enters brain. Operator sees a "normal" skin-level trajectory but the intraparenchymal path is off. *Fix: larger bit, retract/re-advance to chamfer inner table.*
+3. **Distorted ventricular anatomy** from mass effect → standard landmark trajectory misses the foramen. *Fix: individualize from CT; consider stereotaxy.*
+4. **Bony ledge at the inner table** → catheter deflection after ependymal entry; CT shows parenchymal or extraventricular tract. *Fix: same as #2, and any pass > 7 cm without CSF mandates withdrawal and replanning.*
+
+## Post-Placement Workflow
+
+- **Immediate CT** for any difficult pass, multiple attempts, or suspected tract hemorrhage.
+- **Zero the transducer at the tragus** (external auditory meatus) — approximates the foramen of Monro. Re-zero on any head-position change.
+- **Clear CSF column** + respiratory variation confirms functional position.
+- **Lumen clogging** after IVH: saline flush only if strictly necessary; aspirate rather than inject when possible. Flushing IVH catheters risks introducing air or forcing clot centrally.
+- **Infection surveillance**: avoid prophylactic routine CSF sampling — tap only on fever, signs of ventriculitis, or abnormal CSF drainage pattern. Daily sampling drives up contamination rates.
 
 ## Postoperative ICP Targets
 
