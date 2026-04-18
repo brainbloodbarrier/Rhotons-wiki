@@ -15,7 +15,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_chapter: "principles-of-cranial-surgery/instrumentation"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Principles of neurosurgical instrumentation — head fixation devices,
   microscope, cranial/dural opening instruments, Rhoton microdissectors,
@@ -99,6 +99,25 @@ See [[microscope-and-mouthpiece]].
 
 - **15-blade scalpel** — initial durotomy
 - **Metzenbaum scissors** — extend the durotomy
+
+## Irrigating Bipolar Forceps — The Principal Skull-Base Tool
+
+Around the brainstem and cranial nerves, bipolar forceps are the primary microdissection tool. Key selection variables:
+
+- **Tine length** must match the working depth — short tines for CPA surface work, long tines for deep skull base.
+- **Tip width** must match the dissection scale — fine tips for arachnoid on perforators; slightly broader tips for meningioma capsule.
+- **Heat-sink construction** — modern bipolars with increased heat-sink mass **reduce thermal spread** to adjacent cranial nerves and brainstem. Essential near CN VII/VIII, brainstem perforators, and optic apparatus.
+- **Minimal char** — fine-tipped, low-char designs preserve visualization and avoid carbon-deposit scatter.
+- **Slight increased opening tension** → forceps usable as a **spring-action arachnoid dissector** (open to split thin membranes).
+- **Do NOT spring-split thick arachnoid** — the force avulses perforators and pial vessels.
+- **Irrigation built into the forceps** — continuous saline flow reduces charring and cools the tissue.
+
+## Dissector Selection Principles
+
+- **A limited, well-selected set** beats a large set of rarely used instruments — the surgeon's muscle memory is tied to the set.
+- **Tip width and sharpness** match the microdissection scale.
+- **Angled dissectors** enable work around corners **only when the entire path is under direct vision**.
+- **Blind / blunt dissection around the brainstem** causes perforator injury and pial transgression — do not use an angled dissector to reach tissue you cannot see.
 
 ## Microsurgical Instruments
 
