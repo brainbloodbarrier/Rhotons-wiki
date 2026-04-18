@@ -18,7 +18,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_pdf: "cranial-nerve-compression-syndromes/hemifacial-spasm.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Hemifacial spasm (HFS) — unilateral involuntary facial muscle twitching from
   PICA/AICA/VA compression of CN VII REZ. MVD via infrafloccular retromastoid
@@ -103,17 +103,62 @@ Corridor identical to [[glossopharyngeal-neuralgia|MVD for glossopharyngeal neur
 - "Sling" technique: Teflon pledgets tethered to petrous dura to lift the VA off the REZ
 - Discussed preop with patient; lower cure rate
 
+### Intradural Dissection — Key Nuances
+
+- **Dynamic suction retraction, no fixed retractors** — intermittent exposure only where needed. Generous opening of regional arachnoid membranes is the primary mobilization technique.
+- **Rubber-dam glove cut slightly larger than the cottonoid** prevents shear injury from cottonoid surface as it glides over the cerebellar cortex.
+- **Landmark the petrous/posterior-fossa-floor junction** with the cottonoid tip — slide over the petrous turn toward the lower cranial nerves.
+- **Heat from the microscope light injures CN VIII** — irrigate periodically; cover CN VIII with **papaverine-soaked gelfoam** to prevent intraneural vasospasm.
+- **BAER-change protocol** — if Peak V latency worsens during dissection:
+  1. Stop dissection, release retraction, irrigate the field.
+  2. Wait for BAERs to recover; raise MAP if needed; further open arachnoid over CN VII/VIII; re-apply papaverine-gelfoam.
+  3. Re-approach from a more superiorly-directed / infratemporal vector; minimize any retraction *parallel* to the CN VII/VIII complex.
+- **Arachnoid split must be close to the brainstem** — otherwise mobilizing the flocculus still transmits tension to the nerves.
+- **Flocculus coagulation**: in rare situations, selective bipolar shrinkage of a small portion of flocculus overlying the CN VII REZ reduces the retraction force required for exposure.
+- **Finding the REZ**: the gray-discolored REZ of CN VII lies **anterior and slightly inferior** to the whiter REZ of CN VIII. Gentle elevation of CN VIII with a fine dissector reveals it.
+- **Offender typically hides in the axilla of CN VII** — mobilize from this angle, protect perforators arising from the offending artery.
+
+### Teflon Placement Technique
+
+- **Pad the *entire length* of the offender** — along the REZ and over the adjacent brainstem, not only at the first point of contact with the cisternal nerve segment.
+- **Shredded Teflon, placed piecemeal**, between artery and brainstem — pieces pushed superiorly and inferiorly to mobilize the vessel along its length.
+- **Avoid unshredded Teflon patches** — they dislodge postoperatively.
+- Inadequate REZ exposure is the **single most common cause of operative failure** — the vessel is often mobilized along the cisternal segment, not at the deep REZ/brainstem interface where the conflict actually matters.
+
 ### Closure
 
-- Non-watertight dural approximation
-- **"Wax in, wax out"** mastoid
-- Bone flap or methacrylate cranioplasty
+- Non-watertight primary dural approximation — Cohen-Gadol reports a very low CSF-leak rate without insisting on watertight closure.
+- **"Wax in, wax out"** — mastoid air cells thoroughly re-waxed.
+- Bone flap or methyl methacrylate cranioplasty.
+- Muscle and scalp closed in anatomic layers.
+
+## Repeat MVD for HFS
+
+Typical failure patterns found on reoperation:
+
+- **Restricted primary craniectomy** — did not extend laterally to the sigmoid sinus or inferiorly to the posterior fossa floor, preventing REZ access.
+- **Conflict only addressed along the cisternal segment**, not at the brainstem REZ — the offender is still there on re-exploration.
+- **Inadequate dynamic retraction** from surgeon inexperience — REZ never fully visualized.
+
+Implication: reoperation after a failed MVD should be offered when a convincing offender was likely missed at the REZ. Cohen-Gadol routinely finds one.
 
 ## Postoperative
 
-- ICU overnight, regular ward 1–2 days
-- **Delayed spasm resolution** — spasms may persist for weeks before remission; patient counseled
-- Monitor for facial weakness, hearing loss, CSF leak
+- ICU overnight, regular ward 1–2 days.
+- **Steroids** to reduce aseptic meningitis, postoperative nausea, and headache.
+- **Delayed spasm resolution is common** — spasms may persist for weeks before remission; counsel the patient in advance so they do not interpret residual activity as failure. Do not re-operate early.
+- **Delayed facial palsy** occasionally occurs post-MVD for HFS — typically temporary, responds to a 1-week dexamethasone taper.
+- Monitor for facial weakness, hearing loss, CSF leak.
+- Routine postoperative head CT is not required in uncomplicated cases.
+
+## Operative Anatomy — CPA through Retrosigmoid View
+
+Key relationships (Rhoton):
+
+- **CN VII sits anterior to the superior vestibular nerve** within the VII/VIII complex. The REZ of CN VII at the brainstem lies **below** the root entry zone of CN VIII.
+- **AICA and PICA loops** near the CN VII/VIII complex are the usual offenders; the **subarcuate artery** traverses the exposure and must be preserved.
+- **Labyrinthine artery** and AICA branches transecting the CN VII/VIII complex are rarely the primary offender — handle them with care to preserve hearing.
+- The infrafloccular / infralateral corridor reaches the REZ by following **CN IX proximally** to the pontomedullary junction — retracting parallel to CN IX avoids any vector parallel to CN VIII.
 
 ## Pearls and Pitfalls
 
