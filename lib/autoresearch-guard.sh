@@ -53,11 +53,13 @@ STRICT=0
 FORMAT="text"
 BASELINE=""
 USE_ALLOWLIST=1
+QUALITY=0
 ALLOWLIST_PATH="$REPO_ROOT/.config/guard-allowlist.json"
 
 while (( $# )); do
   case "$1" in
     --strict) STRICT=1; shift ;;
+    --quality) QUALITY=1; shift ;;
     --format=json) FORMAT="json"; shift ;;
     --format=tsv)  FORMAT="tsv";  shift ;;
     --baseline) BASELINE="${2:-}"; shift 2 ;;
@@ -87,6 +89,19 @@ VIOL_WIKILINKS=""
 VIOL_ORPHANS=""
 VIOL_TAXONOMY=""
 VIOL_SOFT_FIELDS=""
+VIOL_VAGUE_SOURCES=""
+VIOL_MISSING_BREADCRUMBS=""
+VIOL_MANIFEST_UNANCHORED=""
+
+# Typed semantic relations; presence of >=1 counts as a breadcrumb.
+BREADCRUMB_RE='^(parent|child|branch-of|branches|innervates|innervated-by|traverses|traversed-by|approach-to|approached-via|drains-to|drained-by):'
+
+# Vault subtrees that MUST be anchored to a source PDF in .manifest.json
+# when --quality is on. Synthesis, concept, reference, meta pages are
+# exempt (they are allowed to be derivative by design).
+MANIFEST_REQUIRED_RE='^(procedures|approaches|techniques)/'
+
+MANIFEST_PATH="$VAULT/.manifest.json"
 
 allow_query() {
   local kind="$1"
@@ -168,6 +183,67 @@ while IFS= read -r rel; do
       || VIOL_SOFT_FIELDS+="WARN MISSING_${field}: $rel"$'\n'
   done
 
+  if (( QUALITY )); then
+    # Check 1: vague sources — the sources: field exists but its value has
+    # no chapter/page/section specificity (just an author or domain name).
+    SOURCES_VALUE=$(awk '
+      /^sources:/ {
+        v=$0; sub(/^sources:[[:space:]]*/,"",v)
+        if (v ~ /^\[/) { gsub(/[\[\],"'\'']/," ",v); print v; next }
+        in_list=1; next
+      }
+      in_list {
+        if (/^[^[:space:]]/) { in_list=0; next }
+        if (/^[[:space:]]*-[[:space:]]+/) {
+          s=$0; sub(/^[[:space:]]*-[[:space:]]+/,"",s)
+          gsub(/["'\'']/,"",s); print s
+        }
+      }
+    ' <<< "$FM")
+    if [[ -n "$SOURCES_VALUE" ]]; then
+      # Vague = no digit (chapter/page/year) AND length < 40 chars per line.
+      has_specific=0
+      while IFS= read -r srcline; do
+        [[ -z "$srcline" ]] && continue
+        if [[ "$srcline" =~ [0-9] ]] || (( ${#srcline} >= 40 )); then
+          has_specific=1
+          break
+        fi
+      done <<< "$SOURCES_VALUE"
+      if (( ! has_specific )); then
+        entry="$rel"
+        is_allowlisted vague_sources "$entry" \
+          || VIOL_VAGUE_SOURCES+="WARN VAGUE_SOURCES: $entry"$'\n'
+      fi
+    fi
+
+    # Check 2: missing typed breadcrumb — non-scaffolding pages should have
+    # >=1 typed relation. Scaffolding (_meta/_canvases/_quizzes/_attachments/
+    # index/log) is exempt from this check.
+    case "$rel" in
+      _meta/*|_canvases/*|_quizzes/*|_attachments/*) ;;
+      index.md|log.md) ;;
+      *)
+        if ! grep -qE "$BREADCRUMB_RE" <<< "$FM"; then
+          is_allowlisted missing_breadcrumbs "$rel" \
+            || VIOL_MISSING_BREADCRUMBS+="WARN MISSING_BREADCRUMB: $rel"$'\n'
+        fi
+        ;;
+    esac
+
+    # Check 3: manifest anchoring — pages under procedures/approaches/
+    # techniques/ must appear as a value of .sources[*].wiki_page in the
+    # vault manifest. Missing manifest file is fatal to the check (skip).
+    if [[ "$rel" =~ $MANIFEST_REQUIRED_RE ]] && [[ -f "$MANIFEST_PATH" ]]; then
+      if ! jq -e --arg p "$rel" \
+          '[.sources[]?.wiki_page] | index($p)' "$MANIFEST_PATH" \
+          >/dev/null 2>&1; then
+        is_allowlisted manifest_unanchored "$rel" \
+          || VIOL_MANIFEST_UNANCHORED+="WARN MANIFEST_UNANCHORED: $rel"$'\n'
+      fi
+    fi
+  fi
+
   if (( HAS_TAXONOMY )); then
     TAGS=$(awk '
       /^tags:/ {
@@ -245,10 +321,16 @@ WL_ERRORS=$(count_lines "$VIOL_WIKILINKS")
 ORPHAN_WARN=$(count_lines "$VIOL_ORPHANS")
 TAXO_WARN=$(count_lines "$VIOL_TAXONOMY")
 SOFT_WARN=$(count_lines "$VIOL_SOFT_FIELDS")
+VAGUE_WARN=$(count_lines "$VIOL_VAGUE_SOURCES")
+MISSING_BC_WARN=$(count_lines "$VIOL_MISSING_BREADCRUMBS")
+UNANCHORED_WARN=$(count_lines "$VIOL_MANIFEST_UNANCHORED")
 
 HARD_ERRORS=$(( FM_ERRORS + WL_ERRORS ))
 if (( STRICT )); then
   HARD_ERRORS=$(( HARD_ERRORS + ORPHAN_WARN + TAXO_WARN ))
+  if (( QUALITY )); then
+    HARD_ERRORS=$(( HARD_ERRORS + VAGUE_WARN + MISSING_BC_WARN + UNANCHORED_WARN ))
+  fi
 fi
 
 BASELINE_FAIL=0
@@ -258,11 +340,14 @@ if [[ -n "$BASELINE" ]]; then
   (( CURRENT_SCORE < BASELINE )) && BASELINE_FAIL=1
 fi
 
-[[ -n "$VIOL_FRONTMATTER" ]] && printf '%s' "$VIOL_FRONTMATTER" >&2
-[[ -n "$VIOL_WIKILINKS" ]]   && printf '%s' "$VIOL_WIKILINKS"   >&2
-[[ -n "$VIOL_ORPHANS" ]]     && printf '%s' "$VIOL_ORPHANS"     >&2
-[[ -n "$VIOL_TAXONOMY" ]]    && printf '%s' "$VIOL_TAXONOMY"    >&2
-[[ -n "$VIOL_SOFT_FIELDS" ]] && printf '%s' "$VIOL_SOFT_FIELDS" >&2
+[[ -n "$VIOL_FRONTMATTER" ]]         && printf '%s' "$VIOL_FRONTMATTER"         >&2
+[[ -n "$VIOL_WIKILINKS" ]]           && printf '%s' "$VIOL_WIKILINKS"           >&2
+[[ -n "$VIOL_ORPHANS" ]]             && printf '%s' "$VIOL_ORPHANS"             >&2
+[[ -n "$VIOL_TAXONOMY" ]]            && printf '%s' "$VIOL_TAXONOMY"            >&2
+[[ -n "$VIOL_SOFT_FIELDS" ]]         && printf '%s' "$VIOL_SOFT_FIELDS"         >&2
+[[ -n "$VIOL_VAGUE_SOURCES" ]]       && printf '%s' "$VIOL_VAGUE_SOURCES"       >&2
+[[ -n "$VIOL_MISSING_BREADCRUMBS" ]] && printf '%s' "$VIOL_MISSING_BREADCRUMBS" >&2
+[[ -n "$VIOL_MANIFEST_UNANCHORED" ]] && printf '%s' "$VIOL_MANIFEST_UNANCHORED" >&2
 
 case "$FORMAT" in
   json)
@@ -273,20 +358,28 @@ case "$FORMAT" in
       --argjson orphans "$ORPHAN_WARN" \
       --argjson taxonomy "$TAXO_WARN" \
       --argjson soft "$SOFT_WARN" \
+      --argjson vague "$VAGUE_WARN" \
+      --argjson missing_bc "$MISSING_BC_WARN" \
+      --argjson unanchored "$UNANCHORED_WARN" \
       --argjson hard_errors "$HARD_ERRORS" \
       --argjson strict "$STRICT" \
+      --argjson quality "$QUALITY" \
       --argjson baseline_fail "$BASELINE_FAIL" \
       --arg baseline "${BASELINE:-}" \
       --arg current_score "${CURRENT_SCORE:-}" \
       '{
         wiki: $wiki,
-        strict: ($strict == 1),
+        strict:  ($strict  == 1),
+        quality: ($quality == 1),
         checks: {
-          frontmatter_errors:  $fm,
-          broken_wikilinks:    $wl,
-          orphan_pages:        $orphans,
-          taxonomy_violations: $taxonomy,
-          soft_field_warnings: $soft
+          frontmatter_errors:    $fm,
+          broken_wikilinks:      $wl,
+          orphan_pages:          $orphans,
+          taxonomy_violations:   $taxonomy,
+          soft_field_warnings:   $soft,
+          vague_sources:         $vague,
+          missing_breadcrumbs:   $missing_bc,
+          manifest_unanchored:   $unanchored
         },
         hard_errors: $hard_errors,
         baseline:      (if $baseline      == "" then null else ($baseline|tonumber)      end),
@@ -296,12 +389,16 @@ case "$FORMAT" in
       }'
     ;;
   tsv)
-    printf '%s\t%d\t%d\t%d\t%d\t%d\t%d\t%s\t%s\n' \
+    printf '%s\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%s\t%s\n' \
       "$WIKI_NAME" "$FM_ERRORS" "$WL_ERRORS" "$ORPHAN_WARN" "$TAXO_WARN" \
-      "$SOFT_WARN" "$HARD_ERRORS" "${BASELINE:-}" "${CURRENT_SCORE:-}"
+      "$SOFT_WARN" "$VAGUE_WARN" "$MISSING_BC_WARN" "$UNANCHORED_WARN" \
+      "$HARD_ERRORS" "${BASELINE:-}" "${CURRENT_SCORE:-}"
     ;;
   text)
     echo "guard: $WIKI_NAME — frontmatter=$FM_ERRORS wikilinks=$WL_ERRORS orphans=$ORPHAN_WARN taxonomy=$TAXO_WARN soft=$SOFT_WARN strict=$STRICT hard=$HARD_ERRORS" >&2
+    if (( QUALITY )); then
+      echo "guard: $WIKI_NAME — [quality] vague_sources=$VAGUE_WARN missing_breadcrumbs=$MISSING_BC_WARN manifest_unanchored=$UNANCHORED_WARN" >&2
+    fi
     (( BASELINE_FAIL )) && echo "guard: SCORE REGRESSION — current=$CURRENT_SCORE baseline=$BASELINE" >&2
     ;;
 esac
