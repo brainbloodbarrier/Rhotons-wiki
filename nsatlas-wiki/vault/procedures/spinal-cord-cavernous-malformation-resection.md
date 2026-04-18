@@ -17,7 +17,7 @@ sources:
 source_chapter: "spinal-cord-surgery/spinal-cord-cavernous-malformation"
 source_pdf: "spinal-cord-surgery/spinal-cord-cavernous-malformation.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Resection of intramedullary spinal cord cavernous malformations —
   presentation (stuttering myelopathy, acute hemorrhage), imaging
@@ -36,6 +36,17 @@ summary: >-
 
 Cavernous malformations (cavernomas, cavernous angiomas) are **angiographically occult** vascular lesions composed of thin-walled sinusoidal vessels without intervening neural tissue. Intramedullary location: 3–5% of all CNS cavernomas. Associated developmental venous anomaly (DVA) in 20–30%.
 
+- **First spinal CM resection** performed by **Schultze (1912)** — pre-imaging era.
+- **Thoracic cord** is the most common intramedullary site.
+- **Up to 20% of patients with spinal CMs also harbor intracranial lesions** — screen cranial MRI in new diagnoses, especially with family history (CCM1/CCM2/CCM3).
+- **Angiography** is useful only to rule out an AVM mimic; otherwise adds nothing.
+
+### Pathophysiology of Symptoms
+
+- Hemoglobin breakdown releases **toxic metabolites** that irritate and destroy adjacent cord tracts.
+- **Small hemorrhages produce episodic symptoms** that remit as blood products reabsorb — an oscillating pattern that **mimics transverse myelitis or multiple sclerosis**. This is a classic misdiagnosis trap: MRI with T2*/SWI differentiates.
+- Chronic myelopathy results from either lesion enlargement or accumulated microhemorrhage injury — the cumulative damage, not the initial size, drives the final deficit.
+
 ## Presentation
 
 - **Stuttering myelopathy** — stepwise worsening from recurrent microbleeds
@@ -45,8 +56,10 @@ Cavernous malformations (cavernomas, cavernous angiomas) are **angiographically 
 
 ## Hemorrhage Rates
 
-- Annual: 2–5% for spinal intramedullary cavernomas (higher than cerebral hemispheric)
-- Rebleed risk elevated in first year after hemorrhage (~15–20%)
+- Annual: 2–5% for spinal intramedullary cavernomas (higher than cerebral hemispheric); meta-analytic pooled estimate ~**2.1%/year**, with individual cohorts reporting 1–7%.
+- Rebleed risk elevated in first year after hemorrhage (~15–20%).
+- **Resection within 3 months of a symptomatic episode** correlates with better neurologic outcome — do not delay the operative decision once indications are met.
+- Transient minor symptoms in asymptomatic or near-asymptomatic lesions **do not mandate immediate surgery** unless the lesion abuts pia and the surgical risk is minimal.
 
 ## Imaging
 
@@ -96,6 +109,25 @@ Choose by anatomic proximity:
 
 Never enter the ventral midline (ASA). See [[operative-spinal-cord-anatomy]].
 
+### Trajectory Planning
+
+- **Two-point method on T1**: draw a line from the center of the CM through its closest pial surface — that's the shortest trajectory. Shortest isn't always safest: a slightly longer route that avoids eloquent tracts is preferred.
+- **Doppler ultrasonography** on the dural/cord surface localizes deeper lesions and allows a **minimal, targeted myelotomy** rather than an exploratory one.
+- **Bluish/purple pial discoloration** is the visual cue on the exposed cord surface.
+
+### Approaches by Lesion Location
+
+| Location | Approach |
+|---|---|
+| Dorsal central | Laminectomy/laminoplasty + midline raphe myelotomy |
+| Dorsolateral | Hemilaminectomy ± facetectomy + posterolateral raphe at DREZ |
+| Lateral | Hemilaminectomy + facetectomy + partial pediculectomy |
+| Crossing midline | Total laminectomy |
+| Ventral, cervical | Anterior cervical corpectomy ± arthrodesis (feasible) |
+| Ventral, thoracic/lumbar | **Posterolateral transpedicular** (Cohen-Gadol's preference) — medial facetectomy + partial pediculectomy; untether via **dentate ligament transection** with traction sutures to rotate the cord |
+
+**Anterior approaches** in the thoracic/lumbar spine require vertebrectomy + fusion and carry a real risk of injuring **sulcal branches of the anterior spinal artery** — reserved for lesions with no safer corridor.
+
 ## Resection Technique
 
 1. Open pia with 11-blade along planned corridor
@@ -105,6 +137,18 @@ Never enter the ventral midline (ASA). See [[operative-spinal-cord-anatomy]].
 5. **En-bloc removal** preferred — piecemeal risks residual lesion
 6. **Preserve the DVA** — mark it, do not coagulate
 7. Irrigate gently; achieve hemostasis with microcrystalline oxidized cellulose (Surgicel) over bed
+
+### Cohen-Gadol's Step-by-Step for Intramedullary CM
+
+1. **Pial incision linear and parallel to ascending/descending fibers**, at the point where the lesion is visible through the pia. Preserve pial arteries and midline veins when possible.
+2. **Blunt spread with forceps + fine dissector** to develop the intraparenchymal corridor toward the lesion. Dynamic handheld suction retraction — no fixed retractors on cord parenchyma.
+3. **Aspirate the associated hematoma first** — creates working space and mobilizes the nidus for circumdissection.
+4. **Coagulate and divide fine feeders** at low bipolar power, directly on the vessel leading to the capsule.
+5. **Blunt dissection of the capsule** away from gliotic margins, maintaining capsule integrity.
+6. **En bloc** when exposure allows; **piecemeal with pituitary rongeurs** when the myelotomy is necessarily small (most spinal CMs).
+7. **Thrombin-soaked cotton tamponade** for residual hemostasis — preferred over coagulation in the resection bed (cautery near cord = iatrogenic deficit).
+8. **Inspect the cavity meticulously**. CM remnants can look like gliotic margin — suspicious tissue gets drawn up with fine forceps to discriminate; residual cavernoma rebleeds.
+9. **DVAs are left intact. Gliotic margins are left intact.** Sacrificing either produces venous infarction or additional tract injury for no oncologic gain.
 
 ## Intraoperative Neuromonitoring
 
