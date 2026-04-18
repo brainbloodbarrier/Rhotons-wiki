@@ -98,3 +98,4 @@ iteration	commit	metric	delta	guard	status	description
 92	5634071	4282	+6	pass	0	keep	C2 iter92 — expand hemifacial-spasm
 93	990f120	4287	+5	pass	0	keep	C2 iter93 — expand glossopharyngeal-neuralgia
 94	34770e1	4291	+4	pass	0	keep	C2 iter94 — expand menieres-disease
+95	1c4a00c	4296	+5	pass	0	keep	C2 iter95 — expand geniculate-neuralgia
