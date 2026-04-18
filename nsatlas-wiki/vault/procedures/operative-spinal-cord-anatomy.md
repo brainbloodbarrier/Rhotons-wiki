@@ -16,7 +16,7 @@ sources:
 source_chapter: "spinal-cord-surgery/operative-spinal-cord-anatomy"
 source_pdf: "spinal-cord-surgery/operative-spinal-cord-anatomy.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Operative anatomy relevant to spinal cord surgery — dorsal / ventral /
   lateral surface landmarks, safe entry zones (dorsal root entry zone, dorsal
@@ -34,6 +34,35 @@ summary: >-
 ## Orientation
 
 The spinal cord is organized in a stereotyped longitudinal and cross-sectional pattern that the surgeon must visualize before entering it. Errors in midline identification or safe-entry-zone choice produce permanent deficits.
+
+## Gross Dimensions and Segments
+
+- **Length**: ~45 cm, shorter than the spinal canal (embryologic growth mismatch).
+- **Terminates** at the conus medullaris, **usually at L1**.
+- **Two enlargements**: **cervical** (C4–T2, upper limb motor neurons) and **lumbar** (close to L1–L3 vertebrae, lower limb motor neurons).
+- **Conus medullaris** gives rise to > 50 rootlets over a length of < 3 cm.
+- **31 pairs of spinal nerves**: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal.
+- **Root trajectories**:
+  - Upper cervical roots exit nearly horizontally.
+  - Lower cervical / upper thoracic roots descend obliquely 1–2 vertebral levels before exit.
+  - Lumbosacral roots descend vertically over many levels as the **cauda equina**.
+
+## Meninges and Spaces
+
+- **Spinal dura has 3 layers** (unlike the 2-layer intracranial dura): external/periosteal, middle, internal. The periosteal layer is **not** attached to the middle layer — creating a true **epidural space** containing veins and fat.
+- Dura extends to **S1–S2**, where the dural sac terminates.
+- **Arachnoid** loosely attached beneath; subarachnoid space contains CSF and extends to the dural sac.
+- **Posterior dorsal arachnoid septum** — a longitudinal septation dividing the dorsal subarachnoid space into left/right halves (fenestrated at cervical and conus). Surgically **useful as a dissection plane for extramedullary tumors**.
+- **Pia** firmly attached to cord; continues distally as the **filum terminale internum** (intradural) and **externum / ligamentum coccygeale** (extradural).
+
+## Denticulate Ligaments
+
+- **21 pairs of triangular pial extensions** attaching cord to dura.
+- Base on cord surface; apex inserts 2 mm dorsal and 3 mm cranial to the intervertebral foramen.
+- Run **between ventral and dorsal roots**; stronger cranially (cervical), weaker caudally.
+- Function: **limit cranial-caudal cord motion, especially caudal stress**; minimal role in anterior-posterior stabilization.
+- **Surgical utility**: traction sutures on the dentate ligaments rotate the cord safely (e.g., for ventral lesions approached posterolaterally — see [[spinal-cord-cavernous-malformation-resection]]).
+- **Filum + dentate ligaments together protect the conus from traction injury.**
 
 ## Dorsal Surface
 
@@ -89,6 +118,63 @@ Surgical entry corridors on the dorsal surface (posterior midline myelotomy vs D
 - Anterior and posterior median veins
 - Radicular veins drain to epidural plexus
 - AVMs and dural AV fistulas exploit this anatomy — see [[spinal-cord-avm-surgery]], [[spinal-av-fistula-disconnection]]
+
+### Segmental Arteries and Nomenclature
+
+The cord's arterial supply starts with **segmental extraspinal arteries** from the aorta. At each level, the segmental artery's dorsal division gives a **spinal branch** that splits into:
+
+- **Retrocorporeal** (anterior spinal canal)
+- **Prelaminar** (posterior spinal canal)
+- **Radicular artery** — to nerve roots and dura
+
+When the radicular artery feeds only roots/dura it is a **radiculomeningeal artery**. When it reinforces cord supply, naming depends on territory:
+
+- **Radiculomedullary artery** → joins the **ASA**.
+- **Radiculopial / posterior radiculomedullary artery** → joins the **PSAs** and the **surface vasocorona**.
+
+Regional sources of segmental supply:
+
+| Region | Segmental feeders |
+|---|---|
+| Cervical | Vertebral, ascending cervical, deep cervical arteries |
+| Thoracic | Posterior intercostal arteries |
+| Lumbar | Lumbar, iliolumbar, lowest lumbar arteries |
+| Sacral / coccygeal | Lateral sacral arteries |
+
+**Watershed zones** — classically upper thoracic (T4–T6) — are supplied by fewer radiculomedullary feeders and are more vulnerable to hypoperfusion. Intraoperative hypotension in this territory is a silent cord-injury mechanism.
+
+### Surface Vasocorona
+
+A circumferential anastomotic plexus of pial vessels on the cord surface, fed by both ASA branches and radiculopial arteries. It provides the terminal supply to the outer white-matter rim — protect it during pial opening.
+
+## Gray Matter Somatotopy
+
+- **Ventral horn motoneurons** organized mediolaterally:
+  - **Medial**: axial-muscle motoneurons
+  - **Lateral**: distal-limb motoneurons
+  - **Intermediate**: proximal-limb motoneurons
+- **Lateral horn** (T1–L2/L3): preganglionic **sympathetic** neurons of the intermediolateral column.
+- **Sacral autonomic**: S2–S4 lateral horn carries preganglionic **parasympathetic** outflow (pelvic splanchnic).
+- **Posterior horn layered organization**:
+  - Superficial layers receive exteroceptive (pain, temp, light touch) → **contralateral spinothalamic tracts**.
+  - Deep layers handle proprioceptive input → **ipsilateral spinocerebellar tracts**.
+  - Posterior cervical horn additionally houses the **spinal nucleus of the trigeminal nerve** (trigeminocervical continuum — relevant to referred otalgia and TN-overlap syndromes).
+
+## White Matter Tract Topography
+
+### Ascending
+
+- **Posterior column**: fine touch, vibration, proprioception. Medial **gracilis** (lower limbs), lateral **cuneatus** (upper limbs, above T6).
+- **Spinothalamic (anterolateral system)**: pain, temperature, crude touch.
+  - **Second-order decussation** occurs at the **anterior commissure 1–3 levels above** the entry level.
+  - **Sacral fibers are more lateral than cervical fibers** → **sacral sparing in central cord lesions** is explained by this lamination.
+- **Spinocerebellar** (dorsal and ventral) in the lateral funiculus.
+
+### Descending
+
+- **Lateral corticospinal tract** — decussates at the caudal medulla; controls distal-limb movement. **Sacral fibers lateral, cervical fibers medial** — why **central cervical compression affects lower limbs first** in the cord, the opposite of which limb is affected first in cord compression above cervical myelopathy. (Cord compression at cervical level first affects legs via the laterally-lying sacral fibers when the lesion is extrinsic and lateral, but cervical central cord syndrome affects upper > lower limbs because of medial-cervical laminated fibers — lamination cuts both ways and depends on lesion geometry.)
+- **Anterior corticospinal tract** — uncrossed in cord; decussates at the level of synapse in the ventral horn; controls axial/proximal musculature.
+- Accessory descending tracts: **rubrospinal, reticulospinal, vestibulospinal, tectospinal** — less clinically prominent but contribute to tone and posture.
 
 ## Functional Localization (Sparing)
 
