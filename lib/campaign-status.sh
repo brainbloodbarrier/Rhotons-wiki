@@ -17,7 +17,7 @@
 #
 # Exit: 0 on success; 64/65/66/67 propagated from resolve-wiki.sh.
 
-set -eu
+set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"

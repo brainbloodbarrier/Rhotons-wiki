@@ -24,7 +24,7 @@
 #
 # This script is safe to `source` repeatedly; it re-resolves on each call.
 
-set -eu
+set -euo pipefail
 
 # Resolve repo root: walk up from PWD until we find .config/wikis.json.
 # This works under both bash and zsh and regardless of how the script is invoked.

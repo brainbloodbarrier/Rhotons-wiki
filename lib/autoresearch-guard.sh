@@ -40,10 +40,9 @@
 #   }
 # }
 
-set -eu
-# pipefail intentionally NOT set: grep exits 1 on no matches, which is
-# expected in wikilink extraction and taxonomy scanning. Under pipefail,
-# those zero-match runs would abort the script spuriously.
+set -euo pipefail
+# pipefail is safe here: the only pipelines that could spuriously fail on
+# zero grep matches (e.g. taxonomy scan on line ~158) use explicit `|| true`.
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
@@ -156,7 +155,7 @@ if [[ -f "$TAXONOMY" ]]; then
   HAS_TAXONOMY=1
   while IFS= read -r tag; do
     [[ -n "$tag" ]] && ALLOWED_TAGS["$tag"]=1
-  done < <(grep -oE '^- `[a-z0-9][a-z0-9-]*`' "$TAXONOMY" | sed 's/^- `//; s/`$//')
+  done < <(grep -oE '^- `[a-z0-9][a-z0-9-]*`' "$TAXONOMY" 2>/dev/null | sed 's/^- `//; s/`$//' || true)
 fi
 
 declare -A INCOMING=()
