@@ -14,6 +14,7 @@ aliases:
   - gelastic seizure surgery
 sources:
   - "NSAtlas - Cohen-Gadol"
+  - "Cohen-Gadol AA. Resection of a Hypothalamic Hamartoma via the Supraorbital Craniotomy. NSAtlas epilepsy-surgery/hypothalamic-hamartoma."
 source_chapter: "epilepsy-surgery/hypothalamic-hamartoma"
 source_pdf: "epilepsy-surgery/hypothalamic-hamartoma.pdf"
 created: 2026-04-17
@@ -34,14 +35,37 @@ summary: >-
 
 ## Clinical Context
 
-Hypothalamic hamartomas (HH) are non-neoplastic, heterotopic collections of neurons and glia on the floor of the third ventricle / tuber cinereum / mammillary region. Clinical hallmarks:
+Hypothalamic hamartomas (HH) are non-neoplastic, heterotopic collections of hyperactive neurons and glia arising from the floor of the third ventricle / tuber cinereum / mammillary region. A **hamartoma** is a benign growth of an abnormal mixture of native tissue — tumor-like but without neoplastic behavior (no accelerated growth, no local invasion, no metastasis).
 
-- **Gelastic seizures** (pathognomonic mirthless laughter)
-- Secondary generalization, drop attacks
-- Precocious puberty
-- Cognitive / behavioral decline (epileptic encephalopathy)
+- **Incidence**: exceedingly rare developmental anomaly, estimated **1 in 50,000 to 1 in 1,000,000**
+- Clinical hallmarks:
+  - **Gelastic seizures** (uncontrollable mirthless laughter) — first described in the 19th century; hallmark but **not pathognomonic** (described in patients with no imaging lesion)
+  - Secondary generalization: generalized tonic-clonic, complex partial, drop attacks, atypical absences
+  - **Precocious puberty** and other endocrine abnormalities
+  - Behavioral / psychiatric / cognitive decline — at the extreme, severe developmental delay
+- Medical therapy usually fails — surgery is definitive.
 
-Medical therapy usually fails — surgery is definitive.
+## Pathology and Imaging
+
+- **MRI**: **T2 hyperintense** relative to normal brain, **non-enhancing**; best seen on thin-slice coronal/sagittal through the tuber cinereum
+- **MR spectroscopy**: consistently demonstrates **decreased neuronal density** and **increased gliosis**
+- **Scalp EEG**:
+  - Often **normal** if the semiology is confined to gelastic seizures alone
+  - Becomes abnormal (frontal / temporal multifocal activity) once secondary generalization develops
+- **Depth electrode evaluation** has confirmed the hamartoma itself is the **ictogenic source** — this is why **cortical resection alone fails**. The lesion must be addressed directly.
+
+### Sessile vs Pedunculated Subtypes
+
+| Subtype | Anatomy | Predominant phenotype |
+|---|---|---|
+| **Sessile** | Broad base, local invasion/displacement of adjacent hypothalamus | **Epilepsy** |
+| **Pedunculated** | Stalk-like process suspended from floor of 3rd ventricle | **Endocrine abnormalities** |
+
+## Indications for Surgery
+
+- **Seizures intractable to maximal medical therapy** — primary indication
+- **Precocious puberty** — intervention can regress preoperative symptoms
+- Because of the lesion's primary and secondary epileptogenicity, any patient with DRE and a known HH is a suitable candidate
 
 ## Delalande Classification
 
@@ -89,7 +113,30 @@ Medical therapy usually fails — surgery is definitive.
 - MRI-guided laser fiber placement under stereotactic guidance
 - Real-time thermography
 - Outpatient / short-stay
-- Best for Delalande I–II small lesions; emerging standard
+- Best for Delalande I–II small lesions; emerging standard (Curry 2018)
+
+### Supraorbital / Subfrontal Translamina Terminalis (Cohen-Gadol variant)
+
+An open alternative to transcallosal approaches for intraventricular / anterior-floor HH. Detailed steps:
+
+1. **Positioning** — supine, head turned **10–15°** away from midline, neck slightly extended so the frontal lobes fall away from the anterior skull base under gravity
+2. **Lumbar drain** or preoperative LP for brain relaxation — minimizes retraction
+3. **Unilateral supraorbital craniotomy** contralateral to the lateral pole of the mass for a "cross-court" direct view; avoid the frontal sinus; **the orbital rim is not removed** because the operative trajectory is superior-to-inferior once in the third ventricular chamber
+4. Dura incised in a **reverse-U pattern**, anteriorly based
+5. Under the microscope, a **rubber-glove patty** is slid underneath the basal frontal lobe to elevate it off the skull base
+6. Follow the **ipsilateral optic nerve** posteriorly to the chiasm; release the basal frontal lobe from the anterior optic apparatus; identify both A1s and the AComm complex
+7. Identify the **lamina terminalis** — thin, relatively transparent, differentiating it from the rest of the chiasm
+8. Incise the lamina carefully with an **arachnoid knife**, expanding the opening to visualize the floor of the third ventricle. Preserve perforators from AComm complex supplying the superior chiasm; **minimize coagulation**
+9. Direct the view inferiorly with **dynamic retraction** (suction as the retractor), not static retraction
+10. **Dissect** the rubbery, grayish hamartoma from the relatively normal hypothalamic walls with angled dissectors; **pituitary rongeurs** allow piecemeal evacuation
+11. **Stop at the hamartoma–hypothalamus interface** — aggressive resection is not advised; residual tissue is preferable to hypothalamic injury
+12. Closure in standard fashion. **Exenterate the frontal sinus** if entered (pericranial flap raised prophylactically at incision)
+
+### Stereotactic Radiosurgery (alternative)
+
+- Viable for surgically high-risk patients
+- Limitations: **delayed response** to treatment (months–years), **risk of radiation injury to hypothalamus and optic apparatus** — limits effective dosing
+- Reserved when resection and LITT are not feasible
 
 ## Operative Principles
 
@@ -101,6 +148,10 @@ Medical therapy usually fails — surgery is definitive.
 
 ## Postoperative Considerations
 
+- **ICU admission** with continuous vitals, BP control, hourly neuro exams
+- **Supratherapeutic AED levels** maintained perioperatively — the perioperative seizure risk is significant
+- **Postoperative MRI within 48 h** to document extent of resection/disconnection before reactive changes obscure the field
+- **Frequent electrolyte + endocrine labs** — hypothalamic-pituitary axis disturbance is expected
 - **Diabetes insipidus** surveillance (hourly urine output, serum Na) 72 h
 - **SIADH** second-week risk
 - **Hyperphagia / weight gain** — hypothalamic injury
