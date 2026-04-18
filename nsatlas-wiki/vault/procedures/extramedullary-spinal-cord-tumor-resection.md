@@ -17,7 +17,7 @@ sources:
 source_chapter: "spinal-cord-surgery/extramedullary-spinal-cord-tumor"
 source_pdf: "spinal-cord-surgery/extramedullary-spinal-cord-tumor.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Microsurgical resection of intradural extramedullary tumors (meningioma,
   schwannoma, neurofibroma) — preoperative MRI assessment, posterior midline
@@ -32,6 +32,45 @@ summary: >-
 
 **Source:** NSAtlas, Cohen-Gadol
 
+## Epidemiology
+
+- **~3% of all CNS tumors** and **~4% of all spinal tumors**.
+- Overall incidence **0.74–1.5 / 100,000 person-years** (MRI era).
+- **~85% purely intradural**; remainder have extradural extension.
+- **~2/3 are non-malignant**.
+- **Meningioma + nerve sheath tumor + ependymoma = 90% of all spinal cord tumors**.
+
+## Histology-Specific Epidemiology
+
+### Spinal meningiomas
+
+- **Bimodal age distribution** split at 50 y — dominant peak in 7th decade (mean ~63 y, ~75%), second peak in 4th decade (mean ~34 y, ~25%).
+- **Young peak** enriched for **NF2** (worse prognosis) and tends to sit at the **craniocervical junction**.
+- **Female:Male ~3.5–5:1**.
+- Spinal distribution: **thoracic 64–82%**, cervical 14–28%, lumbar 0–8%.
+- Dural attachment distribution: **lateral 30%**, anterolateral 25%, posterolateral 25%, anterior < 10%. *En plaque* forms are rare.
+- Simpson grading is **not routinely applied** to spinal meningiomas — radical dural resection is often impractical (dura constrains neural and vascular structures).
+- Presenting symptoms: **sensory changes 80–87%, weakness 40–84%, gait disturbance 68–83%, back pain ~50%**. Most patients are ambulatory at diagnosis.
+- Cushing: *"a successful operation for a spinal meningioma represents one of the more gratifying of all operative procedures."*
+
+### Nerve sheath tumors
+
+- **Schwannoma ~92% of nerve sheath tumors**; usually sporadic, occasionally NF2 or schwannomatosis.
+- **Neurofibromas ~7%** — rarely sporadic; almost always **NF1**.
+- **MPNST** rare, aggressive.
+- Age mean ~47 y; **M:F ~1.4:1**.
+- Location: **cervical 27.5–41%**, lumbosacral 30–55%, thoracic 17.5–29%.
+- **Dumbbell (intra-extradural) configuration predominates in cervical** region; purely intradural lesions more common in thoracic/lumbar.
+- Symptoms: **radicular pain ~69%, local pain ~68%**, paraesthesia/weakness/gait/bladder less frequent.
+
+### Ependymomas (extramedullary)
+
+- Extramedullary ependymomas are **almost exclusively conus/cauda/filum** — **myxopapillary ependymomas (MPE, WHO I)**, affecting patients in the **4th decade**.
+- Rare thoracic/cervical extramedullary ependymomas arise from **ectopic ependymal cells** and tend to be **WHO II–III**.
+- **Back pain ~90%** is the dominant symptom; weakness, sensory, bladder dysfunction common.
+- Indolent → **large at diagnosis (mean 3.8 vertebral levels)**.
+- **Subarachnoid dissemination** is rare but possible — image the **entire neuraxis** for tumors > 4 levels or on recurrence.
+
 ## Tumor Types (IDEM — Intradural Extramedullary)
 
 | Histology | Features |
@@ -43,14 +82,36 @@ summary: >-
 | **Dermoid / epidermoid** | Congenital; often midline; cauda |
 | **Drop metastasis** | Any level; primary CNS malignancy; multiple lesions |
 
+## Diagnosis and Imaging
+
+Typical clinical evolution: **pain → radiculopathy → progressive myelopathy**. Acute deterioration is uncommon and suggests **intratumoral hemorrhage** or **LP-precipitated** cord compression.
+
+- **Contrast-enhanced MRI is the primary study**. Meningiomas, schwannomas, and ependymomas have **overlapping signal characteristics** (T1 iso, T2 hyper, homogeneous enhancement) — imaging alone rarely nails the histology.
+- **"Dural tail"** sign suggests meningioma but is inconsistent.
+- **Enlarged neuroforamina** suggests nerve sheath tumor but not exclusively — meningiomas with extradural extension can also expand the foramen.
+- **Cystic components** favor schwannoma or ependymoma over meningioma.
+- **3D heavily T2-weighted sequences** (CISS, FIESTA) in ≥ 2 planes are important for delineating cord/tumor interface.
+- **CT angiography** for cervical dumbbell schwannomas — relationship to the vertebral artery.
+- **DSA** usually unnecessary, except for **laterally-based lower thoracic tumors** where the **artery of Adamkiewicz position** must be defined before dural opening.
+- **Spinal X-ray** is not diagnostic but pedicle thinning or foraminal expansion triggers further workup.
+- **CT** useful for calcification, bone erosion, and NF-related bony anomalies.
+
+## Indications for Surgery
+
+- **Symptomatic tumors → resection.**
+- **Asymptomatic tumors → usually observe with serial imaging**, especially in elderly and in NF2/schwannomatosis patients with multiple lesions.
+- **Asymptomatic midline cauda lesion suspicious for MPE** → consider early surgery because of CSF dissemination risk.
+- **Radiosurgery** for small residual/recurrent tumors, higher-grade meningiomas, multiple lesions, or palliation in non-surgical candidates.
+
 ## Preoperative Considerations
 
-- Whole-spine MRI with contrast — lesion level, cord displacement, dumbbell component
+- Whole-spine MRI with contrast (T1, T2, +C, CISS/FIESTA) — lesion level, cord displacement, dumbbell component
 - CT — bone detail if aggressive appearance, calcification, vertebral erosion
 - Neuro exam — deficit localization
 - Steroids if significant cord edema
 - Type and cross
 - Discuss fusion for multilevel laminectomy or extensive facetectomy
+- **Functional baseline scoring**: Nurick scale and **Klekamp-Samii** score — prognosticate postoperative recovery.
 
 ## Approach Selection
 
