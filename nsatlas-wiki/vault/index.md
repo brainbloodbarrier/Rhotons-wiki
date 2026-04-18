@@ -5,7 +5,7 @@ tags:
   - meta
   - nsatlas
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-18
 summary: >-
   Master index for the Neurosurgical Atlas Wiki (Cohen-Gadol).
 ---
@@ -14,27 +14,59 @@ summary: >-
 
 Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 
+**Total pages:** 83 content · **Score:** 4403 · **Last campaign iter:** 119 (C2)
+
+## Categories
+
 | Category | Pages | Description |
 |---|---|---|
-| [[approaches/]] | 17 | Craniotomies and surgical corridors |
-| [[procedures/]] | 4 | Bypass and revascularization procedures |
-| [[techniques/]] | 0 | Operative principles and skills |
-| [[pathology/]] | 0 | Disease-specific operative chapters |
-| [[references/]] | 4 | General-principles chapters and cross-cutting references |
-| [[csf-procedures/]] | 0 | CSF diversion and shunt procedures |
-| [[neuroradiology/]] | 0 | Imaging modalities and case-based radiology |
-| [[operative-anatomy/]] | 0 | Operative neuroanatomy |
-| [[concepts/]] | 6 | Anatomy concept / reference hub pages |
+| [[approaches/]] | 18 | Craniotomies and surgical corridors |
 | [[principles/]] | 20 | Principles of cranial surgery (Cohen-Gadol) |
-| [[professional/]] | 0 | Non-technical skills, career, education |
-| [[synthesis/]] | 0 | Cross-cutting integration pages |
+| [[procedures/]] | 21 | CSF, trauma, epilepsy, spinal, microsurgical |
+| [[references/]] | 10 | General-principles chapters and cross-cutting references |
+| [[pathology/]] | 8 | Disease-specific operative chapters |
+| [[concepts/]] | 6 | Operative neuroanatomy reference pages |
 
-### Procedures
+### Approaches
 
-- [[ec-ic-bypass]] -- STA-MCA, STA-ACA, OA-PICA, STA-PCA/SCA low-flow bypasses
-- [[interposition-graft-bypass]] -- High-flow bypass with RAG/SVG grafts
-- [[reimplantation-bypass]] -- IC-IC branch reimplantation in four anatomic triangles
-- [[in-situ-bypass]] -- IC-IC side-to-side bypass between parallel arteries
+- [[cranial-approaches-general-principles]]
+- [[pterional-craniotomy]], [[supraorbital-craniotomy]], [[bifrontal-craniotomy]]
+- [[retromastoid-craniotomy]], [[suboccipital-craniotomy]], [[occipital-craniotomy]]
+- [[midline-supracerebellar-craniotomy]], [[paramedian-supracerebellar-craniotomy]]
+- [[interhemispheric-craniotomy]], [[contralateral-interhemispheric-transfalcine-transprecuneus-approach]]
+- [[parasagittal-craniotomy]], [[parietal-craniotomy]], [[temporal-subtemporal-craniotomy]]
+- [[transtentorial-approach-to-parahippocampal-lesions]], [[telovelar-approach]]
+- [[microscope-guided-endonasal-transsphenoidal-approach]]
+- [[anterior-petrosectomy]] (cranial base)
+
+### Concepts
+
+- [[3d-anatomy]] · [[skull-anatomy]] · [[cavernous-sinus-anatomy]]
+- [[cerebrovascular-anatomy]] · [[supratentorial-operative-anatomy]] · [[infratentorial-operative-anatomy]]
+
+### Procedures (CSF / Trauma / Epilepsy / Spinal / Microsurgical)
+
+- [[endoscopic-third-ventriculostomy]] -- ETV technique, ETVSS, foramen of Monro navigation, tuber cinereum + Liliequist fenestration
+- [[external-ventricular-drain-placement]] -- Kocher's point, perpendicular trajectory, medial-canthus aiming, three-pass rule, ICP targets
+- [[ventriculo-peritoneal-shunt]] -- VP shunt technique, Kocher/Frazier entry, peritoneal access, tunneling safety, intrathecal antibiotic tap
+- [[ventriculo-atrial-shunt]] -- VA shunt via facial/IJ vein cutdown or Seldinger, T6-T7 tip target, shunt-nephritis awareness
+- [[ventriculo-pleural-shunt]] -- Salvage VPl, anti-siphon mandate, rib-top pleural entry, hydrothorax surveillance
+- [[ventriculo-gallbladder-shunt]] -- VGB salvage shunt via cholecystotomy, gallbladder-prep criteria, cholecystitis watch
+- [[csf-ventricular-shunt-reference]] -- shunt valve catalog (procedures side) with anti-siphon + MR safety
+- [[decompressive-craniectomy]] -- DC for refractory ICP/TBI and malignant MCA infarct — RESCUEicp/HAMLET, Kempe incision, ≥12 cm flap, expansile duraplasty
+- [[lacerated-dural-venous-sinus-repair]] -- intraop sinus laceration management — air embolism watch, technique ladder, ligation map
+- [[open-skull-fracture-management]] -- compound fracture OR decisions, debride/elevate, frontal sinus cranialization, bone flap keep/discard
+- [[hypothalamic-hamartoma-surgery]] -- HH Delalande classification, transcallosal/endoscopic/pterional/LITT approaches, fornix preservation
+- [[intracranial-eeg-monitoring]] -- invasive iEEG (subdural grids vs SEEG), hypothesis-driven implantation, functional mapping
+- [[peri-insular-hemispherotomy]] -- modern disconnective hemispherotomy — suprasylvian/infrasylvian corridors, full callosotomy
+- [[epilepsy-surgery-candidate-selection]] -- presurgical evaluation tiers, concordance logic, syndrome pathways, palliative options
+- [[microsurgical-mastery]] -- deliberate practice, mental rehearsal, lab training, video review, psychological discipline
+- [[operative-spinal-cord-anatomy]] -- dorsal/ventral surface landmarks, safe entry zones, ASA/PSA, IONM
+- [[extramedullary-spinal-cord-tumor-resection]] -- IDEM tumors (schwannoma, meningioma, neurofibroma) microsurgical resection
+- [[intramedullary-spinal-cord-tumor-resection]] -- IMSCT (ependymoma, astrocytoma, hemangioblastoma) midline myelotomy, IONM thresholds
+- [[spinal-av-fistula-disconnection]] -- type I sDAVF disconnection at root sleeve, ICG confirmation, Foix-Alajouanine
+- [[spinal-cord-avm-surgery]] -- type II/III/IV spinal AVMs, feeders-first dissection, ICG, metameric palliation
+- [[spinal-cord-cavernous-malformation-resection]] -- intramedullary cavernoma resection, DVA preservation, safe-entry corridor choice
 
 ### Principles
 
@@ -83,40 +115,10 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 - [[dysplastic-cerebellar-gangliocytoma]] -- Lhermitte-Duclos disease, Cowden syndrome association, striated cerebellar MRI pattern
 - [[progressive-multifocal-leukoencephalopathy]] -- JC virus reactivation in immunosuppressed patients, subcortical demyelination on MRI, biopsy considerations
 
-### Procedures (Phase E2 — CSF / Trauma / Epilepsy / Spinal / Microsurgical)
-
-- [[endoscopic-third-ventriculostomy]] -- ETV technique, ETVSS, foramen of Monro navigation, tuber cinereum + Liliequist fenestration
-- [[external-ventricular-drain-placement]] -- Kocher's point, perpendicular trajectory, medial-canthus aiming, three-pass rule, ICP targets
-- [[ventriculo-peritoneal-shunt]] -- VP shunt technique, Kocher/Frazier entry, peritoneal access, tunneling safety, intrathecal antibiotic tap
-- [[ventriculo-atrial-shunt]] -- VA shunt via facial/IJ vein cutdown or Seldinger, T6-T7 tip target, shunt-nephritis awareness
-- [[ventriculo-pleural-shunt]] -- Salvage VPl, anti-siphon mandate, rib-top pleural entry, hydrothorax surveillance
-- [[ventriculo-gallbladder-shunt]] -- VGB salvage shunt via cholecystotomy, gallbladder-prep criteria, cholecystitis watch
-- [[csf-ventricular-shunt-reference]] -- Shunt valve catalog (procedures side) — Aesculap proGAV/proSA, Codman Certas Plus, Medtronic Strata, Sophysa Polaris, anti-siphon + MR safety
-
-- [[decompressive-craniectomy]] -- DC for refractory ICP/TBI and malignant MCA infarct — RESCUEicp/HAMLET, Kempe incision, ≥12 cm flap, expansile duraplasty
-- [[lacerated-dural-venous-sinus-repair]] -- Intraop sinus laceration management — air embolism watch, technique ladder, ligation map
-- [[open-skull-fracture-management]] -- Compound fracture OR decisions, debride/elevate, frontal sinus cranialization, bone flap keep/discard
-- [[hypothalamic-hamartoma-surgery]] -- HH Delalande classification, transcallosal/endoscopic/pterional/LITT approaches, fornix preservation
-- [[intracranial-eeg-monitoring]] -- Invasive iEEG (subdural grids vs SEEG), hypothesis-driven implantation, functional mapping
-- [[peri-insular-hemispherotomy]] -- Modern disconnective hemispherotomy — suprasylvian/infrasylvian corridors, full callosotomy
-- [[epilepsy-surgery-candidate-selection]] -- Presurgical evaluation tiers, concordance logic, syndrome pathways, palliative options
-- [[microsurgical-mastery]] -- Deliberate practice, mental rehearsal, lab training, video review, psychological discipline
-- [[operative-spinal-cord-anatomy]] -- Dorsal/ventral surface landmarks, safe entry zones, ASA/PSA, IONM
-- [[extramedullary-spinal-cord-tumor-resection]] -- IDEM tumors (schwannoma, meningioma, neurofibroma) microsurgical resection
-- [[intramedullary-spinal-cord-tumor-resection]] -- IMSCT (ependymoma, astrocytoma, hemangioblastoma) midline myelotomy, IONM thresholds
-- [[spinal-av-fistula-disconnection]] -- Type I sDAVF disconnection at root sleeve, ICG confirmation, Foix-Alajouanine
-- [[spinal-cord-avm-surgery]] -- Type II/III/IV spinal AVMs, feeders-first dissection, ICG, metameric palliation
-- [[spinal-cord-cavernous-malformation-resection]] -- Intramedullary cavernoma resection, DVA preservation, safe-entry corridor choice
-
-**Total pages:** 8
-**Last updated:** 2026-04-17
-
 ## Campaigns
 
-| Campaign | Phase | Status | Iterations |
-|---|---|---|---|
-| 1 — Cranial Approaches | P1 | PENDING | 0-25 |
-| 2 — Principles of Cranial Surgery | P1 | PENDING | 26-45 |
-| 3 — Pathology Chapters | P2 | PENDING | 46-70 |
-| 4 — Spinal + CSF | P3 | PENDING | 71-85 |
-| 5 — Neuroradiology + Professional | P4-P5 | PENDING | 86-100+ |
+| Campaign | Phase | Status | Iterations | Score |
+|---|---|---|---|---|
+| 1 — Cranial Approaches + Principles + Operative Anatomy | P1-D | COMPLETE | 0-58 | 2757 |
+| 2 — Expand (principles/procedures/references depth) | C2 | COMPLETE (saturated) | 81-119 | 4403 |
+| 3 — Neuroradiology / Professional / Education | P4-P5 | PENDING | 120+ | — |
