@@ -108,3 +108,4 @@ iteration	commit	metric	delta	guard	status	description
 102	ef3c47c	4339	+4	pass	0	keep	C2 iter102 — expand intramedullary-spinal-cord-tumor-resection
 103	c466402	4342	+3	pass	0	keep	C2 iter103 — expand dural-opening-and-closure
 104	bd830c5	4351	+9	pass	0	keep	C2 iter104 — expand brain-mobilization-and-protection
+105	8c0b324	4353	+2	pass	0	keep	C2 iter105 — expand surgeons-philosophy-and-operating-position
