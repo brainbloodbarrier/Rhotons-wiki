@@ -35,7 +35,8 @@ if [[ -z "$SOURCES" || ! -d "$SOURCES" ]]; then
   exit 66
 fi
 
-BREADCRUMB_RE='^(parent|child|branch-of|branches|innervates|innervated-by|traverses|traversed-by|approach-to|approached-via|drains-to|drained-by):'
+# shellcheck disable=SC1091
+source "$SCRIPT_DIR/constants.sh"
 
 # Relation-frontmatter detection for one page. Prints 1 if >=1 typed breadcrumb
 # present, else 0.

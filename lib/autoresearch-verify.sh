@@ -60,7 +60,8 @@ if (( VERSION == 1 )); then
 fi
 
 # --- Score v2 -----------------------------------------------------------
-BREADCRUMB_RE='^(parent|child|branch-of|branches|innervates|innervated-by|traverses|traversed-by|approach-to|approached-via|drains-to|drained-by):'
+# shellcheck disable=SC1091
+source "$SCRIPT_DIR/constants.sh"
 
 BREADCRUMBS=0
 UNIQUE_LINKS=0

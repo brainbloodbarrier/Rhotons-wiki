@@ -94,7 +94,8 @@ VIOL_MISSING_BREADCRUMBS=""
 VIOL_MANIFEST_UNANCHORED=""
 
 # Typed semantic relations; presence of >=1 counts as a breadcrumb.
-BREADCRUMB_RE='^(parent|child|branch-of|branches|innervates|innervated-by|traverses|traversed-by|approach-to|approached-via|drains-to|drained-by):'
+# shellcheck disable=SC1091
+source "$SCRIPT_DIR/constants.sh"
 
 # Vault subtrees that MUST be anchored to a source PDF in .manifest.json
 # when --quality is on. Synthesis, concept, reference, meta pages are
