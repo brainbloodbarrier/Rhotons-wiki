@@ -16,7 +16,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_chapter: "principles-of-cranial-surgery/operating-room-setup-and-workflow"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   OR layout and intraoperative workflow — captain-of-the-ship leadership,
   team positioning by approach, standardization, marking, draping,
@@ -35,6 +35,52 @@ provenance:
 *DOI: 10.18791/nsatlas.v2*
 
 **Source:** NSAtlas, Cohen-Gadol
+
+## OR Culture and Etiquette
+
+> *"People may not remember exactly what you did, or what you said, but they will always remember how you made them feel."* — Carl W. Buehner
+
+The **emotional reactions of the surgeon are the most memorable takeaway from intraoperative crises** (uncontrolled aneurysm rupture, arterial injury, hemodynamic collapse). Skill at communication under stress, not technical ability alone, prevents the downstream harm that bad behavior causes to the team, the trainees, and subsequent patient care. Historical surgical culture embellished an inflexible, hierarchical "captain" archetype; modern patient-safety mandates require something more disciplined — confidence *and* composure.
+
+### Drivers of Disruptive Behavior (Ishikawa categories)
+
+- **Intrapersonal** — personality traits, psychological conditions
+- **Organizational** — production pressures, mismanagement
+- **Interpersonal** — perception of status, hierarchy
+- **Transient physiologic state** — hunger, fatigue, illness
+- **Administrative inefficiency** — working conditions, equipment failures
+- **Situational triggers** — crisis, unexpected findings, inexperienced team
+
+### Consequences of Disruptive Behavior
+
+- Focus shifts from patient to surgeon
+- **Procedural errors** rise (team-member contributions suppressed)
+- Trainees are deterred from the specialty
+- Learning environment degrades
+- Loss of respect and motivation among support staff
+
+### Management Strategies
+
+- Redirect attention to patient care
+- Debrief with colleagues outside the OR
+- Externalize vulnerable states (e.g., "I'm post-call and short-tempered today — call me on it if you see it")
+- Warn co-workers of foreseeable stressors
+- Identify shortcomings as future-development targets
+- When self-awareness fails, temporary avoidance of the trigger is better than a melt-down
+
+### Self-Awareness Profile (Cohen-Gadol)
+
+Identify your own vulnerability conditions and name them explicitly. Example:
+*"I am most vulnerable late in the day when I am not rested (post-call), preoccupied with a recent poor patient outcome, and find myself involved in a very challenging case filled with unexpected technical difficulties while an inexperienced surgical team is assisting me."*
+
+### UGLI Framework for Resident Leadership
+
+Developing OR leadership requires a multi-faceted approach built on **UGLI**:
+
+- **U — Understanding** — *"You cannot change what you do not understand."* Learn the team, the dynamics, and the challenges before trying to redirect them.
+- **G — Goals** — define shared success with explicit metrics; communicate urgency.
+- **L — Leverage** — find allies whose goals align with yours; use them to persuade skeptics and convert blockers.
+- **I — Influence** — seek commitment, not compliance. Compliance breaks under pressure; commitment holds.
 
 ## Captain of the Ship
 
