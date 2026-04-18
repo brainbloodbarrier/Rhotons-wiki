@@ -120,3 +120,4 @@ iteration	commit	metric	delta	guard	status	description
 114	02608bc	4383	+4	pass	0	keep	C2 iter114 — expand trigeminal-neuralgia-mvd
 115	ce1b57f	4387	+4	pass	0	keep	C2 iter115 — expand imaging-sah-and-aneurysm
 116	1df6df8	4389	+2	pass	0	keep	C2 iter116 — expand cranial-base-operative-corridor-selection
+117	d9988e3	4394	+5	pass	0	keep	C2 iter117 — expand neuroradiology-imaging-modalities

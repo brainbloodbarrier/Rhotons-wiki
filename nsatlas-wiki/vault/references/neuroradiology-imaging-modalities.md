@@ -14,7 +14,7 @@ sources:
   - "NSAtlas - Cohen-Gadol (Aaron Kamer, MD and contributors)"
 source_pdf: "neuroradiology/introduction-and-review-of-imaging-modalities.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Neurosurgeon's working knowledge of imaging modalities — CT as the emergency
   workhorse, MRI sequence taxonomy (T1/T2/FLAIR/SWI/DWI/MRS/MR perfusion/DTI/
@@ -102,6 +102,65 @@ Use DWI + T2 + clinical context:
 - **Toxoplasmosis, tuberculoma** (immunosuppressed)
 - **Radiation necrosis** (post-treatment, ↑ lactate on MRS, ↓ rCBV)
 - **Demyelination** — open-ring enhancement, tumefactive MS
+
+## MRI Signal by Tissue — The Base Table
+
+| Tissue | T1 | T2 |
+|---|---|---|
+| Fat | Bright | Bright or dark (fat-sat dependent) |
+| CSF | Dark | Bright |
+| White matter | Intermediate | Dark |
+| Grey matter | Dark | Intermediate |
+| Calcification / cortical bone | Very dark | Very dark |
+| Bone marrow | Dark (children), bright (adults) | Bright or dark |
+| Acute hemorrhage | Intermediate | Bright |
+| Subacute hemorrhage | Bright | Bright |
+| Air | Very dark | Very dark |
+
+**Terminology discipline**: bright = **hyperintense**, dark = **hypointense**. "Hyper/hypo" defines the signal relative to normal parenchyma; state the reference when ambiguous.
+
+## Stroke — DWI/PWI Mismatch
+
+The core stroke-imaging concept for surgical decision-making:
+
+- **DWI** shows the **infarct core** — cytotoxic edema with restricted diffusion (bright on DWI, dark on ADC).
+- **PWI (rCBV / MR perfusion)** shows the **hypoperfused territory** — everything at risk.
+- **DWI/PWI mismatch** = potentially salvageable penumbra outside the core.
+- A large mismatch justifies aggressive reperfusion (thrombectomy); matched defect (core = hypoperfused) means the damage is done.
+- **CT perfusion** achieves the same logic without MRI — faster, more widely available in emergency workflows.
+
+## High-Grade Tumor Signature
+
+The combined pattern that suggests high-grade neoplasm on multimodal MRI:
+
+- **T1 + C**: enhancement (ring or heterogeneous) from BBB breakdown.
+- **DWI**: restricted diffusion in cellular tumor (distinct from abscess internal restriction).
+- **rCBV**: **elevated** — high-grade gliomas are hyperperfused.
+- **MRS**: **↑ Cho/NAA, ↑ Cho/Cr**, variable lactate.
+- **FLAIR**: non-enhancing hyperintense halo = tumor infiltration beyond enhancement (not just edema).
+
+## Radiation Necrosis vs Tumor Progression
+
+The single highest-value use of multimodal MRI in follow-up:
+
+| Feature | Radiation necrosis | Tumor progression |
+|---|---|---|
+| **rCBV** | **Low** | **High** |
+| **MRS** | **↑ lactate, ↓ Cho / NAA / Cr** | **↑ Cho/NAA, ↑ Cho/Cr**, variable lactate |
+| **DWI** | Variable, often no restriction | Restriction possible with cellular tumor |
+| **Enhancement pattern** | "Soap bubble", diffuse | Nodular, growing |
+| **Clinical tempo** | Months post-radiation, waxing-waning | Progressive |
+
+When ambiguous, **biopsy or short-interval follow-up with multimodal imaging** beats acting on enhancement alone.
+
+## fMRI + DTI for Eloquent-Cortex Resection
+
+- **fMRI** localizes motor, language (Broca, Wernicke), and memory regions under task paradigms — pre-op roadmap for eloquent-area lesions.
+- **DTI** with tractography maps white-matter tract position:
+  - **Disrupted tracts** (no fibers through tumor volume) → infiltration.
+  - **Displaced tracts** (fibers deflected around tumor) → mass effect with preserved fibers — resect more aggressively.
+- Combined fMRI + DTI in motor-strip tumors defines the **resection corridor that spares the corticospinal tract** and the **margin to stop before eloquent cortex**.
+- Neither replaces **intraoperative cortical/subcortical mapping**, which remains the real-time confirmation.
 
 ## Catheter (DSA) Angiography
 
