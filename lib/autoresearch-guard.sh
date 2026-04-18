@@ -40,10 +40,9 @@
 #   }
 # }
 
-set -eu
-# pipefail intentionally NOT set: grep exits 1 on no matches, which is
-# expected in wikilink extraction and taxonomy scanning. Under pipefail,
-# those zero-match runs would abort the script spuriously.
+set -euo pipefail
+# pipefail is safe here: the only pipelines that could spuriously fail on
+# zero grep matches (e.g. taxonomy scan on line ~158) use explicit `|| true`.
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
@@ -94,7 +93,8 @@ VIOL_MISSING_BREADCRUMBS=""
 VIOL_MANIFEST_UNANCHORED=""
 
 # Typed semantic relations; presence of >=1 counts as a breadcrumb.
-BREADCRUMB_RE='^(parent|child|branch-of|branches|innervates|innervated-by|traverses|traversed-by|approach-to|approached-via|drains-to|drained-by):'
+# shellcheck disable=SC1091
+source "$SCRIPT_DIR/constants.sh"
 
 # Vault subtrees that MUST be anchored to a source PDF in .manifest.json
 # when --quality is on. Synthesis, concept, reference, meta pages are
@@ -155,7 +155,7 @@ if [[ -f "$TAXONOMY" ]]; then
   HAS_TAXONOMY=1
   while IFS= read -r tag; do
     [[ -n "$tag" ]] && ALLOWED_TAGS["$tag"]=1
-  done < <(grep -oE '^- `[a-z0-9][a-z0-9-]*`' "$TAXONOMY" | sed 's/^- `//; s/`$//')
+  done < <(grep -oE '^- `[a-z0-9][a-z0-9-]*`' "$TAXONOMY" 2>/dev/null | sed 's/^- `//; s/`$//' || true)
 fi
 
 declare -A INCOMING=()

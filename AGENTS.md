@@ -50,11 +50,26 @@ The wiki grows iteratively via the `/autoresearch` local terminal loop. Every it
 
 ### Score Function
 
+Two formulas are supported. **v1 is the default** for historic compatibility — every `.autoresearch/<wiki>/results.tsv` baseline was computed under v1, so switching would invalidate the delta history.
+
+**v1 (default, `lib/autoresearch-verify.sh <wiki>`):**
 ```
-score = (pages * 10) + (wikilinks * 2) + (words / 100)
+score = (pages * 10) + (lines_with_wikilinks * 2) + (words / 100)
+```
+Note: `lines_with_wikilinks` counts lines containing `[[`, so a page with 10 occurrences of `[[X]]` on 10 different lines counts 10 — repetition inflates the score.
+
+**v2 (opt-in, `lib/autoresearch-verify.sh <wiki> --v2`):**
+```
+score = (pages * 10)
+      + (typed_breadcrumbs * 5)         # frontmatter relation fields
+      + (unique_wikilink_targets * 2)   # deduped per page — no repetition inflation
+      + (specific_source_citations * 3) # sources entries with digits or ≥40 chars
+      + (words / 100)
 ```
 
 Counted across every `.md` in the vault except `index.md`, `log.md`, and files under `.obsidian/` or `.smart-env/`.
+
+**Migrating v1 → v2:** do not rewrite historic TSV rows. Start a new campaign column or a new TSV; cross-reference baselines in the campaign log. A v1 score and a v2 score are not comparable.
 
 ### Result TSVs
 
