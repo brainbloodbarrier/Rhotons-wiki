@@ -21,7 +21,7 @@ sources:
   - "NSAtlas - Cohen-Gadol"
 source_pdf: "cranial-base-surgery/selection-of-operative-corridor.pdf"
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 summary: >-
   Corridor-selection algorithm for pineal region tumors — CSF marker workup
   (AFP, β-hCG, PLAP), ETV + biopsy first, then paramedian supracerebellar
@@ -35,6 +35,25 @@ summary: >-
 *Source: NSAtlas, Cohen-Gadol*
 
 The pineal region sits at the geometric center of the brain — **splenium above, vein of Galen posterior, quadrigeminal cistern and tectum inferior, pineal recess anterior**. The deep diencephalic venous system runs right through it. Tumor types range from curable benign lesions to **germinomas for which resection is unwarranted**. Corridor selection must therefore follow a diagnostic decision tree before it becomes a surgical one. This is a skull-base adjacent chapter paired with [[cranial-base-surgery-general-principles]] and [[cranial-base-preoperative-considerations]].
+
+## Why This Region Is Uniquely Challenging
+
+Four compounding factors make pineal-region surgery distinctive:
+
+1. **Depth** — geometric center of the cranial vault; no direct cortical access.
+2. **Deep venous confluence** — vein of Galen, internal cerebral veins, basal veins of Rosenthal converge; a single venous injury here produces catastrophic infarction.
+3. **Pathology heterogeneity** — a germ cell tumor (non-surgical), a meningioma (surgical cure), and a pilocytic astrocytoma (surgical, often curable) can look nearly identical on MRI.
+4. **Aqueductal compression** — most symptoms stem from hydrocephalus, not mass effect itself, which means CSF diversion dominates early management and can confound localization of neurologic deficits.
+
+## Pathology Spectrum
+
+- **Germ cell tumors** — germinoma (radiosensitive, non-surgical), nongerminomatous (chemoradiation + second-look)
+- **Pineal parenchymal tumors** — pineocytoma, intermediate, pineoblastoma
+- **Glial tumors** — pilocytic astrocytoma (often curable), higher-grade glioma
+- **Meningiomas, lipomas, epidermoids, dermoids, pineal cysts**
+- **Vascular lesions** — rare
+
+Imaging cannot reliably discriminate among these — hence the **mandatory marker + tissue workflow** before open resection.
 
 ## Presentation
 
@@ -141,6 +160,14 @@ Six corridors reach the pineal region; three are routine, three are situational.
 | Dorsal/rostral to deep veins (tectal/post. thalamic) | Posterior interhemispheric transcallosal |
 | Extension into superior 4V | Combined supracerebellar + telovelar |
 | Large, laterally projected | Transcortical-transventricular (rare) |
+
+## Posteriorly-Displaced Veins — The Hidden Hazard
+
+A subset of pineal lesions — notably **hemorrhagic pilocytic astrocytomas** — paradoxically displace the deep diencephalic veins **posteriorly** rather than the expected anterior/superior direction.
+
+- **If unrecognized preoperatively, the veins lie directly in the operator's corridor** during exposure and dissection — catastrophic venous injury follows.
+- **Always look for this pattern on MRV**; it changes the corridor entirely.
+- **Typical safe corridor fails** when veins are posterior-displaced — posterior interhemispheric transcallosal or occipital transtentorial becomes the safer route.
 
 ## Preoperative Venous Mapping Determines Everything
 
