@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "generated_at": "2026-04-17",
+  "version": "1.1",
+  "generated_at": "2026-04-19T01:39:54Z",
   "bridges": [
     {
       "wiki_a": "rhoton",
@@ -254,5 +254,1825 @@
       "rationale": "Pterional craniotomy (nsatlas) is the primary approach for MCA bifurcation aneurysms (ncx).",
       "created_at": "2026-04-17"
     }
-  ]
+  ],
+  "pages_index": {
+    "anterior-interhemispheric-approach": [
+      {
+        "wiki": "ncx",
+        "path": "procedures/anterior-interhemispheric-approach.md"
+      }
+    ],
+    "reimplantation-bypass": [
+      {
+        "wiki": "ncx",
+        "path": "procedures/reimplantation-bypass.md"
+      }
+    ],
+    "far-lateral-approach": [
+      {
+        "wiki": "ncx",
+        "path": "procedures/far-lateral-approach.md"
+      },
+      {
+        "wiki": "rhoton",
+        "path": "references/far-lateral-approach.md"
+      }
+    ],
+    "pterional-approach": [
+      {
+        "wiki": "ncx",
+        "path": "procedures/pterional-approach.md"
+      },
+      {
+        "wiki": "rhoton",
+        "path": "references/pterional-approach.md"
+      }
+    ],
+    "interposition-graft-bypass": [
+      {
+        "wiki": "ncx",
+        "path": "procedures/interposition-graft-bypass.md"
+      }
+    ],
+    "in-situ-bypass": [
+      {
+        "wiki": "ncx",
+        "path": "procedures/in-situ-bypass.md"
+      }
+    ],
+    "orbitozygomatic-approach": [
+      {
+        "wiki": "ncx",
+        "path": "procedures/orbitozygomatic-approach.md"
+      },
+      {
+        "wiki": "rhoton",
+        "path": "references/orbitozygomatic-approach.md"
+      }
+    ],
+    "ec-ic-bypass": [
+      {
+        "wiki": "ncx",
+        "path": "procedures/ec-ic-bypass.md"
+      }
+    ],
+    "brain-death": [
+      {
+        "wiki": "ncx",
+        "path": "critical-care/brain-death.md"
+      }
+    ],
+    "coma-assessment": [
+      {
+        "wiki": "ncx",
+        "path": "critical-care/coma-assessment.md"
+      }
+    ],
+    "atlas-fractures": [
+      {
+        "wiki": "ncx",
+        "path": "coluna/atlas-fractures.md"
+      }
+    ],
+    "rhoton-bridge": [
+      {
+        "wiki": "ncx",
+        "path": "_meta/rhoton-bridge.md"
+      }
+    ],
+    "taxonomy": [
+      {
+        "wiki": "ncx",
+        "path": "_meta/taxonomy.md"
+      },
+      {
+        "wiki": "nsatlas",
+        "path": "_meta/taxonomy.md"
+      },
+      {
+        "wiki": "rhoton",
+        "path": "_meta/taxonomy.md"
+      }
+    ],
+    "source-index": [
+      {
+        "wiki": "ncx",
+        "path": "_meta/source-index.md"
+      }
+    ],
+    "cerebrovascular-avms-overview": [
+      {
+        "wiki": "ncx",
+        "path": "synthesis/cerebrovascular-avms-overview.md"
+      }
+    ],
+    "cerebrovascular-aneurysms-overview": [
+      {
+        "wiki": "ncx",
+        "path": "synthesis/cerebrovascular-aneurysms-overview.md"
+      }
+    ],
+    "cerebral-revascularization-overview": [
+      {
+        "wiki": "ncx",
+        "path": "synthesis/cerebral-revascularization-overview.md"
+      }
+    ],
+    "neurocritical-care-overview": [
+      {
+        "wiki": "ncx",
+        "path": "synthesis/neurocritical-care-overview.md"
+      }
+    ],
+    "anticoagulation-neurosurgery": [
+      {
+        "wiki": "ncx",
+        "path": "pharmacology/anticoagulation-neurosurgery.md"
+      }
+    ],
+    "pituitary-adenoma": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/pituitary-adenoma.md"
+      }
+    ],
+    "brainstem-avm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/brainstem-avm.md"
+      }
+    ],
+    "glioblastoma": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/glioblastoma.md"
+      }
+    ],
+    "frontal-avm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/frontal-avm.md"
+      }
+    ],
+    "vestibular-schwannoma": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/vestibular-schwannoma.md"
+      }
+    ],
+    "acoa-aneurysm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/acoa-aneurysm.md"
+      }
+    ],
+    "temporal-avm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/temporal-avm.md"
+      }
+    ],
+    "deep-avm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/deep-avm.md"
+      }
+    ],
+    "cavernous-malformation": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/cavernous-malformation.md"
+      }
+    ],
+    "cerebellar-avm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/cerebellar-avm.md"
+      }
+    ],
+    "normal-pressure-hydrocephalus": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/normal-pressure-hydrocephalus.md"
+      }
+    ],
+    "parieto-occipital-avm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/parieto-occipital-avm.md"
+      }
+    ],
+    "ventricular-avm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/ventricular-avm.md"
+      }
+    ],
+    "ophthalmic-artery-aneurysm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/ophthalmic-artery-aneurysm.md"
+      }
+    ],
+    "trigeminal-neuralgia": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/trigeminal-neuralgia.md"
+      }
+    ],
+    "mca-aneurysm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/mca-aneurysm.md"
+      }
+    ],
+    "pericallosal-artery-aneurysm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/pericallosal-artery-aneurysm.md"
+      }
+    ],
+    "pica-aneurysm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/pica-aneurysm.md"
+      }
+    ],
+    "herniation-syndromes": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/herniation-syndromes.md"
+      },
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/herniation-syndromes.md"
+      }
+    ],
+    "chiari-malformation": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/chiari-malformation.md"
+      }
+    ],
+    "basilar-bifurcation-aneurysm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/basilar-bifurcation-aneurysm.md"
+      }
+    ],
+    "pcoa-aneurysm": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/pcoa-aneurysm.md"
+      }
+    ],
+    "meningioma": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/meningioma.md"
+      }
+    ],
+    "hydrocephalus": [
+      {
+        "wiki": "ncx",
+        "path": "pathology/hydrocephalus.md"
+      }
+    ],
+    "spetzler-martin-grading": [
+      {
+        "wiki": "ncx",
+        "path": "classifications/spetzler-martin-grading.md"
+      }
+    ],
+    "glasgow-coma-scale": [
+      {
+        "wiki": "ncx",
+        "path": "classifications/glasgow-coma-scale.md"
+      }
+    ],
+    "who-cns-tumor-classification": [
+      {
+        "wiki": "ncx",
+        "path": "classifications/who-cns-tumor-classification.md"
+      }
+    ],
+    "aneurysm-clipping-techniques": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/aneurysm-clipping-techniques.md"
+      }
+    ],
+    "intraoperative-rupture": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/intraoperative-rupture.md"
+      }
+    ],
+    "avm-resection-principles": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/avm-resection-principles.md"
+      }
+    ],
+    "subarachnoid-dissection": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/subarachnoid-dissection.md"
+      },
+      {
+        "wiki": "nsatlas",
+        "path": "principles/subarachnoid-dissection.md"
+      }
+    ],
+    "avm-draining-veins": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/avm-draining-veins.md"
+      }
+    ],
+    "sylvian-fissure": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/sylvian-fissure.md"
+      },
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/sylvian-fissure.md"
+      }
+    ],
+    "intracranial-pressure": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/intracranial-pressure.md"
+      }
+    ],
+    "avm-feeding-arteries": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/avm-feeding-arteries.md"
+      }
+    ],
+    "temporary-clipping": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/temporary-clipping.md"
+      }
+    ],
+    "microsurgical-anastomosis": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/microsurgical-anastomosis.md"
+      }
+    ],
+    "cortical-surface-anatomy": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/cortical-surface-anatomy.md"
+      }
+    ],
+    "bypass-arteriotomy": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/bypass-arteriotomy.md"
+      }
+    ],
+    "basal-cisterns": [
+      {
+        "wiki": "ncx",
+        "path": "concepts/basal-cisterns.md"
+      },
+      {
+        "wiki": "rhoton",
+        "path": "concepts/basal-cisterns.md"
+      }
+    ],
+    "deep-brain-stimulation": [
+      {
+        "wiki": "ncx",
+        "path": "neurocirurgia-funcional/deep-brain-stimulation.md"
+      }
+    ],
+    "cerebellopontine-angle": [
+      {
+        "wiki": "ncx",
+        "path": "skull-base/cerebellopontine-angle.md"
+      }
+    ],
+    "superficial-temporal-artery": [
+      {
+        "wiki": "ncx",
+        "path": "entities/superficial-temporal-artery.md"
+      },
+      {
+        "wiki": "rhoton",
+        "path": "entities/superficial-temporal-artery.md"
+      }
+    ],
+    "epilepsy-surgery-candidate-selection": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/epilepsy-surgery-candidate-selection.md"
+      }
+    ],
+    "spinal-cord-cavernous-malformation-resection": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/spinal-cord-cavernous-malformation-resection.md"
+      }
+    ],
+    "endoscopic-third-ventriculostomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/endoscopic-third-ventriculostomy.md"
+      }
+    ],
+    "lacerated-dural-venous-sinus-repair": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/lacerated-dural-venous-sinus-repair.md"
+      }
+    ],
+    "decompressive-craniectomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/decompressive-craniectomy.md"
+      }
+    ],
+    "operative-spinal-cord-anatomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/operative-spinal-cord-anatomy.md"
+      }
+    ],
+    "intramedullary-spinal-cord-tumor-resection": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/intramedullary-spinal-cord-tumor-resection.md"
+      }
+    ],
+    "ventriculo-gallbladder-shunt": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/ventriculo-gallbladder-shunt.md"
+      }
+    ],
+    "extramedullary-spinal-cord-tumor-resection": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/extramedullary-spinal-cord-tumor-resection.md"
+      }
+    ],
+    "spinal-cord-avm-surgery": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/spinal-cord-avm-surgery.md"
+      }
+    ],
+    "hypothalamic-hamartoma-surgery": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/hypothalamic-hamartoma-surgery.md"
+      }
+    ],
+    "open-skull-fracture-management": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/open-skull-fracture-management.md"
+      }
+    ],
+    "ventriculo-pleural-shunt": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/ventriculo-pleural-shunt.md"
+      }
+    ],
+    "ventriculo-atrial-shunt": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/ventriculo-atrial-shunt.md"
+      }
+    ],
+    "external-ventricular-drain-placement": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/external-ventricular-drain-placement.md"
+      }
+    ],
+    "spinal-av-fistula-disconnection": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/spinal-av-fistula-disconnection.md"
+      }
+    ],
+    "ventriculo-peritoneal-shunt": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/ventriculo-peritoneal-shunt.md"
+      }
+    ],
+    "peri-insular-hemispherotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/peri-insular-hemispherotomy.md"
+      }
+    ],
+    "csf-ventricular-shunt-reference": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/csf-ventricular-shunt-reference.md"
+      }
+    ],
+    "microsurgical-mastery": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/microsurgical-mastery.md"
+      }
+    ],
+    "intracranial-eeg-monitoring": [
+      {
+        "wiki": "nsatlas",
+        "path": "procedures/intracranial-eeg-monitoring.md"
+      }
+    ],
+    "microscope-guided-endonasal-transsphenoidal-approach": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/microscope-guided-endonasal-transsphenoidal-approach.md"
+      }
+    ],
+    "interhemispheric-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/interhemispheric-craniotomy.md"
+      }
+    ],
+    "parietal-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/parietal-craniotomy.md"
+      }
+    ],
+    "suboccipital-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/suboccipital-craniotomy.md"
+      }
+    ],
+    "paramedian-supracerebellar-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/paramedian-supracerebellar-craniotomy.md"
+      }
+    ],
+    "cranial-approaches-general-principles": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/cranial-approaches-general-principles.md"
+      }
+    ],
+    "parasagittal-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/parasagittal-craniotomy.md"
+      }
+    ],
+    "supraorbital-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/supraorbital-craniotomy.md"
+      }
+    ],
+    "contralateral-interhemispheric-transfalcine-transprecuneus-approach": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/contralateral-interhemispheric-transfalcine-transprecuneus-approach.md"
+      }
+    ],
+    "occipital-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/occipital-craniotomy.md"
+      }
+    ],
+    "retromastoid-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/retromastoid-craniotomy.md"
+      }
+    ],
+    "bifrontal-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/bifrontal-craniotomy.md"
+      }
+    ],
+    "telovelar-approach": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/telovelar-approach.md"
+      },
+      {
+        "wiki": "rhoton",
+        "path": "references/telovelar-approach.md"
+      }
+    ],
+    "anterior-petrosectomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/anterior-petrosectomy.md"
+      },
+      {
+        "wiki": "rhoton",
+        "path": "references/anterior-petrosectomy.md"
+      }
+    ],
+    "transtentorial-approach-to-parahippocampal-lesions": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/transtentorial-approach-to-parahippocampal-lesions.md"
+      }
+    ],
+    "midline-supracerebellar-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/midline-supracerebellar-craniotomy.md"
+      }
+    ],
+    "temporal-subtemporal-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/temporal-subtemporal-craniotomy.md"
+      }
+    ],
+    "pterional-craniotomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "approaches/pterional-craniotomy.md"
+      }
+    ],
+    "neuroradiology-preface": [
+      {
+        "wiki": "nsatlas",
+        "path": "references/neuroradiology-preface.md"
+      }
+    ],
+    "cerebrovascular-microscope-technique": [
+      {
+        "wiki": "nsatlas",
+        "path": "references/cerebrovascular-microscope-technique.md"
+      }
+    ],
+    "cranial-base-operative-corridor-selection": [
+      {
+        "wiki": "nsatlas",
+        "path": "references/cranial-base-operative-corridor-selection.md"
+      }
+    ],
+    "brain-tumors-general-principles": [
+      {
+        "wiki": "nsatlas",
+        "path": "references/brain-tumors-general-principles.md"
+      }
+    ],
+    "cranial-base-surgery-lessons-learned": [
+      {
+        "wiki": "nsatlas",
+        "path": "references/cranial-base-surgery-lessons-learned.md"
+      }
+    ],
+    "neuroradiology-imaging-modalities": [
+      {
+        "wiki": "nsatlas",
+        "path": "references/neuroradiology-imaging-modalities.md"
+      }
+    ],
+    "principles-of-intraventricular-surgery": [
+      {
+        "wiki": "nsatlas",
+        "path": "references/principles-of-intraventricular-surgery.md"
+      }
+    ],
+    "imaging-sah-and-aneurysm": [
+      {
+        "wiki": "nsatlas",
+        "path": "references/imaging-sah-and-aneurysm.md"
+      }
+    ],
+    "cranial-base-surgery-general-principles": [
+      {
+        "wiki": "nsatlas",
+        "path": "references/cranial-base-surgery-general-principles.md"
+      }
+    ],
+    "cranial-base-preoperative-considerations": [
+      {
+        "wiki": "nsatlas",
+        "path": "references/cranial-base-preoperative-considerations.md"
+      }
+    ],
+    "menieres-disease": [
+      {
+        "wiki": "nsatlas",
+        "path": "pathology/menieres-disease.md"
+      }
+    ],
+    "trigeminal-neuralgia-mvd": [
+      {
+        "wiki": "nsatlas",
+        "path": "pathology/trigeminal-neuralgia-mvd.md"
+      }
+    ],
+    "hemifacial-spasm": [
+      {
+        "wiki": "nsatlas",
+        "path": "pathology/hemifacial-spasm.md"
+      }
+    ],
+    "dysplastic-cerebellar-gangliocytoma": [
+      {
+        "wiki": "nsatlas",
+        "path": "pathology/dysplastic-cerebellar-gangliocytoma.md"
+      }
+    ],
+    "geniculate-neuralgia": [
+      {
+        "wiki": "nsatlas",
+        "path": "pathology/geniculate-neuralgia.md"
+      }
+    ],
+    "medial-sphenoid-wing-meningioma": [
+      {
+        "wiki": "nsatlas",
+        "path": "pathology/medial-sphenoid-wing-meningioma.md"
+      }
+    ],
+    "progressive-multifocal-leukoencephalopathy": [
+      {
+        "wiki": "nsatlas",
+        "path": "pathology/progressive-multifocal-leukoencephalopathy.md"
+      }
+    ],
+    "glossopharyngeal-neuralgia": [
+      {
+        "wiki": "nsatlas",
+        "path": "pathology/glossopharyngeal-neuralgia.md"
+      }
+    ],
+    "supratentorial-operative-anatomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "concepts/supratentorial-operative-anatomy.md"
+      }
+    ],
+    "skull-anatomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "concepts/skull-anatomy.md"
+      }
+    ],
+    "3d-anatomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "concepts/3d-anatomy.md"
+      }
+    ],
+    "infratentorial-operative-anatomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "concepts/infratentorial-operative-anatomy.md"
+      }
+    ],
+    "cavernous-sinus-anatomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "concepts/cavernous-sinus-anatomy.md"
+      }
+    ],
+    "cerebrovascular-anatomy": [
+      {
+        "wiki": "nsatlas",
+        "path": "concepts/cerebrovascular-anatomy.md"
+      }
+    ],
+    "use-and-misuse-of-instruments": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/use-and-misuse-of-instruments.md"
+      }
+    ],
+    "microscope-and-mouthpiece": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/microscope-and-mouthpiece.md"
+      }
+    ],
+    "surgeons-philosophy-and-operating-position": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/surgeons-philosophy-and-operating-position.md"
+      }
+    ],
+    "preoperative-evaluation": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/preoperative-evaluation.md"
+      }
+    ],
+    "intraoperative-hemostasis": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/intraoperative-hemostasis.md"
+      }
+    ],
+    "patient-positioning": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/patient-positioning.md"
+      }
+    ],
+    "burr-holes-and-bone-flaps": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/burr-holes-and-bone-flaps.md"
+      }
+    ],
+    "postoperative-care": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/postoperative-care.md"
+      }
+    ],
+    "ventricular-shunt-reference": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/ventricular-shunt-reference.md"
+      }
+    ],
+    "dural-opening-and-closure": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/dural-opening-and-closure.md"
+      }
+    ],
+    "suturing-and-closure": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/suturing-and-closure.md"
+      }
+    ],
+    "operating-room-setup-and-workflow": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/operating-room-setup-and-workflow.md"
+      }
+    ],
+    "scalp-incisions": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/scalp-incisions.md"
+      }
+    ],
+    "techniques-of-sylvian-fissure-split": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/techniques-of-sylvian-fissure-split.md"
+      }
+    ],
+    "skull-clamp-placement": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/skull-clamp-placement.md"
+      }
+    ],
+    "external-ventricular-drain": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/external-ventricular-drain.md"
+      }
+    ],
+    "instrumentation": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/instrumentation.md"
+      }
+    ],
+    "brain-mobilization-and-protection": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/brain-mobilization-and-protection.md"
+      }
+    ],
+    "lumbar-drain": [
+      {
+        "wiki": "nsatlas",
+        "path": "principles/lumbar-drain.md"
+      }
+    ],
+    "viva-approaches": [
+      {
+        "wiki": "rhoton",
+        "path": "_quizzes/viva-approaches.md"
+      }
+    ],
+    "viva-neurovascular": [
+      {
+        "wiki": "rhoton",
+        "path": "_quizzes/viva-neurovascular.md"
+      }
+    ],
+    "flashcards-all": [
+      {
+        "wiki": "rhoton",
+        "path": "_quizzes/flashcards-all.md"
+      }
+    ],
+    "middle-fossa-approach": [
+      {
+        "wiki": "rhoton",
+        "path": "references/middle-fossa-approach.md"
+      }
+    ],
+    "supracerebellar-infratentorial-approach": [
+      {
+        "wiki": "rhoton",
+        "path": "references/supracerebellar-infratentorial-approach.md"
+      }
+    ],
+    "retrosigmoid-approach": [
+      {
+        "wiki": "rhoton",
+        "path": "references/retrosigmoid-approach.md"
+      }
+    ],
+    "transsphenoidal-approach": [
+      {
+        "wiki": "rhoton",
+        "path": "references/transsphenoidal-approach.md"
+      }
+    ],
+    "combined-petrosal-approach": [
+      {
+        "wiki": "rhoton",
+        "path": "references/combined-petrosal-approach.md"
+      }
+    ],
+    "interhemispheric-approach": [
+      {
+        "wiki": "rhoton",
+        "path": "references/interhemispheric-approach.md"
+      }
+    ],
+    "posterior-petrosectomy": [
+      {
+        "wiki": "rhoton",
+        "path": "references/posterior-petrosectomy.md"
+      }
+    ],
+    "subtemporal-approach": [
+      {
+        "wiki": "rhoton",
+        "path": "references/subtemporal-approach.md"
+      }
+    ],
+    "endoscopic-endonasal-approach": [
+      {
+        "wiki": "rhoton",
+        "path": "references/endoscopic-endonasal-approach.md"
+      }
+    ],
+    "sync-config": [
+      {
+        "wiki": "rhoton",
+        "path": "_meta/sync-config.md"
+      }
+    ],
+    "plugin-roles": [
+      {
+        "wiki": "rhoton",
+        "path": "_meta/plugin-roles.md"
+      }
+    ],
+    "transtemporal-approaches": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/transtemporal-approaches.md"
+      }
+    ],
+    "posterior-circulation": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/posterior-circulation.md"
+      }
+    ],
+    "perforating-arteries": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/perforating-arteries.md"
+      }
+    ],
+    "deep-venous-system": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/deep-venous-system.md"
+      }
+    ],
+    "cistern-approach-map": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/cistern-approach-map.md"
+      }
+    ],
+    "surgical-approaches-overview": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/surgical-approaches-overview.md"
+      }
+    ],
+    "cranial-nerves-overview": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/cranial-nerves-overview.md"
+      }
+    ],
+    "microsurgical-anatomy-principles": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/microsurgical-anatomy-principles.md"
+      }
+    ],
+    "aneurysm-surgery": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/aneurysm-surgery.md"
+      }
+    ],
+    "neurovascular-compression-syndromes": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/neurovascular-compression-syndromes.md"
+      }
+    ],
+    "skull-base-foramina": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/skull-base-foramina.md"
+      }
+    ],
+    "anterior-circulation": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/anterior-circulation.md"
+      }
+    ],
+    "cerebral-lobes": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/cerebral-lobes.md"
+      }
+    ],
+    "cavernous-sinus-triangles": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/cavernous-sinus-triangles.md"
+      }
+    ],
+    "circle-of-willis": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/circle-of-willis.md"
+      }
+    ],
+    "operative-techniques": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/operative-techniques.md"
+      }
+    ],
+    "craniocervical-junction": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/craniocervical-junction.md"
+      }
+    ],
+    "cavernous-sinus-contents": [
+      {
+        "wiki": "rhoton",
+        "path": "synthesis/cavernous-sinus-contents.md"
+      }
+    ],
+    "meckels-cave": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/meckels-cave.md"
+      }
+    ],
+    "sellar-region": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/sellar-region.md"
+      }
+    ],
+    "optic-canal": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/optic-canal.md"
+      }
+    ],
+    "cranial-base": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/cranial-base.md"
+      }
+    ],
+    "ambient-cistern": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/ambient-cistern.md"
+      }
+    ],
+    "thalamus": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/thalamus.md"
+      }
+    ],
+    "paraclinoid-ica": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/paraclinoid-ica.md"
+      }
+    ],
+    "quadrigeminal-cistern": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/quadrigeminal-cistern.md"
+      }
+    ],
+    "pineal-region": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/pineal-region.md"
+      }
+    ],
+    "falx-cerebri": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/falx-cerebri.md"
+      }
+    ],
+    "crural-cistern": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/crural-cistern.md"
+      }
+    ],
+    "white-matter-tracts": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/white-matter-tracts.md"
+      }
+    ],
+    "choroid-plexus": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/choroid-plexus.md"
+      }
+    ],
+    "vidian-canal": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/vidian-canal.md"
+      }
+    ],
+    "internal-auditory-canal": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/internal-auditory-canal.md"
+      }
+    ],
+    "jugular-foramen": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/jugular-foramen.md"
+      }
+    ],
+    "velum-interpositum": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/velum-interpositum.md"
+      }
+    ],
+    "anterior-clinoid-process": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/anterior-clinoid-process.md"
+      }
+    ],
+    "posterior-fossa-veins": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/posterior-fossa-veins.md"
+      }
+    ],
+    "lamina-terminalis": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/lamina-terminalis.md"
+      }
+    ],
+    "lateral-and-third-ventricles": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/lateral-and-third-ventricles.md"
+      }
+    ],
+    "cerebrum": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/cerebrum.md"
+      }
+    ],
+    "cerebellopontine-cistern": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/cerebellopontine-cistern.md"
+      }
+    ],
+    "suboccipital-triangle": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/suboccipital-triangle.md"
+      }
+    ],
+    "basal-ganglia": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/basal-ganglia.md"
+      }
+    ],
+    "brainstem": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/brainstem.md"
+      }
+    ],
+    "fornix": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/fornix.md"
+      }
+    ],
+    "infratemporal-fossa": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/infratemporal-fossa.md"
+      }
+    ],
+    "cerebral-veins": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/cerebral-veins.md"
+      }
+    ],
+    "tentorial-incisura": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/tentorial-incisura.md"
+      }
+    ],
+    "dural-venous-sinuses": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/dural-venous-sinuses.md"
+      }
+    ],
+    "tentorium-cerebelli": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/tentorium-cerebelli.md"
+      }
+    ],
+    "orbit": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/orbit.md"
+      }
+    ],
+    "septum-pellucidum": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/septum-pellucidum.md"
+      }
+    ],
+    "choroidal-fissure": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/choroidal-fissure.md"
+      }
+    ],
+    "anterior-incisural-space": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/anterior-incisural-space.md"
+      }
+    ],
+    "clivus": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/clivus.md"
+      }
+    ],
+    "corpus-callosum": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/corpus-callosum.md"
+      }
+    ],
+    "sphenoid-bone": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/sphenoid-bone.md"
+      }
+    ],
+    "hypoglossal-canal": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/hypoglossal-canal.md"
+      }
+    ],
+    "optic-radiation": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/optic-radiation.md"
+      }
+    ],
+    "liliequist-membrane": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/liliequist-membrane.md"
+      }
+    ],
+    "meninges": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/meninges.md"
+      }
+    ],
+    "prepontine-cistern": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/prepontine-cistern.md"
+      }
+    ],
+    "foramen-magnum": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/foramen-magnum.md"
+      }
+    ],
+    "uncus": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/uncus.md"
+      }
+    ],
+    "cerebellar-peduncles": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/cerebellar-peduncles.md"
+      }
+    ],
+    "anterior-perforated-substance": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/anterior-perforated-substance.md"
+      }
+    ],
+    "cerebellomedullary-fissure": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/cerebellomedullary-fissure.md"
+      }
+    ],
+    "petrous-apex": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/petrous-apex.md"
+      }
+    ],
+    "hippocampus": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/hippocampus.md"
+      }
+    ],
+    "insula": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/insula.md"
+      }
+    ],
+    "cerebellum": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/cerebellum.md"
+      }
+    ],
+    "posterior-incisural-space": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/posterior-incisural-space.md"
+      }
+    ],
+    "interpeduncular-cistern": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/interpeduncular-cistern.md"
+      }
+    ],
+    "occipital-condyle": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/occipital-condyle.md"
+      }
+    ],
+    "internal-capsule": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/internal-capsule.md"
+      }
+    ],
+    "cerebral-aqueduct": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/cerebral-aqueduct.md"
+      }
+    ],
+    "fourth-ventricle": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/fourth-ventricle.md"
+      }
+    ],
+    "pterygopalatine-fossa": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/pterygopalatine-fossa.md"
+      }
+    ],
+    "corona-radiata": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/corona-radiata.md"
+      }
+    ],
+    "middle-incisural-space": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/middle-incisural-space.md"
+      }
+    ],
+    "posterior-fossa": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/posterior-fossa.md"
+      }
+    ],
+    "hypothalamus": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/hypothalamus.md"
+      }
+    ],
+    "temporal-bone": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/temporal-bone.md"
+      }
+    ],
+    "chiasmatic-cistern": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/chiasmatic-cistern.md"
+      }
+    ],
+    "paranasal-sinuses": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/paranasal-sinuses.md"
+      }
+    ],
+    "cavernous-sinus": [
+      {
+        "wiki": "rhoton",
+        "path": "concepts/cavernous-sinus.md"
+      }
+    ],
+    "recurrent-artery-of-heubner": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/recurrent-artery-of-heubner.md"
+      }
+    ],
+    "middle-meningeal-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/middle-meningeal-artery.md"
+      }
+    ],
+    "anterior-spinal-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/anterior-spinal-artery.md"
+      }
+    ],
+    "abducens-nerve": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/abducens-nerve.md"
+      }
+    ],
+    "superior-petrosal-vein": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/superior-petrosal-vein.md"
+      }
+    ],
+    "anterior-cerebral-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/anterior-cerebral-artery.md"
+      }
+    ],
+    "transverse-sinus": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/transverse-sinus.md"
+      }
+    ],
+    "thalamoperforating-arteries": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/thalamoperforating-arteries.md"
+      }
+    ],
+    "superior-cerebellar-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/superior-cerebellar-artery.md"
+      }
+    ],
+    "superior-hypophyseal-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/superior-hypophyseal-artery.md"
+      }
+    ],
+    "ethmoidal-arteries": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/ethmoidal-arteries.md"
+      }
+    ],
+    "anterior-choroidal-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/anterior-choroidal-artery.md"
+      }
+    ],
+    "occipital-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/occipital-artery.md"
+      }
+    ],
+    "sigmoid-sinus": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/sigmoid-sinus.md"
+      }
+    ],
+    "posterior-choroidal-arteries": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/posterior-choroidal-arteries.md"
+      }
+    ],
+    "greater-petrosal-nerve": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/greater-petrosal-nerve.md"
+      }
+    ],
+    "labyrinthine-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/labyrinthine-artery.md"
+      }
+    ],
+    "maxillary-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/maxillary-artery.md"
+      }
+    ],
+    "posterior-cerebral-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/posterior-cerebral-artery.md"
+      }
+    ],
+    "pica": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/pica.md"
+      }
+    ],
+    "olfactory-nerve": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/olfactory-nerve.md"
+      }
+    ],
+    "optic-chiasm": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/optic-chiasm.md"
+      }
+    ],
+    "dentate-ligament": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/dentate-ligament.md"
+      }
+    ],
+    "middle-cerebral-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/middle-cerebral-artery.md"
+      }
+    ],
+    "extraocular-muscles": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/extraocular-muscles.md"
+      }
+    ],
+    "internal-cerebral-veins": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/internal-cerebral-veins.md"
+      }
+    ],
+    "anterior-communicating-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/anterior-communicating-artery.md"
+      }
+    ],
+    "oculomotor-nerve": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/oculomotor-nerve.md"
+      }
+    ],
+    "vestibulocochlear-nerve": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/vestibulocochlear-nerve.md"
+      }
+    ],
+    "optic-tract": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/optic-tract.md"
+      }
+    ],
+    "bridging-veins": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/bridging-veins.md"
+      }
+    ],
+    "internal-carotid-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/internal-carotid-artery.md"
+      }
+    ],
+    "vertebral-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/vertebral-artery.md"
+      }
+    ],
+    "ophthalmic-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/ophthalmic-artery.md"
+      }
+    ],
+    "facial-nerve": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/facial-nerve.md"
+      }
+    ],
+    "trigeminal-nerve": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/trigeminal-nerve.md"
+      }
+    ],
+    "optic-nerve": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/optic-nerve.md"
+      }
+    ],
+    "aica": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/aica.md"
+      }
+    ],
+    "pituitary-gland": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/pituitary-gland.md"
+      }
+    ],
+    "external-carotid-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/external-carotid-artery.md"
+      }
+    ],
+    "trochlear-nerve": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/trochlear-nerve.md"
+      }
+    ],
+    "posterior-communicating-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/posterior-communicating-artery.md"
+      }
+    ],
+    "basilar-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/basilar-artery.md"
+      }
+    ],
+    "lower-cranial-nerves": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/lower-cranial-nerves.md"
+      }
+    ],
+    "basal-vein-of-rosenthal": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/basal-vein-of-rosenthal.md"
+      }
+    ],
+    "ascending-pharyngeal-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/ascending-pharyngeal-artery.md"
+      }
+    ],
+    "vein-of-galen": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/vein-of-galen.md"
+      }
+    ],
+    "posterior-spinal-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/posterior-spinal-artery.md"
+      }
+    ],
+    "lenticulostriate-arteries": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/lenticulostriate-arteries.md"
+      }
+    ],
+    "thalamogeniculate-arteries": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/thalamogeniculate-arteries.md"
+      }
+    ],
+    "sphenopalatine-artery": [
+      {
+        "wiki": "rhoton",
+        "path": "entities/sphenopalatine-artery.md"
+      }
+    ]
+  }
 }
