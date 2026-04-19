@@ -20,3 +20,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 18	-	2925	+27	pass	0	keep	C2 iter18: caudate-nucleus (7 backlinks, basal-ganglia C-shaped deep gray)
 19	-	2953	+28	pass	0	keep	C2 iter19: frontal-lobe (6 backlinks, functional anatomy + approaches)
 20	-	2975	+22	pass	0	keep	C2 iter20: midbrain (6 backlinks, tectum/tegmentum/crus + incisura)
+21	-	3001	+26	pass	0	keep	C2 iter21: medulla-oblongata (6 backlinks, Wallenberg + far-lateral)
