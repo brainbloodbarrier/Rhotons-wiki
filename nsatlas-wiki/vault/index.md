@@ -14,7 +14,7 @@ summary: >-
 
 Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 
-**Total pages:** 83 content · **Score:** 4403 · **Last campaign iter:** 119 (C2)
+**Total pages:** 83 content · **Score:** 4409 · **Last campaign iter:** 119 (C2 close at 4403; current reflects Batch 4 doc augments)
 
 ## Categories
 

@@ -33,14 +33,14 @@ summary: >-
 
 Audit of `extractions/datalab/chapters/` — 100 chapters extracted via Datalab, cross-referenced against current vault state. All chapters categorized below.
 
-### Vaultized (77 chapters) — COMPLETE
+### Vaultized (83 chapters) — COMPLETE
 
 | Extraction category | Count | Vault location |
 |---|---|---|
-| `cranial-approaches--*` | 18 | `approaches/` |
+| `cranial-approaches--*` | 17 | `approaches/` (+1 via `cranial-base-surgery--anterior-petrosectomy`) |
 | `principles-of-cranial-surgery--*` | 20 | `principles/` |
 | `operative-neuroanatomy--*` | 6 | `concepts/` |
-| `cranial-base-surgery--*` | 6 | `approaches/` (anterior-petrosectomy), `references/` (5), `pathology/` (1) |
+| `cranial-base-surgery--*` | 6 | `approaches/` (anterior-petrosectomy), `references/` (4), `pathology/` (1) |
 | `csf-diversion-procedures--*` | 7 | `procedures/` |
 | `spinal-cord-surgery--*` | 6 | `procedures/` |
 | `neuroradiology--*` | 5 | `references/` (3), `pathology/` (2) |
@@ -67,7 +67,7 @@ Audit of `extractions/datalab/chapters/` — 100 chapters extracted via Datalab,
 
 ### Rationale for the split
 
-The 77 "vaultized" chapters represent the technical backbone of the atlas (approaches, principles, operative anatomy, disease-specific chapters, procedures). The 11 "pending" non-technical-skills chapters are operational/soft-skills and could form a coherent `professional/` section in C3 — held rather than discarded because the content has enduring value. The 12 discarded chapters are either out of technical scope (matching guide), metadata (preface), or designed to decay (trending articles).
+The 83 "vaultized" chapters represent the technical backbone of the atlas (approaches, principles, operative anatomy, disease-specific chapters, procedures). They map 1-to-1 against real pages in the vault — note `approaches/` also contains Lawton bypass pages from a separate source (not counted here). The 11 "pending" non-technical-skills chapters are operational/soft-skills and could form a coherent `professional/` section in C3 — held rather than discarded because the content has enduring value. The 12 discarded chapters are either out of technical scope (matching guide), metadata (preface), or designed to decay (trending articles). Total: 83 + 11 + 12 = 106 extraction directories.
 
 ### C3 decision (2026-04-18)
 

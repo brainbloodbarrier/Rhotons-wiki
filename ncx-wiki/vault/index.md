@@ -13,7 +13,7 @@ updated: 2026-04-18
 
 Universal neurosurgery knowledge base compiled from multiple textbooks across subspecialties.
 
-**Status:** 59 content pages · Score: 2914 · Last campaign iter: 4 (C0) · Sources ingested: Lawton trilogy, Greenberg, Chaddad-Neto (partial), AOSpine Masters, Gross & Boulis Functional, Wijdicks ICU
+**Status:** 59 content pages · Score: 2911 · Last campaign iter: 4 (C0) · Sources ingested: Lawton trilogy, Greenberg, Chaddad-Neto (partial), AOSpine Masters, Gross & Boulis Functional, Wijdicks ICU
 
 ## Categories
 
@@ -45,5 +45,5 @@ Universal neurosurgery knowledge base compiled from multiple textbooks across su
 
 | Campaign | Status | Iterations | Score |
 |---|---|---|---|
-| 0 — Initial foundation | COMPLETE | 0-4 | 2757 (baseline in TSV); verify.sh now reports 2914 after clever-sinoussi merges |
+| 0 — Initial foundation | COMPLETE | 0-4 | 2757 (TSV snapshot); 2911 current (verify.sh) after clever-sinoussi merges + Batch 4 index trim |
 | 1 — Subspecialty expansion | PENDING | — | — |
