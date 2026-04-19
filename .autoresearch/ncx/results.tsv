@@ -13,3 +13,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 11	-	2744	+19	pass	0	keep	C2 iter11: temporalis-muscle (9 backlinks, anatomy + pterional dissection)
 12	-	2768	+24	pass	0	keep	C2 iter12: posterior-inferior-cerebellar-artery PICA (9 backlinks, 5 segments + revascularization)
 13	-	2792	+24	pass	0	keep	C2 iter13: carotid-cistern (9 backlinks, pterional dissection + surgical windows)
+14	-	2831	+39	pass	0	keep	C2 iter14: aneurysm (9 backlinks, classification + treatment overview)
