@@ -91,6 +91,9 @@ VIOL_SOFT_FIELDS=""
 VIOL_VAGUE_SOURCES=""
 VIOL_MISSING_BREADCRUMBS=""
 VIOL_MANIFEST_UNANCHORED=""
+VIOL_CROSS_WIKI_WARN=""    # WARN CROSS_WIKI_REF — sanctioned [[wiki:basename]] that resolves
+VIOL_CROSS_WIKI_BROKEN=""  # ERROR BROKEN_CROSS_WIKI_REF — [[wiki:basename]] where wiki/basename missing
+VIOL_CROSS_LINK_BROKEN=""  # ERROR BROKEN_CROSS_LINK — markdown link to ../<wiki>-wiki/vault/... unresolved
 
 # Typed semantic relations; presence of >=1 counts as a breadcrumb.
 # shellcheck disable=SC1091
@@ -150,9 +153,15 @@ while IFS= read -r rel; do
 done < <(list_pages)
 
 # Cross-wiki resolution: load pages_index from crossmap.json if present.
-# Keys are normalized basenames from OTHER wikis (not this vault).
-# Absent or malformed crossmap → empty map → behavior identical to pre-change.
+# CROSSWIKI_BASENAMES is kept for backward-compat consumers but the guard
+# itself no longer uses it to silence ERROR BROKEN_WIKILINK — see PR #51.
+#
+# CROSSWIKI_BY_WIKI is the map used by the [[wiki:basename]] validation:
+#   key = "<wiki>:<normalized-basename>", value = 1
+# This is populated in sync with pages_index so the guard can confirm a
+# given [[rhoton:corpus-callosum]] target genuinely exists in rhoton.
 declare -A CROSSWIKI_BASENAMES=()
+declare -A CROSSWIKI_BY_WIKI=()
 _CROSSMAP="$REPO_ROOT/crossmap.json"
 if [[ -f "$_CROSSMAP" ]] && jq -e '.pages_index' "$_CROSSMAP" >/dev/null 2>&1; then
   while IFS= read -r cw_key; do
@@ -160,7 +169,17 @@ if [[ -f "$_CROSSMAP" ]] && jq -e '.pages_index' "$_CROSSMAP" >/dev/null 2>&1; t
   done < <(jq -r --arg w "$WIKI_NAME" \
     '.pages_index | to_entries[] | select(any(.value[]; .wiki != $w)) | .key' \
     "$_CROSSMAP" 2>/dev/null || true)
+  while IFS=$'\t' read -r cw_wiki cw_key; do
+    [[ -n "$cw_wiki" && -n "$cw_key" ]] && CROSSWIKI_BY_WIKI["$cw_wiki:$cw_key"]=1
+  done < <(jq -r '.pages_index | to_entries[] | .key as $k | .value[] | [.wiki, $k] | @tsv' \
+    "$_CROSSMAP" 2>/dev/null || true)
 fi
+
+# Registered wiki names (used to validate [[wiki:...]] and ../<wiki>-wiki/... prefixes).
+declare -A VALID_WIKIS=()
+while IFS= read -r _vw; do
+  [[ -n "$_vw" ]] && VALID_WIKIS["$_vw"]=1
+done < <(jq -r '.wikis | keys[]' "$REPO_ROOT/.config/wikis.json" 2>/dev/null || true)
 
 declare -A ALLOWED_TAGS=()
 HAS_TAXONOMY=0
@@ -290,6 +309,31 @@ while IFS= read -r rel; do
     [[ -z "$clean" ]] && continue
     # Skip anything that looks like a binary attachment (has a file ext).
     case "$clean" in *.jpg|*.jpeg|*.png|*.gif|*.svg|*.pdf|*.webp|*.mp4|*.mov|*.canvas) continue ;; esac
+
+    # Sanctioned cross-wiki syntax: [[wiki:basename]]
+    # Accepted if `wiki` is a registered wiki and `basename` exists in its
+    # pages_index. Emits WARN (not error) — Obsidian does not render this
+    # natively, but the guard validates the intent.
+    if [[ "$clean" == *:* && "$clean" != *" "* ]]; then
+      cw_wiki="${clean%%:*}"
+      cw_base="${clean#*:}"
+      if [[ "$cw_wiki" =~ ^[a-z][a-z0-9-]*$ ]]; then
+        cw_key=$(normalize_target "$cw_base")
+        entry="$rel -> [[${clean}]]"
+        if [[ -z "${VALID_WIKIS[$cw_wiki]:-}" ]]; then
+          is_allowlisted broken_cross_wiki_refs "$entry" \
+            || VIOL_CROSS_WIKI_BROKEN+="ERROR BROKEN_CROSS_WIKI_REF: $entry (wiki '$cw_wiki' not in registry)"$'\n'
+        elif [[ -n "${CROSSWIKI_BY_WIKI[$cw_wiki:$cw_key]:-}" ]]; then
+          is_allowlisted cross_wiki_refs "$entry" \
+            || VIOL_CROSS_WIKI_WARN+="WARN CROSS_WIKI_REF: $entry"$'\n'
+        else
+          is_allowlisted broken_cross_wiki_refs "$entry" \
+            || VIOL_CROSS_WIKI_BROKEN+="ERROR BROKEN_CROSS_WIKI_REF: $entry (basename not in wiki '$cw_wiki')"$'\n'
+        fi
+        continue
+      fi
+    fi
+
     key=$(normalize_target "$clean")
     INCOMING["$key"]=$(( ${INCOMING["$key"]:-0} + 1 ))
     if [[ -z "${PAGE_BASENAMES[$key]:-}" ]]; then
@@ -304,6 +348,37 @@ while IFS= read -r rel; do
         before = (RSTART > 1) ? substr(line, RSTART-1, 1) : ""
         inner  = substr(line, RSTART+2, RLENGTH-4)
         if (before != "!") print inner
+        line = substr(line, RSTART+RLENGTH)
+      }
+    }
+  ' "$f")
+
+  # Cross-vault markdown links: [text](../<wiki>-wiki/vault/<path>.md)
+  # These are the recommended form for cross-wiki references because
+  # Obsidian resolves relative paths natively inside a monorepo workspace.
+  while IFS= read -r mdlink; do
+    [[ -z "$mdlink" ]] && continue
+    if [[ "$mdlink" =~ ^\.\./([a-z][a-z0-9-]*)-wiki/vault/(.+\.md)$ ]]; then
+      cv_wiki="${BASH_REMATCH[1]}"
+      cv_path="${BASH_REMATCH[2]}"
+      # Strip anchor (#section) if present.
+      cv_path="${cv_path%%#*}"
+      target_abs="$REPO_ROOT/${cv_wiki}-wiki/vault/$cv_path"
+      entry="$rel -> $mdlink"
+      if [[ -z "${VALID_WIKIS[$cv_wiki]:-}" ]]; then
+        is_allowlisted broken_cross_links "$entry" \
+          || VIOL_CROSS_LINK_BROKEN+="ERROR BROKEN_CROSS_LINK: $entry (wiki '$cv_wiki' not in registry)"$'\n'
+      elif [[ ! -f "$target_abs" ]]; then
+        is_allowlisted broken_cross_links "$entry" \
+          || VIOL_CROSS_LINK_BROKEN+="ERROR BROKEN_CROSS_LINK: $entry (file not found)"$'\n'
+      fi
+    fi
+  done < <(awk '
+    {
+      line = $0
+      while (match(line, /\]\(\.\.\/[^)]+\)/)) {
+        inner = substr(line, RSTART+2, RLENGTH-3)
+        print inner
         line = substr(line, RSTART+RLENGTH)
       }
     }
@@ -337,8 +412,11 @@ SOFT_WARN=$(count_lines "$VIOL_SOFT_FIELDS")
 VAGUE_WARN=$(count_lines "$VIOL_VAGUE_SOURCES")
 MISSING_BC_WARN=$(count_lines "$VIOL_MISSING_BREADCRUMBS")
 UNANCHORED_WARN=$(count_lines "$VIOL_MANIFEST_UNANCHORED")
+CROSS_WIKI_WARN=$(count_lines "$VIOL_CROSS_WIKI_WARN")
+CROSS_WIKI_BROKEN_ERR=$(count_lines "$VIOL_CROSS_WIKI_BROKEN")
+CROSS_LINK_BROKEN_ERR=$(count_lines "$VIOL_CROSS_LINK_BROKEN")
 
-HARD_ERRORS=$(( FM_ERRORS + WL_ERRORS ))
+HARD_ERRORS=$(( FM_ERRORS + WL_ERRORS + CROSS_WIKI_BROKEN_ERR + CROSS_LINK_BROKEN_ERR ))
 if (( STRICT )); then
   HARD_ERRORS=$(( HARD_ERRORS + ORPHAN_WARN + TAXO_WARN ))
   if (( QUALITY )); then
@@ -361,6 +439,9 @@ fi
 [[ -n "$VIOL_VAGUE_SOURCES" ]]       && printf '%s' "$VIOL_VAGUE_SOURCES"       >&2
 [[ -n "$VIOL_MISSING_BREADCRUMBS" ]] && printf '%s' "$VIOL_MISSING_BREADCRUMBS" >&2
 [[ -n "$VIOL_MANIFEST_UNANCHORED" ]] && printf '%s' "$VIOL_MANIFEST_UNANCHORED" >&2
+[[ -n "$VIOL_CROSS_WIKI_WARN" ]]     && printf '%s' "$VIOL_CROSS_WIKI_WARN"     >&2
+[[ -n "$VIOL_CROSS_WIKI_BROKEN" ]]   && printf '%s' "$VIOL_CROSS_WIKI_BROKEN"   >&2
+[[ -n "$VIOL_CROSS_LINK_BROKEN" ]]   && printf '%s' "$VIOL_CROSS_LINK_BROKEN"   >&2
 
 case "$FORMAT" in
   json)
@@ -374,6 +455,9 @@ case "$FORMAT" in
       --argjson vague "$VAGUE_WARN" \
       --argjson missing_bc "$MISSING_BC_WARN" \
       --argjson unanchored "$UNANCHORED_WARN" \
+      --argjson cw_warn "$CROSS_WIKI_WARN" \
+      --argjson cw_broken "$CROSS_WIKI_BROKEN_ERR" \
+      --argjson cl_broken "$CROSS_LINK_BROKEN_ERR" \
       --argjson hard_errors "$HARD_ERRORS" \
       --argjson strict "$STRICT" \
       --argjson quality "$QUALITY" \
@@ -392,7 +476,10 @@ case "$FORMAT" in
           soft_field_warnings:   $soft,
           vague_sources:         $vague,
           missing_breadcrumbs:   $missing_bc,
-          manifest_unanchored:   $unanchored
+          manifest_unanchored:   $unanchored,
+          cross_wiki_refs:       $cw_warn,
+          broken_cross_wiki_refs: $cw_broken,
+          broken_cross_links:    $cl_broken
         },
         hard_errors: $hard_errors,
         baseline:      (if $baseline      == "" then null else ($baseline|tonumber)      end),
@@ -402,13 +489,17 @@ case "$FORMAT" in
       }'
     ;;
   tsv)
-    printf '%s\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%s\t%s\n' \
+    printf '%s\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%s\t%s\n' \
       "$WIKI_NAME" "$FM_ERRORS" "$WL_ERRORS" "$ORPHAN_WARN" "$TAXO_WARN" \
       "$SOFT_WARN" "$VAGUE_WARN" "$MISSING_BC_WARN" "$UNANCHORED_WARN" \
+      "$CROSS_WIKI_WARN" "$CROSS_WIKI_BROKEN_ERR" "$CROSS_LINK_BROKEN_ERR" \
       "$HARD_ERRORS" "${BASELINE:-}" "${CURRENT_SCORE:-}"
     ;;
   text)
     echo "guard: $WIKI_NAME — frontmatter=$FM_ERRORS wikilinks=$WL_ERRORS orphans=$ORPHAN_WARN taxonomy=$TAXO_WARN soft=$SOFT_WARN strict=$STRICT hard=$HARD_ERRORS" >&2
+    if (( CROSS_WIKI_WARN + CROSS_WIKI_BROKEN_ERR + CROSS_LINK_BROKEN_ERR > 0 )); then
+      echo "guard: $WIKI_NAME — [cross-wiki] refs=$CROSS_WIKI_WARN broken_refs=$CROSS_WIKI_BROKEN_ERR broken_links=$CROSS_LINK_BROKEN_ERR" >&2
+    fi
     if (( QUALITY )); then
       echo "guard: $WIKI_NAME — [quality] vague_sources=$VAGUE_WARN missing_breadcrumbs=$MISSING_BC_WARN manifest_unanchored=$UNANCHORED_WARN" >&2
     fi
