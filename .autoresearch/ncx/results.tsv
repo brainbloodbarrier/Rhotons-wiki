@@ -17,3 +17,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 15	-	2852	+21	pass	0	keep	C2 iter15: temporal-lobe (8 backlinks, lobectomy + functional anatomy)
 16	-	2873	+21	pass	0	keep	C2 iter16: lateral-ventricle (7 backlinks, compartments + approaches)
 17	-	2898	+25	pass	0	keep	C2 iter17: foramen-of-monro (5 backlinks, transcallosal corridor + ETV)
+18	-	2925	+27	pass	0	keep	C2 iter18: caudate-nucleus (7 backlinks, basal-ganglia C-shaped deep gray)
