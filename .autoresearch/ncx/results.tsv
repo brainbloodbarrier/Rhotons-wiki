@@ -5,3 +5,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 3	-	2186	+247	pass	-	kept	Lawton Seven Bypasses: 4 procedures + 2 concepts + 1 entity + 1 synthesis
 4	-	2757	+571	pass	-	kept	Campaign 1 batch 1: Greenberg (15 pages) + Chaddad-Neto anatomy (3 pages)
 5	4321bf8	2594	-163	pass	0	reconcile	post PR#52 migration: bare cross-wiki wikilinks converted to markdown links (score v1 counts [[...]] only)
+6	-	2615	+21	pass	0	keep	C2 iter6: interhemispheric-fissure (8 backlinks, midline corridor anatomy)
