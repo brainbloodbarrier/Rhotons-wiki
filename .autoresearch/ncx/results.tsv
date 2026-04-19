@@ -22,3 +22,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 20	-	2975	+22	pass	0	keep	C2 iter20: midbrain (6 backlinks, tectum/tegmentum/crus + incisura)
 21	-	3001	+26	pass	0	keep	C2 iter21: medulla-oblongata (6 backlinks, Wallenberg + far-lateral)
 22	-	3024	+23	pass	0	keep	C2 iter22: anterior-cranial-fossa (6 backlinks, bony anatomy + approaches)
+23	-	3050	+26	pass	0	keep	C2 iter23: dura (6 backlinks, layers + sinuses + surgical opening)
