@@ -10,6 +10,11 @@ __pycache__/
 # Large binary sources (kept outside repo per AGENTS.md)
 *.pdf
 
+# Datalab extractions — raw figure/JSON payloads regeneratable via Datalab API
+# Campaign-complete extractions are purged from git to keep repo lean.
+# Local copies are fine but should not be tracked.
+**/extractions/datalab/
+
 # Agent state (local only) — recursive patterns cover every vault
 **/.omc/
 **/.trash/

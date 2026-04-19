@@ -17,7 +17,9 @@
       "pages_augmented": 15,
       "chapters_integrated": 20,
       "method": "autoresearch-campaign-2-iters-0-20",
-      "status": "COMPLETE"
+      "status": "COMPLETE",
+      "purged_at": "2026-04-18T00:00:00Z",
+      "note": "Raw extraction directory purged post-COMPLETE to reduce repo size (223 MB; 885 figures, 104 JSONs, 23 MD chapters). Can be regenerated via Datalab API if needed; see rhoton-wiki/tools/datalab/."
     }
   },
   "stats": {
