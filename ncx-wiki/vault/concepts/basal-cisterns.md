@@ -31,7 +31,7 @@ The basal cisterns are expansions of the subarachnoid space at the base of the b
 
 | Cistern | Location | Key contents |
 |---------|----------|-------------|
-| **Carotid** | Around supraclinoid ICA | ICA, AChA origin, [[oculomotor-nerve\|CN III]], PCoA origin |
+| **Carotid** | Around supraclinoid ICA | ICA, AChA origin, [CN III](../rhoton-wiki/vault/entities/oculomotor-nerve.md), PCoA origin |
 | **Chiasmatic** | Above sella, below optic chiasm | Optic nerves/chiasm, pituitary stalk, superior hypophyseal arteries |
 | **Sylvian** | Within [[sylvian-fissure]] | MCA and branches, superficial Sylvian vein |
 | **Olfactory** | Along olfactory tracts | CN I, anterior ethmoidal artery |

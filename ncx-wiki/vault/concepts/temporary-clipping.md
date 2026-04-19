@@ -21,7 +21,7 @@ Aneurysm dissection proceeds through visible anatomy first; the final dissection
 
 - Manipulate the aneurysm aggressively and visualize hidden anatomy behind the dome
 - Peel efferent arteries stuck to the aneurysm side wall where tearing into a thin wall is possible
-- Develop cleavage planes around delicate [[perforating-arteries|perforators]] adherent to the back of the aneurysm
+- Develop cleavage planes around delicate [perforators](../rhoton-wiki/vault/synthesis/perforating-arteries.md) adherent to the back of the aneurysm
 - Pull the aneurysm away from adherent perforators under gentle traction, relieving deflected perforators rather than distorting them further
 
 These risky maneuvers are deliberately saved for the final dissection phase. Aneurysm traction widens the plane and adhesions are cut under tension.
@@ -31,13 +31,13 @@ These risky maneuvers are deliberately saved for the final dissection phase. Ane
 The extent of temporary clipping is individualized according to afferent artery anatomy and the degree of softening needed:
 
 **Single proximal clip sufficient:**
-- [[mca-aneurysm|MCA aneurysms]] -- only one afferent artery, soften dramatically with a single clip on the [[middle-cerebral-artery|M1 segment]]
-- [[basilar-bifurcation-aneurysm|Basilar bifurcation aneurysms]] -- single clip on the [[basilar-artery|basilar trunk]]
+- [[mca-aneurysm|MCA aneurysms]] -- only one afferent artery, soften dramatically with a single clip on the [M1 segment](../rhoton-wiki/vault/entities/middle-cerebral-artery.md)
+- [[basilar-bifurcation-aneurysm|Basilar bifurcation aneurysms]] -- single clip on the [basilar trunk](../rhoton-wiki/vault/entities/basilar-artery.md)
 - Aneurysms with contrast jetting on preoperative angiography
 
 **Multiple clips required (backfilling):**
-- [[ophthalmic-artery-aneurysm|Ophthalmic artery aneurysms]] -- can backfill from the [[posterior-communicating-artery|PCoA]] or [[ophthalmic-artery|OphA]] despite cervical [[internal-carotid-artery|ICA]] occlusion
-- [[acoa-aneurysm|ACoA aneurysms]] -- cross-fill from contralateral [[anterior-cerebral-artery|A1 segment]] despite ipsilateral A1 occlusion
+- [[ophthalmic-artery-aneurysm|Ophthalmic artery aneurysms]] -- can backfill from the [PCoA](../rhoton-wiki/vault/entities/posterior-communicating-artery.md) or [OphA](../rhoton-wiki/vault/entities/ophthalmic-artery.md) despite cervical [ICA](../rhoton-wiki/vault/entities/internal-carotid-artery.md) occlusion
+- [[acoa-aneurysm|ACoA aneurysms]] -- cross-fill from contralateral [A1 segment](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md) despite ipsilateral A1 occlusion
 - [[basilar-bifurcation-aneurysm|Basilar bifurcation aneurysms]] -- can fill from contralateral PCoA despite basilar trunk occlusion
 
 **Trapping (proximal + distal clips):**
@@ -59,7 +59,7 @@ Temporary clipping adds time pressure and stress. Cerebral protection with barbi
 - Instruments and permanent clips preselected
 - Preparation translates into surgical efficiency
 
-The precious few minutes after temporary clips are applied are the **crux of the operation** -- exposure is optimized, the aneurysm is slack, risky moves must be made, and the outcome is determined. [[Intraoperative-rupture|Intraoperative rupture]] may be the biggest fear, but [[perforating-arteries|perforator]] infarcts have no solution. The key to becoming aggressive with aneurysms is the temporary clip: it pressures the surgeon to complete the task, but signals the right time to battle the aneurysm.
+The precious few minutes after temporary clips are applied are the **crux of the operation** -- exposure is optimized, the aneurysm is slack, risky moves must be made, and the outcome is determined. [[Intraoperative-rupture|Intraoperative rupture]] may be the biggest fear, but [perforator](../rhoton-wiki/vault/synthesis/perforating-arteries.md) infarcts have no solution. The key to becoming aggressive with aneurysms is the temporary clip: it pressures the surgeon to complete the task, but signals the right time to battle the aneurysm.
 
 ## Related Pages
 

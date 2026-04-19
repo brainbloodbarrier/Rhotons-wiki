@@ -9,18 +9,18 @@ tags:
 sources:
   - "Lawton - Seven Bypasses: Tenets and Techniques for Revascularization (2018)"
 branch-of:
-  - "[[external-carotid-artery]]"
+  - "[external-carotid-artery](../rhoton-wiki/vault/entities/external-carotid-artery.md)"
 created: 2026-04-15
 updated: 2026-04-15
 ---
 
 # Superficial Temporal Artery
 
-The superficial temporal artery (STA) is the smaller terminal branch of the [[external-carotid-artery|external carotid artery]] (the other being the [[internal-maxillary-artery|internal maxillary artery]]). It is the primary donor for EC-IC bypass, used in over three-quarters of Lawton's cases. Its accessibility along the [[pterional-approach|pterional craniotomy]] incision makes it nearly universal -- if harvested and ready, the likelihood of performing a bypass increases substantially.
+The superficial temporal artery (STA) is the smaller terminal branch of the [external carotid artery](../rhoton-wiki/vault/entities/external-carotid-artery.md) (the other being the [[internal-maxillary-artery|internal maxillary artery]]). It is the primary donor for EC-IC bypass, used in over three-quarters of Lawton's cases. Its accessibility along the [[pterional-approach|pterional craniotomy]] incision makes it nearly universal -- if harvested and ready, the likelihood of performing a bypass increases substantially.
 
 ## Anatomy
 
-The STA originates within the [[parotid-gland|parotid gland]] deep to the [[facial-nerve|facial nerve]] and ascends over the zygomatic root, anterior to the external auditory canal. It resides in the dense connective tissue layer beneath the skin and above the galea aponeurotica. The STA and [[occipital-artery|occipital artery]] form the ECA's major scalp supply.
+The STA originates within the [[parotid-gland|parotid gland]] deep to the [facial nerve](../rhoton-wiki/vault/entities/facial-nerve.md) and ascends over the zygomatic root, anterior to the external auditory canal. It resides in the dense connective tissue layer beneath the skin and above the galea aponeurotica. The STA and [occipital artery](../rhoton-wiki/vault/entities/occipital-artery.md) form the ECA's major scalp supply.
 
 ### Branching Pattern
 
@@ -31,9 +31,9 @@ At the level of the zygomatic root, the STA gives off a small zygomatico-orbital
 | Vessel | Mean Diameter (mm) | Site |
 |--------|-------------------|------|
 | STA trunk | 1.93 | Zygoma |
-| [[occipital-artery\|OA]] | 2.05 | Occipital groove |
+| [OA](../rhoton-wiki/vault/entities/occipital-artery.md) | 2.05 | Occipital groove |
 | Posterior auricular | 1.70 | -- |
-| [[external-carotid-artery\|ECA]] | 5.75 | Carotid bifurcation |
+| [ECA](../rhoton-wiki/vault/entities/external-carotid-artery.md) | 5.75 | Carotid bifurcation |
 
 ### Morphology
 
@@ -48,7 +48,7 @@ Harvesting should take approximately 20 minutes. Keys to a quick harvest:
 3. **Apply upward traction** on the scalp with toothed forceps to separate the dermal layer and subcutaneous fat from the STA
 4. **Set bipolar cautery high** to control scalp bleeding without Raney clips
 
-The initial cut-down exposes 8 cm from the zygoma to the superior temporal line -- sufficient for all but the deepest bypasses to [[superior-cerebellar-artery|SCA]]/[[posterior-cerebral-artery|PCA]]. Branches are cauterized and cut 1-2 mm from the trunk. The STA is left in distal continuity to maintain flow until [[microsurgical-anastomosis|anastomosis]].
+The initial cut-down exposes 8 cm from the zygoma to the superior temporal line -- sufficient for all but the deepest bypasses to [SCA](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md)/[PCA](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md). Branches are cauterized and cut 1-2 mm from the trunk. The STA is left in distal continuity to maintain flow until [[microsurgical-anastomosis|anastomosis]].
 
 ### Double-Barrel Harvest
 
@@ -73,5 +73,5 @@ The scalp has five layers relevant to STA harvest: **S**kin, dense **C**onnectiv
 - [[microsurgical-anastomosis]] -- Anastomotic techniques using the STA as donor
 - [[bypass-arteriotomy]] -- Arteriotomy types applied to the STA (fish-mouth, transection bifurcotomy)
 - [[cerebral-revascularization-overview]] -- Bypass classification and indications
-- [[occipital-artery]] -- Alternative EC-IC bypass donor from the ECA
+- [occipital-artery](../rhoton-wiki/vault/entities/occipital-artery.md) -- Alternative EC-IC bypass donor from the ECA
 - [[pterional-approach]] -- Standard craniotomy incorporating STA harvest

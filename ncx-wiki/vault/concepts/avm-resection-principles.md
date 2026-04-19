@@ -20,11 +20,11 @@ Resection of a cerebral [[vascular-malformation|arteriovenous malformation]] pro
 
 Previous phases -- AVM exposure, subarachnoid approach, vein identification, and feeder mapping -- are mere saber-rattling. Pial dissection is the opening salvo. Each AVM subtype has specific **arterial fronts**: pial sites where superficial inputs intersect the nidus, defined by AVM side, cortical anatomy, and feeding arteries. These fronts are the initial points of attack, occluding significant input and weakening the AVM early.
 
-Most AVMs have one major arterial front (e.g., lateral temporal AVM: superior front of M4 [[middle-cerebral-artery|MCA]] supply along the superior temporal gyrus). Some have up to three fronts (e.g., basal frontal AVM: lateral M4, medial A2 [[anterior-cerebral-artery|ACA]], posterior A1).
+Most AVMs have one major arterial front (e.g., lateral temporal AVM: superior front of M4 [MCA](../rhoton-wiki/vault/entities/middle-cerebral-artery.md) supply along the superior temporal gyrus). Some have up to three fronts (e.g., basal frontal AVM: lateral M4, medial A2 [ACA](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md), posterior A1).
 
 ### Eloquence and Dissection Distance
 
-Pia is the anatomic link to eloquence. The pial incision forces confrontation with eloquent cortex ([[motor-pathway|motor]], somatosensory, language, [[visual-pathway|visual cortex]], [[brainstem]], [[internal-capsule]], cerebellar peduncles). fMRI is generally unsatisfactory in AVM patients due to deranged blood flow; electrocortical stimulation mapping is used in only ~3% of cases.
+Pia is the anatomic link to eloquence. The pial incision forces confrontation with eloquent cortex ([[motor-pathway|motor]], somatosensory, language, [[visual-pathway|visual cortex]], [brainstem](../rhoton-wiki/vault/concepts/brainstem.md), [internal-capsule](../rhoton-wiki/vault/concepts/internal-capsule.md), cerebellar peduncles). fMRI is generally unsatisfactory in AVM patients due to deranged blood flow; electrocortical stimulation mapping is used in only ~3% of cases.
 
 Most neurosurgeons maintain **close dissection distance**: tight adherence minimizes brain transgression but creates constant tension between aggravating the AVM (too close) and harming the patient (too wide). For non-eloquent AVMs, wider pial incisions are safer.
 
@@ -49,7 +49,7 @@ The ependymal plane is the bottom of the AVM box -- deep and diametrically oppos
 
 ### Perforating Artery Supply
 
-[[perforating-arteries|Perforators]] traverse deep parenchyma, are thin-walled, fragile, and resist cautery. The answer is the **AVM microclip**. Cautery typically explodes the perforator; the microclip shuts it bloodlessly. Steps for a bleeding perforator:
+[Perforators](../rhoton-wiki/vault/synthesis/perforating-arteries.md) traverse deep parenchyma, are thin-walled, fragile, and resist cautery. The answer is the **AVM microclip**. Cautery typically explodes the perforator; the microclip shuts it bloodlessly. Steps for a bleeding perforator:
 1. Dry field with suction on thin cottonoid
 2. Dynamic retraction to see into remote corners
 3. Chase bleeder through [[white-matter|white matter]]
@@ -61,17 +61,17 @@ Perforator supply is typically limited to fewer than five arteries. The presence
 
 ### Choroidal Artery Supply
 
-[[anterior-choroidal-artery|Choroidal arteries]] are thicker, more coagulable, and floating in the [[ventricles|ventricle]]. They run in tela choroidea and [[choroid-plexus]], far more visible than parenchymal perforators. Ventricles open widely (transcortically, transcallosally, or through [[choroidal-fissure|choroidal fissure]]) and offer orientation, working space, and proximal control. If the dissection does not enter the ventricle and surround the ventricular vein, the nidal tip may be truncated, leaving a remnant with persistent shunting.
+[Choroidal arteries](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md) are thicker, more coagulable, and floating in the [[ventricles|ventricle]]. They run in tela choroidea and [choroid-plexus](../rhoton-wiki/vault/concepts/choroid-plexus.md), far more visible than parenchymal perforators. Ventricles open widely (transcortically, transcallosally, or through [choroidal fissure](../rhoton-wiki/vault/concepts/choroidal-fissure.md)) and offer orientation, working space, and proximal control. If the dissection does not enter the ventricle and surround the ventricular vein, the nidal tip may be truncated, leaving a remnant with persistent shunting.
 
 ## Phase 4 -- Final Resection
 
 ### Blue Tail
 
-When the [[avm-draining-veins|venous tail]] turns blue, the battle is won. The AVM's six sides are circumscribed, arterial supply disconnected. The nidus is lifted out of its resection bed still attached to its venous tail -- the roll-out maneuver -- to inspect for unfinished dissection. Persistent redness signals a hidden feeder underneath the vein, a missed deep plane, or a deep [[perforating-arteries|perforator]] on the opposite side.
+When the [[avm-draining-veins|venous tail]] turns blue, the battle is won. The AVM's six sides are circumscribed, arterial supply disconnected. The nidus is lifted out of its resection bed still attached to its venous tail -- the roll-out maneuver -- to inspect for unfinished dissection. Persistent redness signals a hidden feeder underneath the vein, a missed deep plane, or a deep [perforator](../rhoton-wiki/vault/synthesis/perforating-arteries.md) on the opposite side.
 
 ### Back Bleeding
 
-Dividing the draining vein after roll-out: dilated veins communicate freely with [[dural-venous-sinuses|venous sinuses]], and back-bleeding can be brisk. [[aneurysm-clipping-techniques|Aneurysm clips]] close the sinus communication and facilitate coagulation. Color differentiates venous back-bleeding (blue) from residual AVM bleeding (red).
+Dividing the draining vein after roll-out: dilated veins communicate freely with [venous sinuses](../rhoton-wiki/vault/concepts/dural-venous-sinuses.md), and back-bleeding can be brisk. [[aneurysm-clipping-techniques|Aneurysm clips]] close the sinus communication and facilitate coagulation. Color differentiates venous back-bleeding (blue) from residual AVM bleeding (red).
 
 ### Bleeding Bed
 

@@ -14,7 +14,7 @@ updated: 2026-04-15
 
 # Cerebrovascular Aneurysms Overview
 
-Intracranial aneurysms occur at branches or curves in cerebral arteries and can be found at more than 20 different locations along the [[circle-of-willis]] and its branches. Lawton's framework identifies **seven aneurysm types** that account for 75% of all aneurysms in his consecutive 12-year experience with 2500 cases. Proficiency in managing these seven types enables confident handling of the majority of aneurysms in practice.
+Intracranial aneurysms occur at branches or curves in cerebral arteries and can be found at more than 20 different locations along the [circle-of-willis](../rhoton-wiki/vault/synthesis/circle-of-willis.md) and its branches. Lawton's framework identifies **seven aneurysm types** that account for 75% of all aneurysms in his consecutive 12-year experience with 2500 cases. Proficiency in managing these seven types enables confident handling of the majority of aneurysms in practice.
 
 ## Lawton's Classification -- 2500 Aneurysms
 
@@ -22,9 +22,9 @@ Intracranial aneurysms occur at branches or curves in cerebral arteries and can 
 
 | Location | N | % |
 |----------|---|---|
-| Cavernous [[internal-carotid-artery|ICA]] | 25 | 1% |
+| Cavernous [ICA](../rhoton-wiki/vault/entities/internal-carotid-artery.md) | 25 | 1% |
 | **[[pcoa-aneurysm|PCoA]]** | 319 | 13% |
-| [[anterior-choroidal-artery|AChA]] | 98 | 4% |
+| [AChA](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md) | 98 | 4% |
 | Supraclinoid ICA | 86 | 3% |
 | ICA Bifurcation | 76 | 3% |
 | **[[mca-aneurysm|MCA]]** | 631 | 25% |
@@ -32,18 +32,18 @@ Intracranial aneurysms occur at branches or curves in cerebral arteries and can 
 | **[[acoa-aneurysm|ACoA]]** | 519 | 21% |
 | **[[pericallosal-artery-aneurysm|PcaA]]** | 53 | 2% |
 | **[[ophthalmic-artery-aneurysm|OphA]]** | 132 | 5% |
-| [[superior-hypophyseal-artery|SHA]] | 28 | 1% |
+| [SHA](../rhoton-wiki/vault/entities/superior-hypophyseal-artery.md) | 28 | 1% |
 
 ### Posterior Circulation
 
 | Location | N | % |
 |----------|---|---|
 | **[[basilar-bifurcation-aneurysm|Basilar Bifurcation]]** | 139 | 6% |
-| [[superior-cerebellar-artery|SCA]] | 39 | 2% |
-| [[posterior-cerebral-artery|PCA]] | 51 | 2% |
+| [SCA](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md) | 39 | 2% |
+| [PCA](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md) | 51 | 2% |
 | Basilar Trunk | 29 | 1% |
 | **[[pica-aneurysm|PICA]]** | 85 | 3% |
-| [[vertebral-artery|VA]] | 21 | 1% |
+| [VA](../rhoton-wiki/vault/entities/vertebral-artery.md) | 21 | 1% |
 | Miscellaneous | 142 | 6% |
 | **Total** | **2500** | **100%** |
 | ***Seven Aneurysms*** | ***1878*** | ***75%*** |
@@ -52,13 +52,13 @@ Intracranial aneurysms occur at branches or curves in cerebral arteries and can 
 
 | # | Aneurysm | Location | Approach | Key Anatomy | Cistern | Clipping Strategy |
 |---|----------|----------|----------|-------------|---------|-------------------|
-| 1 | [[pcoa-aneurysm\|PCoA]] | [[internal-carotid-artery\|ICA]] at [[posterior-communicating-artery\|PCoA]] origin | [[pterional-approach\|Pterional]] | [[anterior-choroidal-artery\|AChA]], [[oculomotor-nerve\|CN III]], [[posterior-communicating-artery\|PCoA]] | [[carotid-cistern]] | Simple clip parallel to ICA; preserve AChA and PCoA |
-| 2 | [[mca-aneurysm\|MCA]] | [[middle-cerebral-artery\|MCA]] bifurcation | [[pterional-approach\|Pterional]] | [[lenticulostriate-arteries\|LSAs]], [[sylvian-fissure]], M2 trunks | [[sylvian-cistern]] | Clip perpendicular to M1, parallel to efferent M2 branches |
-| 3 | [[acoa-aneurysm\|ACoA]] | [[anterior-communicating-artery\|ACoA]] complex | [[pterional-approach\|Pterional]] or [[anterior-interhemispheric-approach\|Anterior IH]] | [[recurrent-artery-of-heubner\|Heubner]], hypothalamic [[perforating-arteries\|perforators]], [[optic-chiasm]] | [[lamina-terminalis-cistern]] | Clip parallel to perforator line; contralateral A1 temporary clip for cross-fill |
-| 4 | [[ophthalmic-artery-aneurysm\|OphA]] | [[internal-carotid-artery\|ICA]] at [[ophthalmic-artery\|OphA]] origin | [[pterional-approach\|Pterional]] with [[anterior-clinoidectomy\|clinoidectomy]] | [[optic-nerve\|CN II]], [[anterior-clinoid-process\|ACP]], carotid rings | [[carotid-cistern]] | Clip parallel to ICA; tandem angled fenestrated for broad necks |
-| 5 | [[pericallosal-artery-aneurysm\|PcaA]] | [[pericallosal-artery\|PcaA]] at [[callosomarginal-artery\|CmaA]] bifurcation | [[anterior-interhemispheric-approach\|Anterior IH]] | [[corpus-callosum]], [[cingulate-gyrus]], [[falx-cerebri\|falx]] | [[callosal-cistern]] | Clip perpendicular to PcaA; navigate [[interhemispheric-fissure]] |
-| 6 | [[basilar-bifurcation-aneurysm\|Basilar Bifurcation]] | [[basilar-artery\|BA]] apex | [[orbitozygomatic-approach\|Orbitozygomatic]] or [[pterional-approach\|Pterional]] | [[posterior-cerebral-artery\|P1]], [[superior-cerebellar-artery\|SCA]], thalamoperforators, [[oculomotor-nerve\|CN III]] | [[interpeduncular-cistern]] | Clip perpendicular to BA, parallel to P1s; tandem for broad necks |
-| 7 | [[pica-aneurysm\|PICA]] | [[vertebral-artery\|VA]] at [[posterior-inferior-cerebellar-artery\|PICA]] origin | [[far-lateral-approach\|Far-Lateral]] | [[vertebral-artery\|VA]], lower [[cranial-nerves\|CNs]] (IX-XII), brainstem [[perforating-arteries\|perforators]] | [[lateral-cerebellomedullary-cistern]] | Clip parallel to VA; preserve PICA origin and lower CN relationships |
+| 1 | [[pcoa-aneurysm\|PCoA]] | [ICA](../rhoton-wiki/vault/entities/internal-carotid-artery.md) at [PCoA](../rhoton-wiki/vault/entities/posterior-communicating-artery.md) origin | [[pterional-approach\|Pterional]] | [AChA](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md), [CN III](../rhoton-wiki/vault/entities/oculomotor-nerve.md), [PCoA](../rhoton-wiki/vault/entities/posterior-communicating-artery.md) | [[carotid-cistern]] | Simple clip parallel to ICA; preserve AChA and PCoA |
+| 2 | [[mca-aneurysm\|MCA]] | [MCA](../rhoton-wiki/vault/entities/middle-cerebral-artery.md) bifurcation | [[pterional-approach\|Pterional]] | [LSAs](../rhoton-wiki/vault/entities/lenticulostriate-arteries.md), [[sylvian-fissure]], M2 trunks | [[sylvian-cistern]] | Clip perpendicular to M1, parallel to efferent M2 branches |
+| 3 | [[acoa-aneurysm\|ACoA]] | [ACoA](../rhoton-wiki/vault/entities/anterior-communicating-artery.md) complex | [[pterional-approach\|Pterional]] or [[anterior-interhemispheric-approach\|Anterior IH]] | [Heubner](../rhoton-wiki/vault/entities/recurrent-artery-of-heubner.md), hypothalamic [perforators](../rhoton-wiki/vault/synthesis/perforating-arteries.md), [optic-chiasm](../rhoton-wiki/vault/entities/optic-chiasm.md) | [[lamina-terminalis-cistern]] | Clip parallel to perforator line; contralateral A1 temporary clip for cross-fill |
+| 4 | [[ophthalmic-artery-aneurysm\|OphA]] | [ICA](../rhoton-wiki/vault/entities/internal-carotid-artery.md) at [OphA](../rhoton-wiki/vault/entities/ophthalmic-artery.md) origin | [[pterional-approach\|Pterional]] with [[anterior-clinoidectomy\|clinoidectomy]] | [CN II](../rhoton-wiki/vault/entities/optic-nerve.md), [ACP](../rhoton-wiki/vault/concepts/anterior-clinoid-process.md), carotid rings | [[carotid-cistern]] | Clip parallel to ICA; tandem angled fenestrated for broad necks |
+| 5 | [[pericallosal-artery-aneurysm\|PcaA]] | [[pericallosal-artery\|PcaA]] at [[callosomarginal-artery\|CmaA]] bifurcation | [[anterior-interhemispheric-approach\|Anterior IH]] | [corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md), [[cingulate-gyrus]], [falx](../rhoton-wiki/vault/concepts/falx-cerebri.md) | [[callosal-cistern]] | Clip perpendicular to PcaA; navigate [[interhemispheric-fissure]] |
+| 6 | [[basilar-bifurcation-aneurysm\|Basilar Bifurcation]] | [BA](../rhoton-wiki/vault/entities/basilar-artery.md) apex | [[orbitozygomatic-approach\|Orbitozygomatic]] or [[pterional-approach\|Pterional]] | [P1](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md), [SCA](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md), thalamoperforators, [CN III](../rhoton-wiki/vault/entities/oculomotor-nerve.md) | [interpeduncular-cistern](../rhoton-wiki/vault/concepts/interpeduncular-cistern.md) | Clip perpendicular to BA, parallel to P1s; tandem for broad necks |
+| 7 | [[pica-aneurysm\|PICA]] | [VA](../rhoton-wiki/vault/entities/vertebral-artery.md) at [[posterior-inferior-cerebellar-artery\|PICA]] origin | [[far-lateral-approach\|Far-Lateral]] | [VA](../rhoton-wiki/vault/entities/vertebral-artery.md), lower [[cranial-nerves\|CNs]] (IX-XII), brainstem [perforators](../rhoton-wiki/vault/synthesis/perforating-arteries.md) | [[lateral-cerebellomedullary-cistern]] | Clip parallel to VA; preserve PICA origin and lower CN relationships |
 
 ## Foundational Tenets
 
@@ -89,4 +89,4 @@ Four surgical approaches serve all seven aneurysm types:
 
 ## Cross-Transferable Knowledge
 
-[[anterior-choroidal-artery|AChA]] aneurysms are anatomically similar to [[pcoa-aneurysm|PCoA aneurysms]] and are clipped with similar techniques. [[superior-cerebellar-artery|SCA]] aneurysms parallel [[basilar-bifurcation-aneurysm|basilar bifurcation aneurysms]]. Proficiency with the seven types therefore extends coverage to these related locations.
+[AChA](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md) aneurysms are anatomically similar to [[pcoa-aneurysm|PCoA aneurysms]] and are clipped with similar techniques. [SCA](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md) aneurysms parallel [[basilar-bifurcation-aneurysm|basilar bifurcation aneurysms]]. Proficiency with the seven types therefore extends coverage to these related locations.

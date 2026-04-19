@@ -31,7 +31,7 @@ Arteriotomies initiate new connections in [[microsurgical-anastomosis|bypass con
 
 The simplest and most common arteriotomy. A longitudinal sidewall incision paralleling the artery's axis, used on intracranial recipients in end-to-side and side-to-side [[microsurgical-anastomosis|anastomoses]]. Length: **3d** (three times diameter). Initiated with a beveled 27-gauge needle at 45 degrees, extended with right-angled microscissors.
 
-Conserves arterial wall and produces straight suture lines. Ideal for thin-walled cerebral arteries easily splayed by flow, but may not open widely in thick arteries like the [[external-carotid-artery|ECA]] or [[common-carotid-artery|CCA]].
+Conserves arterial wall and produces straight suture lines. Ideal for thin-walled cerebral arteries easily splayed by flow, but may not open widely in thick arteries like the [ECA](../rhoton-wiki/vault/entities/external-carotid-artery.md) or [[common-carotid-artery|CCA]].
 
 ## Fish-Mouth Arteriotomy
 
@@ -41,7 +41,7 @@ Widely used in EC-IC end-to-side anastomoses ([[superficial-temporal-artery|STA]
 
 ## Perpendicular Transection Arteriotomy
 
-Used in interpositional bypasses where an oversized [[radial-artery-graft|RAG]] or [[saphenous-vein-graft|SVG]] meets a smaller recipient. The circular cross-section **minimizes** anastomotic area, counteracting caliber mismatch. Creates a T-shaped junction; graft diameter is kept to no more than twice the recipient's to avoid thrombosis. Also used on cervical arteries ([[external-carotid-artery|ECA]], [[internal-carotid-artery|ICA]]) for end-to-end proximal anastomoses.
+Used in interpositional bypasses where an oversized [[radial-artery-graft|RAG]] or [[saphenous-vein-graft|SVG]] meets a smaller recipient. The circular cross-section **minimizes** anastomotic area, counteracting caliber mismatch. Creates a T-shaped junction; graft diameter is kept to no more than twice the recipient's to avoid thrombosis. Also used on cervical arteries ([ECA](../rhoton-wiki/vault/entities/external-carotid-artery.md), [ICA](../rhoton-wiki/vault/entities/internal-carotid-artery.md)) for end-to-end proximal anastomoses.
 
 ## Oblique Transection Arteriotomy
 
@@ -49,7 +49,7 @@ Enlarges the area above perpendicular transection but less than fish-mouthing. T
 
 ## Excision Arteriotomy
 
-Removes an elliptical piece of sidewall. On cerebral arteries, tented with microforceps and cut along its base. On cervical arteries ([[external-carotid-artery|ECA]], [[common-carotid-artery|CCA]], V3 [[vertebral-artery|VA]]), an **aortic punch** (4-5 mm) cuts a precise circular hole -- ideal for thick, atherosclerotic walls. Incisional arteriotomies are preferable for small recipients where excision would narrow the lumen.
+Removes an elliptical piece of sidewall. On cerebral arteries, tented with microforceps and cut along its base. On cervical arteries ([ECA](../rhoton-wiki/vault/entities/external-carotid-artery.md), [[common-carotid-artery|CCA]], V3 [VA](../rhoton-wiki/vault/entities/vertebral-artery.md)), an **aortic punch** (4-5 mm) cuts a precise circular hole -- ideal for thick, atherosclerotic walls. Incisional arteriotomies are preferable for small recipients where excision would narrow the lumen.
 
 ## Transection Bifurcotomy
 

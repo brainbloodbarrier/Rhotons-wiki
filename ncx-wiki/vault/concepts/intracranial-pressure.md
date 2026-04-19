@@ -107,7 +107,7 @@ An increase in volume of any one compartment must be compensated by a decrease i
 ### Tier 2 — Second-line
 - Moderate hypothermia (32-34°C)
 - Barbiturate coma (pentobarbital: loading 10 mg/kg over 30 min, then 5 mg/kg/hr × 3 hrs, maintenance 1-3 mg/kg/hr — titrate to burst suppression on EEG)
-- [[decompressive-craniectomy]] — for refractory elevation
+- [decompressive-craniectomy](../nsatlas-wiki/vault/procedures/decompressive-craniectomy.md) — for refractory elevation
 
 ### Tier 3 — Salvage
 - Decompressive craniectomy if not yet performed

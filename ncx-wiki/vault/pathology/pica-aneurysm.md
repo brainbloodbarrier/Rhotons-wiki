@@ -17,7 +17,7 @@ approached-via:
   - "[[far-lateral-approach]]"
 treats:
   - "[[posterior-inferior-cerebellar-artery]]"
-  - "[[vertebral-artery]]"
+  - "[vertebral-artery](../rhoton-wiki/vault/entities/vertebral-artery.md)"
 ---
 
 # PICA Aneurysm
@@ -28,11 +28,11 @@ Posterior inferior cerebellar artery (PICA) aneurysms arise at the PICA-vertebra
 
 ### Vertebral Artery
 
-The [[vertebral-artery]] (VA) originates from the [[subclavian-artery]], ascends through the transverse foramina of C1-C6, swings behind the lateral mass of the atlas, passes anterior to the lateral [[atlanto-occipital-membrane]], and pierces the dura behind the [[occipital-condyle]]. Intradurally, it passes over dorsal and ventral roots of C1, crosses anterior to the [[dentate-ligament]] and spinal [[accessory-nerve]], courses across the [[medullary-pyramid]], and joins the contralateral VA at or near the [[pontomedullary-sulcus]] to form the vertebrobasilar junction (VBJ).
+The [vertebral-artery](../rhoton-wiki/vault/entities/vertebral-artery.md) (VA) originates from the [[subclavian-artery]], ascends through the transverse foramina of C1-C6, swings behind the lateral mass of the atlas, passes anterior to the lateral [[atlanto-occipital-membrane]], and pierces the dura behind the [occipital-condyle](../rhoton-wiki/vault/concepts/occipital-condyle.md). Intradurally, it passes over dorsal and ventral roots of C1, crosses anterior to the [dentate-ligament](../rhoton-wiki/vault/entities/dentate-ligament.md) and spinal [[accessory-nerve]], courses across the [[medullary-pyramid]], and joins the contralateral VA at or near the [[pontomedullary-sulcus]] to form the vertebrobasilar junction (VBJ).
 
 ### VA Branches
 
-- **Posterior spinal artery**: first intracranial branch; courses behind the [[dentate-ligament]] with ascending/descending branches supplying the dorsal columns
+- **Posterior spinal artery**: first intracranial branch; courses behind the [dentate-ligament](../rhoton-wiki/vault/entities/dentate-ligament.md) with ascending/descending branches supplying the dorsal columns
 - **[[Posterior-inferior-cerebellar-artery]]**: largest and most significant VA branch
 - **Anterior spinal artery**: last branch proximal to the VBJ; forms a single midline artery supplying the pyramids, [[medial-lemniscus]], and [[hypoglossal-nerve]] nuclei
 
@@ -43,12 +43,12 @@ The [[vertebral-artery]] (VA) originates from the [[subclavian-artery]], ascends
 | p1 | Anterior medullary | PICA origin to medial edge of [[inferior-olive]] (past CN XII rootlets) |
 | p2 | Lateral medullary | Olive to CN IX-XI rootlets at the lateral olive edge |
 | p3 | Tonsillomedullary | Past CN IX-XI, descends to inferior tonsil (caudal loop), ascends along medial tonsil |
-| p4 | Telovelotonsillar | Midpoint of medial tonsil ascent to [[tela-choroidea]] of [[fourth-ventricle]] (cranial/supratonsillar loop) |
+| p4 | Telovelotonsillar | Midpoint of medial tonsil ascent to [[tela-choroidea]] of [fourth-ventricle](../rhoton-wiki/vault/concepts/fourth-ventricle.md) (cranial/supratonsillar loop) |
 | p5 | Cortical | Emerges from tonsillobiventral fissure; medial trunk (vermian surface) and lateral trunk (hemispheric surface) |
 
 ### Lower Cranial Nerve Anatomy
 
-The [[accessory-nerve]] (CN XI) traverses the entire far-lateral field from cervical rootlets through the [[foramen-magnum]] to the [[jugular-foramen]]. It leads to CN IX and CN X. Key landmarks:
+The [[accessory-nerve]] (CN XI) traverses the entire far-lateral field from cervical rootlets through the [foramen-magnum](../rhoton-wiki/vault/concepts/foramen-magnum.md) to the [jugular-foramen](../rhoton-wiki/vault/concepts/jugular-foramen.md). It leads to CN IX and CN X. Key landmarks:
 
 - **Retro-olivary sulcus**: origin of CN IX, X, XI rootlets (between lateral olive and posterolateral medulla)
 - **Preolivary sulcus**: origin of CN XII rootlets (between medial olive and medullary pyramids)
@@ -80,7 +80,7 @@ Preserve the arachnoid of the [[cisterna-magna]] until the microscope is in the 
 
 ### 6-Step Dissection
 
-1. **Cut the [[dentate-ligament]]** at its foramen magnum origin and at C1 to access the VA anteriorly and widen the corridor. Prepare a segment of distal VA for proximal control. Distinguish the dentate ligament (pure white, fibrous) from CN XI (off-white, with perforating arteries, merges with cervical rootlets).
+1. **Cut the [dentate-ligament](../rhoton-wiki/vault/entities/dentate-ligament.md)** at its foramen magnum origin and at C1 to access the VA anteriorly and widen the corridor. Prepare a segment of distal VA for proximal control. Distinguish the dentate ligament (pure white, fibrous) from CN XI (off-white, with perforating arteries, merges with cervical rootlets).
 2. **Identify the PICA caudal loop** under the tonsil in the cerebellomedullary fissure. Retract the tonsil superiorly to widen the fissure; medullary and tonsillar surfaces separate easily.
 3. **Converge on the PICA-VA junction** -- antegrade VA dissection and retrograde PICA dissection meet just below the aneurysm base.
 4. **Identify the distal VA** medially -- it veers toward the VBJ; may require lateral traction on the aneurysm or medial traction on the medulla. Preserve small medullary perforators.
@@ -131,6 +131,6 @@ In situ bypasses are preferred: entirely intracranial, well-matched calibers, si
 
 - [[basilar-bifurcation-aneurysm]] -- proximal posterior circulation; shares VA anatomy
 - [[far-lateral-approach]] -- primary surgical corridor
-- [[vertebral-artery]] -- parent vessel anatomy
+- [vertebral-artery](../rhoton-wiki/vault/entities/vertebral-artery.md) -- parent vessel anatomy
 - [[posterior-inferior-cerebellar-artery]] -- branch vessel at risk
 - [[pcoa-aneurysm]] -- PCoA reciprocity with P1 relevant to posterior circulation collateral

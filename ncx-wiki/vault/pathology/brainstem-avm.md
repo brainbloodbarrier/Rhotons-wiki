@@ -18,8 +18,8 @@ created: 2026-04-15
 updated: 2026-04-15
 approached-via:
   - "[[orbitozygomatic-approach]]"
-  - "[[supracerebellar-infratentorial-approach]]"
-  - "[[retrosigmoid-approach]]"
+  - "[supracerebellar-infratentorial-approach](../rhoton-wiki/vault/references/supracerebellar-infratentorial-approach.md)"
+  - "[retrosigmoid-approach](../rhoton-wiki/vault/references/retrosigmoid-approach.md)"
   - "[[far-lateral-approach]]"
 treats:
   - "[[midbrain]]"
@@ -39,7 +39,7 @@ Posterior fossa anatomy occurs in threes:
 
 | Complex | Brainstem | Artery | Peduncle | Fissure | Surface | Cranial Nerves |
 |---|---|---|---|---|---|---|
-| Upper | [[Midbrain]] | [[superior-cerebellar-artery]] (SCA) | Superior cerebellar | Cerebellomesencephalic | Tentorial | CN III, IV, V |
+| Upper | [[Midbrain]] | [superior-cerebellar-artery](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md) (SCA) | Superior cerebellar | Cerebellomesencephalic | Tentorial | CN III, IV, V |
 | Middle | [[Pons]] | [[anterior-inferior-cerebellar-artery]] (AICA) | Middle cerebellar | Cerebellopontine | Petrosal | CN VI, VII, VIII |
 | Lower | [[Medulla-oblongata]] | [[posterior-inferior-cerebellar-artery]] (PICA) | Inferior cerebellar | Cerebellomedullary | Suboccipital | CN IX, X, XI, XII |
 
@@ -49,11 +49,11 @@ Surface landmarks define AVM localization: cerebral peduncles and interpeduncula
 
 ### Arterial Supply
 
-Brainstem AVMs are fed by the first three segments of each cerebellar artery: anterior surfaces by s1/a1/p1 segments, lateral surfaces by s2/a2/p2 segments, posterior surfaces by s3/a3/p3 segments. Perforating arteries from the [[basilar-artery]] can supply anterior pontine AVMs directly. The meningohypophyseal trunk may contribute feeders along CN V through Meckel's cave.
+Brainstem AVMs are fed by the first three segments of each cerebellar artery: anterior surfaces by s1/a1/p1 segments, lateral surfaces by s2/a2/p2 segments, posterior surfaces by s3/a3/p3 segments. Perforating arteries from the [basilar-artery](../rhoton-wiki/vault/entities/basilar-artery.md) can supply anterior pontine AVMs directly. The meningohypophyseal trunk may contribute feeders along CN V through Meckel's cave.
 
 ### Venous Drainage
 
-Brainstem veins include longitudinal veins (median and lateral anterior pontomesencephalic/medullary veins, lateral mesencephalic vein) and transverse veins (pontomesencephalic sulcus vein, pontomedullary sulcus vein). Anterior veins course laterally to the superior and inferior petrosal veins. Posterior/ascending veins reach [[basal-vein-of-rosenthal]] and [[vein-of-galen]].
+Brainstem veins include longitudinal veins (median and lateral anterior pontomesencephalic/medullary veins, lateral mesencephalic vein) and transverse veins (pontomesencephalic sulcus vein, pontomedullary sulcus vein). Anterior veins course laterally to the superior and inferior petrosal veins. Posterior/ascending veins reach [basal-vein-of-rosenthal](../rhoton-wiki/vault/entities/basal-vein-of-rosenthal.md) and [vein-of-galen](../rhoton-wiki/vault/entities/vein-of-galen.md).
 
 ## Six Brainstem AVM Subtypes
 
@@ -63,11 +63,11 @@ On the anterior [[midbrain]] surface on or between the [[cerebral-peduncle]]. As
 
 ### 2. Posterior Midbrain AVM
 
-On the tectum/quadrigeminal plate below the pineal gland. Fed bilaterally by long circumflex perforators (P1/P2 PCA) and s3 SCA branches. Drains via tectal vein and vein of the cerebellomesencephalic fissure to [[vein-of-galen]]. Exposed through torcular craniotomy and [[supracerebellar-infratentorial-approach]]. The sitting position with gravity retraction opens a retractor-less panorama of the quadrigeminal cistern.
+On the tectum/quadrigeminal plate below the pineal gland. Fed bilaterally by long circumflex perforators (P1/P2 PCA) and s3 SCA branches. Drains via tectal vein and vein of the cerebellomesencephalic fissure to [vein-of-galen](../rhoton-wiki/vault/entities/vein-of-galen.md). Exposed through torcular craniotomy and [supracerebellar-infratentorial-approach](../rhoton-wiki/vault/references/supracerebellar-infratentorial-approach.md). The sitting position with gravity retraction opens a retractor-less panorama of the quadrigeminal cistern.
 
 ### 3. Anterior Pontine AVM
 
-On the rectangular anterior pontine surface between the basilar sulcus and CN V root. Fed by s1 SCA, a1 AICA, and direct [[basilar-artery]] branches. Meningohypophyseal trunk feeders travel along CN V from Meckel's cave. Accessed via extended [[retrosigmoid-approach]] with limited mastoidectomy and sigmoid sinus skeletonization. Working windows above (supratrigeminal triangle) and below (infratrigeminal triangle) CN V provide limited but critical access. Most common brainstem AVM subtype by some accounts.
+On the rectangular anterior pontine surface between the basilar sulcus and CN V root. Fed by s1 SCA, a1 AICA, and direct [basilar-artery](../rhoton-wiki/vault/entities/basilar-artery.md) branches. Meningohypophyseal trunk feeders travel along CN V from Meckel's cave. Accessed via extended [retrosigmoid-approach](../rhoton-wiki/vault/references/retrosigmoid-approach.md) with limited mastoidectomy and sigmoid sinus skeletonization. Working windows above (supratrigeminal triangle) and below (infratrigeminal triangle) CN V provide limited but critical access. Most common brainstem AVM subtype by some accounts.
 
 ### 4. Lateral Pontine AVM
 

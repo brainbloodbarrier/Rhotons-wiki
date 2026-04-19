@@ -19,11 +19,11 @@ Cerebral bypass surgery restores, augments, or replaces blood flow to the brain 
 
 | # | Bypass Type | Anastomosis | Flow Category | Example |
 |---|-------------|------------|---------------|---------|
-| 1 | EC-IC bypass | End-to-side | Augmentation | [[superficial-temporal-artery\|STA]]-MCA, [[occipital-artery\|OA]]-PICA |
-| 2 | IC-IC interposition graft | End-to-side (x2) | Replacement | [[external-carotid-artery\|ECA]]-[[radial-artery-graft\|RAG]]-MCA, [[internal-carotid-artery\|ICA]]-[[saphenous-vein-graft\|SVG]]-MCA |
-| 3 | EC-IC interposition graft | End-to-side + End-to-end | Replacement | ECA-RAG-[[posterior-cerebral-artery\|PCA]], V3 [[vertebral-artery\|VA]]-RAG-[[posterior-inferior-cerebellar-artery\|PICA]] |
+| 1 | EC-IC bypass | End-to-side | Augmentation | [[superficial-temporal-artery\|STA]]-MCA, [OA](../rhoton-wiki/vault/entities/occipital-artery.md)-PICA |
+| 2 | IC-IC interposition graft | End-to-side (x2) | Replacement | [ECA](../rhoton-wiki/vault/entities/external-carotid-artery.md)-[[radial-artery-graft\|RAG]]-MCA, [ICA](../rhoton-wiki/vault/entities/internal-carotid-artery.md)-[[saphenous-vein-graft\|SVG]]-MCA |
+| 3 | EC-IC interposition graft | End-to-side + End-to-end | Replacement | ECA-RAG-[PCA](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md), V3 [VA](../rhoton-wiki/vault/entities/vertebral-artery.md)-RAG-[[posterior-inferior-cerebellar-artery\|PICA]] |
 | 4 | Reimplantation | End-to-side | Replacement | Efferent branch reimplanted onto parent or graft |
-| 5 | In-situ bypass | Side-to-side | Communication | PICA-PICA, [[superior-cerebellar-artery\|SCA]]-SCA, A3-A3 |
+| 5 | In-situ bypass | Side-to-side | Communication | PICA-PICA, [SCA](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md)-SCA, A3-A3 |
 | 6 | Reanastomosis | End-to-end | Reconstruction | M1-M2 after [[mca-aneurysm\|MCA aneurysm]] excision |
 | 7 | Combined bypass | Multiple | Variable | EC-IC + in-situ for complex giant aneurysms |
 
@@ -33,14 +33,14 @@ Bypasses serve three hemodynamic functions:
 
 - **Augmentation (convergent)**: EC-IC bypass introduces new flow into the recipient territory without interrupting native supply. The [[superficial-temporal-artery|STA]]-MCA bypass is the prototype, creating a Y-shaped convergence of donor and recipient streams.
 - **Replacement (convergent)**: Interpositional grafts using [[radial-artery-graft|radial artery]] or [[saphenous-vein-graft|saphenous vein]] replace flow that will be or has been lost by deliberate parent artery sacrifice. Two anastomoses are required (proximal and distal).
-- **Communication**: In-situ side-to-side bypasses mimic the [[anterior-communicating-artery|anterior]] and [[posterior-communicating-artery|posterior communicating arteries]], creating a demand-driven connection between parallel arteries without governing flow direction.
+- **Communication**: In-situ side-to-side bypasses mimic the [anterior](../rhoton-wiki/vault/entities/anterior-communicating-artery.md) and [posterior communicating arteries](../rhoton-wiki/vault/entities/posterior-communicating-artery.md), creating a demand-driven connection between parallel arteries without governing flow direction.
 - **Reconstruction**: End-to-end reanastomosis splices arterial ends after pathology excision, restoring original flow without adding a new input.
 
 ## Indications
 
 ### Moyamoya Disease
 
-[[Moyamoya|Moyamoya disease]] is the most common indication. Progressive steno-occlusion of the supraclinoid [[internal-carotid-artery|ICA]] causes ischemic symptoms responsive to STA-MCA bypass (single or double-barrel), often combined with indirect techniques. Bilateral procedures are staged.
+[[Moyamoya|Moyamoya disease]] is the most common indication. Progressive steno-occlusion of the supraclinoid [ICA](../rhoton-wiki/vault/entities/internal-carotid-artery.md) causes ischemic symptoms responsive to STA-MCA bypass (single or double-barrel), often combined with indirect techniques. Bilateral procedures are staged.
 
 ### Complex Aneurysms
 
@@ -66,8 +66,8 @@ A debated indication. The EC/IC Bypass Study (1985) showed no benefit in unselec
 
 | Donor | Source | Caliber (mm) | Bypass Use |
 |-------|--------|--------------|------------|
-| [[superficial-temporal-artery\|STA]] | [[external-carotid-artery\|ECA]] terminal | 1.93 | EC-IC low-flow bypass (most common) |
-| [[occipital-artery\|OA]] | ECA | 2.05 | OA-PICA, OA-[[anterior-inferior-cerebellar-artery\|AICA]] |
+| [[superficial-temporal-artery\|STA]] | [ECA](../rhoton-wiki/vault/entities/external-carotid-artery.md) terminal | 1.93 | EC-IC low-flow bypass (most common) |
+| [OA](../rhoton-wiki/vault/entities/occipital-artery.md) | ECA | 2.05 | OA-PICA, OA-[[anterior-inferior-cerebellar-artery\|AICA]] |
 | [[radial-artery-graft\|Radial artery]] | Forearm harvest | 2.5-3.0 | Intermediate-flow interpositional graft |
 | [[saphenous-vein-graft\|Saphenous vein]] | Leg harvest | 3.5-4.5 | High-flow interpositional graft |
 

@@ -26,7 +26,7 @@ treats:
 
 # Parieto-Occipital Arteriovenous Malformation
 
-The parietal and occipital lobes are treated as a unit because their vascular anatomy is interrelated and AVMs in both lobes are managed similarly. The parieto-occipital unit is unique in receiving supply from all three major cerebral arteries ([[middle-cerebral-artery]], [[anterior-cerebral-artery]], [[posterior-cerebral-artery]]), unlike the frontal and temporal lobes which receive from only two. The lateral parieto-occipital AVM is the second most common subtype overall (n = 52, 9%).
+The parietal and occipital lobes are treated as a unit because their vascular anatomy is interrelated and AVMs in both lobes are managed similarly. The parieto-occipital unit is unique in receiving supply from all three major cerebral arteries ([middle-cerebral-artery](../rhoton-wiki/vault/entities/middle-cerebral-artery.md), [anterior-cerebral-artery](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md), [posterior-cerebral-artery](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md)), unlike the frontal and temporal lobes which receive from only two. The lateral parieto-occipital AVM is the second most common subtype overall (n = 52, 9%).
 
 ## Microsurgical Anatomy
 
@@ -50,7 +50,7 @@ The parieto-occipital lobe has three surfaces:
 
 ### Venous Drainage
 
-Ascending veins predominate to the [[superior-sagittal-sinus]]: postcentral, anterior/posterior parietal, and occipital veins, with the vein of Trolard as the largest. A 4-5 cm zone along the distal SSS is free of large bridging veins -- exploited for [[posterior-interhemispheric-approach]]. Medial drainage goes deep to the [[vein-of-galen]] via posterior pericallosal vein and anterior calcarine vein. Basal veins course to tentorial and [[transverse-sinus]].
+Ascending veins predominate to the [[superior-sagittal-sinus]]: postcentral, anterior/posterior parietal, and occipital veins, with the vein of Trolard as the largest. A 4-5 cm zone along the distal SSS is free of large bridging veins -- exploited for [[posterior-interhemispheric-approach]]. Medial drainage goes deep to the [vein-of-galen](../rhoton-wiki/vault/entities/vein-of-galen.md) via posterior pericallosal vein and anterior calcarine vein. Basal veins course to tentorial and [transverse-sinus](../rhoton-wiki/vault/entities/transverse-sinus.md).
 
 ## Four Parieto-Occipital AVM Subtypes
 
@@ -68,7 +68,7 @@ Occupies both medial and lateral surfaces at the medial corner. The only cerebra
 
 ### 4. Basal Occipital AVM
 
-The least common parieto-occipital subtype (~10%). Located on the basal undersurface along the tentorium. Fed almost exclusively by PCA (PosTempA and calcarine artery). Exposed through torcular craniotomy crossing the [[transverse-sinus]] to access the supratentorial-infraoccipital plane. Visual pathways (optic radiations and visual cortex) are intimately associated, demanding tight dissection planes.
+The least common parieto-occipital subtype (~10%). Located on the basal undersurface along the tentorium. Fed almost exclusively by PCA (PosTempA and calcarine artery). Exposed through torcular craniotomy crossing the [transverse-sinus](../rhoton-wiki/vault/entities/transverse-sinus.md) to access the supratentorial-infraoccipital plane. Visual pathways (optic radiations and visual cortex) are intimately associated, demanding tight dissection planes.
 
 ## Resection Principles
 

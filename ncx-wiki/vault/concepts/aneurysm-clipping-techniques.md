@@ -22,9 +22,9 @@ Rhoton's rules govern clip orientation and guide aneurysm analysis:
 1. Aneurysms arise at **branching sites** on the parent artery (side branch or bifurcation)
 2. Aneurysms arise at **turns or curves** in the outer wall where hemodynamic stress is greatest
 3. Aneurysms **point in the direction** blood would have gone if the curve was absent
-4. Each aneurysm is associated with a set of [[perforating-arteries|perforating arteries]] that must be preserved
+4. Each aneurysm is associated with a set of [perforating arteries](../rhoton-wiki/vault/synthesis/perforating-arteries.md) that must be preserved
 
-From Rule 1: clip perpendicular to the afferent artery and parallel to efferent branches at bifurcation aneurysms (e.g., [[mca-aneurysm|MCA]], [[basilar-bifurcation-aneurysm|basilar bifurcation]]). From Rules 2-3: clip parallel to the parent artery at curve aneurysms (e.g., [[ophthalmic-artery-aneurysm|OphA]], [[superior-hypophyseal-artery|SHA]]). From Rule 4: clip parallel to the line of perforators across the aneurysm base (e.g., [[acoa-aneurysm|ACoA]], [[basilar-bifurcation-aneurysm|basilar bifurcation]]).
+From Rule 1: clip perpendicular to the afferent artery and parallel to efferent branches at bifurcation aneurysms (e.g., [[mca-aneurysm|MCA]], [[basilar-bifurcation-aneurysm|basilar bifurcation]]). From Rules 2-3: clip parallel to the parent artery at curve aneurysms (e.g., [[ophthalmic-artery-aneurysm|OphA]], [SHA](../rhoton-wiki/vault/entities/superior-hypophyseal-artery.md)). From Rule 4: clip parallel to the line of perforators across the aneurysm base (e.g., [[acoa-aneurysm|ACoA]], [[basilar-bifurcation-aneurysm|basilar bifurcation]]).
 
 ## Visualization
 
@@ -73,11 +73,11 @@ Used for giant aneurysms, efferent arteries adherent to the dome, or unusual bra
 
 ## Clip Reconstruction
 
-Sometimes requires deliberately entering the aneurysm. Indications include thrombectomy for thrombotic aneurysms, coil mobilization in recurrent coiled aneurysms, and decapitation of giant aneurysms. These maneuvers leave a gaping hole requiring reconstructive repair under ongoing [[temporary-clipping|ischemia from temporary clipping]]. Complications include incomplete proximal/distal control with back-bleeding, adherent [[perforating-arteries|perforators]], difficulty reconstructing the neck post-transection, and atherosclerotic tissue at the neck. The brain can be reperfused only after the opened aneurysm is completely closed.
+Sometimes requires deliberately entering the aneurysm. Indications include thrombectomy for thrombotic aneurysms, coil mobilization in recurrent coiled aneurysms, and decapitation of giant aneurysms. These maneuvers leave a gaping hole requiring reconstructive repair under ongoing [[temporary-clipping|ischemia from temporary clipping]]. Complications include incomplete proximal/distal control with back-bleeding, adherent [perforators](../rhoton-wiki/vault/synthesis/perforating-arteries.md), difficulty reconstructing the neck post-transection, and atherosclerotic tissue at the neck. The brain can be reperfused only after the opened aneurysm is completely closed.
 
 ## Related Pages
 
 - [[subarachnoid-dissection]] -- cisternal dissection preceding clipping
 - [[temporary-clipping]] -- flow arrest enabling final dissection
 - [[intraoperative-rupture]] -- clip-related rupture management
-- [[circle-of-willis]] -- parent anatomy for all seven aneurysm types
+- [circle-of-willis](../rhoton-wiki/vault/synthesis/circle-of-willis.md) -- parent anatomy for all seven aneurysm types

@@ -111,7 +111,7 @@ Signs of elevated [[intracranial-pressure\|ICP]]:
 
 ### Endoscopic
 
-- [[endoscopic-third-ventriculostomy\|ETV]] — preferred for obstructive HCP, creates communication between 3rd ventricle floor and prepontine cistern
+- [ETV](../nsatlas-wiki/vault/procedures/endoscopic-third-ventriculostomy.md) — preferred for obstructive HCP, creates communication between 3rd ventricle floor and prepontine cistern
 - ETV + choroid plexus cauterization (ETV/CPC) — increasingly used in pediatric HCP
 
 ### Medical (temporizing only)

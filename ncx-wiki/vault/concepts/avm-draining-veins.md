@@ -27,7 +27,7 @@ Distinguishing features under the [[microsurgery|operating microscope]]:
 |---|---|---|
 | Wall | Muscular striations visible, slightly pink | Smooth, uniform, brighter red |
 | Translucency | Opaque | Translucent; mixing of oxygenated and deoxygenated blood visible |
-| Course | Dives into sulci/fissures proximally | Rises to cortical surfaces en route to [[dural-venous-sinuses\|sinuses]] |
+| Course | Dives into sulci/fissures proximally | Rises to cortical surfaces en route to [sinuses](../rhoton-wiki/vault/concepts/dural-venous-sinuses.md) |
 | Tributaries | Bifurcates with pial branches to cortex | Merges with venous tributaries, darker blood at confluence |
 | Test occlusion | No color change | Darkens distally |
 | Embolization | Embolic agents create paradoxical darkening | Remains bright red despite aggressive embolization |
@@ -38,7 +38,7 @@ Before committing to occlusion, always ask: "Is it artery or is it vein?"
 
 Approximately one-third of AVMs are subcortical with only an arterialized vein on the surface. The draining vein serves as a **compass** that guides dissection to the nidus. Dissecting along a vein is inherently risky -- one wrong move can injure it, induce bleeding before seeing the AVM, or compromise outflow while controlling bleeding. Distended veins are difficult to get around, requiring gentle dynamic retraction with a sucker.
 
-The draining vein also becomes an **odometer** that measures resection progress as its color changes from red to purple to blue. A stubbornly red vein signals that important arterial input remains -- from incomplete [[avm-resection-principles|circumdissection]], deep [[perforating-arteries|perforator]] supply, or feeders hiding along the vein's underbelly. Red veins mean the fight continues; blue veins are the AVM's white flag of surrender.
+The draining vein also becomes an **odometer** that measures resection progress as its color changes from red to purple to blue. A stubbornly red vein signals that important arterial input remains -- from incomplete [[avm-resection-principles|circumdissection]], deep [perforator](../rhoton-wiki/vault/synthesis/perforating-arteries.md) supply, or feeders hiding along the vein's underbelly. Red veins mean the fight continues; blue veins are the AVM's white flag of surrender.
 
 ## Primary vs Secondary Veins
 
@@ -62,12 +62,12 @@ Deep draining veins are present in approximately one-third of AVMs but provide n
 | AVM Type | Primary Veins | Sinuses |
 |---|---|---|
 | Frontal | Ascending convexity veins, descending sylvian veins, medial frontal veins | [[superior-sagittal-sinus\|SSS]] |
-| Temporal | Temporal convexity veins, [[vein-of-labbe\|Labbe]], [[basal-vein-of-rosenthal\|BVR]] | [[transverse-sinus\|TrvS]], [[tentorial-sinus\|TentS]] |
+| Temporal | Temporal convexity veins, [[vein-of-labbe\|Labbe]], [BVR](../rhoton-wiki/vault/entities/basal-vein-of-rosenthal.md) | [TrvS](../rhoton-wiki/vault/entities/transverse-sinus.md), [[tentorial-sinus\|TentS]] |
 | Parieto-occipital | Postcentral, parietal, occipital veins; [[vein-of-trolard\|Trolard]] | SSS, [[torcular-herophili\|Torc]] |
-| Ventricular | [[internal-cerebral-vein\|ICV]], atrial veins, choroidal veins | [[straight-sinus\|StrS]], [[vein-of-galen\|VoG]] |
+| Ventricular | [[internal-cerebral-vein\|ICV]], atrial veins, choroidal veins | [[straight-sinus\|StrS]], [VoG](../rhoton-wiki/vault/entities/vein-of-galen.md) |
 | Deep | Deep sylvian vein, caudate veins, thalamostriate vein | [[straight-sinus\|StrS]] |
 | Brainstem | Pontomesencephalic veins, peduncular veins, tectal veins | Petrosal sinuses |
-| Cerebellar | Hemispheric veins, vermian veins, tonsillar veins | Torc, TrvS, [[sigmoid-sinus\|SigmS]] |
+| Cerebellar | Hemispheric veins, vermian veins, tonsillar veins | Torc, TrvS, [SigmS](../rhoton-wiki/vault/entities/sigmoid-sinus.md) |
 
 ## Related Pages
 

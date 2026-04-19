@@ -31,15 +31,15 @@ Published in 1986, the Spetzler-Martin system is the predominant classification 
 
 **Grade = Size + Eloquence + Venous Drainage** (range I to V)
 
-Grade VI designates AVMs too complex for resection (intrinsic [[brainstem]], holohemispheric).
+Grade VI designates AVMs too complex for resection (intrinsic [brainstem](../rhoton-wiki/vault/concepts/brainstem.md), holohemispheric).
 
 ### Eloquent Areas
 
-Defined as [[motor-pathway|sensorimotor cortex]], language areas (Wernicke's and Broca's), [[visual-pathway|visual cortex]], hypothalamus, thalamus, [[internal-capsule]], brainstem, cerebellar peduncles, and deep cerebellar nuclei.
+Defined as [[motor-pathway|sensorimotor cortex]], language areas (Wernicke's and Broca's), [[visual-pathway|visual cortex]], hypothalamus, thalamus, [internal-capsule](../rhoton-wiki/vault/concepts/internal-capsule.md), brainstem, cerebellar peduncles, and deep cerebellar nuclei.
 
 ### Venous Drainage
 
-Superficial: drainage into cortical veins and convexity sinuses. Deep: drainage into veins coursing to the [[vein-of-galen|vein of Galen]] (i.e., [[internal-cerebral-vein|ICV]], [[basal-vein-of-rosenthal|BVR]], precentral cerebellar vein). In [[posterior-fossa]] AVMs, only veins draining to the [[straight-sinus]] or [[transverse-sinus]] are superficial. See [[avm-draining-veins]] for the full venous anatomy.
+Superficial: drainage into cortical veins and convexity sinuses. Deep: drainage into veins coursing to the [vein of Galen](../rhoton-wiki/vault/entities/vein-of-galen.md) (i.e., [[internal-cerebral-vein|ICV]], [BVR](../rhoton-wiki/vault/entities/basal-vein-of-rosenthal.md), precentral cerebellar vein). In [posterior-fossa](../rhoton-wiki/vault/concepts/posterior-fossa.md) AVMs, only veins draining to the [[straight-sinus]] or [transverse-sinus](../rhoton-wiki/vault/entities/transverse-sinus.md) are superficial. See [[avm-draining-veins]] for the full venous anatomy.
 
 ## Clinical Validation
 
@@ -116,7 +116,7 @@ In a consecutive series of 300 patients, the supplementary system had higher pre
 ## Factors Not Captured
 
 Several surgical risk determinants are absent from both systems:
-- Deep [[perforating-arteries|perforating artery]] supply (lowers favorable outcomes by 15%)
+- Deep [perforating artery](../rhoton-wiki/vault/synthesis/perforating-arteries.md) supply (lowers favorable outcomes by 15%)
 - Prior [[radiosurgery]] or embolization effects on tissue planes
 - Specific AVM subtype anatomy (see [[cerebrovascular-avms-overview]])
 - [[avm-resection-principles|Dissection difficulty]] from compact vs diffuse nidus morphology

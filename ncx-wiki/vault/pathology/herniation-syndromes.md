@@ -35,13 +35,13 @@ Brain herniation occurs when intracranial mass effect displaces brain tissue acr
 | [[uncal-herniation\|Uncal]] | Medial temporal (uncus, hippocampal gyrus) | Tentorial incisura (lateral) | Ipsilateral CN III palsy → dilated pupil |
 | [[central-herniation\|Central]] | Diencephalon | Tentorial incisura (axial) | Progressive rostrocaudal deterioration |
 | [[tonsillar-herniation\|Tonsillar]] | Cerebellar tonsils | Foramen magnum | Respiratory arrest (rapidly fatal) |
-| Subfalcine | Cingulate gyrus | Under falx cerebri | Contralateral leg weakness, [[anterior-cerebral-artery\|ACA]] infarct |
-| Upward cerebellar | Cerebellar vermis | Above tentorium | [[superior-cerebellar-artery\|SCA]] compression, hydrocephalus |
+| Subfalcine | Cingulate gyrus | Under falx cerebri | Contralateral leg weakness, [ACA](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md) infarct |
+| Upward cerebellar | Cerebellar vermis | Above tentorium | [SCA](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md) compression, hydrocephalus |
 | External | Brain through cranial defect | Craniectomy site | Fungus cerebri |
 
 ## Uncal Herniation
 
-Most common acute herniation — typically from rapidly expanding traumatic hematomas (lateral middle fossa or temporal lobe). The uncus and hippocampal gyrus are pushed over the tentorial edge, entrapping the [[oculomotor-nerve\|CN III]] and directly compressing the midbrain. [[posterior-cerebral-artery\|PCA]] may be occluded.
+Most common acute herniation — typically from rapidly expanding traumatic hematomas (lateral middle fossa or temporal lobe). The uncus and hippocampal gyrus are pushed over the tentorial edge, entrapping the [CN III](../rhoton-wiki/vault/entities/oculomotor-nerve.md) and directly compressing the midbrain. [PCA](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md) may be occluded.
 
 **Earliest consistent sign:** unilaterally dilating pupil (ipsilateral CN III compression). Impaired consciousness is NOT a reliable early sign.
 
@@ -96,7 +96,7 @@ Cerebellar tonsils cone through the foramen magnum, compressing the medulla → 
 
 ## Upward Cerebellar Herniation
 
-Posterior fossa masses can push the cerebellar vermis above the tentorium, compressing the midbrain. May occlude [[superior-cerebellar-artery\|SCAs]] → cerebellar infarction. Can compress the Sylvian aqueduct → [[hydrocephalus]]. May be exacerbated by ventriculostomy.
+Posterior fossa masses can push the cerebellar vermis above the tentorium, compressing the midbrain. May occlude [SCAs](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md) → cerebellar infarction. Can compress the Sylvian aqueduct → [[hydrocephalus]]. May be exacerbated by ventriculostomy.
 
 ## CT/MRI Criteria
 
@@ -106,5 +106,5 @@ Impending uncal herniation: encroachment on lateral aspect of suprasellar cister
 
 - [[intracranial-pressure]] — pathophysiology driving herniation
 - [[glasgow-coma-scale]] — monitoring progression
-- [[decompressive-craniectomy]] — surgical treatment
+- [decompressive-craniectomy](../nsatlas-wiki/vault/procedures/decompressive-craniectomy.md) — surgical treatment
 - [[cerebrovascular-aneurysms-overview]] — SAH as precipitant
