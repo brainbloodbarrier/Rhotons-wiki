@@ -35,9 +35,9 @@ Three principal variations exist:
 
 ## Side-to-Side Anastomosis
 
-The side-to-side anastomosis creates a communicating bypass mimicking the brain's [[anterior-communicating-artery|anterior]] and [[posterior-communicating-artery|posterior communicating arteries]]. No structural donor limb exists -- flow is governed by demand from pressure gradients or remote occlusion.
+The side-to-side anastomosis creates a communicating bypass mimicking the brain's [anterior](../rhoton-wiki/vault/entities/anterior-communicating-artery.md) and [posterior communicating arteries](../rhoton-wiki/vault/entities/posterior-communicating-artery.md). No structural donor limb exists -- flow is governed by demand from pressure gradients or remote occlusion.
 
-This "kissing" bypass requires parallel arteries in close proximity, each receiving linear arteriotomies two to three times their diameter. It is a **one-way-up anastomosis**: the intraluminal suture line is sewn first (with entrance and exit stitches), followed by the extraluminal line. No arterial rotation is needed, making it ideal for immobile in-situ donors such as PICA-to-PICA or [[posterior-cerebral-artery|PCA]]-to-PCA bypasses. Intraluminal suturing proceeds at five stitches per millimeter; the needle driver and microforceps displace outer walls downward while lifting inner walls upward, preventing through-catches.
+This "kissing" bypass requires parallel arteries in close proximity, each receiving linear arteriotomies two to three times their diameter. It is a **one-way-up anastomosis**: the intraluminal suture line is sewn first (with entrance and exit stitches), followed by the extraluminal line. No arterial rotation is needed, making it ideal for immobile in-situ donors such as PICA-to-PICA or [PCA](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md)-to-PCA bypasses. Intraluminal suturing proceeds at five stitches per millimeter; the needle driver and microforceps displace outer walls downward while lifting inner walls upward, preventing through-catches.
 
 ## End-to-End Anastomosis
 

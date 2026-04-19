@@ -107,3 +107,17 @@ Split `pathology/` → `pathology/ + cerebrovascular/`:
 - **Agents**: read this file before creating any folder or moving pages in the NCX vault.
 - **Human reviewer**: cite this document when rejecting a PR that violates thresholds.
 - **Amendments**: propose a PR touching this file; commit message `policy(ncx): …`.
+
+## 11. Cross-wiki references
+
+Each vault (including this one) is **self-contained for wikilinks**: every double-bracket wikilink in an NCX page must resolve to a `.md` inside `ncx-wiki/vault/`.
+
+For references to pages in sibling vaults (rhoton, nsatlas):
+
+- **Default:** use a markdown link with a relative path — for example, a link text like `corpus-callosum` followed by `(../rhoton-wiki/vault/concepts/corpus-callosum.md)`. Obsidian resolves this natively when the repo root is opened as a workspace.
+- **Exceptional:** the wiki-prefixed syntax `rhoton:corpus-callosum` inside double brackets — text-consistent with sibling wikilinks but Obsidian renders as unresolved. Guard validates and emits `WARN CROSS_WIKI_REF`.
+- **Never:** a bare `corpus-callosum` reference inside double brackets in NCX pointing at a rhoton page. Obsidian shows it as broken; the guard rejects it with `ERROR BROKEN_WIKILINK`. This is a bug, not a cross-wiki reference.
+
+Migration of existing bare cross-wiki wikilinks is automated via `lib/crosswiki-migrate.sh ncx --apply`, which consults `crossmap.json → pages_index` and rewrites unambiguous references.
+
+See `AGENTS.md` § *Cross-Vault References* for the full project-wide policy.

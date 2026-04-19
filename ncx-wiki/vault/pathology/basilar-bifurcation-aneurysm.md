@@ -17,7 +17,7 @@ approached-via:
   - "[[pterional-approach]]"
   - "[[orbitozygomatic-approach]]"
 treats:
-  - "[[basilar-artery]]"
+  - "[basilar-artery](../rhoton-wiki/vault/entities/basilar-artery.md)"
 ---
 
 # Basilar Bifurcation Aneurysm
@@ -28,7 +28,7 @@ Basilar bifurcation aneurysms are the most challenging posterior circulation ane
 
 ### Basilar Quadrifurcation
 
-The [[basilar-artery]] terminates in a quadrifurcation producing bilateral [[posterior-cerebral-artery]] (PCA) and bilateral [[superior-cerebellar-artery]] (SCA).
+The [basilar-artery](../rhoton-wiki/vault/entities/basilar-artery.md) terminates in a quadrifurcation producing bilateral [posterior-cerebral-artery](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md) (PCA) and bilateral [superior-cerebellar-artery](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md) (SCA).
 
 ### PCA Segments
 
@@ -46,7 +46,7 @@ Four segments: **anterior pontomesencephalic** (origin to anterolateral brainste
 
 ### Thalamoperforating Arteries
 
-The **posterior thalamoperforators** arise from the P1 segments (majority from the middle third) and supply the [[thalamus]], [[hypothalamus]], subthalamus, medial [[midbrain]], [[substantia-nigra]], [[red-nucleus]], [[oculomotor-nerve]] nucleus, trochlear nucleus, reticular formation, and posterior [[internal-capsule]]. Three patterns exist:
+The **posterior thalamoperforators** arise from the P1 segments (majority from the middle third) and supply the [thalamus](../rhoton-wiki/vault/concepts/thalamus.md), [hypothalamus](../rhoton-wiki/vault/concepts/hypothalamus.md), subthalamus, medial [[midbrain]], [[substantia-nigra]], [[red-nucleus]], [oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md) nucleus, trochlear nucleus, reticular formation, and posterior [internal-capsule](../rhoton-wiki/vault/concepts/internal-capsule.md). Three patterns exist:
 
 - **Bilateral symmetric**: individual branches from both P1s
 - **Bilateral asymmetric**: dominant supply from one side
@@ -66,8 +66,8 @@ Approached from the **right side** (avoids dominant hemisphere) unless anatomy f
 
 | Triangle | Borders | View | Utility |
 |---|---|---|---|
-| **Optic-carotid** | [[Optic-nerve]], ICA, A1 | Medial-superior | Pituitary stalk, mammillary bodies; small and confining |
-| **Carotid-oculomotor** | ICA, [[oculomotor-nerve]], [[uncus]] | Largest, best panorama | Main working corridor for basilar apex |
+| **Optic-carotid** | [Optic-nerve](../rhoton-wiki/vault/entities/optic-nerve.md), ICA, A1 | Medial-superior | Pituitary stalk, mammillary bodies; small and confining |
+| **Carotid-oculomotor** | ICA, [oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md), [uncus](../rhoton-wiki/vault/concepts/uncus.md) | Largest, best panorama | Main working corridor for basilar apex |
 | **Supracarotid** | A1, M1, basomedial frontal lobe | Above ICA bifurcation | Short/atherosclerotic ICA; obstructed by perforators |
 
 ## Dissection Strategy
@@ -78,16 +78,16 @@ Approached from the **right side** (avoids dominant hemisphere) unless anatomy f
 2. Free inferior temporal lobe from middle fossa floor (cut arachnoid adhesions)
 3. Untether anterior temporal pole (sacrifice vein to [[sphenoparietal-sinus]])
 4. Mobilize temporal lobe posterolaterally through the pretemporal corridor
-5. Dissect [[anterior-choroidal-artery]] cisternal segment (opens [[tentorial-incisura]] and crural cistern, liberates [[oculomotor-nerve]])
+5. Dissect [anterior-choroidal-artery](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md) cisternal segment (opens [tentorial-incisura](../rhoton-wiki/vault/concepts/tentorial-incisura.md) and crural cistern, liberates [oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md))
 6. Dissect anterior temporal artery to relieve retraction tension
-7. Fenestrate the [[lamina-terminalis]] early to relax the brain
+7. Fenestrate the [lamina-terminalis](../rhoton-wiki/vault/concepts/lamina-terminalis.md) early to relax the brain
 
 ### Deep Dissection
 
 1. Identify PCoA at its ICA origin and follow to P1-P2 junction
 2. Dissect P2 laterally over CN III to tentorial edge
 3. Follow P1 undersurface medially through **Liliequist's membrane** (incised behind posterior clinoid, medial to CN III)
-4. Identify ipsilateral SCA (below CN III) and contralateral [[oculomotor-nerve]]
+4. Identify ipsilateral SCA (below CN III) and contralateral [oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md)
 5. Secure proximal control on the **basilar trunk** in a perforator-free zone below the SCA origins
 6. Trace ipsilateral P1 superior surface to the aneurysm neck
 7. Cross the basilar apex to identify contralateral SCA and PCA
@@ -107,7 +107,7 @@ Approached from the **right side** (avoids dominant hemisphere) unless anatomy f
 
 - **High-riding** (~10%): migrates out of carotid-oculomotor window; requires steeper viewing angle, ICA mobilization, or optic-carotid window; thalamoperforators course inferiorly (easier to dissect)
 - **Low-riding**: obstructed by [[posterior-clinoid-process]]; may need **posterior clinoidectomy** (simpler than anterior -- no dural ring, no major artery involvement); fibrin glue injection controls venous bleeding
-- Tentorial incision behind the [[trochlear-nerve]] dural sheath may expose laterally deviated low-lying aneurysms
+- Tentorial incision behind the [trochlear-nerve](../rhoton-wiki/vault/entities/trochlear-nerve.md) dural sheath may expose laterally deviated low-lying aneurysms
 
 ## Clipping Technique
 
@@ -142,7 +142,7 @@ Patients with large PCoAs may tolerate **proximal basilar occlusion**. A clip on
 
 ## SCA Aneurysms
 
-[[Superior-cerebellar-artery]] aneurysms are more favorable than basilar bifurcation aneurysms: not intimate with thalamoperforators, lie off the midline within the carotid-oculomotor triangle, no high-riding variants. The PCA and SCA are identified distally on either side of the [[oculomotor-nerve]] and dissected proximally.
+[Superior-cerebellar-artery](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md) aneurysms are more favorable than basilar bifurcation aneurysms: not intimate with thalamoperforators, lie off the midline within the carotid-oculomotor triangle, no high-riding variants. The PCA and SCA are identified distally on either side of the [oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md) and dissected proximally.
 
 ## Related Pages
 

@@ -135,6 +135,21 @@ Three-layer pattern (full reference: `.skills/llm-wiki/SKILL.md`):
 
 > **NCX vault:** consult `ncx-wiki/vault/_meta/organization-policy.md` before creating a new folder or moving pages. Defines thresholds (5+ pages for a new folder; 15+ with an 8+ cluster for a split) and the decision flow for borderline pages.
 
+### Cross-Vault References
+
+Each vault is **self-contained**: every `[[wikilink]]` must resolve to a `.md` in the same vault. Cross-vault references use one of two sanctioned forms, never bare wikilinks:
+
+| Form | Obsidian renders | Guard validates | Use when |
+|---|---|---|---|
+| `[slug](../<other>-wiki/vault/<path>.md)` | yes, resolves natively in monorepo workspace | yes — errors if target file missing | default for cross-vault references in prose |
+| `[[<other>:slug]]` | no, renders as unresolved wikilink | yes — WARN if target exists, ERROR if not | rare; use only when textual consistency with sibling `[[...]]` links matters more than rendering |
+
+Anti-pattern: a bare `[[corpus-callosum]]` in NCX pointing at a rhoton page. The guard rejects this even if `corpus-callosum.md` exists in rhoton, because Obsidian in the NCX vault shows it as broken. Use the markdown form.
+
+Auto-migration: `lib/crosswiki-migrate.sh <wiki> --apply` converts existing bare wikilinks to markdown form when `crossmap.json → pages_index` maps the basename to exactly one other vault. Idempotent.
+
+`crossmap.json → bridges[]` is a separate, curated layer for semantic relations (maintained by the `cross-wiki-linker` skill); `pages_index` is the mechanical lookup table the guard and migrator use.
+
 ### Semantic Relations (Breadcrumbs)
 
 Six typed relation pairs expressed in frontmatter:

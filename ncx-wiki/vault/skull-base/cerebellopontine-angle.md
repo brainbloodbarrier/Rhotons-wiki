@@ -22,7 +22,7 @@ V-shaped angular cleft formed by the cerebellum folding around the pons and midd
 
 - **Shape:** V-shaped with superior and inferior limbs
 - **Superior limb:** extends above CN V
-- **Inferior limb:** passes below the [[cerebellum]] flocculus and CN IX-XI
+- **Inferior limb:** passes below the [cerebellum](../rhoton-wiki/vault/concepts/cerebellum.md) flocculus and CN IX-XI
 - **Apex:** located laterally where limbs meet
 - **Contents:** CN IV-XI arise in or near this angular space
 - Middle cerebellar peduncle fills the interval between the limbs
@@ -127,4 +127,4 @@ The posterior fossa structures occur in sets of three with consistent relationsh
 - [[meningioma]]
 - [[cavernous-malformation]]
 - [[far-lateral-approach]]
-- [[retromastoid-craniotomy]]
+- [retromastoid-craniotomy](../nsatlas-wiki/vault/approaches/retromastoid-craniotomy.md)

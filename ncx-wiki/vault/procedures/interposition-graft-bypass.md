@@ -30,9 +30,9 @@ complementary-to:
 treats:
   - "[[cavernous-sinus-aneurysm]]"
 prerequisite-skills:
-  - "[[pterional-craniotomy]]"
+  - "[pterional-craniotomy](../nsatlas-wiki/vault/approaches/pterional-craniotomy.md)"
 general-principles:
-  - "[[cranial-approaches-general-principles]]"
+  - "[cranial-approaches-general-principles](../nsatlas-wiki/vault/approaches/cranial-approaches-general-principles.md)"
 provenance:
   extracted: 0.82
   inferred: 0.14
@@ -41,13 +41,13 @@ provenance:
 
 # Interposition Graft Bypass
 
-The EC-IC interpositional bypass is Lawton's second-generation bypass, an oversized version of the [[ec-ic-bypass]] that draws the robust flow of the cervical [[carotid-artery]] through an interposition graft to double the bypass's flow capacity. It is more complex than low-flow bypasses, requiring a graft, an additional harvest site, a tunnel, and a second anastomosis. Championed originally by Thoralf Sundt for aneurysms and ischemic conditions, this bypass replaces or restores [[internal-carotid-artery]] blood flow after deliberate sacrifice.
+The EC-IC interpositional bypass is Lawton's second-generation bypass, an oversized version of the [[ec-ic-bypass]] that draws the robust flow of the cervical [[carotid-artery]] through an interposition graft to double the bypass's flow capacity. It is more complex than low-flow bypasses, requiring a graft, an additional harvest site, a tunnel, and a second anastomosis. Championed originally by Thoralf Sundt for aneurysms and ischemic conditions, this bypass replaces or restores [internal-carotid-artery](../rhoton-wiki/vault/entities/internal-carotid-artery.md) blood flow after deliberate sacrifice.
 
 ## Graft Selection
 
 ### Radial Artery Graft
 
-The [[radial-artery]] graft (RAG) is the interposition graft of first choice. Its arterial walls with smooth muscle handle well during suturing, its diameter of approximately 3.5 mm matches common recipients such as the M2 [[middle-cerebral-artery]] and P2 [[posterior-cerebral-artery]], and its flow rate of 40-70 mL/min replaces that lost with parent artery sacrifice. RAGs lack the valves and varices that make [[saphenous-vein]] grafts more thrombogenic, and they demonstrate superior long-term patency with less susceptibility to intimal hyperplasia.
+The [[radial-artery]] graft (RAG) is the interposition graft of first choice. Its arterial walls with smooth muscle handle well during suturing, its diameter of approximately 3.5 mm matches common recipients such as the M2 [middle-cerebral-artery](../rhoton-wiki/vault/entities/middle-cerebral-artery.md) and P2 [posterior-cerebral-artery](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md), and its flow rate of 40-70 mL/min replaces that lost with parent artery sacrifice. RAGs lack the valves and varices that make [[saphenous-vein]] grafts more thrombogenic, and they demonstrate superior long-term patency with less susceptibility to intimal hyperplasia.
 
 Harvest uses a linear forearm incision from the wrist pulse to the cubital fossa, dissecting between [[brachioradialis-muscle]] and [[flexor-carpi-radialis]] to free the full 20-cm arterial length. A Garrett line drawn longitudinally on the outer wall prevents twists during tunneling. Pressure distention with heparinized saline breaks vasospasm and identifies unsecured branch leaks.
 
@@ -57,13 +57,13 @@ The [[saphenous-vein]] graft (SVG) is the alternative when RAG is unavailable. S
 
 ## Proximal Donor Sites
 
-The cervical [[external-carotid-artery]] (ECA) is the most common proximal donor (38%), providing high bypass flow without interrupting cerebral perfusion during cross-clamping. The [[common-carotid-artery]] (CCA) is used in 31% of cases, particularly with high-riding bifurcations where the ECA is inaccessible. The [[internal-carotid-artery]] (ICA) serves as donor in 22% of cases when its sacrifice is planned -- the transected ICA stump is larger, devoid of branches, and pulls laterally for better access.
+The cervical [external-carotid-artery](../rhoton-wiki/vault/entities/external-carotid-artery.md) (ECA) is the most common proximal donor (38%), providing high bypass flow without interrupting cerebral perfusion during cross-clamping. The [[common-carotid-artery]] (CCA) is used in 31% of cases, particularly with high-riding bifurcations where the ECA is inaccessible. The [internal-carotid-artery](../rhoton-wiki/vault/entities/internal-carotid-artery.md) (ICA) serves as donor in 22% of cases when its sacrifice is planned -- the transected ICA stump is larger, devoid of branches, and pulls laterally for better access.
 
 An aortic punch excises a circular arteriotomy in the thick-walled carotid; two adjacent punches create a "figure 8" oval opening. The [[subclavian-artery]] is reserved for cases where the carotid is occluded from radiation, trauma, or arteritis.
 
 ## Distal Recipients
 
-The M2 segment of the [[middle-cerebral-artery]] is the preferred distal recipient in 91% of interpositional bypasses. M2 segments lie distal to the [[lenticulostriate-arteries]], have insular perforators tolerant to temporary occlusion, provide sufficient caliber, and lie flat in the [[sylvian-fissure]] cistern for good suturing perspective. The inferior (temporal) trunk is preferred to avoid critical motor and language branches from the superior (frontal) trunk. Other recipients include the supraclinoid [[internal-carotid-artery]] proximal to the [[anterior-choroidal-artery]], and posterior circulation targets such as the [[superior-cerebellar-artery]] and [[anterior-inferior-cerebellar-artery]].
+The M2 segment of the [middle-cerebral-artery](../rhoton-wiki/vault/entities/middle-cerebral-artery.md) is the preferred distal recipient in 91% of interpositional bypasses. M2 segments lie distal to the [lenticulostriate-arteries](../rhoton-wiki/vault/entities/lenticulostriate-arteries.md), have insular perforators tolerant to temporary occlusion, provide sufficient caliber, and lie flat in the [[sylvian-fissure]] cistern for good suturing perspective. The inferior (temporal) trunk is preferred to avoid critical motor and language branches from the superior (frontal) trunk. Other recipients include the supraclinoid [internal-carotid-artery](../rhoton-wiki/vault/entities/internal-carotid-artery.md) proximal to the [anterior-choroidal-artery](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md), and posterior circulation targets such as the [superior-cerebellar-artery](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md) and [[anterior-inferior-cerebellar-artery]].
 
 ## Intracranial Anastomosis
 
@@ -94,4 +94,4 @@ Flow diverters have progressively reduced bypass indications for cavernous [[ane
 - [[ec-ic-bypass]] -- low-flow EC-IC bypass using scalp artery donors
 - [[reimplantation-bypass]] -- IC-IC end-to-side branch reimplantation
 - [[in-situ-bypass]] -- IC-IC side-to-side communicating bypass
-- [[pterional-craniotomy]] -- primary approach for MCA recipient exposure
+- [pterional-craniotomy](../nsatlas-wiki/vault/approaches/pterional-craniotomy.md) -- primary approach for MCA recipient exposure

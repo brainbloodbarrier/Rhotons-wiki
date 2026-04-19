@@ -27,11 +27,11 @@ complementary-to:
   - "[[interposition-graft-bypass]]"
   - "[[in-situ-bypass]]"
 prerequisite-skills:
-  - "[[pterional-craniotomy]]"
-  - "[[bifrontal-craniotomy]]"
-  - "[[retromastoid-craniotomy]]"
+  - "[pterional-craniotomy](../nsatlas-wiki/vault/approaches/pterional-craniotomy.md)"
+  - "[bifrontal-craniotomy](../nsatlas-wiki/vault/approaches/bifrontal-craniotomy.md)"
+  - "[retromastoid-craniotomy](../nsatlas-wiki/vault/approaches/retromastoid-craniotomy.md)"
 general-principles:
-  - "[[cranial-approaches-general-principles]]"
+  - "[cranial-approaches-general-principles](../nsatlas-wiki/vault/approaches/cranial-approaches-general-principles.md)"
 provenance:
   extracted: 0.80
   inferred: 0.15
@@ -48,19 +48,19 @@ Reimplantation was the least frequently performed of Lawton's seven bypasses (4%
 
 ### Sylvian Triangle (MCA Reimplantation)
 
-The Sylvian triangle is opened by drilling the [[pterion]] and lesser sphenoid wing during [[pterional-craniotomy]] or [[orbitozygomatic-craniotomy]]. It is densely stocked with donors: [[middle-cerebral-artery]] trunks, M2 insular stem arteries (averaging eight per hemisphere, up to 2 mm), M3 opercular branches, and early arteries such as the [[anterior-temporal-artery]] (ATA). The M1 segment is impractical due to [[lenticulostriate-arteries]] limiting mobility and occlusion tolerance.
+The Sylvian triangle is opened by drilling the [[pterion]] and lesser sphenoid wing during [pterional-craniotomy](../nsatlas-wiki/vault/approaches/pterional-craniotomy.md) or [[orbitozygomatic-craniotomy]]. It is densely stocked with donors: [middle-cerebral-artery](../rhoton-wiki/vault/entities/middle-cerebral-artery.md) trunks, M2 insular stem arteries (averaging eight per hemisphere, up to 2 mm), M3 opercular branches, and early arteries such as the [[anterior-temporal-artery]] (ATA). The M1 segment is impractical due to [lenticulostriate-arteries](../rhoton-wiki/vault/entities/lenticulostriate-arteries.md) limiting mobility and occlusion tolerance.
 
 MCA reimplantation suits an occluded efferent branch from a bifurcation [[aneurysm]] when the [[superficial-temporal-artery]] is unavailable. Downstream mobilization moves the recipient more superficially for an easier anastomosis.
 
 ### Falco-Frontal Triangle (ACA Reimplantation)
 
-The falco-frontal triangle is the natural corridor of the anterior interhemispheric approach, defined by the [[falx-cerebri]] medially and the ipsilateral frontal lobe laterally, opened by separating the medial frontal lobes down to the [[corpus-callosum]]. Eight cortical branches radiate from each [[anterior-cerebral-artery]] trunk (orbitofrontal, frontopolar, callosomarginal, anterior/middle/posterior internal frontal, paracentral, and [[pericallosal-artery]]), offering 16 potential reimplantation sites within the triangle.
+The falco-frontal triangle is the natural corridor of the anterior interhemispheric approach, defined by the [falx-cerebri](../rhoton-wiki/vault/concepts/falx-cerebri.md) medially and the ipsilateral frontal lobe laterally, opened by separating the medial frontal lobes down to the [corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md). Eight cortical branches radiate from each [anterior-cerebral-artery](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md) trunk (orbitofrontal, frontopolar, callosomarginal, anterior/middle/posterior internal frontal, paracentral, and [[pericallosal-artery]]), offering 16 potential reimplantation sites within the triangle.
 
 Left-right pairings are natural because the bilateral ACA trunks are "kissing" arteries. Superior-inferior pairings between the [[pericallosal-artery]] and [[callosomarginal-artery]] are also feasible. Internal frontal arteries (AIFA, MIFA, PIFA) serve as alternative donors that avoid interrupting mainline ACA flow.
 
 ### Tentorial-Oculomotor Triangle (PCA/SCA Reimplantation)
 
-The tentorial-oculomotor triangle is bordered by the [[oculomotor-nerve]] superomedially, the [[tentorial-incisura]] inferolaterally, and the retracted temporal pole posteriorly. It is reached through a transsylvian/pretemporal corridor requiring a wide [[sylvian-fissure]] split and posterolateral temporal lobe retraction. The P2A [[posterior-cerebral-artery]] (average diameter 2.1 mm) runs over the oculomotor nerve into the triangle, while the s1 and s2 segments of the [[superior-cerebellar-artery]] (1.5-1.7 mm) run under it. Their close proximity creates a natural PCA-SCA pairing.
+The tentorial-oculomotor triangle is bordered by the [oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md) superomedially, the [tentorial-incisura](../rhoton-wiki/vault/concepts/tentorial-incisura.md) inferolaterally, and the retracted temporal pole posteriorly. It is reached through a transsylvian/pretemporal corridor requiring a wide [[sylvian-fissure]] split and posterolateral temporal lobe retraction. The P2A [posterior-cerebral-artery](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md) (average diameter 2.1 mm) runs over the oculomotor nerve into the triangle, while the s1 and s2 segments of the [superior-cerebellar-artery](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md) (1.5-1.7 mm) run under it. Their close proximity creates a natural PCA-SCA pairing.
 
 The [[anterior-temporal-artery]] and temporopolar artery have sufficient cisternal length (34 and 37 mm) to transpose into the triangle after distal transection, donating flow to an occluded SCA or PCA. They supply non-eloquent anterior temporal lobe, making any resulting infarct clinically silent.
 
@@ -68,7 +68,7 @@ The [[anterior-temporal-artery]] and temporopolar artery have sufficient cistern
 
 The vago-accessory triangle is the natural window of the [[far-lateral-approach]], defined by the [[vagus-nerve]] superiorly, the [[accessory-nerve]] laterally, and the [[medulla-oblongata]] medially. The [[hypoglossal-nerve]] subdivides it into suprahypoglossal and infrahypoglossal corridors. PICA reimplantation accounts for 52% of all reimplantations -- the highest frequency -- because the [[posterior-inferior-cerebellar-artery]]'s looping anatomy uniquely favors transposition.
 
-When PICA is transected from a complex V4 [[vertebral-artery]] aneurysm, it mobilizes best to a more proximal site on the parent artery, transposing from the suprahypoglossal to the infrahypoglossal triangle. This counterintuitive upstream movement produces a more superficial reimplantation site less entangled in [[lower-cranial-nerves]]. The contralateral p3 PICA caudal loop and ipsilateral [[anterior-inferior-cerebellar-artery]] lie just outside the triangle but can sometimes serve as donors.
+When PICA is transected from a complex V4 [vertebral-artery](../rhoton-wiki/vault/entities/vertebral-artery.md) aneurysm, it mobilizes best to a more proximal site on the parent artery, transposing from the suprahypoglossal to the infrahypoglossal triangle. This counterintuitive upstream movement produces a more superficial reimplantation site less entangled in [lower-cranial-nerves](../rhoton-wiki/vault/entities/lower-cranial-nerves.md). The contralateral p3 PICA caudal loop and ipsilateral [[anterior-inferior-cerebellar-artery]] lie just outside the triangle but can sometimes serve as donors.
 
 ## Reimplantation Technique
 
@@ -93,4 +93,4 @@ Key technical considerations:
 - [[interposition-graft-bypass]] -- high-flow bypass for carotid replacement
 - [[in-situ-bypass]] -- IC-IC side-to-side communicating bypass between parallel arteries
 - [[far-lateral-approach]] -- primary approach for PICA reimplantation
-- [[pterional-craniotomy]] -- approach for MCA and PCA/SCA reimplantation
+- [pterional-craniotomy](../nsatlas-wiki/vault/approaches/pterional-craniotomy.md) -- approach for MCA and PCA/SCA reimplantation

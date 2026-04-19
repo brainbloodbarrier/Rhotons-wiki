@@ -15,12 +15,12 @@ updated: 2026-04-15
 approached-via:
   - "[[pterional-approach]]"
 treats:
-  - "[[middle-cerebral-artery]]"
+  - "[middle-cerebral-artery](../rhoton-wiki/vault/entities/middle-cerebral-artery.md)"
 ---
 
 # Middle Cerebral Artery Aneurysm
 
-[[Middle-cerebral-artery]] (MCA) aneurysms are the most common aneurysms treated by microsurgical clipping. Their superficial location in the [[sylvian-fissure]], broad necks that resist endovascular treatment, and complex branching anatomy make them quintessential clipping aneurysms. Mastery of the [[sylvian-fissure]] split is the prerequisite skill.
+[Middle-cerebral-artery](../rhoton-wiki/vault/entities/middle-cerebral-artery.md) (MCA) aneurysms are the most common aneurysms treated by microsurgical clipping. Their superficial location in the [[sylvian-fissure]], broad necks that resist endovascular treatment, and complex branching anatomy make them quintessential clipping aneurysms. Mastery of the [[sylvian-fissure]] split is the prerequisite skill.
 
 ## Microsurgical Anatomy
 
@@ -45,13 +45,13 @@ Anterior branches include [[orbitofrontal-artery]], [[operculofrontal-artery]], 
 
 ### Critical Perforators
 
-The **lateral [[lenticulostriate-arteries]]** originate from the superior M1 surface, enter the lateral anterior perforated substance, and supply the [[caudate-nucleus]], [[putamen]], [[globus-pallidus]], superior [[internal-capsule]], and [[corona-radiata]]. On average 10 lenticulostriates arise from the pre-bifurcation M1. Their preservation is mandatory.
+The **lateral [lenticulostriate-arteries](../rhoton-wiki/vault/entities/lenticulostriate-arteries.md)** originate from the superior M1 surface, enter the lateral anterior perforated substance, and supply the [[caudate-nucleus]], [[putamen]], [[globus-pallidus]], superior [internal-capsule](../rhoton-wiki/vault/concepts/internal-capsule.md), and [corona-radiata](../rhoton-wiki/vault/concepts/corona-radiata.md). On average 10 lenticulostriates arise from the pre-bifurcation M1. Their preservation is mandatory.
 
 ### Variants
 
 - **Anterior temporal artery (ATA)**: arises from inferior M1 surface; can create a "false bifurcation" or drape over the dome as a "false trunk"
 - **Duplicated MCA**: second M1 from supraclinoid ICA or its terminus
-- **Accessory MCA**: second M1 from A1 [[anterior-cerebral-artery]], resembling the [[recurrent-artery-of-heubner]] but with cortical branches
+- **Accessory MCA**: second M1 from A1 [anterior-cerebral-artery](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md), resembling the [recurrent-artery-of-heubner](../rhoton-wiki/vault/entities/recurrent-artery-of-heubner.md) but with cortical branches
 
 ## Splitting the Sylvian Fissure
 
@@ -92,7 +92,7 @@ MCA aneurysms obey Rhoton's third rule: they point where blood would have gone. 
 
 ### Proximal-to-Distal Alternative
 
-For ruptured aneurysms requiring early proximal control: dissect the supraclinoid ICA to its bifurcation, identify the A1 [[anterior-cerebral-artery]], then the [[anterior-choroidal-artery]] laterally along M1. Gains proximal control early but requires frontal retraction and splits the fissure inefficiently.
+For ruptured aneurysms requiring early proximal control: dissect the supraclinoid ICA to its bifurcation, identify the A1 [anterior-cerebral-artery](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md), then the [anterior-choroidal-artery](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md) laterally along M1. Gains proximal control early but requires frontal retraction and splits the fissure inefficiently.
 
 ## Clipping Technique
 
@@ -120,4 +120,4 @@ Assume a deep trunk has been missed until proven otherwise. After clipping, de-t
 - [[acoa-aneurysm]] -- shares anterior circulation approach principles
 - [[ophthalmic-artery-aneurysm]] -- paraclinoid region
 - [[sylvian-fissure]] -- gateway to all circle of Willis aneurysms
-- [[lenticulostriate-arteries]] -- critical perforators at risk
+- [lenticulostriate-arteries](../rhoton-wiki/vault/entities/lenticulostriate-arteries.md) -- critical perforators at risk

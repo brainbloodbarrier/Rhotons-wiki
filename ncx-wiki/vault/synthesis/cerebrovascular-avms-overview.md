@@ -21,10 +21,10 @@ Cerebral arteriovenous malformations are tangles of dysplastic arteries and vein
 
 | Type | Subtypes | Primary Arterial Supply | Primary Venous Drainage | Approach |
 |---|---|---|---|---|
-| [[frontal-avms\|Frontal]] | Lateral, medial, paramedian, basal, sylvian | [[middle-cerebral-artery\|MCA]] (sup. trunk), [[anterior-cerebral-artery\|ACA]], PcaA, CmaA | Ascending convexity veins, medial frontal veins, sylvian veins to [[superior-sagittal-sinus\|SSS]] | Craniotomy centered on front; interhemispheric for medial |
-| [[temporal-avms\|Temporal]] | Lateral, basal, medial, sylvian | MCA (inf. trunk), [[posterior-cerebral-artery\|PCA]] (P2), [[anterior-choroidal-artery\|AChA]], [[posterior-communicating-artery\|PCoA]] | Temporal convexity veins, [[vein-of-labbe\|Labbe]], [[basal-vein-of-rosenthal\|BVR]] | Temporal craniotomy; subtemporal for basal; transsylvian for sylvian |
+| [[frontal-avms\|Frontal]] | Lateral, medial, paramedian, basal, sylvian | [MCA](../rhoton-wiki/vault/entities/middle-cerebral-artery.md) (sup. trunk), [ACA](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md), PcaA, CmaA | Ascending convexity veins, medial frontal veins, sylvian veins to [[superior-sagittal-sinus\|SSS]] | Craniotomy centered on front; interhemispheric for medial |
+| [[temporal-avms\|Temporal]] | Lateral, basal, medial, sylvian | MCA (inf. trunk), [PCA](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md) (P2), [AChA](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md), [PCoA](../rhoton-wiki/vault/entities/posterior-communicating-artery.md) | Temporal convexity veins, [[vein-of-labbe\|Labbe]], [BVR](../rhoton-wiki/vault/entities/basal-vein-of-rosenthal.md) | Temporal craniotomy; subtemporal for basal; transsylvian for sylvian |
 | [[parieto-occipital-avms\|Parieto-occipital]] | Lateral, medial, paramedian, basal occipital | MCA (M4), PCA (P4: CalcA, ParOccA), ACA (A5) | Postcentral, parietal, occipital veins; [[vein-of-trolard\|Trolard]] | Parietal/occipital craniotomy; interhemispheric for medial |
-| [[ventricular-avms\|Ventricular/Periventricular]] | Callosal, ventricular body, atrial, temporal horn | PcaA (bilateral), mPChA, lPChA, AChA, mLSA | [[internal-cerebral-vein\|ICV]], atrial veins, choroidal veins, [[vein-of-galen\|VoG]] | Transcortical, transcallosal, or through [[choroidal-fissure\|choroidal fissure]] |
+| [[ventricular-avms\|Ventricular/Periventricular]] | Callosal, ventricular body, atrial, temporal horn | PcaA (bilateral), mPChA, lPChA, AChA, mLSA | [[internal-cerebral-vein\|ICV]], atrial veins, choroidal veins, [VoG](../rhoton-wiki/vault/entities/vein-of-galen.md) | Transcortical, transcallosal, or through [choroidal fissure](../rhoton-wiki/vault/concepts/choroidal-fissure.md) |
 | [[deep-avms\|Deep]] | Pure sylvian, insular, basal ganglial, thalamic | M2-M3 MCA, InsP, lLSA, mLSA, RAH, thalamoperforators | Deep sylvian vein, caudate veins, thalamostriate vein, BVR | Transsylvian; transcortical for basal ganglial/thalamic |
 | [[brainstem-avms\|Brainstem]] | Ant/post midbrain, ant/lat pontine, ant/lat medullary | P1 PCA, SCA, AICA, VA, [[pica-aneurysm\|PICA]], basilar perforators | Pontomesencephalic, peduncular, tectal, medullary veins | Subtemporal, retrosigmoid, far-lateral, supracerebellar infratentorial |
 | [[cerebellar-avms\|Cerebellar]] | Suboccipital, tentorial, vermian, tonsillar, petrosal | SCA (s4), AICA (a4), PICA (p4-p5) | Hemispheric, vermian, tonsillar, petrosal veins to [[torcular-herophili\|Torc]], TrvS | Suboccipital craniotomy/craniectomy; supracerebellar for tentorial |
@@ -35,7 +35,7 @@ Regardless of type, all AVM resections follow the same four-phase sequence descr
 
 1. **Pial dissection** -- Attack arterial fronts; occlude superficial [[avm-feeding-arteries|feeders]]
 2. **Parenchymal dissection** -- Circumdissect the nidus; spiral around all four sides; trim secondary [[avm-draining-veins|veins]]
-3. **Ependymal/deep dissection** -- Control [[perforating-arteries|perforators]] with microclips; enter [[ventricles|ventricle]] to surround the ependymal tip
+3. **Ependymal/deep dissection** -- Control [perforators](../rhoton-wiki/vault/synthesis/perforating-arteries.md) with microclips; enter [[ventricles|ventricle]] to surround the ependymal tip
 4. **Final resection** -- Roll out the nidus on its blue venous tail; inspect the bed; confirm with postoperative angiography
 
 ## Grading and Patient Selection
@@ -54,10 +54,10 @@ Each AVM subtype has a unique combination of [[avm-feeding-arteries|feeding arte
 
 | Artery System | Key Branches for AVMs |
 |---|---|
-| [[internal-carotid-artery\|ICA]] | PCoA, AChA (temporal horn/medial temporal AVMs) |
-| [[anterior-cerebral-artery\|ACA]] | mLSA (basal ganglial), RAH, PcaA (callosal/medial frontal) |
-| [[middle-cerebral-artery\|MCA]] | lLSA, InsP (deep/insular), M4 cortical (frontal/temporal/parietal) |
-| [[posterior-cerebral-artery\|PCA]] | Thalamoperforators, mPChA/lPChA (ventricular), CalcA/ParOccA (occipital) |
+| [ICA](../rhoton-wiki/vault/entities/internal-carotid-artery.md) | PCoA, AChA (temporal horn/medial temporal AVMs) |
+| [ACA](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md) | mLSA (basal ganglial), RAH, PcaA (callosal/medial frontal) |
+| [MCA](../rhoton-wiki/vault/entities/middle-cerebral-artery.md) | lLSA, InsP (deep/insular), M4 cortical (frontal/temporal/parietal) |
+| [PCA](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md) | Thalamoperforators, mPChA/lPChA (ventricular), CalcA/ParOccA (occipital) |
 | Vertebrobasilar | SCA, AICA, PICA (cerebellar); BA perforators (brainstem) |
 
 ## Venous Drainage Patterns
@@ -66,7 +66,7 @@ Each AVM subtype has a unique combination of [[avm-feeding-arteries|feeding arte
 
 ## Eloquence Map
 
-Eloquence varies dramatically across AVM types. Frontal and temporal sylvian AVMs involve [[motor-pathway|Broca's area]]; lateral temporal AVMs involve Wernicke's area; medial parieto-occipital AVMs involve [[visual-pathway|visual cortex]]; deep and brainstem AVMs involve [[internal-capsule]], [[brainstem|brainstem nuclei]], and critical [[white-matter|white matter tracts]]. Non-eloquent locations include basal frontal, basal temporal, basal occipital, callosal, pure sylvian, insular, tentorial cerebellar, tonsillar cerebellar, and petrosal cerebellar.
+Eloquence varies dramatically across AVM types. Frontal and temporal sylvian AVMs involve [[motor-pathway|Broca's area]]; lateral temporal AVMs involve Wernicke's area; medial parieto-occipital AVMs involve [[visual-pathway|visual cortex]]; deep and brainstem AVMs involve [internal-capsule](../rhoton-wiki/vault/concepts/internal-capsule.md), [brainstem nuclei](../rhoton-wiki/vault/concepts/brainstem.md), and critical [[white-matter|white matter tracts]]. Non-eloquent locations include basal frontal, basal temporal, basal occipital, callosal, pure sylvian, insular, tentorial cerebellar, tonsillar cerebellar, and petrosal cerebellar.
 
 ## Cross-References
 

@@ -19,7 +19,7 @@ Intraoperative rupture is an ever-present, unavoidable danger in [[cerebrovascul
 
 **Early-career ruptures** tend to occur during initial exposure (predissection), typically due to brain retraction with adherent aneurysms:
 - Superiorly projecting [[ophthalmic-artery-aneurysm|OphA aneurysms]] stuck to the [[frontal-lobe]]
-- Inferiorly projecting [[acoa-aneurysm|ACoA aneurysms]] stuck to the [[optic-chiasm]]
+- Inferiorly projecting [[acoa-aneurysm|ACoA aneurysms]] stuck to the [optic-chiasm](../rhoton-wiki/vault/entities/optic-chiasm.md)
 - [[pcoa-aneurysm|PCoA aneurysms]] stuck to the [[temporal-lobe]]
 
 These are eliminated by avoiding or minimizing retraction.
@@ -45,11 +45,11 @@ The technical response is an ordered sequence:
 3. **Distal control** -- temporary clips on efferent arteries if brisk back-bleeding persists
 4. **Permanent clipping** -- proximal control slows bleeding and is often sufficient to complete dissection and apply [[aneurysm-clipping-techniques|permanent clips]]
 
-A ruptured aneurysm trapped with temporary clips can be collapsed and mobilized aggressively. The sac can be entered, suctioned down, and manipulated. The operation accelerates into "final dissection" mode with the urgency of [[temporary-clipping|temporary clipping]] and cerebral ischemia. Intraoperative rupture paradoxically creates opportunity -- for example, an [[ophthalmic-artery-aneurysm]] that ruptures before [[anterior-clinoidectomy]] can sometimes be clipped without clinoidectomy by aggressively mobilizing the aneurysm away from the [[anterior-clinoid-process]].
+A ruptured aneurysm trapped with temporary clips can be collapsed and mobilized aggressively. The sac can be entered, suctioned down, and manipulated. The operation accelerates into "final dissection" mode with the urgency of [[temporary-clipping|temporary clipping]] and cerebral ischemia. Intraoperative rupture paradoxically creates opportunity -- for example, an [[ophthalmic-artery-aneurysm]] that ruptures before [[anterior-clinoidectomy]] can sometimes be clipped without clinoidectomy by aggressively mobilizing the aneurysm away from the [anterior-clinoid-process](../rhoton-wiki/vault/concepts/anterior-clinoid-process.md).
 
 An imperfectly placed clip may serve as a **tentative clip** to control bleeding, allowing removal of temporary clips and brain reperfusion. Additional permanent clips can then be stacked or the tentative clip readjusted.
 
-Cerebral protection with hypothermia and pharmacologic agents is maintained by anesthesiologists; normal or slightly increased blood pressure is maintained during temporary clipping to augment collateral blood flow via the [[circle-of-willis]].
+Cerebral protection with hypothermia and pharmacologic agents is maintained by anesthesiologists; normal or slightly increased blood pressure is maintained during temporary clipping to augment collateral blood flow via the [circle-of-willis](../rhoton-wiki/vault/synthesis/circle-of-willis.md).
 
 ## Cognitive Response
 

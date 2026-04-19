@@ -15,22 +15,22 @@ updated: 2026-04-15
 approached-via:
   - "[[pterional-approach]]"
 treats:
-  - "[[posterior-communicating-artery]]"
+  - "[posterior-communicating-artery](../rhoton-wiki/vault/entities/posterior-communicating-artery.md)"
 ---
 
 # Posterior Communicating Artery Aneurysm
 
-The [[posterior-communicating-artery]] (PCoA) aneurysm is one of the most common intracranial aneurysms and among the most straightforward for microsurgical clipping. Despite their reputation as simple lesions, PCoA aneurysms demand respect due to fragile dome adhesions, proximity to the [[anterior-choroidal-artery]], and potential for devastating [[anterior-choroidal-artery]] territory infarction.
+The [posterior-communicating-artery](../rhoton-wiki/vault/entities/posterior-communicating-artery.md) (PCoA) aneurysm is one of the most common intracranial aneurysms and among the most straightforward for microsurgical clipping. Despite their reputation as simple lesions, PCoA aneurysms demand respect due to fragile dome adhesions, proximity to the [anterior-choroidal-artery](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md), and potential for devastating [anterior-choroidal-artery](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md) territory infarction.
 
 ## Microsurgical Anatomy
 
-The PCoA bisects the supraclinoid [[internal-carotid-artery]] (ICA) into two functional segments: the **ophthalmic segment** (from the [[distal-dural-ring]] to the PCoA) and the **communicating segment** (from the PCoA to the [[internal-carotid-artery]] bifurcation). The PCoA arises from the posterior carotid wall, courses posteromedially along the superior surface of the [[oculomotor-nerve]], and joins the [[posterior-cerebral-artery]] at the P1-P2 junction.
+The PCoA bisects the supraclinoid [internal-carotid-artery](../rhoton-wiki/vault/entities/internal-carotid-artery.md) (ICA) into two functional segments: the **ophthalmic segment** (from the [[distal-dural-ring]] to the PCoA) and the **communicating segment** (from the PCoA to the [internal-carotid-artery](../rhoton-wiki/vault/entities/internal-carotid-artery.md) bifurcation). The PCoA arises from the posterior carotid wall, courses posteromedially along the superior surface of the [oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md), and joins the [posterior-cerebral-artery](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md) at the P1-P2 junction.
 
-Approximately eight **anterior thalamoperforating arteries** originate from the PCoA's superior surface, ascending to supply the [[hypothalamus]], anterior [[thalamus]], [[internal-capsule]], tuber cinereum, floor of the [[third-ventricle]], [[posterior-perforated-substance]], [[optic-chiasm]], and [[pituitary-stalk]].
+Approximately eight **anterior thalamoperforating arteries** originate from the PCoA's superior surface, ascending to supply the [hypothalamus](../rhoton-wiki/vault/concepts/hypothalamus.md), anterior [thalamus](../rhoton-wiki/vault/concepts/thalamus.md), [internal-capsule](../rhoton-wiki/vault/concepts/internal-capsule.md), tuber cinereum, floor of the [[third-ventricle]], [[posterior-perforated-substance]], [optic-chiasm](../rhoton-wiki/vault/entities/optic-chiasm.md), and [[pituitary-stalk]].
 
 ### Anterior Choroidal Artery Relationship
 
-The [[anterior-choroidal-artery]] (AChA) is the most surgically critical branch adjacent to PCoA aneurysms, lying at the distal neck. It typically arises from the posterior wall of the communicating segment, though variants include origin from the PCoA itself, the ICA bifurcation, or the proximal M1 segment. The cisternal segment supplies the [[optic-tract]], lateral [[thalamus]], and [[internal-capsule]] (genu and posterior limb). AChA compromise causes hemiplegia, hemianesthesia, and hemianopsia -- deficits vastly disproportionate to the artery's small caliber.
+The [anterior-choroidal-artery](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md) (AChA) is the most surgically critical branch adjacent to PCoA aneurysms, lying at the distal neck. It typically arises from the posterior wall of the communicating segment, though variants include origin from the PCoA itself, the ICA bifurcation, or the proximal M1 segment. The cisternal segment supplies the [optic-tract](../rhoton-wiki/vault/entities/optic-tract.md), lateral [thalamus](../rhoton-wiki/vault/concepts/thalamus.md), and [internal-capsule](../rhoton-wiki/vault/concepts/internal-capsule.md) (genu and posterior limb). AChA compromise causes hemiplegia, hemianesthesia, and hemianopsia -- deficits vastly disproportionate to the artery's small caliber.
 
 ### Important Variants
 
@@ -39,13 +39,13 @@ The [[anterior-choroidal-artery]] (AChA) is the most surgically critical branch 
 
 ### Oculomotor Nerve Relationship
 
-The [[oculomotor-nerve]] parallels the PCoA, originating from the [[interpeduncular-fossa]], coursing between the P1 [[posterior-cerebral-artery]] and [[superior-cerebellar-artery]], attaching to the membrane of Liliequist, and climbing to the oculomotor triangle. Posteroinferiorly projecting aneurysms impact the nerve, producing the classic third nerve palsy (pupil dilation, "down and out" eye).
+The [oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md) parallels the PCoA, originating from the [[interpeduncular-fossa]], coursing between the P1 [posterior-cerebral-artery](../rhoton-wiki/vault/entities/posterior-cerebral-artery.md) and [superior-cerebellar-artery](../rhoton-wiki/vault/entities/superior-cerebellar-artery.md), attaching to the membrane of Liliequist, and climbing to the oculomotor triangle. Posteroinferiorly projecting aneurysms impact the nerve, producing the classic third nerve palsy (pupil dilation, "down and out" eye).
 
 ## Dissection Strategy
 
 Lawton describes a systematic 10-step dissection:
 
-1. **Identify the [[optic-nerve]]** through chiasmatic cistern arachnoid
+1. **Identify the [optic-nerve](../rhoton-wiki/vault/entities/optic-nerve.md)** through chiasmatic cistern arachnoid
 2. **Position frontal retractor** with blade tip lateral to the [[olfactory-tract]]
 3. **Split proximal [[sylvian-fissure]]** -- only the sphenoidal segment needed
 4. **Trace superior ICA** to the optic-carotid triangle apex
@@ -54,19 +54,19 @@ Lawton describes a systematic 10-step dissection:
 7. **Identify PCoA origin-proximal neck interval** -- the PCoA origin appears as a "knuckle" on the posterior carotid wall
 8. **Trace distal PCoA** to confirm anatomy through the optic-carotid triangle
 9. **Identify AChA-distal neck interval** -- the seat for the distal clip blade
-10. **Release tentorial adhesions** -- dome adhesions to the [[tentorium-cerebelli]] can pull on the dome during clipping
+10. **Release tentorial adhesions** -- dome adhesions to the [tentorium-cerebelli](../rhoton-wiki/vault/concepts/tentorium-cerebelli.md) can pull on the dome during clipping
 
-Temporal lobe retraction is avoided because laterally projecting domes often adhere to the [[uncus]] and may rupture with such a maneuver.
+Temporal lobe retraction is avoided because laterally projecting domes often adhere to the [uncus](../rhoton-wiki/vault/concepts/uncus.md) and may rupture with such a maneuver.
 
 ### Dome Projections
 
-PCoA aneurysms project inferiorly and posteriorly with variable tentorium/[[oculomotor-nerve]] relationships:
+PCoA aneurysms project inferiorly and posteriorly with variable tentorium/[oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md) relationships:
 
 | Projection | Relationship | Surgical Implication |
 |---|---|---|
 | Medial to CN III | Abuts [[posterior-clinoid-process]] | Narrows space for proximal clip blade |
 | On CN III | Most common | Ample space between tentorial edge and ICA |
-| Lateral, infratentorial | Below [[tentorium-cerebelli]] | Tentorial adhesions must be released |
+| Lateral, infratentorial | Below [tentorium-cerebelli](../rhoton-wiki/vault/concepts/tentorium-cerebelli.md) | Tentorial adhesions must be released |
 | Lateral, supratentorial | Into [[temporal-lobe]] | Risk of ICH; dome in dissection path |
 | Split by tentorium | Lobules on both sides | Adhesions on both surfaces |
 
@@ -81,23 +81,23 @@ PCoA aneurysms are typically occluded with a **simple straight clip**:
 **AChA safety is the paramount concern.** Even a perfectly placed clip on large PCoA aneurysms can obstruct AChA flow. After clipping:
 
 - Inspect AChA origin closely
-- Puncture and deflate the dome to decompress the [[oculomotor-nerve]] (best chance for palsy recovery)
+- Puncture and deflate the dome to decompress the [oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md) (best chance for palsy recovery)
 - Check for persistent filling from malpositioned proximal blade (retrograde filling via posterior circulation)
 
 ### Complex Configurations
 
 - **Tandem clipping**: for large aneurysms that persistently fill after simple clip, or those with intraluminal thrombus, prior coils, or atherosclerosis
 - **Fenestrated clips**: when the AChA cannot be stripped from the neck, a fenestrated clip encircles the adherent artery
-- **Limited anterior clinoidectomy**: when the [[anterior-clinoid-process]] obscures the proximal neck; complete clinoidectomy rarely needed
+- **Limited anterior clinoidectomy**: when the [anterior-clinoid-process](../rhoton-wiki/vault/concepts/anterior-clinoid-process.md) obscures the proximal neck; complete clinoidectomy rarely needed
 
 ## Key Pearls
 
 - The AChA arises within the dissection field and must be positively identified before and after clipping
 - Motor evoked potentials (MEPs) monitor AChA territory intraoperatively
 - A PCoA aneurysm that bleeds after clipping may have the proximal blade on the wrong side of the PCoA origin
-- Aneurysm tissue should be left on the [[oculomotor-nerve]] after deflation -- further dissection risks nerve or perforator injury
+- Aneurysm tissue should be left on the [oculomotor-nerve](../rhoton-wiki/vault/entities/oculomotor-nerve.md) after deflation -- further dissection risks nerve or perforator injury
 - Contralateral clipping through the interoptic triangle is feasible for small, unruptured, medially/inferiorly projecting aneurysms
-- Principles apply equally to [[anterior-choroidal-artery]] aneurysms
+- Principles apply equally to [anterior-choroidal-artery](../rhoton-wiki/vault/entities/anterior-choroidal-artery.md) aneurysms
 
 ## Related Pages
 

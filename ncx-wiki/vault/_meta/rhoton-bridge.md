@@ -14,7 +14,14 @@ updated: 2026-04-15
 
 Cross-references between NCX wiki and Rhoton wiki (`rhoton-wiki/vault/`).
 
-Rhoton content is NOT duplicated here --- use `[[rhoton:page-name]]` syntax or see `crossmap.json` at repo root.
+Rhoton content is NOT duplicated here. Use either of these cross-wiki forms:
+
+- Markdown link (Obsidian resolves natively in a multi-vault workspace):
+  `[corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md)`
+- Wiki-prefixed wikilink (guard-validated, Obsidian renders as unresolved):
+  two-bracket form with the `rhoton` prefix, e.g. `rhoton:corpus-callosum` inside double brackets.
+
+See `crossmap.json` at repo root for the curated bridges.
 
 ## Mapping
 

@@ -40,21 +40,21 @@ The frontal lobe has four surfaces that define the five subtypes:
 
 ### Arterial Supply
 
-Frontal AVMs receive a dual supply from the [[middle-cerebral-artery]] (MCA) laterally and the [[anterior-cerebral-artery]] (ACA) medially.
+Frontal AVMs receive a dual supply from the [middle-cerebral-artery](../rhoton-wiki/vault/entities/middle-cerebral-artery.md) (MCA) laterally and the [anterior-cerebral-artery](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md) (ACA) medially.
 
-**MCA territory** -- the superior trunk divides into stem arteries through the [[insula]] (M2) and operculum (M3), terminating as four cortical (M4) arteries: orbitofrontal, prefrontal, precentral, and central arteries. These emerge from the [[sylvian-fissure]] and ascend to supply the lateral frontal surface.
+**MCA territory** -- the superior trunk divides into stem arteries through the [insula](../rhoton-wiki/vault/concepts/insula.md) (M2) and operculum (M3), terminating as four cortical (M4) arteries: orbitofrontal, prefrontal, precentral, and central arteries. These emerge from the [[sylvian-fissure]] and ascend to supply the lateral frontal surface.
 
-**ACA territory** -- eight cortical branches radiate from the ACA as it courses around the [[corpus-callosum]]: orbitofrontal, frontopolar, callosomarginal, anterior/middle/posterior internal frontal, paracentral, and [[pericallosal-artery]]. The orbitofrontal artery from the ACA originates just beyond the [[anterior-communicating-artery]] and supplies the [[gyrus-rectus]] and olfactory bulb.
+**ACA territory** -- eight cortical branches radiate from the ACA as it courses around the [corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md): orbitofrontal, frontopolar, callosomarginal, anterior/middle/posterior internal frontal, paracentral, and [[pericallosal-artery]]. The orbitofrontal artery from the ACA originates just beyond the [anterior-communicating-artery](../rhoton-wiki/vault/entities/anterior-communicating-artery.md) and supplies the [[gyrus-rectus]] and olfactory bulb.
 
 ### Venous Drainage
 
-Each surface has its own venous network. The lateral convexity drains via ascending frontal veins to the [[superior-sagittal-sinus]]. The sylvian surface drains via frontosylvian veins to the superficial and deep sylvian veins. The medial surface has ascending medial frontal veins to the SSS and descending drainage to [[pericallosal-vein]] and [[inferior-sagittal-sinus]]. The basal surface drains anteriorly to the SSS or posteriorly deep to the [[basal-vein-of-rosenthal]].
+Each surface has its own venous network. The lateral convexity drains via ascending frontal veins to the [[superior-sagittal-sinus]]. The sylvian surface drains via frontosylvian veins to the superficial and deep sylvian veins. The medial surface has ascending medial frontal veins to the SSS and descending drainage to [[pericallosal-vein]] and [[inferior-sagittal-sinus]]. The basal surface drains anteriorly to the SSS or posteriorly deep to the [basal-vein-of-rosenthal](../rhoton-wiki/vault/entities/basal-vein-of-rosenthal.md).
 
 ## Five Frontal AVM Subtypes
 
 ### 1. Lateral Frontal AVM
 
-The most common frontal subtype (one third of frontal AVMs). Stereotypical cone-shaped convexity AVM based on the lateral surface with extension toward the [[lateral-ventricle]]. Fed exclusively by MCA superior trunk branches. Venous drainage ascends to the SSS or descends to the superficial sylvian veins. Exposure is straightforward: unilateral frontal craniotomy with sulcal dissection. Deep dissection may reach the frontal horn where [[lenticulostriate-arteries]] supply an ependymal component, similar to the deep planes encountered in [[deep-avm]] surgery.
+The most common frontal subtype (one third of frontal AVMs). Stereotypical cone-shaped convexity AVM based on the lateral surface with extension toward the [[lateral-ventricle]]. Fed exclusively by MCA superior trunk branches. Venous drainage ascends to the SSS or descends to the superficial sylvian veins. Exposure is straightforward: unilateral frontal craniotomy with sulcal dissection. Deep dissection may reach the frontal horn where [lenticulostriate-arteries](../rhoton-wiki/vault/entities/lenticulostriate-arteries.md) supply an ependymal component, similar to the deep planes encountered in [[deep-avm]] surgery.
 
 ### 2. Medial Frontal AVM
 
@@ -62,7 +62,7 @@ Located on the medial frontal surface, visible only after opening the [[interhem
 
 ### 3. Paramedian Frontal AVM
 
-Occupies both lateral and medial surfaces at the medial corner of the frontal lobe. Dual arterial supply from MCA and ACA creates a robust nidus requiring access to both territories. A bifrontal craniotomy with the midline vertical ("nose up") provides parallel access to both surfaces without gravity retraction. Posteriorly located paramedian AVMs abut motor cortex. Deep planes may receive [[lenticulostriate-arteries]] supply and extend to the [[lateral-ventricle]], linking them to [[ventricular-avm]] anatomy.
+Occupies both lateral and medial surfaces at the medial corner of the frontal lobe. Dual arterial supply from MCA and ACA creates a robust nidus requiring access to both territories. A bifrontal craniotomy with the midline vertical ("nose up") provides parallel access to both surfaces without gravity retraction. Posteriorly located paramedian AVMs abut motor cortex. Deep planes may receive [lenticulostriate-arteries](../rhoton-wiki/vault/entities/lenticulostriate-arteries.md) supply and extend to the [[lateral-ventricle]], linking them to [[ventricular-avm]] anatomy.
 
 ### 4. Basal Frontal AVM
 
@@ -79,7 +79,7 @@ All five subtypes follow Lawton's seven-step strategy: (1) craniotomy, (2) subar
 - **Perpendicularity** -- medial and basal subtypes require perpendicular exposure with nidal mobilization to overcome limited access
 - **Dual supply** -- paramedian and basal subtypes have robust supply from two arterial territories, requiring interruption of separate fronts
 - **En passage arteries** -- the [[pericallosal-artery]] frequently transits past medial and callosal AVMs and must be skeletonized rather than sacrificed
-- **Deep planes** -- lateral and paramedian subtypes may extend to the [[lateral-ventricle]] with [[lenticulostriate-arteries]] supply along the deep margin, paralleling the anatomy of [[deep-avm]] and [[ventricular-avm]]
+- **Deep planes** -- lateral and paramedian subtypes may extend to the [[lateral-ventricle]] with [lenticulostriate-arteries](../rhoton-wiki/vault/entities/lenticulostriate-arteries.md) supply along the deep margin, paralleling the anatomy of [[deep-avm]] and [[ventricular-avm]]
 
 ## Frequency Data
 

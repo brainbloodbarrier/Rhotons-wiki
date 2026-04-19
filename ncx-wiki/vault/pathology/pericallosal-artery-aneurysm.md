@@ -16,12 +16,12 @@ approached-via:
   - "[[anterior-interhemispheric-approach]]"
 treats:
   - "[[pericallosal-artery]]"
-  - "[[anterior-cerebral-artery]]"
+  - "[anterior-cerebral-artery](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md)"
 ---
 
 # Pericallosal Artery Aneurysm
 
-Pericallosal artery (PcaA) aneurysms occur at the bifurcation of the distal [[anterior-cerebral-artery]] (ACA) into the [[pericallosal-artery]] and [[callosomarginal-artery]]. They are approached through the [[anterior-interhemispheric-approach]], which requires splitting a fissure that does not widen as it deepens -- a fundamental difference from [[sylvian-fissure]] splitting. These aneurysms are dangerous because their domes project toward the neurosurgeon.
+Pericallosal artery (PcaA) aneurysms occur at the bifurcation of the distal [anterior-cerebral-artery](../rhoton-wiki/vault/entities/anterior-cerebral-artery.md) (ACA) into the [[pericallosal-artery]] and [[callosomarginal-artery]]. They are approached through the [[anterior-interhemispheric-approach]], which requires splitting a fissure that does not widen as it deepens -- a fundamental difference from [[sylvian-fissure]] splitting. These aneurysms are dangerous because their domes project toward the neurosurgeon.
 
 ## Microsurgical Anatomy
 
@@ -29,17 +29,17 @@ Pericallosal artery (PcaA) aneurysms occur at the bifurcation of the distal [[an
 
 | Segment | Name | Course |
 |---|---|---|
-| A2 | Postcommunicating/Infracallosal | ACoA along rostrum of [[corpus-callosum]] |
-| A3 | Precallosal | Around genu of [[corpus-callosum]] |
+| A2 | Postcommunicating/Infracallosal | ACoA along rostrum of [corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md) |
+| A3 | Precallosal | Around genu of [corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md) |
 | A4 | Supracallosal | Anterior half of callosal body |
 | A5 | Postcallosal | Posterior half of callosal body |
 
-The ACA's ascending segment (A2 + A3) and horizontal segment (A4 + A5) form the paired arteries on the callosal surface. The bifurcation into PcaA and [[callosomarginal-artery]] (CmaA) does not define these segments; its location varies from just distal to the [[anterior-communicating-artery]] to the genu, most often in A3. The CmaA may be absent in 20% of patients.
+The ACA's ascending segment (A2 + A3) and horizontal segment (A4 + A5) form the paired arteries on the callosal surface. The bifurcation into PcaA and [[callosomarginal-artery]] (CmaA) does not define these segments; its location varies from just distal to the [anterior-communicating-artery](../rhoton-wiki/vault/entities/anterior-communicating-artery.md) to the genu, most often in A3. The CmaA may be absent in 20% of patients.
 
 ### Arterial Relationships
 
-- The **PcaA** lies on the [[corpus-callosum]] surface, entirely below the free margin of the [[falx-cerebri]]
-- The **CmaA** courses in or near the [[cingulate-sulcus]], one gyrus above the [[corpus-callosum]], parallel to the PcaA
+- The **PcaA** lies on the [corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md) surface, entirely below the free margin of the [falx-cerebri](../rhoton-wiki/vault/concepts/falx-cerebri.md)
+- The **CmaA** courses in or near the [[cingulate-sulcus]], one gyrus above the [corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md), parallel to the PcaA
 - PcaA caliber usually exceeds CmaA, with an inverse relationship
 
 ### Cortical Branches
@@ -58,9 +58,9 @@ Eight cortical branches: [[orbitofrontal-artery]], [[frontopolar-artery]], anter
 
 Through a **bifrontal craniotomy**, dural flap based along the [[superior-sagittal-sinus]]:
 
-**Step 1: Subdural dissection** -- down the [[falx-cerebri]] from [[superior-sagittal-sinus]] to [[inferior-sagittal-sinus]]. Manage bridging veins (create dural sleeves for fused veins, maximize working spaces between bridging veins).
+**Step 1: Subdural dissection** -- down the [falx-cerebri](../rhoton-wiki/vault/concepts/falx-cerebri.md) from [[superior-sagittal-sinus]] to [[inferior-sagittal-sinus]]. Manage bridging veins (create dural sleeves for fused veins, maximize working spaces between bridging veins).
 
-**Step 2: Subarachnoid dissection** -- enter the corpus callosum cistern beneath the free edge of the falx. Follow a peripheral CmaA branch deeper to larger trunks. Unlike the sylvian cistern, the corpus callosum cistern does not widen with depth, and ACA branch calibers do not enlarge to separate the surfaces. The white color of the [[corpus-callosum]] signals arrival at the PcaA's depth.
+**Step 2: Subarachnoid dissection** -- enter the corpus callosum cistern beneath the free edge of the falx. Follow a peripheral CmaA branch deeper to larger trunks. Unlike the sylvian cistern, the corpus callosum cistern does not widen with depth, and ACA branch calibers do not enlarge to separate the surfaces. The white color of the [corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md) signals arrival at the PcaA's depth.
 
 ### Aneurysm Approach by Location
 
@@ -73,7 +73,7 @@ Through a **bifrontal craniotomy**, dural flap based along the [[superior-sagitt
 ### 9-Step Dissection
 
 1. Follow peripheral arteries deeper to split the interhemispheric fissure
-2. Widen the split by following the PcaA along the [[corpus-callosum]] (inside-out)
+2. Widen the split by following the PcaA along the [corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md) (inside-out)
 3. **Shift dissection anteriorly** for proximal control (critical -- the natural drift is posterior where the fissure opens easier, toward the dome)
 4. Prepare the afferent artery for proximal control
 5. Identify the contralateral ACA (confirm correct artery for temporary clip)
@@ -110,12 +110,12 @@ The interhemispheric fissure is excellent for in situ bypasses:
 - PcaA aneurysm domes project **toward the neurosurgeon** -- dome avoidance requires deliberate forward shift of dissection
 - Clot evacuation before clipping should be limited (precipitates rupture)
 - The afferent ACA may be accessed underneath the aneurysm (between PcaA and CmaA) rather than anterior due to the curve around the genu
-- Traumatic pseudoaneurysms occur where the PcaA shears against the free edge of the [[falx-cerebri]]
+- Traumatic pseudoaneurysms occur where the PcaA shears against the free edge of the [falx-cerebri](../rhoton-wiki/vault/concepts/falx-cerebri.md)
 - When ACAs are paired, confirm laterality by tracing branches to their hemisphere
 
 ## Related Pages
 
 - [[acoa-aneurysm]] -- proximal ACA territory; shares A2 anatomy
-- [[anterior-communicating-artery]] -- proximal landmark
+- [anterior-communicating-artery](../rhoton-wiki/vault/entities/anterior-communicating-artery.md) -- proximal landmark
 - [[mca-aneurysm]] -- contrasting fissure-splitting technique
-- [[corpus-callosum]] -- surgical landmark at depth
+- [corpus-callosum](../rhoton-wiki/vault/concepts/corpus-callosum.md) -- surgical landmark at depth
