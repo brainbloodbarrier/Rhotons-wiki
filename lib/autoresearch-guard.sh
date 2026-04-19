@@ -149,6 +149,19 @@ while IFS= read -r rel; do
   PAGE_BASENAMES["$key"]=1
 done < <(list_pages)
 
+# Cross-wiki resolution: load pages_index from crossmap.json if present.
+# Keys are normalized basenames from OTHER wikis (not this vault).
+# Absent or malformed crossmap → empty map → behavior identical to pre-change.
+declare -A CROSSWIKI_BASENAMES=()
+_CROSSMAP="$REPO_ROOT/crossmap.json"
+if [[ -f "$_CROSSMAP" ]] && jq -e '.pages_index' "$_CROSSMAP" >/dev/null 2>&1; then
+  while IFS= read -r cw_key; do
+    [[ -n "$cw_key" ]] && CROSSWIKI_BASENAMES["$cw_key"]=1
+  done < <(jq -r --arg w "$WIKI_NAME" \
+    '.pages_index | to_entries[] | select(any(.value[]; .wiki != $w)) | .key' \
+    "$_CROSSMAP" 2>/dev/null || true)
+fi
+
 declare -A ALLOWED_TAGS=()
 HAS_TAXONOMY=0
 if [[ -f "$TAXONOMY" ]]; then
@@ -279,7 +292,7 @@ while IFS= read -r rel; do
     case "$clean" in *.jpg|*.jpeg|*.png|*.gif|*.svg|*.pdf|*.webp|*.mp4|*.mov|*.canvas) continue ;; esac
     key=$(normalize_target "$clean")
     INCOMING["$key"]=$(( ${INCOMING["$key"]:-0} + 1 ))
-    if [[ -z "${PAGE_BASENAMES[$key]:-}" ]]; then
+    if [[ -z "${PAGE_BASENAMES[$key]:-}" && -z "${CROSSWIKI_BASENAMES[$key]:-}" ]]; then
       entry="$rel -> [[${clean}]]"
       is_allowlisted broken_wikilinks "$entry" \
         || VIOL_WIKILINKS+="ERROR BROKEN_WIKILINK: $entry"$'\n'
