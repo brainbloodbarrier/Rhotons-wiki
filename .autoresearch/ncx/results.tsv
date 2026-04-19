@@ -1,6 +1,7 @@
-iteration	commit	metric	delta	guard	status	description
-0	-	0	0	pass	baseline	NCX wiki initialized
-1	-	1003	+930	pass	kept	Lawton Seven Aneurysms: 7 pathology + 4 procedures + 4 concepts + 1 synthesis
-2	-	1711	+708	pass	kept	Lawton Seven AVMs: 7 pathology + 3 concepts + 1 classification + 1 synthesis
-3	-	2186	+247	pass	kept	Lawton Seven Bypasses: 4 procedures + 2 concepts + 1 entity + 1 synthesis
-4	-	2757	+571	pass	kept	Campaign 1 batch 1: Greenberg (15 pages) + Chaddad-Neto anatomy (3 pages)
+iteration	commit	metric	delta	guard	guard_code	status	description
+0	-	0	0	pass	-	baseline	NCX wiki initialized
+1	-	1003	+930	pass	-	kept	Lawton Seven Aneurysms: 7 pathology + 4 procedures + 4 concepts + 1 synthesis
+2	-	1711	+708	pass	-	kept	Lawton Seven AVMs: 7 pathology + 3 concepts + 1 classification + 1 synthesis
+3	-	2186	+247	pass	-	kept	Lawton Seven Bypasses: 4 procedures + 2 concepts + 1 entity + 1 synthesis
+4	-	2757	+571	pass	-	kept	Campaign 1 batch 1: Greenberg (15 pages) + Chaddad-Neto anatomy (3 pages)
+5	4321bf8	2594	-163	pass	0	reconcile	post PR#52 migration: bare cross-wiki wikilinks converted to markdown links (score v1 counts [[...]] only)
