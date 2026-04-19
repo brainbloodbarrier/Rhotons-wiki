@@ -133,6 +133,8 @@ Three-layer pattern (full reference: `.skills/llm-wiki/SKILL.md`):
 | `_quizzes/` | Flashcards, viva questions, Anki CSV |
 | `_attachments/` | Figures, diagrams, binary assets |
 
+> **NCX vault:** consult `ncx-wiki/vault/_meta/organization-policy.md` before creating a new folder or moving pages. Defines thresholds (5+ pages for a new folder; 15+ with an 8+ cluster for a split) and the decision flow for borderline pages.
+
 ### Semantic Relations (Breadcrumbs)
 
 Six typed relation pairs expressed in frontmatter:
