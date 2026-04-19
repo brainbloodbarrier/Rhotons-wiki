@@ -5,6 +5,7 @@ tags:
   - coluna
   - spine-trauma
   - classification
+  - stub
 sources:
   - "Vialle - AOSpine Masters Vol 5 Cervical Spine Trauma (2015) Ch. 6"
   - "Scholz, Schleicher & Kandziora"

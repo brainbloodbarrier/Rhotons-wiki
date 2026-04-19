@@ -5,6 +5,7 @@ tags:
   - neurocirurgia-funcional
   - technique
   - dbs
+  - stub
 sources:
   - "Gross & Boulis - Neurosurgical Operative Atlas Functional (3ed, 2018) Ch. 16-22"
   - "Rasouli & Kopell - STN Stimulation for Parkinson's (Ch. 17)"

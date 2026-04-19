@@ -139,7 +139,8 @@ Entity-identifying information (specific arteries, nerves, cisterns, etc.) lives
 - `quiz` — flashcards, viva, question banks
 - `meta` — wiki infrastructure pages
 - `source-index` — source material references
+- `stub` — page with minimal content / low outbound wikilink count (≤3 unique targets); flagged for expansion in future campaigns
 
 ---
 
-Created 2026-04-14 — 101 canonical tags for NCX wiki.
+Created 2026-04-14 — 102 canonical tags for NCX wiki.

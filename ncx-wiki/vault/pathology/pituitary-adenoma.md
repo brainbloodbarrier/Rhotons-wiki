@@ -8,6 +8,7 @@ tags:
   - sellar-region
   - pituitary
   - endoscopic
+  - stub
 aliases:
   - pituitary adenoma
   - PitNET
