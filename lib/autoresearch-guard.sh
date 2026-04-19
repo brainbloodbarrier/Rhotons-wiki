@@ -292,7 +292,7 @@ while IFS= read -r rel; do
     case "$clean" in *.jpg|*.jpeg|*.png|*.gif|*.svg|*.pdf|*.webp|*.mp4|*.mov|*.canvas) continue ;; esac
     key=$(normalize_target "$clean")
     INCOMING["$key"]=$(( ${INCOMING["$key"]:-0} + 1 ))
-    if [[ -z "${PAGE_BASENAMES[$key]:-}" && -z "${CROSSWIKI_BASENAMES[$key]:-}" ]]; then
+    if [[ -z "${PAGE_BASENAMES[$key]:-}" ]]; then
       entry="$rel -> [[${clean}]]"
       is_allowlisted broken_wikilinks "$entry" \
         || VIOL_WIKILINKS+="ERROR BROKEN_WIKILINK: $entry"$'\n'
