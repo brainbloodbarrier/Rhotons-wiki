@@ -17,6 +17,28 @@ vault page bodies are never modified, preserving the byte-identical invariant.
 This skill is distinct from `cross-linker`, which adds `[[wikilinks]]`
 *within* a single vault.
 
+## Relationship to `pages_index` and the migrator
+
+`crossmap.json` now has two top-level fields used by different tools:
+
+- `bridges[]` — **curated semantic relations** between pages in different
+  vaults. Written by this skill. Used by `wiki-query` to surface related
+  content across vaults; not consumed by the guard.
+- `pages_index{}` — **mechanical lookup table** from normalized basename to
+  `[{wiki, path}, ...]`. Written by `lib/crossmap-generate.sh`. Used by
+  `lib/autoresearch-guard.sh` to validate `[[wiki:basename]]` syntax and
+  by `lib/crosswiki-migrate.sh` to auto-convert bare cross-wiki wikilinks
+  into markdown cross-links.
+
+Do not conflate the two. Bridges express authorial intent (what relates
+to what). pages_index is a generated index (what exists where). This
+skill writes only `bridges`; it never touches `pages_index` (that is
+`crossmap-generate.sh`'s responsibility, regenerated on demand).
+
+For the cross-vault reference policy itself (which form to use in prose —
+markdown link vs `[[wiki:basename]]` vs bare wikilink), see AGENTS.md
+§ *Cross-Vault References*.
+
 ## Write Modes
 
 | Mode | Flag | Behavior |
