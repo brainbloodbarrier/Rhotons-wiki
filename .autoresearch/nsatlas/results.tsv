@@ -127,3 +127,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 126	-		+40	pass	0	keep	C2 iter126 — create microvascular-decompression-for-trigeminal-neuralgia
 127	-		+41	pass	0	keep	C2 iter127 — create lateral-sphenoid-wing-meningioma
 128	-		+	pass	0	keep	C2 iter128 — create convexity-meningioma
+129	-		+	pass	0	keep	C2 iter129 — create acoustic-neuroma (vestibular schwannoma)
