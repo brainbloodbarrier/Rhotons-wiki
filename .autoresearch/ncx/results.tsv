@@ -39,3 +39,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 38	-	3640	+55	pass	0	keep	C2 iter38: saphenous-vein-graft (SVG — high-flow venous conduit; harvest, anastomosis, outcomes)
 39	-	3715	+75	pass	0	keep	C2 iter39: vascular-malformations-overview (McCormick taxonomy; AVM/cavernoma/DVA/AVF; hemorrhage risk; modality ladder)
 40	-	3767	+52	pass	0	keep	C2 iter40: stereotactic-radiosurgery (SRS ladder; AVM latency, schwannoma 12–13 Gy, radionecrosis)
+41	-	3820	+53	pass	0	keep	C2 iter41: straight-sinus (deep venous terminus; Poppen corridor roof; falcotentorial meningioma / DST relevance)
