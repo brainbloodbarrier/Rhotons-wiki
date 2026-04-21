@@ -35,3 +35,4 @@ iteration	commit	metric	delta	guard	guard-metric	status	description
 34	-	14832	+63	pass	0	keep	C3 iter34: meckel-cave (dural pouch for Gasserian ganglion; percutaneous TN target; Kawase floor)
 35	-	14881	+49	pass	0	keep	C3 iter35: red-nucleus (DRTT relay; perimesencephalic SEZ fiducial; Benedikt/Claude/Holmes)
 36	-	14937	+56	pass	0	keep	C3 iter36: mammillary-bodies (Papez terminus; ETV landmark; Wernicke-Korsakoff substrate)
+37	-	14988	+51	pass	0	keep	C3 iter37: substantia-nigra (SNc dopaminergic nigrostriatal; SNr GABAergic output; Parkinson substrate)
