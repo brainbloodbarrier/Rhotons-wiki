@@ -42,3 +42,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 41	-	3820	+53	pass	0	keep	C2 iter41: straight-sinus (deep venous terminus; Poppen corridor roof; falcotentorial meningioma / DST relevance)
 42	-	3869	+49	pass	0	keep	C2 iter42: callosomarginal-artery (distal ACA sister vessel; cingulate sulcus; interhemispheric preservation)
 43	-	3921	+52	pass	0	keep	C2 iter43: moyamoya-disease (bilateral distal ICA; Suzuki staging; direct+indirect bypass; pediatric ischemia vs adult hemorrhage)
+44	-	3946	+25	pass	0	keep	C2 iter44: subarachnoid-hemorrhage (Hunt-Hess/WFNS/Fisher; rebleed/vasospasm/DCI; secure <72h)
