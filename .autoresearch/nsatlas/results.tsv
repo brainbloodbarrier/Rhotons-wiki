@@ -126,3 +126,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 125	-		+56	pass	0	keep	C2 iter125 — create orbitozygomatic-craniotomy (OZ variants, basilar apex access)
 126	-		+40	pass	0	keep	C2 iter126 — create microvascular-decompression-for-trigeminal-neuralgia
 127	-		+41	pass	0	keep	C2 iter127 — create lateral-sphenoid-wing-meningioma
+128	-		+	pass	0	keep	C2 iter128 — create convexity-meningioma
