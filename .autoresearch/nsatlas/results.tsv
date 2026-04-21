@@ -139,3 +139,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 138	-	4936	+46	pass	0	keep	C2 iter138 create stereotactic-biopsy (frame vs frameless; trajectory planning; 95% yield, <4% hemorrhage)
 139	-	4988	+52	pass	0	keep	C2 iter139 create radiation-necrosis (6mo-3yr delayed; RN vs recurrence imaging; bevacizumab/LITT/surgery ladder)
 140	-	5044	+56	pass	0	keep	C2 iter140 create hydrocephalus (obstructive/communicating/NPH; EVD/ETV/shunts; VP complications)
+141	-	5098	+54	pass	0	keep	C2 iter141 create brain-metastasis (GPA; Patchell resection + cavity SRS; systemic CNS-penetrant therapies)
