@@ -34,3 +34,4 @@ iteration	commit	metric	delta	guard	guard-metric	status	description
 33	-	14769	+48	pass	0	keep	C3 iter33: vagus-nerve (CN X — jugular foramen pars vascularis, recurrent laryngeal, Vernet)
 34	-	14832	+63	pass	0	keep	C3 iter34: meckel-cave (dural pouch for Gasserian ganglion; percutaneous TN target; Kawase floor)
 35	-	14881	+49	pass	0	keep	C3 iter35: red-nucleus (DRTT relay; perimesencephalic SEZ fiducial; Benedikt/Claude/Holmes)
+36	-	14937	+56	pass	0	keep	C3 iter36: mammillary-bodies (Papez terminus; ETV landmark; Wernicke-Korsakoff substrate)
