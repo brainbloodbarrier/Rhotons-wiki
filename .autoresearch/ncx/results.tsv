@@ -27,3 +27,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 25	-	3092	+20	pass	0	keep	C2 iter25: wernicke-area (6 backlinks, language mapping + aphasia)
 27	-	3136	+51	pass	0	keep	C2 iter27: pterion (H-junction, middle meningeal, epidural hematoma site)
 28	-	3177	+41	pass	0	keep	C2 iter28: middle-meningeal-artery (MMA — dura supply, EDH, embolization target)
+29	-	3222	+45	pass	0	keep	C2 iter29: broca-area (BA 44/45, arcuate fasciculus, awake mapping)
