@@ -124,3 +124,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 122	f4842ed	4398	+4	pass	0	keep	C2 iter118 — expand cranial-base-surgery-general-principles
 123	5db575c	4403	+5	pass	0	keep	C2 iter119 — expand cranial-base-preoperative-considerations
 125	-		+56	pass	0	keep	C2 iter125 — create orbitozygomatic-craniotomy (OZ variants, basilar apex access)
+126	-		+40	pass	0	keep	C2 iter126 — create microvascular-decompression-for-trigeminal-neuralgia
