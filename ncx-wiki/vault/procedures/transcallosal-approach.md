@@ -56,7 +56,7 @@ The transcallosal approach is the anterior interhemispheric corridor that incise
 
 - Dural opening based on the SSS; gentle retraction of the right frontal lobe
 - Descend along the falx; identify the cingulate gyri, then split them — a common pitfall is mistaking adherent cingulate gyri for a single midline structure
-- **Two [[pericallosal-artery]] (A3) trunks** appear on the superior surface of the corpus callosum, flanked by the [[callosomarginal-artery|callosomarginal]] branches
+- **Two [[pericallosal-artery]] (A3) trunks** appear on the superior surface of the corpus callosum, flanked by their callosomarginal branches
 - Separate the pericallosal pair; the pearly-white corpus callosum lies between them
 
 ## Callosotomy and Ventricular Entry
