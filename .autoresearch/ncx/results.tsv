@@ -43,3 +43,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 42	-	3869	+49	pass	0	keep	C2 iter42: callosomarginal-artery (distal ACA sister vessel; cingulate sulcus; interhemispheric preservation)
 43	-	3921	+52	pass	0	keep	C2 iter43: moyamoya-disease (bilateral distal ICA; Suzuki staging; direct+indirect bypass; pediatric ischemia vs adult hemorrhage)
 44	-	3946	+25	pass	0	keep	C2 iter44: subarachnoid-hemorrhage (Hunt-Hess/WFNS/Fisher; rebleed/vasospasm/DCI; secure <72h)
+45	-	3974	+28	pass	0	keep	C2 iter45: subdural-hematoma (acute vs chronic; Bullock thresholds; MMA embolization)
