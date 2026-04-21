@@ -32,3 +32,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 31	-		+41	pass	0	keep	C2 iter31: anterior-inferior-cerebellar-artery (AICA — CPA neurovascular, MVD)
 32	-	3364	+48	pass	0	keep	C2 iter32: middle-cranial-fossa (MCF bony boundaries, cavernous sinus, Kawase, pterional corridor)
 33	-	3405	+41	pass	0	keep	C2 iter33: suboccipital-approach (retrosigmoid/far-lateral/midline — CPA workhorse)
+34	-	3449	+44	pass	0	keep	C2 iter34: superior-orbital-fissure (SOF — CN III/IV/V1/VI + SOV, cavernous sinus gateway)
