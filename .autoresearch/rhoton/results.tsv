@@ -41,3 +41,4 @@ iteration	commit	metric	delta	guard	guard-metric	status	description
 40	-	15175	+65	pass	0	keep	C3 iter40: floor-of-fourth-ventricle (rhomboid fossa; facial colliculus; safe entry zones; telovelar exposure)
 41	-	15237	+62	pass	0	keep	C3 iter41: pulvinar (posterior thalamic pole; pineal region keystone; atrial medial wall; blindsight tectopulvinar)
 42	-	15309	+72	pass	0	keep	C3 iter42: sella-turcica (pituitary fossa; diaphragma; tuberculum/dorsum; cavernous/clinoid walls; EEA target)
+43	-	15369	+60	pass	0	keep	C3 iter43: cerebellar-tonsils (tonsillar peduncle; telovelar keystone; PICA loops; Chiari herniation)
