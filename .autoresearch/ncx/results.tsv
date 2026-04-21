@@ -45,3 +45,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 44	-	3946	+25	pass	0	keep	C2 iter44: subarachnoid-hemorrhage (Hunt-Hess/WFNS/Fisher; rebleed/vasospasm/DCI; secure <72h)
 45	-	3974	+28	pass	0	keep	C2 iter45: subdural-hematoma (acute vs chronic; Bullock thresholds; MMA embolization)
 46	-	4010	+36	pass	0	keep	C2 iter46: epidural-hematoma (lenticular; MMA; triphasic course; Bullock thresholds)
+47	-	4045	+35	pass	0	keep	C2 iter47: traumatic-brain-injury (GCS; Marshall/Rotterdam; BTF tier algorithm; DECRA/RESCUE-ICP)
