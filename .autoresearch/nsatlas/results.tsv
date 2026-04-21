@@ -135,3 +135,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 134	-	4760	+27	pass	0	keep	C2 iter134: ec-ic-bypass (STA-MCA workhorse; moyamoya indirect; flow-replacement ladder)
 135	-	4785	+25	pass	0	keep	C2 iter135: foramen-of-monro (Y-aperture, venous angle; colloid cyst, ETV, SEGA, septostomy)
 136	-	4838	+53	pass	0	keep	C2 iter136 create subarachnoid-hemorrhage (Hunt-Hess/Fisher/WFNS; rebleed/vasospasm/DCI; clip vs coil)
+137	-	4890	+52	pass	0	keep	C2 iter137 create vasospasm-management (tiered: nimodipine → induced HTN → IA vasodilator/angioplasty)
