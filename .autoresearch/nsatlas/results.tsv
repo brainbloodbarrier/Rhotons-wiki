@@ -144,3 +144,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 143	-	5152	+28	pass	0	keep	C2 iter143 create cerebral-aneurysm (saccular/fusiform/mycotic; PHASES; clip vs coil; ISAT)
 144	-	5178	+26	pass	0	keep	C2 iter144 create arteriovenous-malformation (Spetzler-Martin; ARUBA; microsurgery vs SRS vs embolization)
 145	-	5206	+28	pass	0	keep	C2 iter145 create chiari-malformation (types I/II/III/IV; Oldfield syrinx; PFD+duraplasty)
+146	-	5236	+30	pass	0	keep	C2 iter146 create pituitary-adenoma (Hardy/Knosp grading; prolactinoma medical; TSR for others)
