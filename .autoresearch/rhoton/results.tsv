@@ -39,3 +39,4 @@ iteration	commit	metric	delta	guard	guard-metric	status	description
 38	-	15052	+64	pass	0	keep	C3 iter38: caudate-nucleus (C-shaped striatum; ventricular landmark; caudothalamic groove; Huntington)
 39	-	15110	+70	pass	0	keep	C3 iter39: superior-cerebellar-peduncle (brachium conjunctivum; DRTT; cerebellomesencephalic fissure roof; SCI approach corridor)
 40	-	15175	+65	pass	0	keep	C3 iter40: floor-of-fourth-ventricle (rhomboid fossa; facial colliculus; safe entry zones; telovelar exposure)
+41	-	15237	+62	pass	0	keep	C3 iter41: pulvinar (posterior thalamic pole; pineal region keystone; atrial medial wall; blindsight tectopulvinar)
