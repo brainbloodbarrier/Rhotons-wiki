@@ -1,63 +1,61 @@
-# Remote Orchestrator Signal — 2026-04-21T13:36:32Z
+# Remote Orchestrator Signal — 2026-04-21T15:07:27Z
 
 ## Wiki Status
 
-- **ncx**: ACTIVE | score=3316 | plateau=NO | guard=pass (hard=0, soft=41)
-- **nsatlas**: ACTIVE | score=4592 | plateau=NO | guard=pass (hard=0, soft=0)
-- **rhoton**: ACTIVE | score=14672 | plateau=NO | guard=pass (hard=0, soft=19)
+- **ncx**: IDLE | score=3585 | plateau=NO | guard=pass (0 hard, 41 soft)
+- **nsatlas**: IDLE | score=4785 | plateau=NO | guard=pass (0 hard, 0 soft)
+- **rhoton**: ACTIVE | score=14395 | plateau=NO | guard=pass (0 hard, 19 soft)
 
 ## Phase 1 Audit
 
-All three wikis had autoresearch commits within the prior 90-minute window — all **ACTIVE** (previous orchestrator session completed at 13:21:33Z with 15 new pages across 3 branches). No plateau on any wiki: ncx/nsatlas/rhoton TSV tails all show strictly positive deltas over the last 5+ rows. All scores below ceilings (ncx 3316 < 8000, nsatlas 4592 < 7000, rhoton 14672 < 20000).
+Only **rhoton** had `autoresearch(*)` commits within the prior 90-minute window (5 commits: iter27–31, all kept). ncx and nsatlas were IDLE. All three wikis remain below their score ceilings (ncx 3316<8000, nsatlas 4592<7000, rhoton 14395<20000) with no plateau (no 5 consecutive delta≤0 rows).
 
-## Phase 2 Compliance Review
+## Phase 2 Compliance Review (rhoton, ACTIVE)
 
-Inspected each wiki's most recent 5 pages for outgoing wikilink count (minimum 3 required):
-
-| Wiki | Page | Wikilinks |
-|------|------|-----------|
-| ncx | concepts/pterion | 23 |
-| ncx | entities/middle-meningeal-artery | 15 |
-| ncx | concepts/broca-area | 17 |
-| ncx | procedures/transcallosal-approach | 21 |
-| ncx | entities/anterior-inferior-cerebellar-artery | 12 |
-| nsatlas | procedures/microvascular-decompression-for-trigeminal-neuralgia | 12 |
-| nsatlas | pathology/lateral-sphenoid-wing-meningioma | 12 |
-| nsatlas | pathology/convexity-meningioma | 11 |
-| nsatlas | pathology/acoustic-neuroma | 9 |
-| rhoton | concepts/posterior-clinoid-process | 19 |
-| rhoton | concepts/parahippocampal-gyrus | 19 |
-| rhoton | concepts/cerebral-peduncles | 15 |
-| rhoton | concepts/midbrain | 23 |
-| rhoton | concepts/temporal-lobe | 22 |
-
-All recent pages well above the 3-wikilink minimum. No TSV rows with status=discard in the active window. No hard guard errors anywhere.
-
-## Actions Taken
-
-- Phase 4 **skipped**: all three wikis are ACTIVE and healthy; no IDLE wiki to run iterations on.
-- No corrective signals written to any branch (guards all pass, no plateau).
-- Signal file committed on `main` to record audit state.
+Recent rhoton iter27–31 pages (`posterior-clinoid-process`, `parahippocampal-gyrus`, `cerebral-peduncles`, `midbrain`, `temporal-lobe`) are all keep / pass / hard=0. No TSV rows with status=discard. No hard guard errors anywhere on any branch.
 
 ## Phase 3 Decision Per Wiki
 
-- **ncx** — healthy, no action needed. Continue campaign-2 on its own cadence.
-- **nsatlas** — healthy, no action needed. Continue campaign-2 on its own cadence.
-- **rhoton** — healthy, no action needed. Continue campaign-3 on its own cadence.
+- **ncx** — IDLE, below ceiling, no plateau → ran Phase 4 (6 iterations).
+- **nsatlas** — IDLE, below ceiling, no plateau → ran Phase 4 (5 iterations).
+- **rhoton** — ACTIVE, healthy → no orchestrator action.
 
-## Observations
+## Actions Taken
 
-- nsatlas deltas (last 7 rows: +4, +4, +4, +2, +5, +4, +5) are all small, suggesting the wiki is moving into an expansion-phase regime rather than new-page creation. Not a plateau, but worth watching — if deltas become ≤ 0 for 5 consecutive rows, recommend stopping.
-- rhoton last 2 TSV rows are +34 and +2 (linking / smoke test commits). Recent git log shows new pages (temporal-lobe, midbrain, etc.) not yet reflected in TSV — TSV may be lagging the branch; the writer should confirm TSV append on each keep.
-- ncx TSV (`.autoresearch/ncx/results.tsv`) has only 5 rows total but git log shows iter31 — the ncx writer is not appending to TSV. This is a tracking gap, not a content defect; iterations 5–31 exist as commits but cannot be plateau-detected via TSV. Flag for the ncx writer agent.
+### ncx (autoresearch/ncx-campaign-2) — 6 new pages
+| Iter | Page | Δ |
+|------|------|---|
+| 32 | `skull-base/middle-cranial-fossa` | +48 |
+| 33 | `procedures/suboccipital-approach` | +41 |
+| 34 | `skull-base/superior-orbital-fissure` | +44 |
+| 35 | `entities/radial-artery-graft` | +49 |
+| 36 | `entities/ventricles` | +45 |
+| 37 | `procedures/posterior-interhemispheric-approach` | +42 |
+
+**Net: 3316 → 3585 (+269), pushed.**
+
+### nsatlas (autoresearch/nsatlas-campaign-2) — 5 new pages
+| Iter | Page | Δ |
+|------|------|---|
+| 130 | `concepts/cerebellopontine-angle` | +44 |
+| 131 | `concepts/circle-of-willis` | +32 |
+| 132 | `pathology/pineal-region-tumors` | +29 |
+| 133 | `approaches/posterior-petrosectomy` | +36 |
+| 134 | `procedures/ec-ic-bypass` | +27 |
+| 135 | `concepts/foramen-of-monro` | +25 |
+
+**Net: 4592 → 4785 (+193), pushed.**
+
+### rhoton — no action
 
 ## Recommendations
 
-- **ncx writer**: begin appending to `.autoresearch/ncx/results.tsv` on each keep so plateau detection works.
-- **nsatlas writer**: monitor for 5-consecutive-small-delta plateau; consider shifting to synthesis/cross-linking if deltas stay ≤ +5.
-- **rhoton writer**: ensure TSV is updated per iteration (gap between git log and TSV suggests drift).
-- **All writers**: continue current cadence; no blocks, no corrective actions required from orchestrator.
+- **rhoton** — continue current cadence; still well below 20k ceiling. No orchestrator intervention needed.
+- **ncx** — still far below its 8k ceiling. Next redlink targets (in frequency order): `putamen`, `globus-pallidus`, `white-matter`, `visual-pathway`, `vascular-malformation`, `frontal-bone`, `frontal-sinus`, `saphenous-vein-graft`, `superior-orbital-fissure` (now exists, should strengthen backlinks).
+- **nsatlas** — still well below 7k ceiling. Next redlink targets: `vasospasm-management`, `stereotactic-biopsy`, `dermoid`, `hemostasis`, `menieres-disease`, `cowden-syndrome`. Deltas have shrunk from +56 (iter125) to +25 (iter135) — approaching augmentation-phase; begin mixing in synthesis/cross-linking passes.
+- **All writers** — enforce pre-commit wikilink validation (`grep '\[\[[^]|#]*\]\]' <new-page>` vs `find vault -name '*.md'`) to catch broken links before guard runs. Three hard errors were caught and fixed during this session (`[[epidural-hematoma]]` in ncx; `[[meningioma]]` and `[[hydrocephalus]]` in nsatlas) — all fixed before commit.
 
 ## Blocks
 
-- None.
+- None. All 11 new pages committed and pushed to their campaign branches with guard=pass.
+- Minor irregularity: `.autoresearch/ncx/results.tsv` iter31 row was appended with empty score column (non-blocking, previous writer issue). Not corrected this session.
