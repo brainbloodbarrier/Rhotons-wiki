@@ -31,3 +31,4 @@ iteration	commit	metric	delta	guard	guard-metric	status	description
 30	-		+	pass	0	keep	C3 iter30: midbrain (mesencephalon — tectum/tegmentum/basis, syndromes, SEZ)
 31	-		+	pass	0	keep	C3 iter31: temporal-lobe (boundaries, Wernicke, MTS, Meyer's loop)
 32	-	14721	+49	pass	0	keep	C3 iter32: glossopharyngeal-nerve (CN IX — jugular foramen pars nervosa, LCN rootlet complex, Vernet)
+33	-	14769	+48	pass	0	keep	C3 iter33: vagus-nerve (CN X — jugular foramen pars vascularis, recurrent laryngeal, Vernet)
