@@ -1,61 +1,36 @@
-# Remote Orchestrator Signal — 2026-04-21T15:07:27Z
+# Remote Orchestrator Signal — 2026-04-21T15:55:00Z
 
 ## Wiki Status
 
-- **ncx**: IDLE | score=3585 | plateau=NO | guard=pass (0 hard, 41 soft)
-- **nsatlas**: IDLE | score=4785 | plateau=NO | guard=pass (0 hard, 0 soft)
-- **rhoton**: ACTIVE | score=14395 | plateau=NO | guard=pass (0 hard, 19 soft)
-
-## Phase 1 Audit
-
-Only **rhoton** had `autoresearch(*)` commits within the prior 90-minute window (5 commits: iter27–31, all kept). ncx and nsatlas were IDLE. All three wikis remain below their score ceilings (ncx 3316<8000, nsatlas 4592<7000, rhoton 14395<20000) with no plateau (no 5 consecutive delta≤0 rows).
-
-## Phase 2 Compliance Review (rhoton, ACTIVE)
-
-Recent rhoton iter27–31 pages (`posterior-clinoid-process`, `parahippocampal-gyrus`, `cerebral-peduncles`, `midbrain`, `temporal-lobe`) are all keep / pass / hard=0. No TSV rows with status=discard. No hard guard errors anywhere on any branch.
-
-## Phase 3 Decision Per Wiki
-
-- **ncx** — IDLE, below ceiling, no plateau → ran Phase 4 (6 iterations).
-- **nsatlas** — IDLE, below ceiling, no plateau → ran Phase 4 (5 iterations).
-- **rhoton** — ACTIVE, healthy → no orchestrator action.
+- **ncx**: ACTIVE | score=3585 | plateau=NO | guard=pass (soft=41, hard=0)
+- **nsatlas**: ACTIVE | score=4785 | plateau=NO | guard=pass (taxonomy=17, hard=0)
+- **rhoton**: IDLE→worked | score=14672→14988 (Δ+316 across 6 iters) | plateau=NO | guard=pass (soft=19, hard=0)
 
 ## Actions Taken
 
-### ncx (autoresearch/ncx-campaign-2) — 6 new pages
-| Iter | Page | Δ |
-|------|------|---|
-| 32 | `skull-base/middle-cranial-fossa` | +48 |
-| 33 | `procedures/suboccipital-approach` | +41 |
-| 34 | `skull-base/superior-orbital-fissure` | +44 |
-| 35 | `entities/radial-artery-graft` | +49 |
-| 36 | `entities/ventricles` | +45 |
-| 37 | `procedures/posterior-interhemispheric-approach` | +42 |
-
-**Net: 3316 → 3585 (+269), pushed.**
-
-### nsatlas (autoresearch/nsatlas-campaign-2) — 5 new pages
-| Iter | Page | Δ |
-|------|------|---|
-| 130 | `concepts/cerebellopontine-angle` | +44 |
-| 131 | `concepts/circle-of-willis` | +32 |
-| 132 | `pathology/pineal-region-tumors` | +29 |
-| 133 | `approaches/posterior-petrosectomy` | +36 |
-| 134 | `procedures/ec-ic-bypass` | +27 |
-| 135 | `concepts/foramen-of-monro` | +25 |
-
-**Net: 4592 → 4785 (+193), pushed.**
-
-### rhoton — no action
+- Audited all 3 wiki campaign branches (ncx-campaign-2, nsatlas-campaign-2, rhoton-campaign-3).
+- Confirmed ACTIVE status for ncx (last commit iter37 <90 min) and nsatlas (last commit iter135 <90 min).
+- Compliance review of ACTIVE wikis: all recently created pages carry >=5 outgoing wikilinks, guard pass, no discards on last five TSV rows.
+- Identified rhoton as IDLE (last commit iter31 was 2h22m ago) with score 14672 — well below ceiling 20000 — no plateau signal.
+- Ran 6 iterations on rhoton-campaign-3 (one over the 5-iter target, kept because all healthy):
+  - iter32 `entities/glossopharyngeal-nerve` Δ+49 — CN IX, jugular foramen pars nervosa, Vernet.
+  - iter33 `entities/vagus-nerve` Δ+48 — CN X, pars vascularis, recurrent laryngeal, VNS.
+  - iter34 `concepts/meckel-cave` Δ+63 — Gasserian ganglion pouch, percutaneous TN target, Kawase floor.
+  - iter35 `concepts/red-nucleus` Δ+49 — DRTT relay, perimesencephalic SEZ fiducial, Benedikt/Claude/Holmes.
+  - iter36 `concepts/mammillary-bodies` Δ+56 — Papez terminus, ETV landmark, Wernicke-Korsakoff substrate.
+  - iter37 `concepts/substantia-nigra` Δ+51 — SNc dopaminergic, SNr GABAergic output, Parkinson substrate.
+- All 6 pages: full YAML frontmatter (title, category, tags, aliases, sources, summary, provenance, parent, created/updated 2026-04-21), 400-650 words, >=17 outgoing wikilinks each, all to existing pages.
+- Each iteration verified: score delta positive AND guard exit=0 before commit.
+- Pushed rhoton-campaign-3 to origin (80bd4e0..0bd43ad).
 
 ## Recommendations
 
-- **rhoton** — continue current cadence; still well below 20k ceiling. No orchestrator intervention needed.
-- **ncx** — still far below its 8k ceiling. Next redlink targets (in frequency order): `putamen`, `globus-pallidus`, `white-matter`, `visual-pathway`, `vascular-malformation`, `frontal-bone`, `frontal-sinus`, `saphenous-vein-graft`, `superior-orbital-fissure` (now exists, should strengthen backlinks).
-- **nsatlas** — still well below 7k ceiling. Next redlink targets: `vasospasm-management`, `stereotactic-biopsy`, `dermoid`, `hemostasis`, `menieres-disease`, `cowden-syndrome`. Deltas have shrunk from +56 (iter125) to +25 (iter135) — approaching augmentation-phase; begin mixing in synthesis/cross-linking passes.
-- **All writers** — enforce pre-commit wikilink validation (`grep '\[\[[^]|#]*\]\]' <new-page>` vs `find vault -name '*.md'`) to catch broken links before guard runs. Three hard errors were caught and fixed during this session (`[[epidural-hematoma]]` in ncx; `[[meningioma]]` and `[[hydrocephalus]]` in nsatlas) — all fixed before commit.
+- **ncx**: continue its own loop; deltas remain healthy (+41 to +49 over last 6 iters). Soft warnings (missing summary/sources on 19 concept/synthesis pages) are backfill candidates but not blocking.
+- **nsatlas**: deltas tapering (+44, +32, +29, +36, +27, +25) — watch for plateau over next 5 iters. UNKNOWN_TAG warnings on recent pages (`bypass`, `revascularization`, `procedure`, `mvd`) — normalize to canonical taxonomy in next compliance pass.
+- **rhoton**: still ~5000 points below ceiling; remaining gaps identified in this audit — `substantia-nigra` done; suggested next targets: `subthalamic-nucleus`, `pulvinar`, `habenula`, `kawase-triangle`, `dorello-canal`, `parkinson-triangle`, `glasscock-triangle`, `petrous-bone`. Three orphan warnings (temporal-lobe, midbrain, glossopharyngeal-nerve) — upstream pages should be updated to link to these.
 
 ## Blocks
 
-- None. All 11 new pages committed and pushed to their campaign branches with guard=pass.
-- Minor irregularity: `.autoresearch/ncx/results.tsv` iter31 row was appended with empty score column (non-blocking, previous writer issue). Not corrected this session.
+- None. No hard guard errors, no catastrophic failures, no merge conflicts.
+- All 3 wikis guard exit=0 at end of this orchestration window.
+- No plateau detected on any wiki.
