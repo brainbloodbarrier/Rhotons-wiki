@@ -27,3 +27,4 @@ iteration	commit	metric	delta	guard	guard-metric	status	description
 24	-	14436	+2	pass	0	keep	phase-1 smoke test: add reverse wikilink microsurgical-anatomy-principles -> operative-techniques
 27	-		+	pass	0	keep	C3 iter27: posterior-clinoid-process (dorsum sellae landmark, basilar apex access)
 28	-		+	pass	0	keep	C3 iter28: parahippocampal-gyrus (medial temporal, entorhinal, transtemporal)
+29	-		+	pass	0	keep	C3 iter29: cerebral-peduncles (basis pedunculi, safe entry zones)
