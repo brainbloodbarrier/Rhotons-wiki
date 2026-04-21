@@ -137,3 +137,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 136	-	4838	+53	pass	0	keep	C2 iter136 create subarachnoid-hemorrhage (Hunt-Hess/Fisher/WFNS; rebleed/vasospasm/DCI; clip vs coil)
 137	-	4890	+52	pass	0	keep	C2 iter137 create vasospasm-management (tiered: nimodipine → induced HTN → IA vasodilator/angioplasty)
 138	-	4936	+46	pass	0	keep	C2 iter138 create stereotactic-biopsy (frame vs frameless; trajectory planning; 95% yield, <4% hemorrhage)
+139	-	4988	+52	pass	0	keep	C2 iter139 create radiation-necrosis (6mo-3yr delayed; RN vs recurrence imaging; bevacizumab/LITT/surgery ladder)
