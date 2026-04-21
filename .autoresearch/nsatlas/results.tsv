@@ -131,3 +131,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 130	-	4636	+44	pass	0	keep	C2 iter130: cerebellopontine-angle (CPA anatomy — CN V/VII/VIII/IX-X-XI + AICA loop; CPA pathology)
 131	-	4668	+32	pass	0	keep	C2 iter131: circle-of-willis (heptagonal polygon, variants, aneurysm distribution, collaterals)
 132	-	4697	+29	pass	0	keep	C2 iter132: pineal-region-tumors (GCT / pineocytoma / pineoblastoma — markers, Parinaud, Krause vs Poppen)
+133	-	4733	+36	pass	0	keep	C2 iter133: posterior-petrosectomy (retrolabyrinthine/trans/transcochlear ladder; combined petrosal)
