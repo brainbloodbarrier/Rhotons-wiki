@@ -37,6 +37,16 @@ kept or discarded — for campaign reproducibility and audit.
 Run thousands of iterations by hand over weeks and the wiki compounds.
 That's the point.
 
+## Autonomy Defaults
+
+**Por padrão, o loop roda indefinidamente.** Não pergunte "devo continuar?" entre iterações. Não pause para confirmação. Apenas execute o próximo ciclo. O usuário interrompe via Ctrl-C ou enviando uma nova mensagem.
+
+**Inline config** (parse do início da mensagem do usuário):
+- `Iterations: N` — roda exatamente N iterações e para com resumo final.
+- `Wiki: <nome>` — sobrescreve o wiki alvo.
+
+Se `Iterations` não for especificado → unbounded. Se `Wiki` não for especificado → inferir do nome do branch atual (`autoresearch/<wiki>-campaign-N`), ou pedir ao usuário se ambíguo.
+
 ## Non-Negotiable Invariants
 
 1. **Local only.** The loop never makes outbound HTTP requests. Every
@@ -90,6 +100,12 @@ SCORE_BEFORE=$(lib/autoresearch-verify.sh <wiki-name>)   # Phase 3+
 # Or:  SCORE_BEFORE=$(./autoresearch-verify.sh)          # pre-Phase 3
 HEAD_BEFORE=$(git rev-parse --short HEAD)
 ```
+
+**Git-as-memory (obrigatório a cada iteração):**
+```bash
+git log --oneline -5   # quais targets já foram commitados nesta campanha
+```
+Use esse histórico para escolher o próximo target sem repetir páginas já criadas e para explorar adjacências naturais (ex: se iter anterior foi `wernicke-area`, candidatos são `broca-area`, `arcuate-fasciculus`, `frontal-lobe`).
 
 ### Step 2 — Baseline guard
 
@@ -188,10 +204,16 @@ If the action was kept:
 These two files are conventional, not enforced by the guard. Missing
 them makes the vault harder to read but does not break anything.
 
-### Step 10 — Loop or stop
+### Step 10 — Loop ou parar
 
-If stop condition (below) is met, exit the loop and report to user.
-Otherwise, return to Step 1.
+**DEFAULT: Loop imediato.** Vá direto ao Step 1 do próximo ciclo. NÃO emita "devo continuar?". NÃO pause. NÃO espere confirmação do usuário entre iterações normais.
+
+Após commitar (ou descartar), emita UMA linha de progresso e inicie o próximo ciclo imediatamente:
+```
+[iter N] score=XXXX Δ=+YY guard=pass status=keep → próximo: <target-name>
+```
+
+**Parar** apenas quando uma das stop conditions abaixo disparar.
 
 ## Score Function (formal spec)
 
@@ -351,9 +373,7 @@ Exit the loop when any of these become true:
    discard); do not leave a dirty working tree.
 2. **Iteration budget reached.** The user specified `N` iterations;
    `N` iterations have completed.
-3. **Score plateau.** Five consecutive iterations with `delta == 0`
-   or negative delta. The campaign's theme is exhausted; pick a new
-   theme or stop.
+3. **Score plateau.** Cinco iterações consecutivas com `delta <= 0`. Ao detectar plateau: emitir resumo (score atual, total de iters, delta médio) e perguntar ao usuário se quer mudar de tema ou parar. NÃO parar silenciosamente. Em bounded mode, reportar plateau no resumo final sem cancelar antecipadamente.
 4. **Catastrophic guard failure.** Guard returns > 10 errors in a
    single iteration. Something structural broke; halt and ask the
    user to investigate.
