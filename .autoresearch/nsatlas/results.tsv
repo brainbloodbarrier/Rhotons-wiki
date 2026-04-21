@@ -128,3 +128,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 127	-		+41	pass	0	keep	C2 iter127 — create lateral-sphenoid-wing-meningioma
 128	-		+	pass	0	keep	C2 iter128 — create convexity-meningioma
 129	-		+	pass	0	keep	C2 iter129 — create acoustic-neuroma (vestibular schwannoma)
+130	-	4636	+44	pass	0	keep	C2 iter130: cerebellopontine-angle (CPA anatomy — CN V/VII/VIII/IX-X-XI + AICA loop; CPA pathology)
