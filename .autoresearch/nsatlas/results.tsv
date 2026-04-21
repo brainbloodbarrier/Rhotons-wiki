@@ -141,3 +141,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 140	-	5044	+56	pass	0	keep	C2 iter140 create hydrocephalus (obstructive/communicating/NPH; EVD/ETV/shunts; VP complications)
 141	-	5098	+54	pass	0	keep	C2 iter141 create brain-metastasis (GPA; Patchell resection + cavity SRS; systemic CNS-penetrant therapies)
 142	-	5124	+26	pass	0	keep	C2 iter142 create glioblastoma (IDH-wildtype grade 4; Stupp protocol; maximal safe resection threshold)
+143	-	5152	+28	pass	0	keep	C2 iter143 create cerebral-aneurysm (saccular/fusiform/mycotic; PHASES; clip vs coil; ISAT)
