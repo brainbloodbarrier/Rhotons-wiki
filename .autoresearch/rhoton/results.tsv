@@ -26,3 +26,4 @@ iteration	commit	metric	delta	guard	guard-metric	status	description
 23	-	14434	+34	pass	-	keep	alias-expansion: 7 curated aliases added (reason-loop converged), +41 new wikilinks (7 captions + 34 body)
 24	-	14436	+2	pass	0	keep	phase-1 smoke test: add reverse wikilink microsurgical-anatomy-principles -> operative-techniques
 27	-		+	pass	0	keep	C3 iter27: posterior-clinoid-process (dorsum sellae landmark, basilar apex access)
+28	-		+	pass	0	keep	C3 iter28: parahippocampal-gyrus (medial temporal, entorhinal, transtemporal)
