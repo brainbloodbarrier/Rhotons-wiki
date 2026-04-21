@@ -28,3 +28,4 @@ iteration	commit	metric	delta	guard	guard-metric	status	description
 27	-		+	pass	0	keep	C3 iter27: posterior-clinoid-process (dorsum sellae landmark, basilar apex access)
 28	-		+	pass	0	keep	C3 iter28: parahippocampal-gyrus (medial temporal, entorhinal, transtemporal)
 29	-		+	pass	0	keep	C3 iter29: cerebral-peduncles (basis pedunculi, safe entry zones)
+30	-		+	pass	0	keep	C3 iter30: midbrain (mesencephalon — tectum/tegmentum/basis, syndromes, SEZ)
