@@ -37,3 +37,4 @@ iteration	commit	metric	delta	guard	guard_code	status	description
 36	-	3543	+45	pass	0	keep	C2 iter36: ventricles (4 cavities; CSF flow; foramina; ETV/EVD; intraventricular tumors)
 37	-	3585	+42	pass	0	keep	C2 iter37: posterior-interhemispheric-approach (Poppen/occipital-transtentorial — pineal, splenium, tentorial incisura)
 38	-	3640	+55	pass	0	keep	C2 iter38: saphenous-vein-graft (SVG — high-flow venous conduit; harvest, anastomosis, outcomes)
+39	-	3715	+75	pass	0	keep	C2 iter39: vascular-malformations-overview (McCormick taxonomy; AVM/cavernoma/DVA/AVF; hemorrhage risk; modality ladder)
