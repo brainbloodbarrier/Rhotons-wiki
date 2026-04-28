@@ -79,3 +79,7 @@ Closes #33 (nsatlas extractions disposition documented).
 ## 2026-04-28 — Routine iter147 brain-abscess
 
 First fire of the 3-wiki rotation cron (`7,22,37,52 * * * *`) on nsatlas. Created `pathology/brain-abscess.md` (2084 words; +37 score; guard pass; 4 wikilinks to existing pages). First infection-class pathology in the vault — orchestrator trajectory was tumor + vascular dense, this fills the missing infection domain. Skill runtime: SKILL.md after `fc4e856 loop autônomo` cherry-pick.
+
+## 2026-04-28 — Routine iter148 hemangioblastoma
+
+Fire 4 of the rotation. Created `pathology/hemangioblastoma.md` (2004 words; +44 score; guard pass after redlink fix). VHL flagship CNS lesion; AVM-style operative principle; belzutifan emerging. Pathology now 23 pages (after first infection [brain-abscess] and now first VHL-class tumor).

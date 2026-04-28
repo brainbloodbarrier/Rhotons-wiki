@@ -24,7 +24,7 @@ Compiled from the **Neurosurgical Atlas** (nsatlas.com) by Aaron Cohen-Gadol.
 | [[principles/]] | 20 | Principles of cranial surgery (Cohen-Gadol) |
 | [[procedures/]] | 21 | CSF, trauma, epilepsy, spinal, microsurgical |
 | [[references/]] | 10 | General-principles chapters and cross-cutting references |
-| [[pathology/]] | 22 | Disease-specific operative chapters (latest: brain-abscess — first infection) |
+| [[pathology/]] | 23 | Disease-specific operative chapters (recent: brain-abscess — first infection; hemangioblastoma — VHL flagship) |
 | [[concepts/]] | 6 | Operative neuroanatomy reference pages |
 
 ### Approaches
