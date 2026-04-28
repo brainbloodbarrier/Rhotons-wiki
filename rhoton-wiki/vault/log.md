@@ -22,3 +22,4 @@ title: Activity Log
 | 2026-04-11 | autoresearch-2 | Iter 1 keep — 3 incisural-space pages from p3c05, augmented tentorial-incisura |
 | 2026-04-12 | audit | Progress audit — 159 pages, score 11598, guard pass, fixed stale metadata |
 | 2026-04-28 | autoresearch-3 | Iter 44 keep — created subthalamic-nucleus (STN, DBS target, basal-ganglia indirect/hyperdirect pathway closure) |
+| 2026-04-28 | autoresearch-3 | Iter 45 keep — created globus-pallidus (GPi/GPe, basal-ganglia output, dystonia DBS Vidailhet 2005, GPi-vs-STN trade-offs) |
