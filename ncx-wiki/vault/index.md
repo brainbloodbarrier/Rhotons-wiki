@@ -27,7 +27,7 @@ Universal neurosurgery knowledge base compiled from multiple textbooks across su
 | [[critical-care]] | 2 | Coma assessment, brain death |
 | [[entities]] | 1 | `superficial-temporal-artery` |
 | [[skull-base]] | 1 | `cerebellopontine-angle` |
-| [[coluna]] | 1 | `atlas-fractures` (C1) |
+| [[coluna]] | 2 | `atlas-fractures` (C1), `cervical-spondylotic-myelopathy` (DCM / AOSpine) |
 | [[pharmacology]] | 1 | Anticoagulation in neurosurgery |
 | [[neurocirurgia-funcional]] | 1 | Deep brain stimulation |
 
