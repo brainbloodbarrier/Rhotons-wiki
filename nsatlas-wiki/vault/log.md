@@ -83,3 +83,7 @@ First fire of the 3-wiki rotation cron (`7,22,37,52 * * * *`) on nsatlas. Create
 ## 2026-04-28 — Routine iter148 hemangioblastoma
 
 Fire 4 of the rotation. Created `pathology/hemangioblastoma.md` (2004 words; +44 score; guard pass after redlink fix). VHL flagship CNS lesion; AVM-style operative principle; belzutifan emerging. Pathology now 23 pages (after first infection [brain-abscess] and now first VHL-class tumor).
+
+## 2026-04-28 — Routine iter149 ependymoma
+
+Fire 7. Created `pathology/ependymoma.md` (~2050 words; +44 score; guard pass; 6 wikilinks). WHO 2021 molecular classification (PFA/PFB/ST-RELA/YAP1/SP-MPE), telovelar/4th-V floor planned-residual principle, D-wave stop-signal in spinal intramedullary. Bridges pediatric posterior-fossa and adult intramedullary domains the atlas already touches procedurally.
