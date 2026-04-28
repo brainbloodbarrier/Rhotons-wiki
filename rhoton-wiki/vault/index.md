@@ -30,6 +30,7 @@ title: Wiki Index
 - [[dural-venous-sinuses]] — Sagittal, transverse, sigmoid, petrosal, confluence
 - [[thalamus]] — Central relay, thalamoperforating supply, choroidal fissure
 - [[basal-ganglia]] — Lenticulostriate territory, internal capsule, DBS targets
+- [[subthalamic-nucleus]] — STN, glutamatergic, indirect/hyperdirect pathway, primary DBS target for PD
 - [[hippocampus]] — Medial temporal lobe, choroidal fissure, epilepsy surgery
 - [[insula]] — Deep cortex, MCA territory, lenticulostriate perforators
 - [[corpus-callosum]] — Commissural fibers, pericallosal artery, transcallosal access
