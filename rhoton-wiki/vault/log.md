@@ -25,3 +25,4 @@ title: Activity Log
 | 2026-04-28 | autoresearch-3 | Iter 45 keep — created globus-pallidus (GPi/GPe, basal-ganglia output, dystonia DBS Vidailhet 2005, GPi-vs-STN trade-offs) |
 | 2026-04-28 | autoresearch-3 | Iter 46 keep — created dentate-nucleus (largest deep cerebellar nucleus, DRTT anatomy, cerebellar mutism syndrome, VIM/MRgFUS tractography target) |
 | 2026-04-28 | autoresearch-3 | Iter 47 keep — created arcuate-fasciculus (dorsal language stream, Catani tripartite, conduction aphasia substrate, awake-craniotomy subcortical mapping) |
+| 2026-04-28 | autoresearch-3 | Iter 48 keep — created periaqueductal-gray (PAG, Bandler-Shipley columns, descending pain modulation, midbrain DBS niche) |
