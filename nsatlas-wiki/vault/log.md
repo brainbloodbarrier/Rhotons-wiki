@@ -91,3 +91,7 @@ Fire 7. Created `pathology/ependymoma.md` (~2050 words; +44 score; guard pass; 6
 ## 2026-04-28 — Routine iter150 cavernous-malformation
 
 Fire 10. Created `pathology/cavernous-malformation.md` (~2200 words; +43; 5 wikilinks). Bridges pathology side to existing spinal-cord-cavernous-malformation-resection procedure. CCM1/2/3 genetics, temporal clustering, DVA preservation absolute, two-hemorrhage rule for brainstem, SRS limitations.
+
+## 2026-04-28 — Routine iter151 medulloblastoma
+
+Fire 14/15 (cron re-fire mid-iter). Created `pathology/medulloblastoma.md` (~2300 words; +43; 5 wikilinks). Most common malignant pediatric brain tumor; Taylor 2012 molecular subgroups (WNT/SHH/Group3/Group4); telovelar-over-vermian; brainstem residual trade; risk-stratified CSI.
