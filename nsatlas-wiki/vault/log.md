@@ -75,3 +75,7 @@ The 83 "vaultized" chapters represent the technical backbone of the atlas (appro
 - C3 will pick up the 11 non-technical-skills chapters if and when the user wants a `professional/` section.
 
 Closes #33 (nsatlas extractions disposition documented).
+
+## 2026-04-28 — Routine iter147 brain-abscess
+
+First fire of the 3-wiki rotation cron (`7,22,37,52 * * * *`) on nsatlas. Created `pathology/brain-abscess.md` (2084 words; +37 score; guard pass; 4 wikilinks to existing pages). First infection-class pathology in the vault — orchestrator trajectory was tumor + vascular dense, this fills the missing infection domain. Skill runtime: SKILL.md after `fc4e856 loop autônomo` cherry-pick.
