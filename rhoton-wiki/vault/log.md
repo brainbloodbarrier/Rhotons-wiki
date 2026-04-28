@@ -23,3 +23,4 @@ title: Activity Log
 | 2026-04-12 | audit | Progress audit — 159 pages, score 11598, guard pass, fixed stale metadata |
 | 2026-04-28 | autoresearch-3 | Iter 44 keep — created subthalamic-nucleus (STN, DBS target, basal-ganglia indirect/hyperdirect pathway closure) |
 | 2026-04-28 | autoresearch-3 | Iter 45 keep — created globus-pallidus (GPi/GPe, basal-ganglia output, dystonia DBS Vidailhet 2005, GPi-vs-STN trade-offs) |
+| 2026-04-28 | autoresearch-3 | Iter 46 keep — created dentate-nucleus (largest deep cerebellar nucleus, DRTT anatomy, cerebellar mutism syndrome, VIM/MRgFUS tractography target) |
