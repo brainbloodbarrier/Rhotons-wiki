@@ -24,3 +24,4 @@ updated: 2026-04-15
 | 2026-04-28 | Campaign 2 iter50: lumbar-spinal-stenosis | coluna/lumbar-spinal-stenosis.md (LSS, neurogenic claudication, SPORT/Försth/Ghogawala, decompression vs fusion, CES emergent); +39 score, guard pass; routine /loop fire @ 01:52Z |
 | 2026-04-28 | Campaign 2 iter51: cauda-equina-syndrome | coluna/cauda-equina-syndrome.md (CES, emergent, Gleave I vs R, time-to-decompression, medico-legal) — 4 coluna pages now; routine /loop fire @ 02:37Z |
 | 2026-04-28 | Campaign 2 iter52: spinal-cord-injury | coluna/spinal-cord-injury.md (acute SCI, ASIA-AIS, STASCIS < 24h decompression, NASCIS steroids no longer standard, neurogenic vs hemorrhagic shock); +41 score, guard pass; routine /loop fire @ 03:22Z |
+| 2026-04-28 | Campaign 2 iter53: odontoid-fractures | coluna/odontoid-fractures.md (C2 dens fx, Anderson-D'Alonzo + Grauer, anterior screw vs posterior C1-C2 fusion); +41, guard pass; routine /loop |
