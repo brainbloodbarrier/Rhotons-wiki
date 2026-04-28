@@ -27,7 +27,7 @@ Universal neurosurgery knowledge base compiled from multiple textbooks across su
 | [[critical-care]] | 2 | Coma assessment, brain death |
 | [[entities]] | 1 | `superficial-temporal-artery` |
 | [[skull-base]] | 1 | `cerebellopontine-angle` |
-| [[coluna]] | 3 | `atlas-fractures` (C1), `cervical-spondylotic-myelopathy` (DCM / AOSpine), `lumbar-spinal-stenosis` (LSS / SPORT / Försth-Ghogawala) |
+| [[coluna]] | 4 | `atlas-fractures` (C1), `cervical-spondylotic-myelopathy` (DCM / AOSpine), `lumbar-spinal-stenosis` (LSS / SPORT / Försth-Ghogawala), `cauda-equina-syndrome` (emergent / Gleave CES-I vs CES-R) |
 | [[pharmacology]] | 1 | Anticoagulation in neurosurgery |
 | [[neurocirurgia-funcional]] | 1 | Deep brain stimulation |
 

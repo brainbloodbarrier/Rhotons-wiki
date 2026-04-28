@@ -22,3 +22,4 @@ updated: 2026-04-15
 | 2026-04-15 | Campaign 1 batch 2: Neuroanatomy (Chaddad-Neto) | 3 concept pages: sylvian-fissure, basal-cisterns, cortical-surface-anatomy |
 | 2026-04-28 | Campaign 2 iter49: cervical-spondylotic-myelopathy | coluna/cervical-spondylotic-myelopathy.md (DCM, AOSpine 2017 mJOA, Nurick, UMN signs, ACDF/corpectomy/laminoplasty/posterior decision matrix); +38 score, guard pass; first iter post fc4e856 cherry-pick |
 | 2026-04-28 | Campaign 2 iter50: lumbar-spinal-stenosis | coluna/lumbar-spinal-stenosis.md (LSS, neurogenic claudication, SPORT/Försth/Ghogawala, decompression vs fusion, CES emergent); +39 score, guard pass; routine /loop fire @ 01:52Z |
+| 2026-04-28 | Campaign 2 iter51: cauda-equina-syndrome | coluna/cauda-equina-syndrome.md (CES, emergent, Gleave I vs R, time-to-decompression, medico-legal) — 4 coluna pages now; routine /loop fire @ 02:37Z |
