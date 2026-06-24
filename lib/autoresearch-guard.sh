@@ -323,6 +323,7 @@ SOFT_WARN=$(count_lines "$VIOL_SOFT_FIELDS")
 VAGUE_WARN=$(count_lines "$VIOL_VAGUE_SOURCES")
 MISSING_BC_WARN=$(count_lines "$VIOL_MISSING_BREADCRUMBS")
 UNANCHORED_WARN=$(count_lines "$VIOL_MANIFEST_UNANCHORED")
+PAGES=${#PAGE_BASENAMES[@]}
 
 HARD_ERRORS=$(( FM_ERRORS + WL_ERRORS ))
 if (( STRICT )); then
@@ -356,6 +357,10 @@ case "$FORMAT" in
       --argjson hard_errors "$HARD_ERRORS" \
       --argjson strict "$STRICT" \
       --argjson quality "$QUALITY" \
+      --argjson pages "$PAGES" \
+      --argjson total_links "$TOTAL_LINKS" \
+      --argjson with_bc "$PAGES_WITH_BC" \
+      --argjson eligible_bc "$PAGES_ELIGIBLE_BC" \
       '{
         wiki: $wiki,
         strict:  ($strict  == 1),
@@ -369,6 +374,23 @@ case "$FORMAT" in
           vague_sources:         $vague,
           missing_breadcrumbs:   $missing_bc,
           manifest_unanchored:   $unanchored
+        },
+        quality: {
+          coverage: {
+            pages:        $pages,
+            orphan_pages: $orphans,
+            orphan_ratio: (if $pages > 0 then ($orphans / $pages) else null end)
+          },
+          links_resolve: {
+            total_links:   $total_links,
+            broken:        $wl,
+            resolve_ratio: (if $total_links > 0 then (($total_links - $wl) / $total_links) else 1 end)
+          },
+          breadcrumb_density: {
+            with_breadcrumb: $with_bc,
+            eligible_pages:  $eligible_bc,
+            density:         (if $eligible_bc > 0 then ($with_bc / $eligible_bc) else null end)
+          }
         },
         hard_errors: $hard_errors,
         passed:        ($hard_errors == 0)
