@@ -21,4 +21,8 @@ title: Activity Log
 | 2026-04-11 | autoresearch-2 | Campaign 2 started — datalab-augment focus, baseline 148 pages |
 | 2026-04-11 | autoresearch-2 | Iter 1 keep — 3 incisural-space pages from p3c05, augmented tentorial-incisura |
 | 2026-04-12 | audit | Progress audit — 159 pages, score 11598, guard pass, fixed stale metadata |
-| 2026-06-24 | refactor | Ponytail audit backlog shipped — path fixes (#7), dead stub deleted (#1), hook symlinked (#6), normalize_target dedup (#2), _shared.py module for yaml/json/html helpers (#3/#4/#11), allowlist pruned 676 dead entries (#8), enterprise-refactor.md truncated (#9), autonomous logs + .DS_Store cleaned (#10/#12), 6 low-confidence crossmap bridges pruned. All STEP 4 invariants hold (v1=14436, v2=12350, crossmap 296/308, guard exit 0). |
+| 2026-04-28 | autoresearch-3 | Iter 44 keep — created subthalamic-nucleus (STN, DBS target, basal-ganglia indirect/hyperdirect pathway closure) |
+| 2026-04-28 | autoresearch-3 | Iter 45 keep — created globus-pallidus (GPi/GPe, basal-ganglia output, dystonia DBS Vidailhet 2005, GPi-vs-STN trade-offs) |
+| 2026-04-28 | autoresearch-3 | Iter 46 keep — created dentate-nucleus (largest deep cerebellar nucleus, DRTT anatomy, cerebellar mutism syndrome, VIM/MRgFUS tractography target) |
+| 2026-04-28 | autoresearch-3 | Iter 47 keep — created arcuate-fasciculus (dorsal language stream, Catani tripartite, conduction aphasia substrate, awake-craniotomy subcortical mapping) |
+| 2026-04-28 | autoresearch-3 | Iter 48 keep — created periaqueductal-gray (PAG, Bandler-Shipley columns, descending pain modulation, midbrain DBS niche) |
