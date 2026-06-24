@@ -2,409 +2,193 @@
 name: autoresearch
 description: >
   Local terminal loop that iteratively grows an Obsidian wiki via the
-  agent's own reasoning, with quality guards between each step. Runs
-  entirely inside Claude Code or OpenCode — no network dependencies in
-  the loop itself. Use this skill whenever the user says "run
-  autoresearch", "start a campaign", "grow the wiki", "iterate on the
-  wiki", "continue the campaign", or drops a slash command like
-  `/autoresearch`. Supports any wiki in `.config/wikis.json` (multi-wiki
-  aware). If `.config/wikis.json` is not present, falls back to the
-  legacy single-vault mode driven by `OBSIDIAN_VAULT_PATH` in `.env`.
+  agent's own reasoning, gated on a measured quality metric and a
+  structural guard between each step. Runs entirely inside Claude Code
+  or OpenCode — no network in the loop. Use whenever the user says "run
+  autoresearch", "grow the wiki", "iterate on the wiki", "continue the
+  campaign", or drops `/autoresearch`. Multi-wiki aware via
+  `.config/wikis.json`. The wikis are independent — no cross-wiki links.
 applies_to:
   - claude-code
   - opencode
   - codex
-version: 1.0.0
+version: 2.0.0
 ---
 
 # Autoresearch — The Local Wiki-Growth Loop
 
-**This is the core feature of the project.** Everything else in
-`.skills/` is a building block that this loop composes. When you run
-autoresearch, you are the agent executing the loop yourself inside the
-terminal. There is no separate runtime. No remote API. No cron. Just
-you, a vault, and a git repo.
+**This is the core feature of the project.** You are the agent executing
+the loop yourself inside the terminal. There is no separate runtime, no
+remote API, no cron. Just you, a vault, and a git repo.
 
 ## Purpose
 
-Autoresearch grows a wiki **from the inside out**. Starting from a
-baseline score, each iteration: picks a focused action, executes it,
-verifies the result improved the wiki (score goes up), validates the
-vault's structural integrity (guard passes), and then either commits
-the improvement to git or discards it. A TSV logs every iteration —
-kept or discarded — for campaign reproducibility and audit.
+Autoresearch grows a wiki **from the inside out**. Each iteration picks
+one focused action, executes it, and keeps it **only if it improves the
+wiki's measured quality** without breaking structural integrity. Run it
+by hand over weeks and the wiki compounds.
 
-Run thousands of iterations by hand over weeks and the wiki compounds.
-That's the point.
+Quality is three independent dimensions, emitted by the guard
+(`--format=json | jq .quality`):
+
+- **coverage** — `pages`, `orphan_pages`, `orphan_ratio`
+- **links_resolve** — `resolve_ratio` (1.0 = every `[[link]]` resolves)
+- **breadcrumb_density** — fraction of non-scaffolding pages carrying
+  ≥1 typed relation (`parent:`, `child:`, `branch-of:`, …)
+
+**There is no single score.** That is deliberate. The old v1 scalar hid
+regressions — it went *up* when you added a broken link and *down* when
+a migration fixed links. Three raw ratios cannot be gamed by
+aggregation; each is inspected on its own.
 
 ## Non-Negotiable Invariants
 
-1. **Local only.** The loop never makes outbound HTTP requests. Every
-   tool invoked is local (bash, filesystem, git). If you find yourself
-   wanting to call an external API, stop and ask the user to do it
-   out-of-band, then resume the loop with the extracted content.
-2. **One action per iteration.** Do not bundle "create 3 pages + fix
-   tags + add wikilinks" into a single iteration. That defeats the
-   guard/score feedback loop. Pick one action; execute it; verify.
-3. **Atomic commits.** If an iteration is kept, it is a single git
-   commit. If discarded, no commit exists — `git checkout` restores
-   the working tree.
-4. **TSV is append-only and ordered.** Every iteration — kept or
-   discarded — writes exactly one row. Never rewrite historical rows.
-5. **Guard failures halt the loop by default.** A guard failure
-   means the vault is in an inconsistent state. Fix it before
-   iterating further.
+1. **Local only.** No outbound HTTP, no external MCP (Context7,
+   WebFetch, WebSearch) inside an iteration. Your reasoning plus
+   pre-extracted material in `<wiki>/extractions/` is the only input.
+2. **One action per iteration.** Never bundle "create a page + fix tags
+   + add links". One action; execute; measure.
+3. **Atomic commits.** Kept iteration = one git commit. Discarded =
+   `git checkout` restores the tree, no commit.
+4. **Guard hard failure halts the loop.** A hard error means the vault
+   is structurally broken. Fix it before iterating.
+5. **Wikis are independent.** Every `[[link]]` resolves within its own
+   vault. There are **no cross-vault links** — if a page needs a fact
+   from another wiki, restate the fact, don't link across.
+6. **Commit only on a non-main branch** (`autoresearch/<wiki>-campaign-N`).
 
 ## Preconditions
 
-Before starting a campaign:
-
-1. Working tree is clean (`git status --porcelain` empty, or only
-   `.autoresearch/` output).
-2. The target wiki's vault directory exists.
-3. The baseline score can be computed (verify script runs).
-4. The guard passes on the current HEAD.
-5. The user has chosen a **campaign theme**: a focused goal for the
-   next N iterations (examples: "cross-link synthesis pages",
-   "expand incisural-space coverage", "normalize taxonomy tags").
-   Without a theme, iterations drift and the TSV becomes noise.
+1. Clean working tree (`git status --porcelain` empty).
+2. The target wiki's vault exists.
+3. Guard passes on HEAD (`hard_errors == 0`).
+4. A **narrow theme** for the next N iterations, chosen from what the
+   metric shows. Examples: nsatlas `breadcrumb_density` is 0.0 → "add
+   typed breadcrumbs to procedures"; a high `orphan_ratio` → "link the
+   orphans"; a known gap → "create the missing cranial-nerve pages".
+   Vague themes ("improve the wiki") drift — don't.
 
 ## The Loop
 
-Execute this protocol for every iteration. Each step maps to a concrete
-command or tool call. Do not skip steps; do not reorder them.
+`$BASH` = `/opt/homebrew/bin/bash` (the guard needs bash ≥ 4; macOS
+`/bin/bash` is 3.2 and breaks it). Run this for every iteration.
 
-### Step 1 — Read baseline
-
-Record the current score, the current HEAD commit, and the current TSV
-row count. These are your "before" values.
-
+### 1 — Baseline
+Capture current quality and confirm the vault is healthy.
 ```bash
-# Resolve wiki paths (Phase 2+ — uses lib/resolve-wiki.sh)
-source lib/resolve-wiki.sh <wiki-name>
-
-# Or legacy single-vault (pre-Phase 2)
-VAULT="${OBSIDIAN_VAULT_PATH:-rhoton-wiki/vault}"
-
-SCORE_BEFORE=$(lib/autoresearch-verify.sh <wiki-name>)   # Phase 3+
-# Or:  SCORE_BEFORE=$(./autoresearch-verify.sh)          # pre-Phase 3
-HEAD_BEFORE=$(git rev-parse --short HEAD)
+source lib/resolve-wiki.sh <wiki>
+Q_BEFORE=$($BASH lib/autoresearch-guard.sh <wiki> --format=json)
+echo "$Q_BEFORE" | jq -e '.hard_errors == 0' >/dev/null \
+  || { echo "baseline broken — halt"; exit 1; }
 ```
 
-### Step 2 — Baseline guard
+### 2 — Select one action
+- **Create a page** — full frontmatter (title, category, tags, sources,
+  created, updated), ≥1 typed breadcrumb, and a planned incoming link
+  (don't strand it as an orphan).
+- **Augment a page** — additive sections / breadcrumbs / wikilinks.
+- **Cross-link (intra-wiki)** — wikilinks between existing pages in the
+  same vault. Use the `cross-linker` skill.
+- **Normalize taxonomy** — fix tags against `_meta/taxonomy.md`. Use
+  `tag-taxonomy`.
+- **Audit-fix** — a broken link, orphan, missing breadcrumb, or a
+  leftover cross-wiki markdown link (strip it to plain text).
 
-Run the guard on the current HEAD. If it fails, you cannot begin an
-iteration — the vault is already broken. Halt and report which checks
-failed so the user can fix them out-of-band.
+### 3 — Execute
+Edit/create files under `<wiki>-wiki/vault/` only. Don't run the guard yet.
 
+### 4 — Re-measure
 ```bash
-lib/autoresearch-guard.sh <wiki-name> || {
-  echo "Baseline guard failed. Halting."
-  exit 1
-}
+Q_AFTER=$($BASH lib/autoresearch-guard.sh <wiki> --format=json)
 ```
 
-### Step 3 — Select one action
+### 5 — Gate: keep or discard
+**Keep iff ALL hold** (comparing `Q_AFTER` to `Q_BEFORE`):
+- `hard_errors == 0` (frontmatter valid, every link resolves), **and**
+- ≥1 quality dimension **improved**, **and**
+- no quality dimension **regressed**.
 
-From the campaign theme, pick exactly one of the following:
-
-- **Create a page.** A new concept, entity, synthesis, or reference
-  page. Must have full frontmatter (title, category, tags, sources,
-  created, updated) and ≥ 1 wikilink to an existing page. Prefer
-  creating pages that already have incoming links from synthesis
-  or index pages but are currently redlinks.
-- **Augment a page.** Add content to an existing page: new sections,
-  new wikilinks, new figures, clarified frontmatter. Do not rewrite
-  the page wholesale — additive only.
-- **Cross-link.** Add wikilinks between existing pages. Use the
-  `cross-linker` skill for systematic sweeps.
-- **Normalize taxonomy.** Fix tags against `_meta/taxonomy.md`. Use
-  the `tag-taxonomy` skill.
-- **Audit fix.** Address a broken link, orphan page, or other issue
-  reported by the `wiki-lint` skill.
-
-Mixing types within a single iteration is a loop-protocol violation.
-
-### Step 4 — Execute the action
-
-Edit / create files. Do not run the verify or guard scripts yet. Your
-only output of this step is a dirty working tree.
-
-### Step 5 — Verify (post-action score)
-
-Re-run the verify script. This is your "after" value.
-
-```bash
-SCORE_AFTER=$(lib/autoresearch-verify.sh <wiki-name>)
-DELTA=$((SCORE_AFTER - SCORE_BEFORE))
-```
-
-### Step 6 — Guard (post-action)
-
-Run the guard. Capture exit code.
-
-```bash
-lib/autoresearch-guard.sh <wiki-name>
-GUARD_EXIT=$?
-```
-
-### Step 7 — Decide: keep or discard
-
-| Guard | Score | Decision |
+| Dimension | improved | regressed |
 |---|---|---|
-| pass (exit 0) | strictly greater | **keep** |
-| pass | equal or lower | discard (unless action was a pure audit-fix with zero score impact by design — annotate in TSV) |
-| fail (exit > 0) | — | discard regardless of score |
+| coverage | `pages` ↑ or `orphan_ratio` ↓ | `orphan_ratio` ↑ |
+| links_resolve | `resolve_ratio` ↑ | `resolve_ratio` ↓ (broken>0 is already a hard error → discard) |
+| breadcrumb_density | `density` ↑ | `density` ↓ |
 
-### Step 8a — Keep path
+Consequences to internalize:
+- A new page with no incoming link raises `orphan_ratio` → regression →
+  **discard until you link it**. Orphans are no longer free progress.
+- Adding a breadcrumb to an existing page raises `density` with nothing
+  else moving → valid keep (pure audit-fix).
 
+### 6a — Keep
 ```bash
-git add -A
-git commit -m "autoresearch(<wiki>): <short description of action>"
-HEAD_AFTER=$(git rev-parse --short HEAD)
-ITERATION=$((CURRENT_TSV_ROW_COUNT + 1))
-# Append TSV row (see schema below)
+git add -A && git commit -m "autoresearch(<wiki>): <one-line action>"
 ```
 
-### Step 8b — Discard path
-
+### 6b — Discard
 ```bash
-git checkout -- <vault-path>
-# Any files created outside git tracking (unlikely in a clean workflow):
-git clean -fd <vault-path>
-HEAD_AFTER="$HEAD_BEFORE"
-ITERATION=$((CURRENT_TSV_ROW_COUNT + 1))
-# Append TSV row marking this iteration as discarded
+git checkout -- <wiki>-wiki/vault
+git clean -fd <wiki>-wiki/vault   # remove new untracked pages, else they inflate the next baseline
 ```
 
-### Step 9 — Update vault meta
+### 7 — Meta (kept only)
+Update `<vault>/index.md` and `log.md` (conventional, not guard-enforced).
 
-If the action was kept:
+### 8 — Loop or stop (see Stop Conditions).
 
-- Update `<vault>/index.md` to include the new/augmented page(s).
-- Update `<vault>/log.md` with a one-line entry describing what
-  happened in this iteration.
+## Progress & audit
 
-These two files are conventional, not enforced by the guard. Missing
-them makes the vault harder to read but does not break anything.
-
-### Step 10 — Loop or stop
-
-If stop condition (below) is met, exit the loop and report to user.
-Otherwise, return to Step 1.
-
-## Score Function (formal spec)
-
+No TSV, no score file. **Git history is the audit log** — one commit per
+kept iteration. To see where a wiki stands at any time:
+```bash
+$BASH lib/autoresearch-guard.sh <wiki> --format=json | jq .quality
 ```
-score = 10·pages + 2·wikilinks + (words / 100)
-```
-
-Where:
-
-- **pages** = count of `*.md` files inside `<vault>`, excluding
-  `.obsidian/`, `.smart-env/`, `index.md`, and `log.md`.
-- **wikilinks** = count of `[[...]]` occurrences (including aliased
-  `[[target|label]]` forms) across the same set of files.
-- **words** = total `wc -w` across the same set of files, integer
-  divided by 100.
-
-### Rationale per term
-
-- **10·pages** rewards content breadth. Creating a new page is worth
-  at least +10 even before it has any content.
-- **2·wikilinks** rewards connectivity. A new page with 5 wikilinks
-  outward and 1 link from an existing page = +10 + 12 = +22.
-- **words / 100** rewards depth without overwhelming the other terms.
-  A substantial new section (500 words) adds +5.
-
-### Known weaknesses
-
-- **Redlinks count.** `[[does-not-exist]]` is counted as a wikilink
-  even if the target page doesn't exist. The `wiki-lint` skill
-  catches redlinks; a future guard should fail on them.
-- **Orphan pages count.** A new page counts +10 regardless of whether
-  anything links to it. Phase 6 of the refactor plan adds an orphan
-  check to the guard.
-- **No content-quality signal.** Words are counted, not their
-  usefulness. Accept this: the agent's judgment carries that load.
-
-### Future work
-
-- Weighted wikilinks (links inside synthesis pages worth more than
-  links inside index pages).
-- Typed-relation bonuses (parent/child/branch-of relations worth
-  extra vs plain `[[...]]`).
-- Anti-gaming: penalty for empty pages, duplicate content, or
-  drive-by wikilinks with no surrounding context.
-
-## Guard Validations
-
-The guard script runs a series of checks. Each check independently
-contributes to the error count; the overall exit code is 1 if ANY
-check fails, 0 if all pass.
-
-Current (Phase 3) checks:
-
-1. **Frontmatter presence.** Every non-meta `.md` file starts with a
-   `---` frontmatter block.
-2. **Required frontmatter keys.** `title`, `category`, `tags` must be
-   present.
-
-Planned (Phase 6) checks:
-
-3. **Wikilink integrity.** Every `[[target]]` and `[[target|label]]`
-   resolves to an existing `.md` file in the vault.
-4. **Orphan detection.** Every page (except `index.md`, `log.md`,
-   `_meta/*.md`) has at least one incoming wikilink.
-5. **Taxonomy compliance.** Every `tags:` value exists in
-   `<vault>/_meta/taxonomy.md` if that file exists.
-6. **No-regression.** With `--baseline <score>` flag, guard exits 1 if
-   current score is less than the baseline.
-
-The guard is intentionally structural. Content quality is the agent's
-job; structural integrity is the guard's job.
-
-## Result TSV Schema
-
-Path: `.autoresearch/<wiki-name>/results.tsv`
-
-### Columns
-
-```
-iteration  commit  metric  delta  guard  guard-metric  status  description
-```
-
-| Column | Type | Meaning |
-|---|---|---|
-| `iteration` | integer | 0 for the initial baseline, 1+ for each subsequent iteration |
-| `commit` | string | 7-char git SHA of the kept commit, or `-` if discarded |
-| `metric` | integer | Score after the iteration (for discarded, same as before) |
-| `delta` | signed integer | `metric` minus the previous row's `metric` |
-| `guard` | `pass` / `fail` | Guard exit status after the iteration |
-| `guard-metric` | integer or `-` | Number of guard errors (0 if pass); `-` means not measured |
-| `status` | `baseline` / `keep` / `discard` | Iteration outcome |
-| `description` | free text | One-line human-readable description of the action |
-
-### Delimiter
-
-Tab character (`\t`). No quoting. Descriptions must not contain literal
-tab characters — replace with spaces if needed.
-
-### Header
-
-The first line MAY be a comment starting with `#` (e.g.
-`# metric_direction: higher_is_better`). The second line is the
-column header. The third line onward is iteration data.
-
-### Append semantics
-
-Every new iteration appends exactly one row to the end of the file.
-Historical rows are never rewritten. If you need to fix a metadata
-error in a past row, add a new row documenting the correction rather
-than editing in place.
-
-## Campaign Concept
-
-A **campaign** is N iterations pursuing a single theme. The campaign's
-name goes in the `description` column so you can grep/filter the TSV
-for a specific campaign's iterations.
-
-Good themes are narrow and measurable:
-
-- `cross-link-synthesis-pages`: run cross-linker repeatedly, one
-  synthesis page at a time, until all synthesis pages have ≥ 5
-  outgoing wikilinks.
-- `expand-cn-coverage`: create pages for any cranial nerve
-  currently missing from the vault.
-- `normalize-tags-to-taxonomy`: one iteration per non-canonical tag
-  until `wiki-lint` reports zero taxonomy violations.
-
-Bad themes are vague: "improve the wiki", "add more content",
-"make it better".
-
-## Multi-Wiki Awareness
-
-When `.config/wikis.json` exists:
-
-1. Accept a `<wiki-name>` argument for every script invocation.
-2. Resolve paths via `source lib/resolve-wiki.sh <wiki-name>` to
-   export `WIKI_VAULT`, `WIKI_EXTRACTIONS`, `WIKI_OUTPUT`, etc.
-3. Write TSV to `${WIKI_OUTPUT}/results.tsv` (i.e.
-   `.autoresearch/<wiki-name>/results.tsv`).
-4. Commits use conventional message: `autoresearch(<wiki-name>): ...`.
-
-When `.config/wikis.json` does NOT exist (pre-Phase-2 or fallback):
-
-1. Use `OBSIDIAN_VAULT_PATH` from `.env` for the vault.
-2. Write TSV to the legacy root-level `autoresearch-results.tsv`.
-3. Commits use `autoresearch: ...`.
-
-Prefer the multi-wiki path whenever the registry is present. It scales
-to additional wikis without code changes.
+Within a run, hold `Q_BEFORE`/`Q_AFTER` in shell variables for the gate.
 
 ## Stop Conditions
 
-Exit the loop when any of these become true:
+1. **User halts** — finish the current iteration cleanly; no dirty tree.
+2. **Iteration budget N reached.**
+3. **Quality ceiling** — `orphan_ratio == 0` AND `resolve_ratio == 1`
+   AND `breadcrumb_density` at/above the theme's target. Nothing left to
+   improve under this theme.
+4. **N consecutive discards** (e.g. 5) — the agent can't find an
+   improving action; the theme is exhausted. Ask the user for a new one.
+5. **Git op fails** — halt, do not retry.
 
-1. **User halts.** The user interrupts (Ctrl-C, `/cancel`, or a
-   new prompt). Finish the current iteration cleanly (commit or
-   discard); do not leave a dirty working tree.
-2. **Iteration budget reached.** The user specified `N` iterations;
-   `N` iterations have completed.
-3. **Score plateau.** Five consecutive iterations with `delta == 0`
-   or negative delta. The campaign's theme is exhausted; pick a new
-   theme or stop.
-4. **Catastrophic guard failure.** Guard returns > 10 errors in a
-   single iteration. Something structural broke; halt and ask the
-   user to investigate.
-5. **Git operation fails.** `git commit` or `git checkout` returns
-   non-zero. Halt; do not retry.
+## The Guard (the discriminator)
 
-## Rollback Guarantees
+`lib/autoresearch-guard.sh <wiki> [--strict] [--quality] [--format=json|tsv]`
+validates structure and emits the quality metric in a single file-walk.
 
-- **Per-iteration rollback.** `git revert <commit-sha>` undoes a
-  single kept iteration. The TSV row for that iteration remains as
-  historical record; add a new row noting the revert.
-- **Per-campaign rollback.** `git reset --hard <baseline-sha>`
-  discards an entire campaign. Only use this if the user explicitly
-  asks — it rewrites history.
-- **Discard safety.** A discarded iteration never enters git history.
-  The working tree is restored via `git checkout --`. The TSV row is
-  the only trace.
+- **HARD** (exit 1): missing/invalid frontmatter; any `[[target]]` that
+  doesn't resolve to a page in the **same** vault.
+- **SOFT** (warn, exit 0): orphans, taxonomy violations, missing soft
+  fields; under `--quality` also vague sources, missing breadcrumbs,
+  manifest-unanchored. `--strict` promotes orphans + taxonomy (and the
+  quality warns) to hard.
+- **quality** block: always emitted in `--format=json`.
+- Exit: 0 pass, 1 hard errors, 64–67 config.
+
+Structural integrity is the guard's job; content quality is yours.
+
+## Multi-Wiki
+
+`.config/wikis.json` defines `rhoton`, `ncx`, `nsatlas` — each an
+**independent** vault. Every script takes a `<wiki>` arg;
+`source lib/resolve-wiki.sh <wiki>` exports `WIKI_VAULT` etc. Commits:
+`autoresearch(<wiki>): …`. Branch: `autoresearch/<wiki>-campaign-N`.
 
 ## When Not to Use This Skill
 
-- **First-time setup.** Use `wiki-setup` to initialize a vault from
-  empty. Run autoresearch only after baseline content exists.
-- **Bulk import.** Use `wiki-ingest` to load many sources at once.
-  Autoresearch is for incremental growth, not batch ingest.
-- **Quick audit.** Use `wiki-lint` for a one-shot integrity check
-  without the iterative overhead.
-- **Cross-linking alone.** Use `cross-linker` directly if you just
-  want to run one pass. Autoresearch wraps it with tracking.
-
-## Local-Only Invariant (restated)
-
-The loop must not make network calls. Concretely:
-
-- No `curl`, `wget`, or any HTTP client in the iteration path.
-- No MCP tools that reach external services (Context7, WebFetch,
-  WebSearch) during an iteration. The agent's own reasoning plus the
-  pre-extracted source material in `<wiki>/extractions/` is enough.
-- Pre-extraction (e.g., Datalab PDF conversion) happens out-of-band
-  by the user, before autoresearch starts. The loop consumes what's
-  already in the extractions directory.
-
-This invariant is why autoresearch is a terminal loop: it's the entire
-thing. No services, no servers, no cloud. Just a vault and a loop.
+- **First-time setup** → `wiki-setup`.
+- **Bulk import** → `wiki-ingest`.
+- **Quick audit** → `wiki-lint`, or just run the guard.
+- **One cross-linking pass** → `cross-linker` directly.
 
 ## See Also
 
-- `.skills/wiki-ingest/SKILL.md` — bulk ingestion of source documents.
-- `.skills/cross-linker/SKILL.md` — insert missing wikilinks between
-  related pages.
-- `.skills/tag-taxonomy/SKILL.md` — enforce controlled tag vocabulary.
+- `.skills/cross-linker/SKILL.md` — intra-wiki wikilink discovery.
+- `.skills/tag-taxonomy/SKILL.md` — controlled tag vocabulary.
 - `.skills/wiki-lint/SKILL.md` — structural audit.
 - `.skills/wiki-status/SKILL.md` — current state + delta insights.
-- `.sisyphus/plans/enterprise-refactor.md` — the plan that formalized
-  this skill; refer to §Phase 1 for the skill's full rationale.

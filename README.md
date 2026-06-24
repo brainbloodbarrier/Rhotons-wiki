@@ -194,7 +194,7 @@ Skill-based framework. AI agents read `.skills/` to operate the wiki. No scripts
 3. **Canvases** for visual decision trees before cases
 4. **Flashcards** to Anki for spaced repetition
 5. **Viva questions** with a study partner for oral exam prep
-6. **Add your own cases** via the `ncx-bridge` skill after surgeries
+6. **Grow the wiki** via the `/autoresearch` loop after surgeries
 
 ---
 

@@ -13,7 +13,6 @@
 #   WIKI_EXTRACTIONS   - relative path to extractions dir or ""
 #   WIKI_TOOLS         - relative path to tooling dir or ""
 #   WIKI_DOMAIN        - short domain descriptor
-#   WIKI_OUTPUT        - .autoresearch/<wiki-name> (created if missing)
 #
 # Exit codes (also sets status when sourced):
 #   0   - success
@@ -79,8 +78,6 @@ WIKI_RAW_SOURCE=$(jq -r ".wikis.\"$WIKI_NAME\".raw_source // empty" "$CONFIG")
 WIKI_EXTRACTIONS=$(jq -r ".wikis.\"$WIKI_NAME\".extractions // empty" "$CONFIG")
 WIKI_TOOLS=$(jq -r ".wikis.\"$WIKI_NAME\".tools // empty" "$CONFIG")
 WIKI_DOMAIN=$(jq -r ".wikis.\"$WIKI_NAME\".domain // empty" "$CONFIG")
-OUTPUT_DIR=$(jq -r '.output_dir // ".autoresearch"' "$CONFIG")
-WIKI_OUTPUT="$OUTPUT_DIR/$WIKI_NAME"
 
 # Validate vault exists (resolved from repo root).
 if [[ ! -d "$__RESOLVE_WIKI_ROOT/$WIKI_VAULT" ]]; then
@@ -88,7 +85,5 @@ if [[ ! -d "$__RESOLVE_WIKI_ROOT/$WIKI_VAULT" ]]; then
   return 66 2>/dev/null || exit 66
 fi
 
-mkdir -p "$__RESOLVE_WIKI_ROOT/$WIKI_OUTPUT"
-
 export WIKI_VAULT WIKI_SOURCES WIKI_RAW_SOURCE WIKI_EXTRACTIONS \
-       WIKI_TOOLS WIKI_DOMAIN WIKI_OUTPUT
+       WIKI_TOOLS WIKI_DOMAIN

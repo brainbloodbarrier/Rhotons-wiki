@@ -2,8 +2,6 @@
   "$schema": "./wikis.schema.json",
   "version": "1.0.0",
   "default": "rhoton",
-  "output_dir": ".autoresearch",
-  "crossmap": "crossmap.json",
   "wikis": {
     "rhoton": {
       "vault": "rhoton-wiki/vault",
