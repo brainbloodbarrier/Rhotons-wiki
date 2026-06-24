@@ -20,7 +20,7 @@ from pathlib import Path
 from pypdf import PdfReader
 from pypdf.generic import Destination
 
-REPO = Path("/Users/fax/obsidian-wiki")
+REPO = Path(__file__).resolve().parents[2].parent
 PDF = (
     REPO / "Rhoton - Cranial Anatomy and Surgical Approaches (2023) [neuroanatomia].pdf"
 )

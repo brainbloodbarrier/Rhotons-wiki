@@ -137,13 +137,9 @@ list_pages() {
 }
 
 # Obsidian wikilink resolution is case-insensitive and treats spaces
-# interchangeably with hyphens. Normalize basenames to a canonical key
-# (lowercase, spaces→hyphens) to match that behavior.
-normalize_target() {
-  printf '%s' "$1" \
-    | tr '[:upper:]' '[:lower:]' \
-    | sed 's/\\$//; s/ /-/g'
-}
+# interchangeably with hyphens. normalize_target (from constants.sh, sourced
+# above) maps basenames to a canonical key (lowercase, spaces→hyphens) to
+# match that behavior.
 
 declare -A PAGE_BASENAMES=()
 while IFS= read -r rel; do

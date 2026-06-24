@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Rhoton Neuroanatomy Wiki
 
-*This index is automatically maintained. Last updated: 2026-04-12*
+*This index is automatically maintained. Last updated: 2026-06-24*
 
 ## Concepts
 

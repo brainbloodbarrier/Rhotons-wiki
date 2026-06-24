@@ -21,7 +21,7 @@ from pathlib import Path
 import requests
 from dotenv import dotenv_values
 
-REPO = Path("/Users/fax/obsidian-wiki")
+REPO = Path(__file__).resolve().parents[2].parent
 ENV = REPO / ".env"
 PDF = (
     REPO / "Rhoton - Cranial Anatomy and Surgical Approaches (2023) [neuroanatomia].pdf"

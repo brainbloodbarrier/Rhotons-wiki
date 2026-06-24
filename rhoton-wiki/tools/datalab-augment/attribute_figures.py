@@ -18,11 +18,11 @@ rhoton-wiki/extractions/datalab/.
 from __future__ import annotations
 
 import json
-import os
 import re
 import sys
-from html.parser import HTMLParser
 from pathlib import Path
+
+from _shared import atomic_write_json, html_to_text, parse_frontmatter
 
 # --------------------------------------------------------------------------- #
 # Constants
@@ -64,114 +64,12 @@ HIGH_THRESHOLD = 0.6
 MEDIUM_THRESHOLD = 0.3
 LOW_THRESHOLD = 0.1
 
-FRONTMATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*\n", re.DOTALL)
 TOKEN_RE = re.compile(r"[a-z0-9]+")
-
-
-# --------------------------------------------------------------------------- #
-# HTML helpers
-# --------------------------------------------------------------------------- #
-
-
-class _TextExtractor(HTMLParser):
-    """Strip tags, collect text content, and harvest img alt attributes.
-
-    Picture/Figure blocks in Datalab's json-pass output embed the most
-    informative caption material in ``<img alt="...">`` rather than inline
-    text, so we pull those attributes out as if they were regular text.
-    """
-
-    def __init__(self) -> None:
-        super().__init__()
-        self.parts: list[str] = []
-
-    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        if tag == "img":
-            for key, value in attrs:
-                if key == "alt" and value:
-                    self.parts.append(value)
-
-    def handle_startendtag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        self.handle_starttag(tag, attrs)
-
-    def handle_data(self, data: str) -> None:
-        self.parts.append(data)
-
-    def text(self) -> str:
-        return " ".join(" ".join(self.parts).split())
-
-
-def html_to_text(html: str | None) -> str:
-    if not html:
-        return ""
-    parser = _TextExtractor()
-    try:
-        parser.feed(html)
-        parser.close()
-    except Exception:  # noqa: BLE001 — malformed HTML shouldn't crash the run
-        return re.sub(r"<[^>]+>", " ", html).strip()
-    return parser.text()
 
 
 # --------------------------------------------------------------------------- #
 # Frontmatter / vault loader
 # --------------------------------------------------------------------------- #
-
-
-def parse_frontmatter(content: str) -> dict | None:
-    m = FRONTMATTER_RE.match(content)
-    if not m:
-        return None
-    return _flat_yaml_fields(m.group(1))
-
-
-def _flat_yaml_fields(block: str) -> dict:
-    fields: dict[str, object] = {}
-    current_key: str | None = None
-    current_list: list[str] | None = None
-
-    def is_top_level(line: str) -> bool:
-        if not line or line[0] in (" ", "\t"):
-            return False
-        return ":" in line
-
-    for raw in block.split("\n"):
-        line = raw.rstrip()
-        if current_list is not None:
-            stripped = line.lstrip()
-            if stripped.startswith("- "):
-                current_list.append(_strip_yaml_value(stripped[2:]))
-                continue
-            if stripped == "-":
-                continue
-            if not line.strip():
-                continue
-            if is_top_level(line):
-                fields[current_key] = current_list  # type: ignore[index]
-                current_key = None
-                current_list = None
-            else:
-                continue
-        if is_top_level(line):
-            key, _, value = line.partition(":")
-            key = key.strip()
-            value = value.strip()
-            if value == "":
-                current_key = key
-                current_list = []
-            else:
-                fields[key] = _strip_yaml_value(value)
-
-    if current_key is not None and current_list is not None:
-        fields[current_key] = current_list
-    return fields
-
-
-def _strip_yaml_value(value: str) -> str:
-    v = value.strip()
-    if len(v) >= 2 and v[0] == v[-1] and v[0] in ('"', "'"):
-        return v[1:-1]
-    return v
 
 
 def tokenize(text: str) -> set[str]:
@@ -495,15 +393,6 @@ def process_chapter(
 # --------------------------------------------------------------------------- #
 # Main
 # --------------------------------------------------------------------------- #
-
-
-def atomic_write_json(path: Path, data: object) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    tmp = path.with_suffix(path.suffix + ".tmp")
-    with tmp.open("w") as fh:
-        json.dump(data, fh, indent=2, sort_keys=True)
-        fh.write("\n")
-    os.rename(tmp, path)
 
 
 def main() -> int:

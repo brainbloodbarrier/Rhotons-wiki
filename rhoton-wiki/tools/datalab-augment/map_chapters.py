@@ -24,10 +24,11 @@ rhoton-wiki/extractions/datalab/. It never modifies those trees.
 from __future__ import annotations
 
 import json
-import os
 import re
 import sys
 from pathlib import Path
+
+from _shared import atomic_write_json, html_to_text, parse_frontmatter
 
 # --------------------------------------------------------------------------- #
 # Constants
@@ -73,9 +74,6 @@ GAP_THRESHOLD = 5  # chapters with < this many mapped pages are flagged as gaps
 # handled uniformly.
 CITATION_RE = re.compile(r"Ch\.\s*([0-9][0-9,\s\-\u2013]*)")
 
-# YAML frontmatter fence: ``---\n...\n---``.
-FRONTMATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*\n", re.DOTALL)
-
 
 # --------------------------------------------------------------------------- #
 # Helpers
@@ -99,71 +97,6 @@ def load_canonical_chapter_ids() -> list[str]:
         print("ERROR: no chapter_ids parsed from page-ranges.json", file=sys.stderr)
         sys.exit(1)
     return chapter_ids
-
-
-def parse_frontmatter(content: str) -> dict | None:
-    """Extract the raw YAML block from a markdown file or None."""
-    m = FRONTMATTER_RE.match(content)
-    if not m:
-        return None
-    return _flat_yaml_fields(m.group(1))
-
-
-def _flat_yaml_fields(block: str) -> dict:
-    """Very small YAML-lite parser: top-level ``key: value`` and list fields.
-
-    Only covers what vault pages use — scalar values and multi-line list
-    fields where each line starts with ``-``. We don't need real YAML here.
-    """
-    fields: dict[str, object] = {}
-    current_key: str | None = None
-    current_list: list[str] | None = None
-
-    def is_top_level(line: str) -> bool:
-        if not line or line[0] in (" ", "\t"):
-            return False
-        return ":" in line
-
-    for raw in block.split("\n"):
-        line = raw.rstrip()
-        if current_list is not None:
-            stripped = line.lstrip()
-            if stripped.startswith("- "):
-                current_list.append(_strip_yaml_value(stripped[2:]))
-                continue
-            if stripped.startswith("-") and len(stripped) == 1:
-                continue
-            if not line.strip():
-                continue
-            if is_top_level(line):
-                fields[current_key] = current_list  # type: ignore[index]
-                current_key = None
-                current_list = None
-            else:
-                # Indented continuation of something unusual; skip.
-                continue
-        if is_top_level(line):
-            key, _, value = line.partition(":")
-            key = key.strip()
-            value = value.strip()
-            if value == "":
-                # Could be start of list or nested scalar.
-                current_key = key
-                current_list = []
-            else:
-                fields[key] = _strip_yaml_value(value)
-
-    if current_key is not None and current_list is not None:
-        fields[current_key] = current_list
-    return fields
-
-
-def _strip_yaml_value(value: str) -> str:
-    """Strip wrapping quotes and trailing whitespace from a YAML scalar."""
-    v = value.strip()
-    if len(v) >= 2 and v[0] == v[-1] and v[0] in ('"', "'"):
-        return v[1:-1]
-    return v
 
 
 def extract_chapter_numbers(citation_text: str) -> tuple[list[int], bool]:
@@ -258,11 +191,6 @@ def slugify(text: str) -> str:
     return text
 
 
-def strip_html(html: str) -> str:
-    """Strip HTML tags for slugifying section headers from chapter.json."""
-    return re.sub(r"<[^>]+>", "", html).strip()
-
-
 def candidate_new_pages_for(chapter_id: str) -> list[str]:
     """Walk the chapter's json-pass block tree and collect top-10 unique
     section-header slugs as candidate new page names."""
@@ -290,7 +218,7 @@ def candidate_new_pages_for(chapter_id: str) -> list[str]:
             if leaf.get("block_type") != "SectionHeader":
                 continue
             raw = leaf.get("html") or leaf.get("markdown") or ""
-            text = strip_html(raw)
+            text = html_to_text(raw)
             if not text:
                 continue
             slug = slugify(text)
@@ -301,16 +229,6 @@ def candidate_new_pages_for(chapter_id: str) -> list[str]:
             if len(slugs) == 10:
                 return slugs
     return slugs
-
-
-def atomic_write_json(path: Path, data: object) -> None:
-    """Write JSON via *.tmp then os.rename for atomicity."""
-    path.parent.mkdir(parents=True, exist_ok=True)
-    tmp = path.with_suffix(path.suffix + ".tmp")
-    with tmp.open("w") as fh:
-        json.dump(data, fh, indent=2, sort_keys=True)
-        fh.write("\n")
-    os.rename(tmp, path)
 
 
 # --------------------------------------------------------------------------- #

@@ -13,16 +13,15 @@ Pipeline that augments the curated Rhoton Wiki vault at `rhoton-wiki/vault/` wit
 | E — apply | `llm_merge.py apply` | dry-run/ (approved) | vault/*.md + per-chapter commits | free |
 | F — validate | `validate.py` | vault/ | extractions/datalab-augment/final-report.md | free |
 
-## Usage (once all phases land)
+## Usage
 
     python3 -m venv .venv
     .venv/bin/pip install -r requirements.txt
-    .venv/bin/python augment.py map       # Phase A — free
-    .venv/bin/python augment.py figures   # Phase B — free
-    AUGMENT_BUDGET_USD=100 .venv/bin/python augment.py dry-run  # Phase C
-    # (manual review + append MERGE APPROVED)
-    .venv/bin/python augment.py apply     # Phase E
-    .venv/bin/python augment.py validate  # Phase F
+    .venv/bin/python map_chapters.py        # Phase A — chapter mapping (free)
+    .venv/bin/python attribute_figures.py   # Phase A — figure attribution (free)
+    .venv/bin/python stage_figures.py       # Phase B — figure staging (free)
+
+Phases C–F (`llm_merge.py`, `validate.py`) are not yet implemented.
 
 ## Safety rails
 
@@ -33,5 +32,3 @@ Pipeline that augments the curated Rhoton Wiki vault at `rhoton-wiki/vault/` wit
 - Hard budget cap via AUGMENT_BUDGET_USD env
 - Pre-submit projection, halt on overrun
 - Rollback: `git checkout main`
-
-See `/Users/fax/obsidian-wiki/~/.claude/plans/humble-squishing-mitten.md` for the full plan.

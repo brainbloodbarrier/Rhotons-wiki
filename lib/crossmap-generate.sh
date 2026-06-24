@@ -48,12 +48,10 @@ if [[ ! -f "$CONFIG" ]]; then
   exit 66
 fi
 
-# Normalize a basename the same way the guard does (lib/autoresearch-guard.sh
-# normalize_target — lowercase + spaces→hyphens + strip trailing backslash).
-# Keep this in sync with guard:139-143.
-normalize_target() {
-  printf '%s' "$1" | tr '[:upper:]' '[:lower:]' | sed 's/\\$//; s/ /-/g'
-}
+# Normalize a basename to its canonical key — shared with the guard and the
+# cross-wiki migrator. Single source of truth: lib/constants.sh.
+# shellcheck disable=SC1091
+source "$SCRIPT_DIR/constants.sh"
 
 # Accumulate pages_index across all wikis.
 PAGES_JSON="{}"

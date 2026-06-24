@@ -21,6 +21,8 @@ import sys
 from pathlib import Path
 from typing import Any
 
+from _shared import atomic_write_json
+
 # Repo-relative paths. All paths below are resolved against REPO_ROOT, which is
 # the nearest ancestor directory containing a `rhoton-wiki/` folder. This keeps
 # the script usable whether it is invoked from the tool directory or the repo
@@ -99,15 +101,6 @@ def compute_destination_name(
     sha8: str,
 ) -> str:
     return f"{chapter_id}-p{source_page}-fig-{idx:03d}-{sha8}.jpg"
-
-
-def atomic_write_json(path: Path, payload: dict[str, Any]) -> None:
-    tmp = path.with_suffix(path.suffix + ".tmp")
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with tmp.open("w", encoding="utf-8") as fh:
-        json.dump(payload, fh, indent=2, sort_keys=True)
-        fh.write("\n")
-    os.rename(tmp, path)
 
 
 def copy_and_verify(source: Path, destination: Path, source_sha: str) -> None:

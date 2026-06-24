@@ -83,11 +83,11 @@ fi
 # shellcheck disable=SC1091
 source "$SCRIPT_DIR/resolve-wiki.sh" "$WIKI_ARG"
 
-VAULT="$REPO_ROOT/$WIKI_VAULT"
+# normalize_target — canonical basename key, shared single source of truth.
+# shellcheck disable=SC1091
+source "$SCRIPT_DIR/constants.sh"
 
-normalize_target() {
-  printf '%s' "$1" | tr '[:upper:]' '[:lower:]' | sed 's/\\$//; s/ /-/g'
-}
+VAULT="$REPO_ROOT/$WIKI_VAULT"
 
 list_pages() {
   find "$VAULT" -name "*.md" \

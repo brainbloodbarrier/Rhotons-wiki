@@ -1,6 +1,5 @@
 {
   "permissions": {
-    "defaultMode": "bypassPermissions",
     "allow": [
       "Read(//Users/fax/.claude/**)",
       "Bash(chmod +x lib/autoresearch-guard.sh)",
@@ -13,7 +12,8 @@
       "Read(//private/tmp/**)",
       "Bash(chmod +x lib/guard-bootstrap-allowlist.sh)",
       "Bash(lib/guard-bootstrap-allowlist.sh)"
-    ]
+    ],
+    "defaultMode": "bypassPermissions"
   },
   "hooks": {
     "PostToolUse": [
@@ -27,5 +27,6 @@
         ]
       }
     ]
-  }
+  },
+  "prefersReducedMotion": true
 }
