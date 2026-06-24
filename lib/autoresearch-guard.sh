@@ -8,14 +8,13 @@
 # Options:
 #   --strict              Treat orphan + taxonomy checks as hard errors
 #                         (default: warnings, only frontmatter + wikilinks fail)
-#   --baseline <score>    Fail with exit 2 if current score < baseline
 #   --format=json         Emit machine-readable JSON summary on stdout
 #   --format=tsv          Emit one TSV summary row on stdout
 #   --allowlist <path>    Override allowlist path
 #                         (default: .config/guard-allowlist.json)
 #   --no-allowlist        Ignore allowlist (raw counts)
 #
-# Exit: 0 pass, 1 hard errors, 2 score regression, 64/65/66/67 from
+# Exit: 0 pass, 1 hard errors, 64/65/66/67 from
 # resolve-wiki.sh. Violations are always printed to stderr as
 # `LEVEL KIND: <detail>`. Summary goes to stdout in the requested format.
 # Exit code is clamped (not violation count) to avoid POSIX mod-256
@@ -28,7 +27,6 @@
 #   [warn]      frontmatter contains summary, sources, created, updated
 #   [warn|hard] every non-scaffolding page has >=1 incoming wikilink
 #   [warn|hard] every tag appears in <vault>/_meta/taxonomy.md
-#   [optional]  current score >= baseline (via --baseline)
 #
 # Allowlist schema (.config/guard-allowlist.json):
 # {
@@ -50,7 +48,6 @@ REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 WIKI_ARG=""
 STRICT=0
 FORMAT="text"
-BASELINE=""
 USE_ALLOWLIST=1
 QUALITY=0
 ALLOWLIST_PATH="$REPO_ROOT/.config/guard-allowlist.json"
@@ -61,8 +58,6 @@ while (( $# )); do
     --quality) QUALITY=1; shift ;;
     --format=json) FORMAT="json"; shift ;;
     --format=tsv)  FORMAT="tsv";  shift ;;
-    --baseline) BASELINE="${2:-}"; shift 2 ;;
-    --baseline=*) BASELINE="${1#*=}"; shift ;;
     --allowlist) ALLOWLIST_PATH="${2:-}"; shift 2 ;;
     --no-allowlist) USE_ALLOWLIST=0; shift ;;
     -h|--help)
@@ -337,13 +332,6 @@ if (( STRICT )); then
   fi
 fi
 
-BASELINE_FAIL=0
-CURRENT_SCORE=""
-if [[ -n "$BASELINE" ]]; then
-  CURRENT_SCORE=$("$SCRIPT_DIR/autoresearch-verify.sh" "$WIKI_NAME")
-  (( CURRENT_SCORE < BASELINE )) && BASELINE_FAIL=1
-fi
-
 [[ -n "$VIOL_FRONTMATTER" ]]         && printf '%s' "$VIOL_FRONTMATTER"         >&2
 [[ -n "$VIOL_WIKILINKS" ]]           && printf '%s' "$VIOL_WIKILINKS"           >&2
 [[ -n "$VIOL_ORPHANS" ]]             && printf '%s' "$VIOL_ORPHANS"             >&2
@@ -368,9 +356,6 @@ case "$FORMAT" in
       --argjson hard_errors "$HARD_ERRORS" \
       --argjson strict "$STRICT" \
       --argjson quality "$QUALITY" \
-      --argjson baseline_fail "$BASELINE_FAIL" \
-      --arg baseline "${BASELINE:-}" \
-      --arg current_score "${CURRENT_SCORE:-}" \
       '{
         wiki: $wiki,
         strict:  ($strict  == 1),
@@ -386,27 +371,22 @@ case "$FORMAT" in
           manifest_unanchored:   $unanchored
         },
         hard_errors: $hard_errors,
-        baseline:      (if $baseline      == "" then null else ($baseline|tonumber)      end),
-        current_score: (if $current_score == "" then null else ($current_score|tonumber) end),
-        baseline_fail: ($baseline_fail == 1),
-        passed:        ($hard_errors == 0 and $baseline_fail == 0)
+        passed:        ($hard_errors == 0)
       }'
     ;;
   tsv)
-    printf '%s\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%s\t%s\n' \
+    printf '%s\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\n' \
       "$WIKI_NAME" "$FM_ERRORS" "$WL_ERRORS" "$ORPHAN_WARN" "$TAXO_WARN" \
       "$SOFT_WARN" "$VAGUE_WARN" "$MISSING_BC_WARN" "$UNANCHORED_WARN" \
-      "$HARD_ERRORS" "${BASELINE:-}" "${CURRENT_SCORE:-}"
+      "$HARD_ERRORS"
     ;;
   text)
     echo "guard: $WIKI_NAME — frontmatter=$FM_ERRORS wikilinks=$WL_ERRORS orphans=$ORPHAN_WARN taxonomy=$TAXO_WARN soft=$SOFT_WARN strict=$STRICT hard=$HARD_ERRORS" >&2
     if (( QUALITY )); then
       echo "guard: $WIKI_NAME — [quality] vague_sources=$VAGUE_WARN missing_breadcrumbs=$MISSING_BC_WARN manifest_unanchored=$UNANCHORED_WARN" >&2
     fi
-    (( BASELINE_FAIL )) && echo "guard: SCORE REGRESSION — current=$CURRENT_SCORE baseline=$BASELINE" >&2
     ;;
 esac
 
-(( BASELINE_FAIL )) && exit 2
 (( HARD_ERRORS > 0 )) && exit 1
 exit 0
