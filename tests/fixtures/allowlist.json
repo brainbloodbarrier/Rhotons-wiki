@@ -1,0 +1,9 @@
+{
+  "testwiki": {
+    "missing_frontmatter": ["no-frontmatter.md"],
+    "broken_wikilinks": ["dangler.md -> [[does-not-exist]]"],
+    "orphans": ["orphan.md"],
+    "taxonomy_violations": ["bad-tag.md -> nonexistent-tag"],
+    "vague_sources": ["vague-source.md"]
+  }
+}
