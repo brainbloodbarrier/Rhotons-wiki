@@ -1,0 +1,7 @@
+pytest>=7.0
+python-dotenv>=1.0
+pypdf>=4.0
+requests>=2.28
+# pypdf's crypto provider imports the system `cryptography` rust binding,
+# which needs _cffi_backend present; install cffi so pypdf imports cleanly.
+cffi>=1.15

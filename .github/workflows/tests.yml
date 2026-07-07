@@ -31,3 +31,31 @@ jobs:
           sudo apt-get install -y bats jq
       - name: run bats suite
         run: tests/run-bats.sh
+
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: install test dependencies
+        run: pip install -r tests/python/requirements.txt
+      - name: run pytest suite
+        run: python -m pytest tests/python -q
+
+  # Non-blocking canary: run the guard against the REAL vaults so drift in
+  # live wiki content is visible on every PR without failing the build.
+  guard-canary:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - name: run guard on all registered wikis
+        run: |
+          sudo apt-get update && sudo apt-get install -y jq
+          for wiki in $(jq -r '.wikis | keys[]' .config/wikis.json); do
+            echo "::group::guard $wiki"
+            lib/autoresearch-guard.sh "$wiki" --format=json || true
+            echo "::endgroup::"
+          done

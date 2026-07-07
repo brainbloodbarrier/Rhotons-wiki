@@ -137,7 +137,10 @@ fi
 
 PASS=1
 for wiki in "${WIKIS[@]}"; do
-  result=$("$SCRIPT_DIR/autoresearch-guard.sh" "$wiki" "${VERIFY_ARGS[@]}" 2>/dev/null)
+  # `|| true` keeps set -e from aborting here when the guard still fails —
+  # the JSON on stdout is captured either way, and the FAILED branch below
+  # is the intended reporting path for that case.
+  result=$("$SCRIPT_DIR/autoresearch-guard.sh" "$wiki" "${VERIFY_ARGS[@]}" 2>/dev/null) || true
   passed=$(jq -r '.passed' <<< "$result")
   hard=$(jq -r '.hard_errors' <<< "$result")
   echo "verify: $wiki passed=$passed hard_errors=$hard" >&2
