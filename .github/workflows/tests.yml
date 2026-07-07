@@ -1,0 +1,33 @@
+name: tests
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  shellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: shellcheck first-party shell scripts
+        # SC2034: variables kept for backward-compat consumers (documented
+        #         in-source); SC2088: intentional literal "~" display strings
+        #         in setup.sh output.
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y shellcheck
+          shellcheck -S warning --exclude=SC2034,SC2088 \
+            lib/*.sh .claude/hooks/*.sh setup.sh \
+            tests/run-bats.sh tests/bats/test_helper.bash
+
+  bats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: install bats-core and jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y bats jq
+      - name: run bats suite
+        run: tests/run-bats.sh
