@@ -25,8 +25,12 @@ make_sandbox() {
   local fixture="${1:-}"
   WIKI="${2:-testwiki}"
   SANDBOX="$BATS_TEST_TMPDIR/repo"
-  mkdir -p "$SANDBOX/.config" "$SANDBOX/$WIKI-wiki/vault"
-  cp -R "$TESTS_REPO_ROOT/lib" "$SANDBOX/lib"
+  # Tests may build more than one sandbox per test body — start clean so the
+  # second sandbox cannot inherit files from the first (or nest lib/lib).
+  cd "$BATS_TEST_TMPDIR" || return 1
+  rm -rf "$SANDBOX"
+  mkdir -p "$SANDBOX/.config" "$SANDBOX/$WIKI-wiki/vault" "$SANDBOX/lib"
+  cp -R "$TESTS_REPO_ROOT/lib/." "$SANDBOX/lib/"
   if [[ -n "$fixture" ]]; then
     cp -R "$FIXTURES/$fixture/." "$SANDBOX/$WIKI-wiki/vault/"
   fi
@@ -46,7 +50,7 @@ add_wiki() {
     cp -R "$FIXTURES/$fixture/." "$SANDBOX/$name-wiki/vault/"
   fi
   local tmp
-  tmp=$(mktemp)
+  tmp=$(mktemp "$BATS_TEST_TMPDIR/wikis.XXXXXX")
   jq --arg w "$name" --arg v "$name-wiki/vault" \
     '.wikis[$w] = {vault: $v, domain: "test"}' \
     "$SANDBOX/.config/wikis.json" > "$tmp"
