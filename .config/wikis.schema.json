@@ -20,16 +20,6 @@
       "type": "string",
       "description": "Name of the default wiki (must match a key in `wikis`)."
     },
-    "output_dir": {
-      "type": "string",
-      "default": ".autoresearch",
-      "description": "Directory where per-wiki autoresearch output is written."
-    },
-    "crossmap": {
-      "type": "string",
-      "default": "crossmap.json",
-      "description": "Path to the cross-wiki bridge registry (Phase 7)."
-    },
     "wikis": {
       "type": "object",
       "minProperties": 1,

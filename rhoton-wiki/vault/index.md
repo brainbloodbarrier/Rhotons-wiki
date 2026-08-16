@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Rhoton Neuroanatomy Wiki
 
-*This index is automatically maintained. Last updated: 2026-06-24*
+*This index is automatically maintained. Last updated: 2026-04-12*
 
 ## Concepts
 
@@ -30,6 +30,8 @@ title: Wiki Index
 - [[dural-venous-sinuses]] — Sagittal, transverse, sigmoid, petrosal, confluence
 - [[thalamus]] — Central relay, thalamoperforating supply, choroidal fissure
 - [[basal-ganglia]] — Lenticulostriate territory, internal capsule, DBS targets
+- [[subthalamic-nucleus]] — STN, glutamatergic, indirect/hyperdirect pathway, primary DBS target for PD
+- [[globus-pallidus]] — GPe + GPi, basal-ganglia output, DBS target for dystonia (Vidailhet 2005)
 - [[hippocampus]] — Medial temporal lobe, choroidal fissure, epilepsy surgery
 - [[insula]] — Deep cortex, MCA territory, lenticulostriate perforators
 - [[corpus-callosum]] — Commissural fibers, pericallosal artery, transcallosal access

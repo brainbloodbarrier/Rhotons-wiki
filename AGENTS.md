@@ -26,58 +26,41 @@ One row per skill. Every row resolves to a real `.skills/<name>/SKILL.md` on dis
 | "audit" / "lint" / "find broken links" / "wiki health" | `.skills/wiki-lint/SKILL.md` |
 | "rebuild" / "start over" / "archive" / "restore" | `.skills/wiki-rebuild/SKILL.md` |
 | "link my pages" / "cross-reference" / "connect my wiki" | `.skills/cross-linker/SKILL.md` |
-| "cross-link wikis" / "bridge rhoton to ncx" / "populate crossmap" / "connect my wikis" | `.skills/cross-wiki-linker/SKILL.md` |
 | "fix my tags" / "normalize tags" / "tag audit" | `.skills/tag-taxonomy/SKILL.md` |
 | "update wiki" / "sync to wiki" / "save this to my wiki" | `.skills/wiki-update/SKILL.md` |
 | "run autoresearch" / "start a campaign" / `/autoresearch` | `.skills/autoresearch/SKILL.md` |
 | "quiz me" / "flashcards" / "viva mode" / "anki export" | `.skills/quiz-mode/SKILL.md` |
-| "ncx bridge" / "link ncx cases to rhoton anatomy" | `.skills/ncx-bridge/SKILL.md` |
 | "create a new skill" | `.skills/skill-creator/SKILL.md` |
 | "export wiki" / "graphml" / "neo4j" / "visualize wiki" | `.skills/wiki-export/SKILL.md` |
 | "llm wiki pattern" / architecture reference | `.skills/llm-wiki/SKILL.md` |
 
 ## Autoresearch System
 
-The wiki grows iteratively via the `/autoresearch` local terminal loop. Every iteration: pick one action (ingest / augment / cross-link / tag-audit), verify score, run guard, commit-or-discard. Canonical spec: `.skills/autoresearch/SKILL.md`.
+The wiki grows iteratively via the `/autoresearch` local terminal loop. Every iteration: pick one action (create / augment / cross-link / normalize-taxonomy / audit-fix), run the guard, **keep iff it improves a quality dimension without regressing another and the guard's hard checks pass; else discard**. No score, no TSV — git history is the audit log. Canonical spec: `.skills/autoresearch/SKILL.md`.
 
 ### Tooling (`lib/`)
 
 | Script | Usage | Purpose |
 |---|---|---|
 | `lib/resolve-wiki.sh` | `source lib/resolve-wiki.sh <wiki>` | Registry → env vars |
-| `lib/autoresearch-verify.sh` | `lib/autoresearch-verify.sh <wiki>` | Emits integer score on stdout |
-| `lib/autoresearch-guard.sh` | `lib/autoresearch-guard.sh <wiki>` | Exit 0 on pass, 1 on violations |
+| `lib/autoresearch-guard.sh` | `lib/autoresearch-guard.sh <wiki> --format=json` | Structural lint + quality metric; exit 0 pass / 1 hard errors |
+| `lib/guard-bootstrap-allowlist.sh` | `lib/guard-bootstrap-allowlist.sh <wiki> --merge` | Capture current soft violations into the allowlist |
 
-### Score Function
+Run the guard via `/opt/homebrew/bin/bash` (needs bash ≥ 4; macOS `/bin/bash` is 3.2).
 
-Two formulas are supported. **v1 is the default** for historic compatibility — every `.autoresearch/<wiki>/results.tsv` baseline was computed under v1, so switching would invalidate the delta history.
+### Quality Metric
 
-**v1 (default, `lib/autoresearch-verify.sh <wiki>`):**
-```
-score = (pages * 10) + (lines_with_wikilinks * 2) + (words / 100)
-```
-Note: `lines_with_wikilinks` counts lines containing `[[`, so a page with 10 occurrences of `[[X]]` on 10 different lines counts 10 — repetition inflates the score.
+The guard emits three independent quality dimensions in `--format=json | jq .quality` — there is no single score (a scalar hid regressions: the old v1 went *up* on a broken link and *down* when links were fixed):
 
-**v2 (opt-in, `lib/autoresearch-verify.sh <wiki> --v2`):**
-```
-score = (pages * 10)
-      + (typed_breadcrumbs * 5)         # frontmatter relation fields
-      + (unique_wikilink_targets * 2)   # deduped per page — no repetition inflation
-      + (specific_source_citations * 3) # sources entries with digits or ≥40 chars
-      + (words / 100)
-```
+- **coverage** — `pages`, `orphan_pages`, `orphan_ratio`.
+- **links_resolve** — `total_links`, `broken`, `resolve_ratio` (1.0 = every `[[link]]` resolves).
+- **breadcrumb_density** — `with_breadcrumb` / `eligible_pages` (non-scaffolding pages with ≥1 typed relation).
 
-Counted across every `.md` in the vault except `index.md`, `log.md`, and files under `.obsidian/` or `.smart-env/`.
-
-**Migrating v1 → v2:** do not rewrite historic TSV rows. Start a new campaign column or a new TSV; cross-reference baselines in the campaign log. A v1 score and a v2 score are not comparable.
-
-### Result TSVs
-
-Per-wiki iteration log lives at `.autoresearch/<wiki>/results.tsv` (gitignored except `.gitkeep`). Columns: `iteration | commit | metric | delta | guard | guard_code | status | description`. `guard_code` is the exit-code-like signal from the guard script (`"0"` for pass, `"-"` when the run pre-dated the schema).
+The keep/discard gate compares each dimension before vs after an iteration. See the autoresearch skill for the full table.
 
 ### Loop Invariant
 
-Local only. No network calls inside the loop. The agent's own reasoning is the generator; guards are the discriminator.
+Local only. No network calls inside the loop. The agent's own reasoning is the generator; the guard is the discriminator.
 
 ## Key Rules
 
@@ -135,20 +118,9 @@ Three-layer pattern (full reference: `.skills/llm-wiki/SKILL.md`):
 
 > **NCX vault:** consult `ncx-wiki/vault/_meta/organization-policy.md` before creating a new folder or moving pages. Defines thresholds (5+ pages for a new folder; 15+ with an 8+ cluster for a split) and the decision flow for borderline pages.
 
-### Cross-Vault References
+### Wikis Are Independent
 
-Each vault is **self-contained**: every `[[wikilink]]` must resolve to a `.md` in the same vault. Cross-vault references use one of two sanctioned forms, never bare wikilinks:
-
-| Form | Obsidian renders | Guard validates | Use when |
-|---|---|---|---|
-| `[slug](../<other>-wiki/vault/<path>.md)` | yes, resolves natively in monorepo workspace | yes — errors if target file missing | default for cross-vault references in prose |
-| `[[<other>:slug]]` | no, renders as unresolved wikilink | yes — WARN if target exists, ERROR if not | rare; use only when textual consistency with sibling `[[...]]` links matters more than rendering |
-
-Anti-pattern: a bare `[[corpus-callosum]]` in NCX pointing at a rhoton page. The guard rejects this even if `corpus-callosum.md` exists in rhoton, because Obsidian in the NCX vault shows it as broken. Use the markdown form.
-
-Auto-migration: `lib/crosswiki-migrate.sh <wiki> --apply` converts existing bare wikilinks to markdown form when `crossmap.json → pages_index` maps the basename to exactly one other vault. Idempotent.
-
-`crossmap.json → bridges[]` is a separate, curated layer for semantic relations (maintained by the `cross-wiki-linker` skill); `pages_index` is the mechanical lookup table the guard and migrator use.
+The three vaults are **separate, self-contained wikis** — there are **no cross-vault references**. Every `[[wikilink]]` must resolve to a `.md` in the **same** vault; the guard rejects any link that doesn't. If a page needs a fact that lives in another wiki, restate the fact in the page — do not link across vaults. (Historic cross-vault markdown links are dead weight; strip them to plain text as an audit-fix.)
 
 ### Semantic Relations (Breadcrumbs)
 
@@ -191,5 +163,4 @@ Preconditions: `jq` ≥ 1.6 on host (multi-wiki registry parsing). The script ab
 
 - `README.md` — human-facing project overview.
 - `SETUP.md` — onboarding walkthrough.
-- `.sisyphus/plans/enterprise-refactor.md` — refactor history and phase ledger.
 - `.skills/llm-wiki/SKILL.md` — Karpathy LLM Wiki pattern, full theory.

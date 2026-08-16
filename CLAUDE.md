@@ -4,30 +4,29 @@ Agent-facing instructions live in **[AGENTS.md](./AGENTS.md)** at the repo root.
 
 ## Modo Autônomo — Overrides deste projeto
 
-Este projeto roda autoresearch loops de 100+ iterações. Regras específicas:
+Este projeto roda autoresearch loops longos. Regras específicas:
 
 - **Sem confirmação por iteração.** O loop roda até completar ou falhar 3x.
 - **Commits automáticos permitidos** em branches não-main durante autoresearch.
-- **Guard scripts rodam sem prompt:** `lib/autoresearch-guard.sh`, `lib/autoresearch-verify.sh`.
+- **Guard roda sem prompt:** `lib/autoresearch-guard.sh` (via `/opt/homebrew/bin/bash`).
 - **Bypass total de permissions** — configurado em `.claude/settings.local.json`.
 
 ### Reporting neste projeto
 
 Além dos triggers globais (ver `~/CLAUDE.md`), reportar também quando:
 
-- Score de autoresearch **caiu** entre iterações (regressão)
-- Guard script retornou exit 1 (violação de qualidade)
+- Guard retornou exit 1 (hard error estrutural — link quebrado / frontmatter)
+- Nenhuma dimensão de qualidade avançou em N iterações seguidas (tema exausto)
 - Manifest `.manifest.json` não pôde ser atualizado (conflito de estado)
 
 ## Contexto operacional
 
-- **Multi-wiki:** `rhoton`, `ncx`, `nsatlas`. Toda campanha deve declarar o wiki alvo. Registry em `.config/wikis.json`.
+- **Multi-wiki:** `rhoton`, `ncx`, `nsatlas` — **wikis independentes, sem links cross-wiki**. Toda campanha declara o wiki alvo. Registry em `.config/wikis.json`.
 - **Branch naming:** `autoresearch/<wiki>-campaign-N` (ver git log).
-- **Results log:** `.autoresearch/<wiki>/results.tsv` — append uma linha por iteração.
-- **Score formula:** `pages*10 + wikilinks*2 + words/100` (via `lib/autoresearch-verify.sh <wiki>`).
+- **Métrica de qualidade:** `lib/autoresearch-guard.sh <wiki> --format=json | jq .quality` → `coverage` / `links_resolve` / `breadcrumb_density`. Sem score escalar, sem TSV — git history é o log.
 
 ### Definição de "falha" (trigger dos 3x)
 
-- Guard script exit 1, OU
-- Delta de score negativo, OU
+- Guard exit 1 (hard error), OU
+- Nenhuma dimensão de qualidade melhorou (ou alguma regrediu), OU
 - `.manifest.json` não atualizável.
